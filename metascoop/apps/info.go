@@ -52,22 +52,33 @@ func GenerateReleaseFilename(appName string, tagName string) string {
 	}, cleaned)
 }
 
+const MaxReleasesToProcess = 5
+
 func ListAllReleases(githubClient *github.Client, appRepoAuthor, appRepoName string) (allReleases []*github.RepositoryRelease, err error) {
-	var currentPage int = 1
-
-	for {
-		rels, _, ierr := githubClient.Repositories.ListReleases(context.Background(), appRepoAuthor, appRepoName, &github.ListOptions{
-			Page:    currentPage,
-			PerPage: 100,
-		})
-		if ierr != nil || len(rels) == 0 {
-			err = ierr
-			break
-		}
-
-		allReleases = append(allReleases, rels...)
-		currentPage++
-	}
-
-	return
+	rels, _, err := githubClient.Repositories.ListReleases(context.Background(), appRepoAuthor, appRepoName, &github.ListOptions{
+		Page:    1,
+		PerPage: MaxReleasesToProcess,
+	})
+	
+	return rels, err
 }
+
+// func ListAllReleases(githubClient *github.Client, appRepoAuthor, appRepoName string) (allReleases []*github.RepositoryRelease, err error) {
+// 	var currentPage int = 1
+//
+// 	for {
+// 		rels, _, ierr := githubClient.Repositories.ListReleases(context.Background(), appRepoAuthor, appRepoName, &github.ListOptions{
+// 			Page:    currentPage,
+// 			PerPage: 100,
+// 		})
+// 		if ierr != nil || len(rels) == 0 {
+// 			err = ierr
+// 			break
+// 		}
+//
+// 		allReleases = append(allReleases, rels...)
+// 		currentPage++
+// 	}
+//
+// 	return
+// }
