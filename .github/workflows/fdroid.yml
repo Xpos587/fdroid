@@ -1,11 +1,25 @@
 name: Generate F-Droid repo
 
 on:
+  # schedule:
+  #   - cron: "35 0 * * *"
   repository_dispatch:
     types: [fdroid-update]
   push:
     branches: [main]
   workflow_dispatch:
+    inputs:
+      force_update:
+        type: boolean
+        description: "Force update/build"
+        default: false
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
 
 jobs:
   apps:
@@ -57,6 +71,19 @@ jobs:
           REPO_KEYALIAS: ${{ secrets.REPO_KEYALIAS }}
           KEYSTOREPASS: ${{ secrets.KEYSTOREPASS }}
           KEYPASS: ${{ secrets.KEYPASS }}
+
+      - name: Initialize F-Droid repo if needed
+        run: |
+          if [ ! -f fdroid/repo/index-v1.json ]; then
+            echo "Initializing F-Droid repository"
+            cd fdroid
+
+            mkdir -p repo metadata
+
+            fdroid update --create-metadata --pretty || true
+
+            cd ..
+          fi
 
       - uses: actions/setup-go@v4
         name: Set up Go
