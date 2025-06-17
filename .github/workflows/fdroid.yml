@@ -34,6 +34,13 @@ jobs:
       - name: Create basic directory structure
         run: mkdir -p fdroid/repo
 
+      - name: Test GitHub API access
+        run: |
+          echo "Testing authenticated GitHub API access..."
+          curl -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+              -H "Accept: application/vnd.github.v3+json" \
+              https://api.github.com/rate_limit
+
       - name: Restore correct mtime
         run: |
           sudo apt install git-restore-mtime 
