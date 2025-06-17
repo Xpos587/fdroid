@@ -52,7 +52,7 @@ func GenerateReleaseFilename(appName string, tagName string) string {
 	}, cleaned)
 }
 
-const MaxReleasesToProcess = 5
+const MaxReleasesToProcess = 15
 
 func ListAllReleases(githubClient *github.Client, appRepoAuthor, appRepoName string) (allReleases []*github.RepositoryRelease, err error) {
 	rels, _, err := githubClient.Repositories.ListReleases(context.Background(), appRepoAuthor, appRepoName, &github.ListOptions{
