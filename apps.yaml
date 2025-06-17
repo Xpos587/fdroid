@@ -1,0 +1,49 @@
+wgtunnel:
+  git: https://github.com/wgtunnel/wgtunnel
+  name: "WG Tunnel"
+  description: |
+    An alternative VPN client app for WireGuard with additional features
+
+    <b>Features</b>
+
+    - Add tunnels via .conf file, zip, manual entry, or QR code
+    - Auto connect to VPN based on Wi-Fi SSID, ethernet, or mobile data
+    - Split tunneling by application with search
+    - WireGuard support for kernel and userspace modes
+    - Always-On VPN support
+    - Export tunnels to zip
+    - Quick tile support for VPN toggling
+    - Static shortcuts support for primary tunnel for automation integration
+    - Intent automation support for all tunnels
+    - Automatic service restart after reboot
+    - Battery preservation measures
+
+  # As described on https://f-droid.org/en/docs/Build_Metadata_Reference/#Categories,
+  # you can use any name here, but you should look at the existing categories first
+  categories:
+    - Connectivity
+    - Security
+
+v2rayng:
+  git: https://github.com/2dust/v2rayNG
+  name: "v2rayNG"
+  description: |
+    A V2Ray client for Android, support Xray core and v2fly core
+
+    <b>Features</b>
+
+    - Support for multiple protocols: V2Ray, Xray, Shadowsocks, Trojan, VMess, VLESS
+    - Advanced routing with geoip and geosite data
+    - Subscription support for automatic server updates
+    - Built-in speed test and latency measurement
+    - QR code scanning for easy server configuration
+    - Import/export configuration files
+    - Multiple proxy modes and routing rules
+    - Support for XTLS encryption
+    - Custom DNS settings
+    - Statistics and traffic monitoring
+    - Dark and light themes
+
+  categories:
+    - Connectivity
+    - Security
