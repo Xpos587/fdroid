@@ -1,0 +1,15 @@
+{
+  "repo": {
+    "timestamp": 0,
+    "version": 25,
+    "name": "Xpos-ify Repository",
+    "icon": "icon.png",
+    "address": "https://raw.githubusercontent.com/xpos587/fdroid/main/fdroid/repo",
+    "description": "This is a repository of apps to be used with F-Droid."
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": []
+}
