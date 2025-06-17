@@ -1,0 +1,46 @@
+No changelog found for 3.9.1
+
+SHA-256 fingerprints for the 4096-bit signing certificate:
+```sh
+5204d82e766e8aa14dcbb06dc70aebae2bdd812d4d6203cd521a8a685d7d3d80
+```
+
+To verify fingerprint:
+```sh
+apksigner verify --print-certs [path to APK file] | grep SHA-256
+```
+
+### Changelog
+### :sparkles: New Features
+- [`735e38e`](https://github.com/wgtunnel/wgtunnel/commit/735e38e989f1266c6c2f08f65759ca40181d3124) - add darker theme options *(commit by @zaneschepke)*
+- [`0c90b33`](https://github.com/wgtunnel/wgtunnel/commit/0c90b33813f7beaca30ac8f18dcf5e0de05e7dc9) - display Wi-Fi security type for Android 12 and greater *(commit by @zaneschepke)*
+- [`77aa2c3`](https://github.com/wgtunnel/wgtunnel/commit/77aa2c30d71b5d857040f2deae98b68651141097) - display qr for individual tunnels *(commit by @zaneschepke)*
+
+### :bug: Bug Fixes
+- [`5aa9145`](https://github.com/wgtunnel/wgtunnel/commit/5aa9145361c82811bc080e75abea9bdf3da88ee3) - single click in select mode *(commit by @zaneschepke)*
+- [`90698c2`](https://github.com/wgtunnel/wgtunnel/commit/90698c2b17e36a04264634c248ebc66b32db5a12) - select split tunnel apps should appear at top of list *(commit by @zaneschepke)*
+- [`e6671fd`](https://github.com/wgtunnel/wgtunnel/commit/e6671fd3b483d0ffacab44a020b09bdb95fb4e6c) - switching APs or Wi-Fi bands with same SSID bug *(commit by @zaneschepke)*
+- [`25fd31e`](https://github.com/wgtunnel/wgtunnel/commit/25fd31e25208b686fa6fbb1b02d49d53fbea27df) - tunnel lock *(PR #765 by @zaneschepke)*
+- [`07857a5`](https://github.com/wgtunnel/wgtunnel/commit/07857a53c21a59c7f7c00966624c84b031068f34) - regenerate icon to also trigger auth *(commit by @zaneschepke)*
+- [`2eb0ab0`](https://github.com/wgtunnel/wgtunnel/commit/2eb0ab0f19021ad8bc6a99d3f4835ca89caac15f) - vpn permission bug *(commit by @zaneschepke)*
+- [`7af53dc`](https://github.com/wgtunnel/wgtunnel/commit/7af53dcc18b5e981d72e8c76bf286748c6b61724) - skip ping job for static configured tunnels *(commit by @zaneschepke)*
+- [`e3e24b4`](https://github.com/wgtunnel/wgtunnel/commit/e3e24b4a06ceca4d6cb0c68e06387a096f84742e) - cleanup logs on update *(commit by @zaneschepke)*
+- [`044e6da`](https://github.com/wgtunnel/wgtunnel/commit/044e6da7f51da0610f0654721a44e9c57b8c9771) - tunnel connectivity bug *(PR #769 by @zaneschepke)*
+  - :arrow_lower_right: *fixes issue #756 opened by @mairj2345*
+
+### :recycle: Refactors
+- [`fe519be`](https://github.com/wgtunnel/wgtunnel/commit/fe519be5ccd08742feb133c8fa4314ab3a3866b9) - remove use cache setting *(commit by @zaneschepke)*
+
+### :wrench: Chores
+- [`282a752`](https://github.com/wgtunnel/wgtunnel/commit/282a7523899ea7cffecba6bc1d1f46ee4d80d219) - **deps**: bump roomVersion from 2.7.0 to 2.7.1 *(PR #745 by @dependabot[bot])*
+- [`76574e3`](https://github.com/wgtunnel/wgtunnel/commit/76574e3dd2dc48d096a73a5a8db557f0a42be5cc) - **deps**: bump androidx.work:work-runtime-ktx from 2.10.0 to 2.10.1 *(PR #746 by @dependabot[bot])*
+- [`53cd717`](https://github.com/wgtunnel/wgtunnel/commit/53cd7173403cf6eec3f1db7dde8c448e465e5237) - **deps**: bump ClementTsang/delete-tag-and-release from 0.3.1 to 0.4.0 *(PR #738 by @dependabot[bot])*
+- [`b493d83`](https://github.com/wgtunnel/wgtunnel/commit/b493d83730b7f18ef3311cff684e9262709976c1) - **deps**: bump androidx.compose:compose-bom from 2025.04.00 to 2025.04.01 *(PR #747 by @dependabot[bot])*
+- [`3435544`](https://github.com/wgtunnel/wgtunnel/commit/343554407a0f50386bb579c92d740043b59468b5) - **deps**: bump androidx.datastore:datastore-preferences from 1.1.4 to 1.1.5 *(PR #748 by @dependabot[bot])*
+- [`1935653`](https://github.com/wgtunnel/wgtunnel/commit/1935653309230ba30b4b703031d47abf69a40134) - **deps**: bump compose, datastore *(commit by @zaneschepke)*
+- [`2e984e8`](https://github.com/wgtunnel/wgtunnel/commit/2e984e8b6f5648d6e9790299335cb6c1ace29ff3) - **deps**: bump accompanist from 0.37.2 to 0.37.3 *(PR #762 by @dependabot[bot])*
+- [`babbab0`](https://github.com/wgtunnel/wgtunnel/commit/babbab051fd1ddc4ad15c92a72888ef499d18800) - **deps**: bump org.semver4j:semver4j from 5.6.0 to 5.7.0 *(PR #773 by @dependabot[bot])*
+- [`a5639cd`](https://github.com/wgtunnel/wgtunnel/commit/a5639cd129edf28cd937dd93ace3545b458888aa) - **deps**: bump com.google.devtools.ksp from 2.1.20-2.0.0 to 2.1.20-2.0.1 *(PR #774 by @dependabot[bot])*
+- [`ab0f67c`](https://github.com/wgtunnel/wgtunnel/commit/ab0f67c897299e5a291b70bcc4d57bae6d9af1d6) - **deps**: bump com.zaneschepke:wireguard-android from 1.2.16 to 1.3.0 *(PR #772 by @dependabot[bot])*
+- [`a05f117`](https://github.com/wgtunnel/wgtunnel/commit/a05f11739d7203074f525900974ef2b842017349) - bump version with notes *(commit by @zaneschepke)*
+

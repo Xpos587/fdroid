@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo icon="icon.png" name="Xpos587 Apps Repository" pubkey="3082036030820248a0030201020209009e269b918dee9eaa300d06092a864886f70d01010c0500305d310b300906035504061302525531193017060355040813105361696e742d5065746572736275726731193017060355040713105361696e742d50657465727362757267311830160603550403130f4d69636861656c20426f64617265763020170d3235303631373139323030365a180f32303532313130323139323030365a305d310b300906035504061302525531193017060355040813105361696e742d5065746572736275726731193017060355040713105361696e742d50657465727362757267311830160603550403130f4d69636861656c20426f646172657630820122300d06092a864886f70d01010105000382010f003082010a0282010100b5dd4c03b70a6aa72dba4cf7cef197aaeb8bd0e244fa01eec73a09c4488151f018ec657356d27516ae2008d08a85ebe1351c2025a88ee288f7a0767ba4b39c71a5946ed979d13a69af738638bebf548eab48f9970746944e9ffdae329ad93ae9b0f6f811033d6baf1063d453046de13902fccbd8a4145eb797fe25e7ab5e755decd8e8ccee185e21622f3d14a1f567c3ddd60dc8261d56c6fab1ef3b9dd75a508c20ba61fcb07a53646e0f8ce5b2dc849d7e4313f03ca285914d322f8c753b7f7c1159594d669f424c81f279099ca8178f727a5911b7769398c6b43b372463c946d95a545be1aa67db25c07f522e75c75d70ee6a323471f27302c60078be9d750203010001a321301f301d0603551d0e04160414d0c12e02cc8b7755887a8942591c00f6f9692b76300d06092a864886f70d01010c050003820101006dee597033b31ae7d32d7895ce51a3a5eb1b3887765ae02dfb8eebd44f340211a712859c42d8a8d9f3692cd86c3fc4e97fa047b1fea95ec3a3bc9accb42081cdb82062f033f5a4533432e5274b1dcab65bc66312455e2ea99f3cb9840e388dc0688aa8490e92ccd4d2b4658cc97511a51d1b828d8552268e3fe5bc06c7f640f2ef6731b31bb778cca5fb1fef1ba034040f923a7ab8096f934d19f0a9db05c8af66a56070a27459707b5a591f8527a5171cacab46d545fec02a1f6764370a0ee7e88a669e1d47e65e689c19b8b4e61cc1ea1c5727007373962c2b97794814af1f422efa33b58639b613b74bbd62fc6a21505aa69fa34177b2b25d26d390e75b60" timestamp="1750193682" url="https://raw.githubusercontent.com/Xpos587/fdroid/main/fdroid/repo" version="20002">
+		<description>Curated collection of high-quality Android applications. Features official binaries from trusted developers, including privacy tools, communication apps, open-source alternatives, and useful utilities. Covers both FOSS and proprietary applications for enhanced mobile experience.
+</description>
+	</repo>
+	<application id="su.happ.proxyutility">
+		<id>su.happ.proxyutility</id>
+		<added>2025-06-17</added>
+		<lastupdated>2025-06-17</lastupdated>
+		<name>Happ</name>
+		<summary>A proxy management app powered by Xray core with support for multiple protocols.</summary>
+		<desc>Happ is a mobile application designed for convenient proxy server management, powered by the robust Xray core. The app features an intuitive interface and a range of useful functions, making it an essential tool for managing connections.
+
+&lt;b&gt;Features&lt;/b&gt;
+
+- Configuration of proxy servers based on flexible routing rules
+- Support for multiple modern protocols including VLESS (Reality), VMess, Trojan, Shadowsocks, Socks
+- Private by design - no data collection, information stays on your device
+- Flexible routing rules for advanced proxy management
+- Intuitive interface for easy connection management
+- Powered by robust Xray core technology
+
+&lt;b&gt;Important Note&lt;/b&gt;
+
+Happ does not provide VPN services for purchase. Users are responsible for acquiring or setting up their own servers. Please comply with applicable laws in your jurisdiction when utilizing the app.
+</desc>
+		<license>PublicDomain</license>
+		<categories>Connectivity,Security</categories>
+		<category>Connectivity</category>
+		<web>https://www.happ.su/</web>
+		<source>https://github.com/Happ-proxy/happ-android</source>
+		<tracker>https://github.com/Happ-proxy/happ-android/issues</tracker>
+		<author>Happ-proxy</author>
+		<marketversion>2.8.0</marketversion>
+		<marketvercode>1193</marketvercode>
+		<antifeatures>UpstreamNonFree</antifeatures>
+		<package>
+			<version>2.8.0</version>
+			<versioncode>1193</versioncode>
+			<apkname>happ_2.8.0.apk</apkname>
+			<hash type="sha256">fe10da8a6586e6b28c494208633e9e12e2297f40744b63fa38fb0172cb0779e5</hash>
+			<size>40181776</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>2609392acc5f151cfd6629301e57c071</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,su.happ.proxyutility.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>2.7.1</version>
+			<versioncode>1191</versioncode>
+			<apkname>happ_2.7.1.apk</apkname>
+			<hash type="sha256">a63b3782f10fadc4129611d6a6d779684382a3c4b566186ee81bf3418b0905f2</hash>
+			<size>39058818</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>2609392acc5f151cfd6629301e57c071</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,su.happ.proxyutility.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>2.7.0</version>
+			<versioncode>1189</versioncode>
+			<apkname>happ_2.7.0.apk</apkname>
+			<hash type="sha256">f2b3c847bbd059bed11086198eca3e811dddb4e677cced29c3671e50c7b2a206</hash>
+			<size>39476405</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>2609392acc5f151cfd6629301e57c071</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,su.happ.proxyutility.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>2.6.0</version>
+			<versioncode>1185</versioncode>
+			<apkname>happ_2.6.0.apk</apkname>
+			<hash type="sha256">8a3e8edfddc11812c4f72e73b26d9c8202fd579d7fda924eadd69f5d100e4aa1</hash>
+			<size>38714744</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>2609392acc5f151cfd6629301e57c071</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,su.happ.proxyutility.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>2.5.0</version>
+			<versioncode>1181</versioncode>
+			<apkname>happ_2.5.0.apk</apkname>
+			<hash type="sha256">3f4914121515274532e0dc6b2a20698e7203c12df165ec18ccf55aa8efc10f12</hash>
+			<size>38680378</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>2609392acc5f151cfd6629301e57c071</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,su.happ.proxyutility.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>2.4.0</version>
+			<versioncode>1173</versioncode>
+			<apkname>happ_2.4.0.apk</apkname>
+			<hash type="sha256">a44002b4dd3af24f62812e41acd3a66196ba9852df30ba4dd82adaa0aca4f343</hash>
+			<size>37150319</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>2609392acc5f151cfd6629301e57c071</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,su.happ.proxyutility.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>2.3.0</version>
+			<versioncode>1169</versioncode>
+			<apkname>happ_2.3.0.apk</apkname>
+			<hash type="sha256">68b002cac86ad54f05a3cf5ee0ec5897dadaf5060d225154aaec116dcdbd4608</hash>
+			<size>37846980</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>2609392acc5f151cfd6629301e57c071</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,su.happ.proxyutility.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>2.2.0</version>
+			<versioncode>1165</versioncode>
+			<apkname>happ_2.2.0.apk</apkname>
+			<hash type="sha256">423ce5973f5a6732eec584272a1297dbf28c04e0c87450ba94d5db08e1ddffda</hash>
+			<size>37809453</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>2609392acc5f151cfd6629301e57c071</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,su.happ.proxyutility.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>2.1.0</version>
+			<versioncode>1163</versioncode>
+			<apkname>happ_2.1.0.apk</apkname>
+			<hash type="sha256">5d7b2a885924b6e247a6ecb2905b450de3b2105a78748efdec860bc0c83d77c5</hash>
+			<size>37793648</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>2609392acc5f151cfd6629301e57c071</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,su.happ.proxyutility.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>2.0.6</version>
+			<versioncode>1161</versioncode>
+			<apkname>happ_2.0.6.apk</apkname>
+			<hash type="sha256">ef31126b689f2a9a5748738cf2a6744839e1ff22add36a33cccfc23218af5561</hash>
+			<size>37792917</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>2609392acc5f151cfd6629301e57c071</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,su.happ.proxyutility.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>2.0.5</version>
+			<versioncode>1159</versioncode>
+			<apkname>happ_2.0.5.apk</apkname>
+			<hash type="sha256">78fe250e3e12082cc79b1eb7a1a245625aa4485575843712264d4522e5113452</hash>
+			<size>37792821</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>2609392acc5f151cfd6629301e57c071</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,su.happ.proxyutility.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>2.0.4</version>
+			<versioncode>1147</versioncode>
+			<apkname>happ_2.0.4.apk</apkname>
+			<hash type="sha256">e0a0bb923dd38068b27e2c6fbf169564a2165c185a76025b1873398968ae0367</hash>
+			<size>37783514</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>2609392acc5f151cfd6629301e57c071</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,su.happ.proxyutility.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>2.0.3</version>
+			<versioncode>1143</versioncode>
+			<apkname>happ_2.0.3.apk</apkname>
+			<hash type="sha256">10fbf8c267eba73c62702c7b770f0865c5470a3cd202b47ead0e34f9e58c0e54</hash>
+			<size>37783158</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>2609392acc5f151cfd6629301e57c071</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,su.happ.proxyutility.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>2.0.2</version>
+			<versioncode>1141</versioncode>
+			<apkname>happ_2.0.2.apk</apkname>
+			<hash type="sha256">419961785314bbc429b02cc79374fdead2f62369312eb53c0c05409493b0a10f</hash>
+			<size>37783171</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>2609392acc5f151cfd6629301e57c071</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,su.happ.proxyutility.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>2.0.1</version>
+			<versioncode>1139</versioncode>
+			<apkname>happ_2.0.1.apk</apkname>
+			<hash type="sha256">2607d1c796cf30a0b4df6f5fcd17d8c1e067bc921aa99b8baa37ab7846ac1737</hash>
+			<size>37783358</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>2609392acc5f151cfd6629301e57c071</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,su.happ.proxyutility.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+	</application>
+	<application id="com.v2ray.ang">
+		<id>com.v2ray.ang</id>
+		<added>2025-06-17</added>
+		<lastupdated>2025-06-17</lastupdated>
+		<name>v2rayNG</name>
+		<summary>A V2Ray client for Android, support Xray core and v2fly core</summary>
+		<desc>A V2Ray client for Android, support Xray core and v2fly core
+
+&lt;b&gt;Features&lt;/b&gt;
+
+- Support for multiple protocols: V2Ray, Xray, Shadowsocks, Trojan, VMess, VLESS
+- Advanced routing with geoip and geosite data
+- Subscription support for automatic server updates
+- Built-in speed test and latency measurement
+- QR code scanning for easy server configuration
+- Import/export configuration files
+- Multiple proxy modes and routing rules
+- Support for XTLS encryption
+- Custom DNS settings
+- Statistics and traffic monitoring
+- Dark and light themes
+</desc>
+		<license>GPL-3.0</license>
+		<categories>Connectivity,Security</categories>
+		<category>Connectivity</category>
+		<web></web>
+		<source>https://github.com/2dust/v2rayNG</source>
+		<tracker>https://github.com/2dust/v2rayNG/issues</tracker>
+		<author>2dust</author>
+		<marketversion>1.10.4</marketversion>
+		<marketvercode>4000654</marketvercode>
+		<package>
+			<version>1.10.4</version>
+			<versioncode>4000654</versioncode>
+			<apkname>v2rayng_1.10.4.apk</apkname>
+			<hash type="sha256">f0b30cc524d7d3b6d33bb3c898b5a7f42625708cfe25dfb5283e4740679261be</hash>
+			<size>33461452</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>4d25e0ce917ad3f76d265d25ce902a6b</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,com.v2ray.ang.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.10.2</version>
+			<versioncode>4000652</versioncode>
+			<apkname>v2rayng_1.10.2.apk</apkname>
+			<hash type="sha256">ca67d6c66d19e15537d9d522998b96aba70c71ea8dd280f37a76760ef5847780</hash>
+			<size>33290421</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>4d25e0ce917ad3f76d265d25ce902a6b</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,com.v2ray.ang.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.9.46</version>
+			<versioncode>4000646</versioncode>
+			<apkname>v2rayng_1.9.46.apk</apkname>
+			<hash type="sha256">249c6d95d1377992520b07c640c35d2844404645238a2ba6e1206e3b65fcfe9d</hash>
+			<size>32929674</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>4d25e0ce917ad3f76d265d25ce902a6b</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,com.v2ray.ang.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.9.45</version>
+			<versioncode>4000645</versioncode>
+			<apkname>v2rayng_1.9.45.apk</apkname>
+			<hash type="sha256">72fb0b4ee3f4ab37608d17ff658ba2bdec2e65248ee9f07c3d375992a12ec148</hash>
+			<size>32919105</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>4d25e0ce917ad3f76d265d25ce902a6b</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,com.v2ray.ang.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.9.39</version>
+			<versioncode>4000636</versioncode>
+			<apkname>v2rayng_1.9.39.apk</apkname>
+			<hash type="sha256">c4e6f34810aed48e380a1bd32840d1c0c055968ab298537f3b795e5ccb4d0e8d</hash>
+			<size>30894067</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>4d25e0ce917ad3f76d265d25ce902a6b</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,com.v2ray.ang.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+	</application>
+	<application id="com.zaneschepke.wireguardautotunnel">
+		<id>com.zaneschepke.wireguardautotunnel</id>
+		<added>2025-06-17</added>
+		<lastupdated>2025-06-17</lastupdated>
+		<name>WG Tunnel</name>
+		<summary>A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling.</summary>
+		<desc>An alternative VPN client app for WireGuard with additional features
+
+&lt;b&gt;Features&lt;/b&gt;
+
+- Add tunnels via .conf file, zip, manual entry, or QR code
+- Auto connect to VPN based on Wi-Fi SSID, ethernet, or mobile data
+- Split tunneling by application with search
+- WireGuard support for kernel and userspace modes
+- Always-On VPN support
+- Export tunnels to zip
+- Quick tile support for VPN toggling
+- Static shortcuts support for primary tunnel for automation integration
+- Intent automation support for all tunnels
+- Automatic service restart after reboot
+- Battery preservation measures
+</desc>
+		<license>MIT</license>
+		<categories>Connectivity,Security</categories>
+		<category>Connectivity</category>
+		<web>https://wgtunnel.com</web>
+		<source>https://github.com/wgtunnel/wgtunnel</source>
+		<tracker>https://github.com/wgtunnel/wgtunnel/issues</tracker>
+		<author>wgtunnel</author>
+		<marketversion>3.9.1</marketversion>
+		<marketvercode>39100</marketvercode>
+		<package>
+			<version>3.9.1</version>
+			<versioncode>39100</versioncode>
+			<apkname>wgtunnel_3.9.1.apk</apkname>
+			<hash type="sha256">8001dfed63d50f5e8935beea1d6ea5f6ba78290c29763a7712f52578d8eb0da2</hash>
+			<size>29311202</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>21dad82894453bd1db3f09179d247e3c</sig>
+			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SYSTEM_EXEMPTED,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,SCHEDULE_EXACT_ALARM,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,com.zaneschepke.wireguardautotunnel.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>3.9.0</version>
+			<versioncode>38900</versioncode>
+			<apkname>wgtunnel_3.9.0.apk</apkname>
+			<hash type="sha256">40f3286ff62b9aed9f80c3b981e550565ff67188ffaf47c832c28a17efebf3c2</hash>
+			<size>29282301</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>21dad82894453bd1db3f09179d247e3c</sig>
+			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SYSTEM_EXEMPTED,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,SCHEDULE_EXACT_ALARM,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,com.zaneschepke.wireguardautotunnel.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>3.8.3</version>
+			<versioncode>38300</versioncode>
+			<apkname>wgtunnel_3.8.3.apk</apkname>
+			<hash type="sha256">4309f574e23e70e7eaa95883b99a46e6c04d03f8ccf9f6ec41790a465e419a90</hash>
+			<size>28748005</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>21dad82894453bd1db3f09179d247e3c</sig>
+			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SYSTEM_EXEMPTED,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,SCHEDULE_EXACT_ALARM,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,com.zaneschepke.wireguardautotunnel.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>3.8.2</version>
+			<versioncode>38200</versioncode>
+			<apkname>wgtunnel_3.8.2.apk</apkname>
+			<hash type="sha256">e97f7e30913fa4a47cf14dcb34fe1967959b1977c3adc31fe8865cbff8080458</hash>
+			<size>39862117</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>21dad82894453bd1db3f09179d247e3c</sig>
+			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SYSTEM_EXEMPTED,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,SCHEDULE_EXACT_ALARM,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,com.zaneschepke.wireguardautotunnel.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>3.8.1</version>
+			<versioncode>38100</versioncode>
+			<apkname>wgtunnel_3.8.1.apk</apkname>
+			<hash type="sha256">97bd400acff52402390f8fab9da3fed2438859d6785887dbf9875076453f5496</hash>
+			<size>39753080</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>21dad82894453bd1db3f09179d247e3c</sig>
+			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SYSTEM_EXEMPTED,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,SCHEDULE_EXACT_ALARM,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,com.zaneschepke.wireguardautotunnel.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>3.8.0</version>
+			<versioncode>38000</versioncode>
+			<apkname>wgtunnel_3.8.0.apk</apkname>
+			<hash type="sha256">f5ca811d2169853289f9ff2e2ab69ce1b7824ea6f2cabce106888d3ba544cecf</hash>
+			<size>39734692</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>21dad82894453bd1db3f09179d247e3c</sig>
+			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SYSTEM_EXEMPTED,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,SCHEDULE_EXACT_ALARM,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,com.zaneschepke.wireguardautotunnel.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>3.7.2</version>
+			<versioncode>37200</versioncode>
+			<apkname>wgtunnel_3.7.2.apk</apkname>
+			<hash type="sha256">a01798de74a226bfb693a3299fe4e120889f552571fb176020dd7aaa1b5c8cdf</hash>
+			<size>39652289</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>21dad82894453bd1db3f09179d247e3c</sig>
+			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SYSTEM_EXEMPTED,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,SCHEDULE_EXACT_ALARM,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,com.zaneschepke.wireguardautotunnel.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>3.7.1</version>
+			<versioncode>37100</versioncode>
+			<apkname>wgtunnel_3.7.1.apk</apkname>
+			<hash type="sha256">da2b5ce8c2232d54bfe1ec74d8dc96d9e3687ce6aa5bdc4a8272846b487df857</hash>
+			<size>39635905</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>21dad82894453bd1db3f09179d247e3c</sig>
+			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SYSTEM_EXEMPTED,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,SCHEDULE_EXACT_ALARM,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,com.zaneschepke.wireguardautotunnel.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>3.7.0</version>
+			<versioncode>37000</versioncode>
+			<apkname>wgtunnel_3.7.0.apk</apkname>
+			<hash type="sha256">18ec2d674c5ab6a02defdcd3774d715178c033210e56ee61f6ccaa105867f894</hash>
+			<size>39593607</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-06-17</added>
+			<sig>21dad82894453bd1db3f09179d247e3c</sig>
+			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SYSTEM_EXEMPTED,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,SCHEDULE_EXACT_ALARM,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,com.zaneschepke.wireguardautotunnel.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
+</fdroid>

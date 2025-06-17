@@ -1,0 +1,5 @@
+### 本次更新
+
+1. https://github.com/XTLS/Xray-core/releases/tag/v25.5.16
+2. 主界面抽屉菜单中增加检查更新
+3. 订阅分组列表中增加删除按钮 ，并且二次确认可设置

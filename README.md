@@ -44,10 +44,11 @@ This repository hosts a [F-Droid](https://f-droid.org/) repo for curated Android
 ## Apps
 
 <!-- This table is auto-generated. Do not edit -->
-
 | Icon | Name | Description | Version |
-| ---- | ---- | ----------- | ------- |
-
+| --- | --- | --- | --- |
+| <a href="https://github.com/Happ-proxy/happ-android"><img src="fdroid/repo/su.happ.proxyutility/en-US/icon.png" alt="Happ icon" width="36px" height="36px"></a> | [**Happ**](https://github.com/Happ-proxy/happ-android) | A proxy management app powered by Xray core with support for multiple protocols. | 2.8.0 (1193) |
+| <a href="https://github.com/2dust/v2rayNG"><img src="fdroid/repo/com.v2ray.ang/en-US/icon.png" alt="v2rayNG icon" width="36px" height="36px"></a> | [**v2rayNG**](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, support Xray core and v2fly core | 1.10.4 (4000654) |
+| <a href="https://github.com/wgtunnel/wgtunnel"><img src="fdroid/repo/com.zaneschepke.wireguardautotunnel/en-US/icon.png" alt="WG Tunnel icon" width="36px" height="36px"></a> | [**WG Tunnel**](https://github.com/wgtunnel/wgtunnel) | A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling. | 3.9.1 (39100) |
 <!-- end apps table -->
 
 ## How to use
