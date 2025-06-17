@@ -54,6 +54,13 @@ jobs:
           go-version: "^1.23.0"
           cache-dependency-path: metascoop/go.sum
 
+      - name: Configure Git for large push
+        run: |
+          git config --global http.postBuffer 524288000
+          git config --global http.maxRequestBuffer 524288000
+          git config --global pack.windowMemory 256m
+          git config --global pack.packSizeLimit 2g
+
       - name: Run update script
         run: bash update.sh 2>&1
         env:

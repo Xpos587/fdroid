@@ -47,3 +47,26 @@ v2rayng:
   categories:
     - Connectivity
     - Security
+
+happ:
+  git: https://github.com/Happ-proxy/happ-android
+  name: "Happ"
+  description: |
+    Happ is a mobile application designed for convenient proxy server management, powered by the robust Xray core. The app features an intuitive interface and a range of useful functions, making it an essential tool for managing connections.
+
+    <b>Features</b>
+
+    - Configuration of proxy servers based on flexible routing rules
+    - Support for multiple modern protocols including VLESS (Reality), VMess, Trojan, Shadowsocks, Socks
+    - Private by design - no data collection, information stays on your device
+    - Flexible routing rules for advanced proxy management
+    - Intuitive interface for easy connection management
+    - Powered by robust Xray core technology
+
+    <b>Important Note</b>
+
+    Happ does not provide VPN services for purchase. Users are responsible for acquiring or setting up their own servers. Please comply with applicable laws in your jurisdiction when utilizing the app.
+
+  categories:
+    - Connectivity
+    - Security
