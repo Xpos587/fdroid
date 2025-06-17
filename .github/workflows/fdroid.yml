@@ -61,11 +61,12 @@ jobs:
           echo "${{ secrets.FDROID_KEYSTORE_P12 }}" | base64 -d - > fdroid/keystore.p12
           cp config.yml fdroid/config.yml
 
-          echo "Replacing variables in config.yml"
-          sed -i "s|\$REPO_KEYALIAS|\"$REPO_KEYALIAS\"|g" fdroid/config.yml
-          sed -i "s|\$KEYSTOREPASS|\"$KEYSTOREPASS\"|g" fdroid/config.yml
-          sed -i "s|\$KEYPASS|\"$KEYPASS\"|g" fdroid/config.yml
+          echo "Replacing variables using envsubst"
+          export REPO_KEYALIAS="${{ secrets.REPO_KEYALIAS }}"
+          export KEYSTOREPASS="${{ secrets.KEYSTOREPASS }}"
+          export KEYPASS="${{ secrets.KEYPASS }}"
 
+          envsubst < config.yml > fdroid/config.yml
           chmod 600 fdroid/keystore.p12 fdroid/config.yml
         env:
           REPO_KEYALIAS: ${{ secrets.REPO_KEYALIAS }}

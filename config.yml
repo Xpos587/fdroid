@@ -7,7 +7,7 @@ repo_description: >
   open-source alternatives, and useful utilities.
   Covers both FOSS and proprietary applications for enhanced mobile experience.
 
-keystore: fdroid/keystore.p12
+keystore: keystore.p12
 repo_keyalias: $REPO_KEYALIAS
 keystorepass: $KEYSTOREPASS
 keypass: $KEYPASS
