@@ -1,0 +1,39 @@
+AuthorName: wgtunnel
+Categories:
+  - Connectivity
+  - Security
+Description: |
+  An alternative VPN client app for WireGuard with additional features
+
+  <b>Features</b>
+
+  - Add tunnels via .conf file, zip, manual entry, or QR code
+  - Auto connect to VPN based on Wi-Fi SSID, ethernet, or mobile data
+  - Split tunneling by application with search
+  - WireGuard support for kernel and userspace modes
+  - Always-On VPN support
+  - Export tunnels to zip
+  - Quick tile support for VPN toggling
+  - Static shortcuts support for primary tunnel for automation integration
+  - Intent automation support for all tunnels
+  - Automatic service restart after reboot
+  - Battery preservation measures
+IssueTracker: https://github.com/wgtunnel/wgtunnel/issues
+License: MIT
+Name: WG Tunnel
+Repo: https://github.com/wgtunnel/wgtunnel
+RepoType: git
+SourceCode: https://github.com/wgtunnel/wgtunnel
+Summary: A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling.
+WebSite: https://wgtunnel.com
+
+CurrentVersion: 3.9.2
+CurrentVersionCode: 39200
+
+UpdateCheckMode: Tags
+UpdateCheckData: tags/(\d+\.\d+\.\d+)$
+
+Builds:
+  - versionName: 3.9.2
+    versionCode: 39200
+    disable: Uses prebuilt libraries

@@ -31,12 +31,15 @@ jobs:
           java-version: "17"
           distribution: "temurin"
 
-      - name: Cache pip dependencies
+      - name: Cache pip and apt packages
         uses: actions/cache@v4
         with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-fdroid
+          path: |
+            ~/.cache/pip
+            /var/cache/apt
+          key: ${{ runner.os }}-fdroid-${{ hashFiles('apps.yaml') }}
           restore-keys: |
+            ${{ runner.os }}-fdroid-
             ${{ runner.os }}-pip-
 
       - name: Install F-Droid server software

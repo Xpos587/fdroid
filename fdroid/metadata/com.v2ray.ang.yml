@@ -1,0 +1,39 @@
+AuthorName: 2dust
+Categories:
+  - Connectivity
+  - Security
+Description: |
+  A V2Ray client for Android, support Xray core and v2fly core
+
+  <b>Features</b>
+
+  - Support for multiple protocols: V2Ray, Xray, Shadowsocks, Trojan, VMess, VLESS
+  - Advanced routing with geoip and geosite data
+  - Subscription support for automatic server updates
+  - Built-in speed test and latency measurement
+  - QR code scanning for easy server configuration
+  - Import/export configuration files
+  - Multiple proxy modes and routing rules
+  - Support for XTLS encryption
+  - Custom DNS settings
+  - Statistics and traffic monitoring
+  - Dark and light themes
+
+IssueTracker: https://github.com/2dust/v2rayNG/issues
+License: GPL-3.0-or-later
+Name: v2rayNG
+Repo: https://github.com/2dust/v2rayNG
+RepoType: git
+SourceCode: https://github.com/2dust/v2rayNG
+Summary: A V2Ray client for Android with Xray core and v2fly core support.
+
+CurrentVersion: 1.10.4
+CurrentVersionCode: 110400
+
+UpdateCheckMode: Tags
+UpdateCheckData: tags/(\d+\.\d+\.\d+)$
+
+Builds:
+  - versionName: 1.10.4
+    versionCode: 110400
+    disable: Uses prebuilt libraries
