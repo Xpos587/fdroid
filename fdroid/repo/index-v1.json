@@ -1,0 +1,16 @@
+{
+  "repo": {
+    "timestamp": 0,
+    "version": 20001,
+    "name": "Xpos587 Apps Repository",
+    "icon": "icon.png",
+    "address": "https://raw.githubusercontent.com/Xpos587/fdroid/main/fdroid/repo",
+    "description": "Curated collection of high-quality Android applications"
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": {},
+  "packages": {}
+}

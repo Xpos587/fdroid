@@ -1,32 +1,5 @@
 #!/bin/bash
 
-if [ ! -f fdroid/repo/index-v1.json ]; then
-	echo "Initializing F-Droid repository"
-	cd fdroid
-
-	mkdir -p repo metadata
-	cat >repo/index-v1.json <<'EOF'
-{
-  "repo": {
-    "timestamp": 0,
-    "version": 20001,
-    "name": "Xpos587 Apps Repository",
-    "icon": "icon.png",
-    "address": "https://raw.githubusercontent.com/Xpos587/fdroid/main/fdroid/repo",
-    "description": "Curated collection of high-quality Android applications"
-  },
-  "requests": {
-    "install": [],
-    "uninstall": []
-  },
-  "apps": {},
-  "packages": {}
-}
-EOF
-	fdroid update --create-metadata --pretty
-	cd ..
-fi
-
 cd metascoop
 echo "::group::Building metascoop executable"
 go build -o metascoop
