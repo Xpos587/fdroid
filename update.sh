@@ -4,12 +4,26 @@ if [ ! -f fdroid/repo/index-v1.json ]; then
 	echo "Initializing F-Droid repository"
 	cd fdroid
 
-	# Создаем базовую структуру
 	mkdir -p repo metadata
-
-	# Создаем пустые метаданные и запускаем fdroid update
+	cat >repo/index-v1.json <<'EOF'
+{
+  "repo": {
+    "timestamp": 0,
+    "version": 20001,
+    "name": "Xpos587 Apps Repository",
+    "icon": "icon.png",
+    "address": "https://raw.githubusercontent.com/Xpos587/fdroid/main/fdroid/repo",
+    "description": "Curated collection of high-quality Android applications"
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": {},
+  "packages": {}
+}
+EOF
 	fdroid update --create-metadata --pretty
-
 	cd ..
 fi
 
