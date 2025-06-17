@@ -31,17 +31,6 @@ jobs:
           java-version: "17"
           distribution: "temurin"
 
-      - name: Cache pip and apt packages
-        uses: actions/cache@v4
-        with:
-          path: |
-            ~/.cache/pip
-            /var/cache/apt
-          key: ${{ runner.os }}-fdroid-${{ hashFiles('apps.yaml') }}
-          restore-keys: |
-            ${{ runner.os }}-fdroid-
-            ${{ runner.os }}-pip-
-
       - name: Install F-Droid server software
         run: |
           sudo add-apt-repository ppa:fdroid/fdroidserver
@@ -58,9 +47,6 @@ jobs:
           echo "${{ secrets.FDROID_KEYSTORE_P12 }}" | base64 -d - > fdroid/keystore.p12
           echo "${{ secrets.FDROID_CONFIG_YML }}" | base64 -d - > fdroid/config.yml
           chmod 600 fdroid/keystore.p12 fdroid/config.yml
-        env:
-          KEYSTORE_PASSWORD: ${{ secrets.KEYSTORE_PASSWORD }}
-          KEY_PASSWORD: ${{ secrets.KEY_PASSWORD }}
 
       - uses: actions/setup-go@v4
         name: Set up Go
