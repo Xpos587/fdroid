@@ -72,19 +72,6 @@ jobs:
           KEYSTOREPASS: ${{ secrets.KEYSTOREPASS }}
           KEYPASS: ${{ secrets.KEYPASS }}
 
-      - name: Initialize F-Droid repo if needed
-        run: |
-          if [ ! -f fdroid/repo/index-v1.json ]; then
-            echo "Initializing F-Droid repository"
-            cd fdroid
-
-            mkdir -p repo metadata
-
-            fdroid update --create-metadata --pretty || true
-
-            cd ..
-          fi
-
       - uses: actions/setup-go@v4
         name: Set up Go
         with:

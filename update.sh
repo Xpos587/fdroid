@@ -1,5 +1,18 @@
 #!/bin/bash
 
+if [ ! -f fdroid/repo/index-v1.json ]; then
+	echo "Initializing F-Droid repository"
+	cd fdroid
+
+	# Создаем базовую структуру
+	mkdir -p repo metadata
+
+	# Создаем пустые метаданные и запускаем fdroid update
+	fdroid update --create-metadata --pretty
+
+	cd ..
+fi
+
 cd metascoop
 echo "::group::Building metascoop executable"
 go build -o metascoop
