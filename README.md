@@ -6,11 +6,12 @@ app updates faster than the app stores.
 
 ## Apps
 
-<!-- apps table start -->
+<!-- This table is auto-generated. Do not edit -->
 
 | Icon | Name | Description | Version |
+| ---- | ---- | ----------- | ------- |
 
-<!-- apps table end -->
+<!-- end apps table -->
 
 ## How to use
 

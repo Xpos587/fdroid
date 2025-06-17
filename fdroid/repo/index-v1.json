@@ -5,7 +5,7 @@
     "name": "Xpos587 Apps Repository",
     "icon": "icon.png",
     "address": "https://raw.githubusercontent.com/xpos587/fdroid/main/fdroid/repo",
-    "description": "Xpos587 Apps Repository - curated collection of high-quality Android applications. Features official binaries from trusted developers, including privacy tools, communication apps, open-source alternatives, and useful utilities. Covers both FOSS and proprietary applications for enhanced mobile experience."
+    "description": "Curated collection of high-quality Android applications. Features official binaries from trusted developers, including privacy tools, communication apps, open-source alternatives, and useful utilities. Covers both FOSS and proprietary applications for enhanced mobile experience."
   },
   "requests": {
     "install": [],
