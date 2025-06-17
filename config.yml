@@ -11,4 +11,4 @@ keystore: keystore.p12
 repo_keyalias: $REPO_KEYALIAS
 keystorepass: $KEYSTOREPASS
 keypass: $KEYSTOREPASS
-archive_older: 0
+archive_older: 5

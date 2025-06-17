@@ -30,8 +30,6 @@ Summary: A V2Ray client for Android with Xray core and v2fly core support.
 CurrentVersion: 1.10.4
 CurrentVersionCode: 110400
 
-ArchivePolicy: 5
-
 UpdateCheckMode: Tags
 UpdateCheckData: tags/(\d+\.\d+\.\d+)$
 
