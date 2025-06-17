@@ -1,0 +1,7 @@
+repo_url: "https://raw.githubusercontent.com/Xpos587/fdroid/main/fdroid/repo"
+repo_name: "Xpos587 Apps Repository"
+keystore: "keystore.p12"
+repo_keyalias: "sova"
+keystorepass: "nmye#$==Dw4~#iMYsAAF&uA>oUMMrvmf%a&Cf$VF$9=DFYwrN<#^UwR+@7f@qAPZ"
+keypass: "nmye#$==Dw4~#iMYsAAF&uA>oUMMrvmf%a&Cf$VF$9=DFYwrN<#^UwR+@7f@qAPZ"
+archive_older: 0

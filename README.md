@@ -62,7 +62,7 @@ This repository hosts a [F-Droid](https://f-droid.org/) repo for curated Android
 
 3. **Scan QR Code** - Use the QR code above or manually add the repository URL:
 
-   ```
+   ```txt
    https://raw.githubusercontent.com/Xpos587/fdroid/main/fdroid/repo?fingerprint=93D7D47A5E0E66C17C24710DC563FA2E54DAA7883384199B1845FB2D6E0EEBADD
    ```
 

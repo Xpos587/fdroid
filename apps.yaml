@@ -1,28 +1,28 @@
-wgtunnel:
-  git: https://github.com/wgtunnel/wgtunnel
-  name: "WG Tunnel"
-  description: |
-    An alternative VPN client app for WireGuard with additional features
-
-    <b>Features</b>
-
-    - Add tunnels via .conf file, zip, manual entry, or QR code
-    - Auto connect to VPN based on Wi-Fi SSID, ethernet, or mobile data
-    - Split tunneling by application with search
-    - WireGuard support for kernel and userspace modes
-    - Always-On VPN support
-    - Export tunnels to zip
-    - Quick tile support for VPN toggling
-    - Static shortcuts support for primary tunnel for automation integration
-    - Intent automation support for all tunnels
-    - Automatic service restart after reboot
-    - Battery preservation measures
-
-  # As described on https://f-droid.org/en/docs/Build_Metadata_Reference/#Categories,
-  # you can use any name here, but you should look at the existing categories first
-  categories:
-    - Connectivity
-    - Security
+# wgtunnel:
+#   git: https://github.com/wgtunnel/wgtunnel
+#   name: "WG Tunnel"
+#   description: |
+#     An alternative VPN client app for WireGuard with additional features
+#
+#     <b>Features</b>
+#
+#     - Add tunnels via .conf file, zip, manual entry, or QR code
+#     - Auto connect to VPN based on Wi-Fi SSID, ethernet, or mobile data
+#     - Split tunneling by application with search
+#     - WireGuard support for kernel and userspace modes
+#     - Always-On VPN support
+#     - Export tunnels to zip
+#     - Quick tile support for VPN toggling
+#     - Static shortcuts support for primary tunnel for automation integration
+#     - Intent automation support for all tunnels
+#     - Automatic service restart after reboot
+#     - Battery preservation measures
+#
+#   # As described on https://f-droid.org/en/docs/Build_Metadata_Reference/#Categories,
+#   # you can use any name here, but you should look at the existing categories first
+#   categories:
+#     - Connectivity
+#     - Security
 
 v2rayng:
   git: https://github.com/2dust/v2rayNG
@@ -47,26 +47,25 @@ v2rayng:
   categories:
     - Connectivity
     - Security
-
-happ:
-  git: https://github.com/Happ-proxy/happ-android
-  name: "Happ"
-  description: |
-    Happ is a mobile application designed for convenient proxy server management, powered by the robust Xray core. The app features an intuitive interface and a range of useful functions, making it an essential tool for managing connections.
-
-    <b>Features</b>
-
-    - Configuration of proxy servers based on flexible routing rules
-    - Support for multiple modern protocols including VLESS (Reality), VMess, Trojan, Shadowsocks, Socks
-    - Private by design - no data collection, information stays on your device
-    - Flexible routing rules for advanced proxy management
-    - Intuitive interface for easy connection management
-    - Powered by robust Xray core technology
-
-    <b>Important Note</b>
-
-    Happ does not provide VPN services for purchase. Users are responsible for acquiring or setting up their own servers. Please comply with applicable laws in your jurisdiction when utilizing the app.
-
-  categories:
-    - Connectivity
-    - Security
+# happ:
+#   git: https://github.com/Happ-proxy/happ-android
+#   name: "Happ"
+#   description: |
+#     Happ is a mobile application designed for convenient proxy server management, powered by the robust Xray core. The app features an intuitive interface and a range of useful functions, making it an essential tool for managing connections.
+#
+#     <b>Features</b>
+#
+#     - Configuration of proxy servers based on flexible routing rules
+#     - Support for multiple modern protocols including VLESS (Reality), VMess, Trojan, Shadowsocks, Socks
+#     - Private by design - no data collection, information stays on your device
+#     - Flexible routing rules for advanced proxy management
+#     - Intuitive interface for easy connection management
+#     - Powered by robust Xray core technology
+#
+#     <b>Important Note</b>
+#
+#     Happ does not provide VPN services for purchase. Users are responsible for acquiring or setting up their own servers. Please comply with applicable laws in your jurisdiction when utilizing the app.
+#
+#   categories:
+#     - Connectivity
+#     - Security
