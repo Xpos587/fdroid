@@ -63,7 +63,7 @@ This repository hosts a [F-Droid](https://f-droid.org/) repo for curated Android
 3. **Scan QR Code** - Use the QR code above or manually add the repository URL:
 
    ```txt
-   https://raw.githubusercontent.com/Xpos587/fdroid/main/fdroid/repo?fingerprint=93D7D47A5E0E66C17C24710DC563FA2E54DAA7883384199B1845FB2D6E0EEBADD
+   https://raw.githubusercontent.com/Xpos587/fdroid/main/fdroid/repo?fingerprint=94FA53EC8CA69F08E6D4EF89E99E7CF1C0EB356DDAFD9F37B302C4087446F922
    ```
 
 4. **Install Apps** - Search for "WG Tunnel", "v2rayNG" or other apps in the Droid-ify client.
