@@ -48,9 +48,9 @@ jobs:
           cp config.yml fdroid/config.yml
 
           echo "Replacing variables in config.yml"
-          sed -i 's@$REPO_KEYALIAS@"'"$REPO_KEYALIAS"'"@g' fdroid/config.yml
-          sed -i 's@$KEYSTOREPASS@"'"$KEYSTOREPASS"'"@g' fdroid/config.yml
-          sed -i 's@$KEYPASS@"'"$KEYPASS"'"@g' fdroid/config.yml
+          sed -i "s|\$REPO_KEYALIAS|\"$REPO_KEYALIAS\"|g" fdroid/config.yml
+          sed -i "s|\$KEYSTOREPASS|\"$KEYSTOREPASS\"|g" fdroid/config.yml
+          sed -i "s|\$KEYPASS|\"$KEYPASS\"|g" fdroid/config.yml
 
           chmod 600 fdroid/keystore.p12 fdroid/config.yml
         env:
