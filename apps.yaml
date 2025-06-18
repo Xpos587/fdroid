@@ -75,16 +75,16 @@ nekobox:
   git: https://github.com/MatsuriDayo/NekoBoxForAndroid
   name: "NekoBox"
   description: |
-    Universal proxy toolchain for Android powered by sing-box core with support for multiple protocols[1]
+    Universal proxy toolchain for Android powered by sing-box core with support for multiple protocols
 
     <b>Features</b>
 
-    - Support for multiple proxy protocols: SOCKS (4/4a/5), HTTP(S), SSH, Shadowsocks, VMess, Trojan, VLESS, AnyTLS, ShadowTLS, TUIC, Hysteria 1/2, WireGuard[1]
-    - Plugin support for extended protocols (Trojan-Go, NaïveProxy, Mieru)[1]
-    - Multiple subscription format support (Shadowsocks, ClashMeta, v2rayN, sing-box outbound)[1]
-    - Intuitive Android interface based on shadowsocks-android and SagerNet[1]
-    - Built-in web dashboard powered by Yacd-meta[1]
-    - Powered by robust sing-box core technology[1]
+    - Support for multiple proxy protocols: SOCKS (4/4a/5), HTTP(S), SSH, Shadowsocks, VMess, Trojan, VLESS, AnyTLS, ShadowTLS, TUIC, Hysteria 1/2, WireGuard
+    - Plugin support for extended protocols (Trojan-Go, NaïveProxy, Mieru)
+    - Multiple subscription format support (Shadowsocks, ClashMeta, v2rayN, sing-box outbound)
+    - Intuitive Android interface based on shadowsocks-android and SagerNet
+    - Built-in web dashboard powered by Yacd-meta
+    - Powered by robust sing-box core technology
 
     <b>Important Note</b>
 
@@ -106,17 +106,17 @@ hiddify:
 
     <b>Features</b>
 
-    - Multi-platform support: Android, iOS, Windows, macOS, Linux[1]
-    - Intuitive and accessible UI with dark/light themes[1]
-    - Delay-based automatic node selection[1]
-    - Wide protocol support: VLESS, VMess, Reality, TUIC, Hysteria, WireGuard, SSH, Trojan, Shadowsocks[1]
-    - Dual core support: both Sing-box and Xray core (selectable per node)[1]
-    - Subscription formats: Sing-box, V2Ray, Clash, Clash Meta[1]
-    - Automatic subscription update with profile info (remaining days, traffic usage)[1]
-    - Advanced features: TUN mode, Split HTTP, config editor[1]
-    - Open source, ad-free, community-driven[1]
-    - Optimized for Iran, China, Russia and other countries[1]
-    - Available on official stores and direct download[1]
+    - Multi-platform support: Android, iOS, Windows, macOS, Linux
+    - Intuitive and accessible UI with dark/light themes
+    - Delay-based automatic node selection
+    - Wide protocol support: VLESS, VMess, Reality, TUIC, Hysteria, WireGuard, SSH, Trojan, Shadowsocks
+    - Dual core support: both Sing-box and Xray core (selectable per node)
+    - Subscription formats: Sing-box, V2Ray, Clash, Clash Meta
+    - Automatic subscription update with profile info (remaining days, traffic usage)
+    - Advanced features: TUN mode, Split HTTP, config editor
+    - Open source, ad-free, community-driven
+    - Optimized for Iran, China, Russia and other countries
+    - Available on official stores and direct download
 
     <b>Important Note</b>
 

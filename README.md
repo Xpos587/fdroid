@@ -34,7 +34,7 @@
 <!-- </p> -->
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Xpos587/fdroid/main/fdroid/repo" target="_blank" rel="noopener noreferrer" >
+  <a href="https://xpos587.github.io/fdroid" target="_blank" rel="noopener noreferrer" >
     <img src=".github/qrcode.png?raw=true" alt="F-Droid repo QR code" width="300" height="300">
   </a>
 </p>
