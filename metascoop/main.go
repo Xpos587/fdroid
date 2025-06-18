@@ -8,6 +8,10 @@ import (
 	"io"
 	"io/fs"
 	"log"
+	"metascoop/apps"
+	"metascoop/file"
+	"metascoop/git"
+	"metascoop/md"
 	"net/http"
 	"os"
 	"os/exec"
@@ -17,10 +21,6 @@ import (
 
 	"github.com/google/go-github/v39/github"
 	"golang.org/x/oauth2"
-	"metascoop/apps"
-	"metascoop/file"
-	"metascoop/git"
-	"metascoop/md"
 )
 
 func main() {
@@ -67,7 +67,7 @@ func main() {
 	fmt.Println("::endgroup::")
 
 	// map[apkName]info
-	var apkInfoMap = make(map[string]apps.AppInfo)
+	apkInfoMap := make(map[string]apps.AppInfo)
 
 	for _, app := range appsList {
 		fmt.Printf("App: %s/%s\n", app.Author(), app.Name())
@@ -185,7 +185,6 @@ func main() {
 		log.Printf("Running %q in %s", cmd.String(), cmd.Dir)
 
 		err = cmd.Run()
-
 		if err != nil {
 			log.Println("Error while running \"fdroid update -c\":", err.Error())
 
@@ -250,7 +249,7 @@ func main() {
 			setNonEmpty(meta, "License", apkInfo.License)
 			setNonEmpty(meta, "Description", apkInfo.Description)
 
-			var summary = apkInfo.Summary
+			summary := apkInfo.Summary
 			// See https://f-droid.org/en/docs/Build_Metadata_Reference/#Summary for max length
 			const maxSummaryLength = 80
 			if len(summary) > maxSummaryLength {
@@ -321,15 +320,15 @@ func main() {
 
 			_ = os.RemoveAll(screenshotsPath)
 
-			var sccounter int = 1
+			sccounter := 1
 			for _, sc := range metadata.Screenshots {
-				var ext = filepath.Ext(sc)
+				ext := filepath.Ext(sc)
 				if ext == "" {
 					log.Printf("Invalid: screenshot file extension is empty for %q", sc)
 					continue
 				}
 
-				var newFilePath = filepath.Join(screenshotsPath, fmt.Sprintf("%d%s", sccounter, ext))
+				newFilePath := filepath.Join(screenshotsPath, fmt.Sprintf("%d%s", sccounter, ext))
 
 				err = os.MkdirAll(filepath.Dir(newFilePath), os.ModePerm)
 				if err != nil {

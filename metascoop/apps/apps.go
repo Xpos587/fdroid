@@ -1,3 +1,4 @@
+// Package apps provides F-Droid application metadata
 package apps
 
 import (

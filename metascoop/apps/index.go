@@ -1,3 +1,4 @@
+// Package apps provides F-Droid application metadata
 package apps
 
 import (
@@ -86,7 +87,7 @@ func HasSignificantChanges(old, new *RepoIndex) (changedPath string, changed boo
 			return strings.Join(change.Path, "."), true
 		}
 
-		var isIgnoredChange = false
+		isIgnoredChange := false
 
 		// Fdroid seems to update the "added" timestamp of apps every time we run the command
 		if len(change.Path) > 0 && (strings.EqualFold(change.Path[len(change.Path)-1], "added") || strings.EqualFold(change.Path[len(change.Path)-1], "lastUpdated")) {

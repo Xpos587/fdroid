@@ -1,12 +1,9 @@
-config.py
-keystore.jks
-out.txt
 **.tmp
-.vscode
-keystore.p12
 fdroid/tmp
 fdroid/repo/status
 fdroid/metadata/**/phoneScreenshots
+fdroid/config.yml
+fdroid/keystore.p12
 
 metascoop/metascoop
 .DS_Store
