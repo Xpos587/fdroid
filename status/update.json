@@ -1,8 +1,21 @@
 {
   "/etc/issue.net": "Ubuntu 24.04.2 LTS",
   "antiFeatures": {
+    "NonFreeNet": {
+      "apps": [
+        "tw.nekomimi.nekogram",
+        "uz.unnarsx.cherrygram"
+      ]
+    },
+    "TetheredNet": {
+      "apps": [
+        "tw.nekomimi.nekogram",
+        "uz.unnarsx.cherrygram"
+      ]
+    },
     "UpstreamNonFree": {
       "apps": [
+        "md.obsidian",
         "su.happ.proxyutility"
       ]
     }
@@ -15,7 +28,7 @@
     "--delete-unknown"
   ],
   "disabled": [],
-  "endTimestamp": 1750246990430,
+  "endTimestamp": 1750265530515,
   "failedBuilds": {},
   "jarsigner": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.15-6/x64/bin/jarsigner",
   "keytool": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.15-6/x64/bin/keytool",
@@ -24,19 +37,22 @@
     "app.hiddify.com",
     "com.v2ray.ang",
     "com.zaneschepke.wireguardautotunnel",
+    "md.obsidian",
     "moe.nb4a",
-    "su.happ.proxyutility"
+    "su.happ.proxyutility",
+    "tw.nekomimi.nekogram",
+    "uz.unnarsx.cherrygram"
   ],
   "noUpdateCheck": [],
   "stages": {
-    "delete_disabled_builds": 1750246986029,
-    "index.make repo": 1750246987604,
-    "prepare_apps repo": 1750246986390,
-    "process_apks": 1750246986029,
-    "read_added_date_from_all_apks": 1750246986390,
-    "remove_apks": 1750246986389,
-    "scan_repo_files": 1750246986389
+    "delete_disabled_builds": 1750265526073,
+    "index.make repo": 1750265527648,
+    "prepare_apps repo": 1750265526440,
+    "process_apks": 1750265526074,
+    "read_added_date_from_all_apks": 1750265526440,
+    "remove_apks": 1750265526440,
+    "scan_repo_files": 1750265526439
   },
-  "startTimestamp": 1750246985000,
+  "startTimestamp": 1750265526000,
   "subcommand": "update"
 }

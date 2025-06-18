@@ -1,0 +1,68 @@
+{
+  "repo": {
+    "timestamp": 1750265527000
+  },
+  "packages": {
+    "app.hiddify.com": {
+      "metadata": {
+        "license": "NOASSERTION",
+        "authorName": "hiddify",
+        "summary": {
+          "en-US": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria,..."
+        },
+        "description": {
+          "en-US": "A multi-platform proxy client based on Sing-box and Xray core, supporting a wide range of protocols and advanced features.\n\n<b>Features</b>\n\n- Multi-platform support: Android, iOS, Windows, macOS, Linux\n- Intuitive and accessible UI with dark/light themes\n- Delay-based automatic node selection\n- Wide protocol support: VLESS, VMess, Reality, TUIC, Hysteria, WireGuard, SSH, Trojan, Shadowsocks\n- Dual core support: both Sing-box and Xray core (selectable per node)\n- Subscription formats: Sing-box, V2Ray, Clash, Clash Meta\n- Automatic subscription update with profile info (remaining days, traffic usage)\n- Advanced features: TUN mode, Split HTTP, config editor\n- Open source, ad-free, community-driven\n- Optimized for Iran, China, Russia and other countries\n- Available on official stores and direct download\n\n<b>Important Note</b>\n\nHiddify does not provide VPN services. Users must acquire or set up their own servers. Please comply with local laws when using the app.\n"
+        }
+      }
+    },
+    "com.v2ray.ang": {
+      "metadata": {
+        "license": "GPL-3.0"
+      },
+      "versions": {
+        "5d9d836f059fa1a13215e1fab79f9dcf1317374e6130c46e473c8b8fb310f2cc": {
+          "releaseChannels": null
+        },
+        "53005c4717998ee0d7131c2647ff5b64bd064ee990b3c23154bb7b9827177bc5": {
+          "releaseChannels": null
+        }
+      }
+    },
+    "md.obsidian": {
+      "metadata": {
+        "authorName": "obsidianmd",
+        "summary": {
+          "en-US": "Community plugins list, theme list, and releases of Obsidian."
+        },
+        "description": {
+          "en-US": "A powerful knowledge base on top of a local folder of plain text Markdown files\n\n<b>Key Features</b>\n\n- Linked thought: connect ideas with [[wiki-style]] links\n- Graph view: see connections between your notes\n- Local files: your data stays on your device\n- Extensive plugin ecosystem with 1000+ community plugins\n- Customizable themes and CSS support\n- Canvas for visual note-taking\n- Daily notes and templates\n- Powerful search and query capabilities\n- Sync across devices (paid service)\n- Publish notes to web (paid service)\n\n<b>Perfect for</b>\n\n- Personal knowledge management\n- Research and note-taking\n- Project planning and documentation\n- Creative writing and content creation\n\n<b>Note</b>\n\nObsidian is proprietary software but free for personal use. The extensive plugin system allows deep customization for your workflow.\n"
+        }
+      }
+    },
+    "moe.nb4a": {
+      "metadata": {
+        "license": "NOASSERTION"
+      }
+    },
+    "su.happ.proxyutility": {
+      "versions": {
+        "5da2a530dabe5fffe9987a42a4f0628670692b7a87ce83a6dce89212ff037186": {
+          "releaseChannels": null
+        }
+      }
+    },
+    "tw.nekomimi.nekogram": {
+      "metadata": {
+        "license": "GPL-2.0",
+        "summary": {
+          "en-US": "Open-source third-party Telegram client with not many but useful modifications."
+        }
+      }
+    },
+    "uz.unnarsx.cherrygram": {
+      "metadata": {
+        "license": "GPL-2.0"
+      }
+    }
+  }
+}
