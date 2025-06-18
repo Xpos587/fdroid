@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Xpos587/fdroid/main/fdroid/repo",
-    "timestamp": 1750193682000,
+    "timestamp": 1750231115000,
     "categories": {
       "Connectivity": {
         "name": {
@@ -1178,6 +1178,193 @@
               },
               {
                 "name": "android.permission.CAMERA"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "moe.nb4a": {
+      "metadata": {
+        "added": 1750231093000,
+        "categories": [
+          "Connectivity",
+          "Security"
+        ],
+        "issueTracker": "https://github.com/MatsuriDayo/NekoBoxForAndroid/issues",
+        "lastUpdated": 1750231094000,
+        "license": "NOASSERTION",
+        "sourceCode": "https://github.com/MatsuriDayo/NekoBoxForAndroid",
+        "webSite": "https://matsuridayo.github.io",
+        "authorName": "MatsuriDayo",
+        "name": {
+          "en-US": "NekoBox"
+        },
+        "summary": {
+          "en-US": "NekoBox for Android / sing-box / universal proxy toolchain for Android"
+        },
+        "description": {
+          "en-US": "Universal proxy toolchain for Android powered by sing-box core with support for multiple protocols[1]\n\n<b>Features</b>\n\n- Support for multiple proxy protocols: SOCKS (4/4a/5), HTTP(S), SSH, Shadowsocks, VMess, Trojan, VLESS, AnyTLS, ShadowTLS, TUIC, Hysteria 1/2, WireGuard[1]\n- Plugin support for extended protocols (Trojan-Go, NaïveProxy, Mieru)[1]\n- Multiple subscription format support (Shadowsocks, ClashMeta, v2rayN, sing-box outbound)[1]\n- Intuitive Android interface based on shadowsocks-android and SagerNet[1]\n- Built-in web dashboard powered by Yacd-meta[1]\n- Powered by robust sing-box core technology[1]\n\n<b>Important Note</b>\n\nNekoBox does not provide VPN services. Users are responsible for acquiring or setting up their own servers. Please comply with applicable laws in your jurisdiction when utilizing the app.\n\n<b>Warning</b>\n\nGoogle Play version has been controlled by third party since May 2024 and is non-open source[1]. Use only official GitHub releases.\n"
+        },
+        "preferredSigner": "35762758ce86a6ec297d9ccac689469bc43b9fed8ae1b27f100a86bbac00a055"
+      },
+      "versions": {
+        "44ef5d5e1c3cc1a512e2b38a1155f9dbc87387400ef37affcf1e398326053bec": {
+          "added": 1750231094000,
+          "file": {
+            "name": "/nekobox_1.3.9.apk",
+            "sha256": "44ef5d5e1c3cc1a512e2b38a1155f9dbc87387400ef37affcf1e398326053bec",
+            "size": 15288987
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.3.9",
+            "versionCode": 215,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "35762758ce86a6ec297d9ccac689469bc43b9fed8ae1b27f100a86bbac00a055"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "moe.nb4a.SERVICE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.CHANGE_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SYSTEM_EXEMPTED"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.EXPAND_STATUS_BAR"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.FLASHLIGHT"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "moe.nb4a.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "e3468d2c9c5ee0c8a6381782f7e9530c184f73b20340b65328e5f33cb5c25ac0": {
+          "added": 1750231093000,
+          "file": {
+            "name": "/nekobox_1.3.8.apk",
+            "sha256": "e3468d2c9c5ee0c8a6381782f7e9530c184f73b20340b65328e5f33cb5c25ac0",
+            "size": 15066459
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.3.8",
+            "versionCode": 210,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "35762758ce86a6ec297d9ccac689469bc43b9fed8ae1b27f100a86bbac00a055"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "moe.nb4a.SERVICE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.CHANGE_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.EXPAND_STATUS_BAR"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.FLASHLIGHT"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "moe.nb4a.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
           }

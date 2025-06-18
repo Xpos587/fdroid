@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1750193682000,
+    "timestamp": 1750231115000,
     "version": 20002,
     "name": "Xpos587 Apps Repository",
     "icon": "icon.png",
@@ -37,6 +37,30 @@
         "en-US": {
           "icon": "icon_bVkO3MQVFiyBXJKrKcYoD8lvKrn_tjcNvn102YKeXaQ=.png",
           "whatsNew": "* Support to import data (subscriptions, servers, routing configs) from .json and .happ files\n* UI update for subscription and server list\n* Power button theme fix\n* Background settings restrictions moved to VPN settings\n* Network fetch timeout increased to 9 seconds\n* Several UI improvements"
+        }
+      }
+    },
+    {
+      "authorName": "MatsuriDayo",
+      "categories": [
+        "Connectivity",
+        "Security"
+      ],
+      "suggestedVersionName": "1.3.9",
+      "suggestedVersionCode": "215",
+      "description": "Universal proxy toolchain for Android powered by sing-box core with support for multiple protocols[1]\n\n<b>Features</b>\n\n- Support for multiple proxy protocols: SOCKS (4/4a/5), HTTP(S), SSH, Shadowsocks, VMess, Trojan, VLESS, AnyTLS, ShadowTLS, TUIC, Hysteria 1/2, WireGuard[1]\n- Plugin support for extended protocols (Trojan-Go, Na\u00efveProxy, Mieru)[1]\n- Multiple subscription format support (Shadowsocks, ClashMeta, v2rayN, sing-box outbound)[1]\n- Intuitive Android interface based on shadowsocks-android and SagerNet[1]\n- Built-in web dashboard powered by Yacd-meta[1]\n- Powered by robust sing-box core technology[1]\n\n<b>Important Note</b>\n\nNekoBox does not provide VPN services. Users are responsible for acquiring or setting up their own servers. Please comply with applicable laws in your jurisdiction when utilizing the app.\n\n<b>Warning</b>\n\nGoogle Play version has been controlled by third party since May 2024 and is non-open source[1]. Use only official GitHub releases.\n",
+      "issueTracker": "https://github.com/MatsuriDayo/NekoBoxForAndroid/issues",
+      "license": "NOASSERTION",
+      "name": "NekoBox",
+      "sourceCode": "https://github.com/MatsuriDayo/NekoBoxForAndroid",
+      "summary": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
+      "webSite": "https://matsuridayo.github.io",
+      "added": 1750231093000,
+      "packageName": "moe.nb4a",
+      "lastUpdated": 1750231094000,
+      "localized": {
+        "en-US": {
+          "whatsNew": "# NekoBox For Android \u6b63\u5f0f\u7248\u66f4\u65b0 1.3.9\n\n## \u81ea 1.3.8 \u7684\u66f4\u6539\n\n- \u66f4\u65b0 ClashMeta \u914d\u7f6e\u89e3\u6790\u5668\uff0c\u4fee\u590d\u4e00\u4e9bbug\uff0c\u4fee\u590d\u4e00\u4e9b\u673a\u573a\u9762\u677f\u914d\u7f6e\u5bfc\u5165\u95ee\u9898\uff0c\u5220\u9664\u4e00\u4e9b\u9519\u8bef\u548c\u8fc7\u65f6\u7684\u5199\u6cd5\n- \u5220\u9664\u9ad8\u7ea7\u63d2\u4ef6\u529f\u80fd\n- \u4fee\u590d\u4e00\u4e9b\u914d\u7f6e\u5bfc\u5165\u89e3\u6790\u95ee\u9898 #936\n- Use systemExempt foreground service type for VPNService\uff08\u4fee\u590d\u90e8\u5206\u7cfb\u7edf\u5d29\u6e83\uff09\n- Update translate #903 #926\n\n### \u66f4\u65b0 core \u7248\u672c 1.11.7-neko-5\n\n1. \u4fee\u590d sniff\n2. \u4fee\u590d wireguard reserved\n3. \u540c\u6b65\u4e0a\u6e38\u7684\u4e00\u4e9b\u66f4\u65b0\n\n## \u5f03\u7528\u529f\u80fd\n\n\u7531\u4e8e\u65e0\u6cd5\u7ef4\u62a4\uff0c\u9ad8\u7ea7\u63d2\u4ef6\u529f\u80fd\u5df2\u88ab\u79fb\u9664\u3002\n"
         }
       }
     },
@@ -1267,6 +1291,190 @@
         ],
         "versionCode": 37000,
         "versionName": "3.7.0"
+      }
+    ],
+    "moe.nb4a": [
+      {
+        "added": 1750231094000,
+        "apkName": "nekobox_1.3.9.apk",
+        "hash": "44ef5d5e1c3cc1a512e2b38a1155f9dbc87387400ef37affcf1e398326053bec",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "moe.nb4a",
+        "sig": "b8c9c504acbc253edec282f8e62d7079",
+        "signer": "35762758ce86a6ec297d9ccac689469bc43b9fed8ae1b27f100a86bbac00a055",
+        "size": 15288987,
+        "targetSdkVersion": 35,
+        "uses-permission": [
+          [
+            "moe.nb4a.SERVICE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SYSTEM_EXEMPTED",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.FLASHLIGHT",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "moe.nb4a.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 215,
+        "versionName": "1.3.9"
+      },
+      {
+        "added": 1750231093000,
+        "apkName": "nekobox_1.3.8.apk",
+        "hash": "e3468d2c9c5ee0c8a6381782f7e9530c184f73b20340b65328e5f33cb5c25ac0",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "moe.nb4a",
+        "sig": "b8c9c504acbc253edec282f8e62d7079",
+        "signer": "35762758ce86a6ec297d9ccac689469bc43b9fed8ae1b27f100a86bbac00a055",
+        "size": 15066459,
+        "targetSdkVersion": 35,
+        "uses-permission": [
+          [
+            "moe.nb4a.SERVICE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.FLASHLIGHT",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "moe.nb4a.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 210,
+        "versionName": "1.3.8"
       }
     ],
     "su.happ.proxyutility": [
