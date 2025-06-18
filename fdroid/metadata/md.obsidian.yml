@@ -1,0 +1,46 @@
+AntiFeatures:
+  - UpstreamNonFree
+AuthorName: Obsidian
+Builds:
+  - disable: Uses prebuilt libraries
+    versionCode: 1000000
+    versionName: "1.7.4"
+Categories:
+  - Writing
+  - Science & Education
+CurrentVersion: "1.7.4"
+CurrentVersionCode: 1000000
+Description: |
+  A powerful knowledge base on top of a local folder of plain text Markdown files
+
+  <b>Key Features</b>
+
+  - Linked thought: connect ideas with [[wiki-style]] links
+  - Graph view: see connections between your notes
+  - Local files: your data stays on your device
+  - Extensive plugin ecosystem with 1000+ community plugins
+  - Customizable themes and CSS support
+  - Canvas for visual note-taking
+  - Daily notes and templates
+  - Powerful search and query capabilities
+
+  <b>Perfect for</b>
+
+  - Personal knowledge management
+  - Research and note-taking
+  - Project planning and documentation
+  - Creative writing and content creation
+
+  <b>Note</b>
+
+  Obsidian is proprietary software but free for personal use. The extensive plugin system allows deep customization for your workflow.
+IssueTracker: https://github.com/obsidianmd/obsidian-releases/issues
+License: PublicDomain
+Name: Obsidian
+Repo: https://github.com/obsidianmd/obsidian-releases
+RepoType: git
+SourceCode: https://github.com/obsidianmd/obsidian-releases
+Summary: A powerful knowledge base on top of local Markdown files
+UpdateCheckData: tags/(.+)$
+UpdateCheckMode: Tags
+WebSite: https://obsidian.md

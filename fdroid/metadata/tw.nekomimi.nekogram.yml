@@ -1,0 +1,45 @@
+AntiFeatures:
+  - NonFreeNet
+  - TetheredNet
+AuthorName: Nekogram
+Builds:
+  - disable: Uses prebuilt libraries
+    versionCode: 1000000
+    versionName: "10.14.5"
+Categories:
+  - Connectivity
+  - Internet
+CurrentVersion: "10.14.5"
+CurrentVersionCode: 1000000
+Description: |
+  Third-party Telegram client with useful modifications focused on privacy and user experience
+
+  <b>Key Features</b>
+
+  - Enhanced privacy and security options
+  - Improved user interface and customization
+  - Additional chat management features
+  - Extended message formatting options
+  - Advanced notification controls
+  - Multiple account support
+  - Custom themes and appearance settings
+
+  <b>Localization</b>
+
+  - Multilingual support via Crowdin
+  - Community-driven translations
+  - Regular language updates
+
+  <b>Important Note</b>
+
+  This is an unofficial fork of Telegram for Android. While maintaining full compatibility with Telegram's protocol, it offers additional features not available in the official client.
+IssueTracker: https://github.com/Nekogram/Nekogram/issues
+License: GPL-2.0-or-later
+Name: Nekogram
+Repo: https://github.com/Nekogram/Nekogram
+RepoType: git
+SourceCode: https://github.com/Nekogram/Nekogram
+Summary: Third-party Telegram client with useful modifications
+UpdateCheckData: tags/(.+)$
+UpdateCheckMode: Tags
+WebSite: https://nekogram.app

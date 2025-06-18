@@ -92,7 +92,7 @@ nekobox:
 
     <b>Warning</b>
 
-    Google Play version has been controlled by third party since May 2024 and is non-open source[1]. Use only official GitHub releases.
+    Google Play version has been controlled by third party since May 2024 and is non-open source. Use only official GitHub releases.
 
   categories:
     - Connectivity
@@ -102,7 +102,7 @@ hiddify:
   git: https://github.com/hiddify/hiddify-app
   name: "Hiddify"
   description: |
-    A multi-platform proxy client based on Sing-box and Xray core, supporting a wide range of protocols and advanced features[1].
+    A multi-platform proxy client based on Sing-box and Xray core, supporting a wide range of protocols and advanced features.
 
     <b>Features</b>
 
@@ -122,7 +122,120 @@ hiddify:
 
     Hiddify does not provide VPN services. Users must acquire or set up their own servers. Please comply with local laws when using the app.
 
-  allow_prerelease: true
   categories:
     - Connectivity
     - Security
+
+cherrygram:
+  git: https://github.com/arsLan4k1390/Cherrygram
+  name: "Cherrygram"
+  description: |
+    Third-party Telegram client with privacy-focused modifications and useful features
+
+    <b>Key Features</b>
+
+    - Support up to 10 accounts simultaneously
+    - Material You (Monet) themes and app icon
+    - No content restrictions
+    - Allow to set proxy before login
+    - Native biometrics support for enhanced security
+    - Profile pictures upload date display
+    - Mutual contact icons in contacts list
+    - Advanced chat management with blur support
+
+    <b>Privacy & Security</b>
+
+    - Disable Google Analytics option
+    - Biometric protection for archive and specific chats
+    - "Kaboom" feature (erase all data in 1 click)
+    - Hide archive from chats list
+    - Silence notifications from non-contacts
+
+    <b>Chat Enhancements</b>
+
+    - Scrollable and clickable chat preview
+    - Messages history from any user/channel
+    - Delete all own messages from groups
+    - Copy photos to clipboard
+    - Stickers downloader
+    - Fast search by holding dialog name
+
+    <b>Customization</b>
+
+    - VKUI/Solar icons in app
+    - Custom reply and profile backgrounds
+    - Configurable message bubbles and menu
+    - Various tab styles and drawer customizations
+    - Snow effects in header and chats
+
+    <b>Important Note</b>
+
+    This is an unofficial fork of Telegram. While maintaining full compatibility with Telegram's protocol, it offers additional privacy and customization features not available in the official client.
+
+  categories:
+    - Connectivity
+    - Internet
+
+nekogram:
+  git: https://github.com/Nekogram/Nekogram
+  name: "Nekogram"
+  description: |
+    Third-party Telegram client with useful modifications focused on privacy and user experience
+
+    <b>Key Features</b>
+
+    - Enhanced privacy and security options
+    - Improved user interface and customization
+    - Additional chat management features
+    - Extended message formatting options
+    - Advanced notification controls
+    - Multiple account support
+    - Custom themes and appearance settings
+
+    <b>Localization</b>
+
+    - Multilingual support via Crowdin
+    - Community-driven translations
+    - Regular language updates
+
+    <b>Important Note</b>
+
+    This is an unofficial fork of Telegram for Android. While maintaining full compatibility with Telegram's protocol, it offers additional features not available in the official client.
+
+  categories:
+    - Connectivity
+    - Internet
+
+obsidian:
+  git: https://github.com/obsidianmd/obsidian-releases
+  name: "Obsidian"
+  description: |
+    A powerful knowledge base on top of a local folder of plain text Markdown files
+
+    <b>Key Features</b>
+
+    - Linked thought: connect ideas with [[wiki-style]] links
+    - Graph view: see connections between your notes
+    - Local files: your data stays on your device
+    - Extensive plugin ecosystem with 1000+ community plugins
+    - Customizable themes and CSS support
+    - Canvas for visual note-taking
+    - Daily notes and templates
+    - Powerful search and query capabilities
+    - Sync across devices (paid service)
+    - Publish notes to web (paid service)
+
+    <b>Perfect for</b>
+
+    - Personal knowledge management
+    - Research and note-taking
+    - Project planning and documentation
+    - Creative writing and content creation
+
+    <b>Note</b>
+
+    Obsidian is proprietary software but free for personal use. The extensive plugin system allows deep customization for your workflow.
+
+  categories:
+    - Writing
+    - Science & Education

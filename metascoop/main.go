@@ -107,13 +107,10 @@ func main() {
 			func() {
 				defer fmt.Println("::endgroup::")
 
-				if release.GetPrerelease() {
-					if !strings.Contains(app.GitURL, "hiddify/hiddify-app") {
-						log.Printf("Skipping prerelease %q", release.GetTagName())
-						return
-					}
-					log.Printf("Processing prerelease %q for Hiddify", release.GetTagName())
-				}
+				// if release.GetPrerelease() {
+				// 	log.Printf("Skipping prerelease %q", release.GetTagName())
+				// 	return
+				// }
 				if release.GetDraft() {
 					log.Printf("Skipping draft %q", release.GetTagName())
 					return
