@@ -97,3 +97,31 @@ nekobox:
   categories:
     - Connectivity
     - Security
+
+hiddify:
+  git: https://github.com/hiddify/hiddify-app
+  name: "Hiddify"
+  description: |
+    A multi-platform proxy client based on Sing-box and Xray core, supporting a wide range of protocols and advanced features[1].
+
+    <b>Features</b>
+
+    - Multi-platform support: Android, iOS, Windows, macOS, Linux[1]
+    - Intuitive and accessible UI with dark/light themes[1]
+    - Delay-based automatic node selection[1]
+    - Wide protocol support: VLESS, VMess, Reality, TUIC, Hysteria, WireGuard, SSH, Trojan, Shadowsocks[1]
+    - Dual core support: both Sing-box and Xray core (selectable per node)[1]
+    - Subscription formats: Sing-box, V2Ray, Clash, Clash Meta[1]
+    - Automatic subscription update with profile info (remaining days, traffic usage)[1]
+    - Advanced features: TUN mode, Split HTTP, config editor[1]
+    - Open source, ad-free, community-driven[1]
+    - Optimized for Iran, China, Russia and other countries[1]
+    - Available on official stores and direct download[1]
+
+    <b>Important Note</b>
+
+    Hiddify does not provide VPN services. Users must acquire or set up their own servers. Please comply with local laws when using the app.
+
+  categories:
+    - Connectivity
+    - Security

@@ -1,0 +1,40 @@
+AuthorName: Hiddify
+Builds:
+  - disable: Uses prebuilt libraries
+    versionCode: 257000
+    versionName: 2.5.7
+Categories:
+  - Connectivity
+  - Security
+CurrentVersion: 2.5.7
+CurrentVersionCode: 257000
+Description: |
+  A multi-platform proxy client based on Sing-box and Xray core, supporting a wide range of protocols and advanced features. Hiddify offers comprehensive proxy management with dual core support and automatic node selection.
+
+  <b>Features</b>
+
+  - Multi-platform support: Android, iOS, Windows, macOS, Linux
+  - Intuitive and accessible UI with dark/light themes
+  - Delay-based automatic node selection
+  - Wide protocol support: VLESS, VMess, Reality, TUIC, Hysteria, WireGuard, SSH, Trojan, Shadowsocks
+  - Dual core support: both Sing-box and Xray core (selectable per node)
+  - Subscription formats: Sing-box, V2Ray, Clash, Clash Meta
+  - Automatic subscription update with profile info (remaining days, traffic usage)
+  - Advanced features: TUN mode, Split HTTP, config editor
+  - Open source, ad-free, community-driven
+  - Optimized for Iran, China, Russia and other countries
+  - Available on official stores and direct download
+
+  <b>Important Note</b>
+
+  Hiddify does not provide VPN services. Users must acquire or set up their own servers. Please comply with local laws when using the app.
+IssueTracker: https://github.com/hiddify/hiddify-app/issues
+License: GPL-3.0-or-later
+Name: Hiddify
+Repo: https://github.com/hiddify/hiddify-app
+RepoType: git
+SourceCode: https://github.com/hiddify/hiddify-app
+Summary: Multi-platform proxy client with Sing-box and Xray core support
+UpdateCheckData: tags/(.+)$
+UpdateCheckMode: Tags
+WebSite: https://hiddify.com/app/
