@@ -1,29 +1,29 @@
 AuthorName: wgtunnel
 Builds:
-  - disable: Uses prebuilt libraries
-    versionCode: 39200
-    versionName: 3.9.2
+    - disable: Uses prebuilt libraries
+      versionCode: 39200
+      versionName: 3.9.2
 Categories:
-  - Connectivity
-  - Security
+    - Connectivity
+    - Security
 CurrentVersion: 3.9.1
 CurrentVersionCode: 39100
 Description: |
-  An alternative VPN client app for WireGuard with additional features
+    An alternative VPN client app for WireGuard with additional features
 
-  <b>Features</b>
+    <b>Features</b>
 
-  - Add tunnels via .conf file, zip, manual entry, or QR code
-  - Auto connect to VPN based on Wi-Fi SSID, ethernet, or mobile data
-  - Split tunneling by application with search
-  - WireGuard support for kernel and userspace modes
-  - Always-On VPN support
-  - Export tunnels to zip
-  - Quick tile support for VPN toggling
-  - Static shortcuts support for primary tunnel for automation integration
-  - Intent automation support for all tunnels
-  - Automatic service restart after reboot
-  - Battery preservation measures
+    - Add tunnels via .conf file, zip, manual entry, or QR code
+    - Auto connect to VPN based on Wi-Fi SSID, ethernet, or mobile data
+    - Split tunneling by application with search
+    - WireGuard support for kernel and userspace modes
+    - Always-On VPN support
+    - Export tunnels to zip
+    - Quick tile support for VPN toggling
+    - Static shortcuts support for primary tunnel for automation integration
+    - Intent automation support for all tunnels
+    - Automatic service restart after reboot
+    - Battery preservation measures
 IssueTracker: https://github.com/wgtunnel/wgtunnel/issues
 License: MIT
 Name: WG Tunnel

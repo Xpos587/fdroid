@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1750231115000,
+    "timestamp": 1750232743000,
     "version": 20002,
     "name": "Xpos587 Apps Repository",
     "icon": "icon.png",
@@ -54,12 +54,13 @@
       "name": "NekoBox",
       "sourceCode": "https://github.com/MatsuriDayo/NekoBoxForAndroid",
       "summary": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
-      "webSite": "https://matsuridayo.github.io",
+      "webSite": "https://matsuridayo.github.io/",
       "added": 1750231093000,
       "packageName": "moe.nb4a",
       "lastUpdated": 1750231094000,
       "localized": {
         "en-US": {
+          "icon": "icon_XpouIPn2ogA9CgvdM-F4-srfXna67WgqnmyP_pnv8Oo=.png",
           "whatsNew": "# NekoBox For Android \u6b63\u5f0f\u7248\u66f4\u65b0 1.3.9\n\n## \u81ea 1.3.8 \u7684\u66f4\u6539\n\n- \u66f4\u65b0 ClashMeta \u914d\u7f6e\u89e3\u6790\u5668\uff0c\u4fee\u590d\u4e00\u4e9bbug\uff0c\u4fee\u590d\u4e00\u4e9b\u673a\u573a\u9762\u677f\u914d\u7f6e\u5bfc\u5165\u95ee\u9898\uff0c\u5220\u9664\u4e00\u4e9b\u9519\u8bef\u548c\u8fc7\u65f6\u7684\u5199\u6cd5\n- \u5220\u9664\u9ad8\u7ea7\u63d2\u4ef6\u529f\u80fd\n- \u4fee\u590d\u4e00\u4e9b\u914d\u7f6e\u5bfc\u5165\u89e3\u6790\u95ee\u9898 #936\n- Use systemExempt foreground service type for VPNService\uff08\u4fee\u590d\u90e8\u5206\u7cfb\u7edf\u5d29\u6e83\uff09\n- Update translate #903 #926\n\n### \u66f4\u65b0 core \u7248\u672c 1.11.7-neko-5\n\n1. \u4fee\u590d sniff\n2. \u4fee\u590d wireguard reserved\n3. \u540c\u6b65\u4e0a\u6e38\u7684\u4e00\u4e9b\u66f4\u65b0\n\n## \u5f03\u7528\u529f\u80fd\n\n\u7531\u4e8e\u65e0\u6cd5\u7ef4\u62a4\uff0c\u9ad8\u7ea7\u63d2\u4ef6\u529f\u80fd\u5df2\u88ab\u79fb\u9664\u3002\n"
         }
       }
@@ -102,7 +103,7 @@
       "name": "WG Tunnel",
       "sourceCode": "https://github.com/wgtunnel/wgtunnel",
       "summary": "A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling.",
-      "webSite": "https://wgtunnel.com",
+      "webSite": "https://wgtunnel.com/",
       "added": 1750193667000,
       "packageName": "com.zaneschepke.wireguardautotunnel",
       "lastUpdated": 1750193672000,

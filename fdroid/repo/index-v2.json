@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/Xpos587/fdroid/main/fdroid/repo",
-    "timestamp": 1750231115000,
+    "timestamp": 1750232743000,
     "categories": {
       "Connectivity": {
         "name": {
@@ -398,7 +398,7 @@
         "lastUpdated": 1750193672000,
         "license": "MIT",
         "sourceCode": "https://github.com/wgtunnel/wgtunnel",
-        "webSite": "https://wgtunnel.com",
+        "webSite": "https://wgtunnel.com/",
         "featureGraphic": {
           "en-US": {
             "name": "/com.zaneschepke.wireguardautotunnel/en-US/featureGraphic_w_IthR1DGfyUJHyeJS7P3Q1U9ySK3bumittdxKqWfyw=.png",
@@ -1195,7 +1195,7 @@
         "lastUpdated": 1750231094000,
         "license": "NOASSERTION",
         "sourceCode": "https://github.com/MatsuriDayo/NekoBoxForAndroid",
-        "webSite": "https://matsuridayo.github.io",
+        "webSite": "https://matsuridayo.github.io/",
         "authorName": "MatsuriDayo",
         "name": {
           "en-US": "NekoBox"
@@ -1205,6 +1205,13 @@
         },
         "description": {
           "en-US": "Universal proxy toolchain for Android powered by sing-box core with support for multiple protocols[1]\n\n<b>Features</b>\n\n- Support for multiple proxy protocols: SOCKS (4/4a/5), HTTP(S), SSH, Shadowsocks, VMess, Trojan, VLESS, AnyTLS, ShadowTLS, TUIC, Hysteria 1/2, WireGuard[1]\n- Plugin support for extended protocols (Trojan-Go, NaïveProxy, Mieru)[1]\n- Multiple subscription format support (Shadowsocks, ClashMeta, v2rayN, sing-box outbound)[1]\n- Intuitive Android interface based on shadowsocks-android and SagerNet[1]\n- Built-in web dashboard powered by Yacd-meta[1]\n- Powered by robust sing-box core technology[1]\n\n<b>Important Note</b>\n\nNekoBox does not provide VPN services. Users are responsible for acquiring or setting up their own servers. Please comply with applicable laws in your jurisdiction when utilizing the app.\n\n<b>Warning</b>\n\nGoogle Play version has been controlled by third party since May 2024 and is non-open source[1]. Use only official GitHub releases.\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/moe.nb4a/en-US/icon_XpouIPn2ogA9CgvdM-F4-srfXna67WgqnmyP_pnv8Oo=.png",
+            "sha256": "5e9a2e20f9f6a2003d0a0bdd33e178facadf5e76baed682a9e6c8ffe99eff0ea",
+            "size": 29395
+          }
         },
         "preferredSigner": "35762758ce86a6ec297d9ccac689469bc43b9fed8ae1b27f100a86bbac00a055"
       },
