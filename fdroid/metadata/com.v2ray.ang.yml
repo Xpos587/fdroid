@@ -1,31 +1,31 @@
 AuthorName: 2dust
 Builds:
-  - disable: Uses prebuilt libraries
-    versionCode: 110400
-    versionName: 1.10.4
+    - disable: Uses prebuilt libraries
+      versionCode: 110400
+      versionName: 1.10.4
 Categories:
-  - Connectivity
-  - Security
-CurrentVersion: 1.10.4
-CurrentVersionCode: 4000654
+    - Connectivity
+    - Security
+CurrentVersion: 1.10.6
+CurrentVersionCode: 4000656
 Description: |
-  A V2Ray client for Android, support Xray core and v2fly core
+    A V2Ray client for Android, support Xray core and v2fly core
 
-  <b>Features</b>
+    <b>Features</b>
 
-  - Support for multiple protocols: V2Ray, Xray, Shadowsocks, Trojan, VMess, VLESS
-  - Advanced routing with geoip and geosite data
-  - Subscription support for automatic server updates
-  - Built-in speed test and latency measurement
-  - QR code scanning for easy server configuration
-  - Import/export configuration files
-  - Multiple proxy modes and routing rules
-  - Support for XTLS encryption
-  - Custom DNS settings
-  - Statistics and traffic monitoring
-  - Dark and light themes
+    - Support for multiple protocols: V2Ray, Xray, Shadowsocks, Trojan, VMess, VLESS
+    - Advanced routing with geoip and geosite data
+    - Subscription support for automatic server updates
+    - Built-in speed test and latency measurement
+    - QR code scanning for easy server configuration
+    - Import/export configuration files
+    - Multiple proxy modes and routing rules
+    - Support for XTLS encryption
+    - Custom DNS settings
+    - Statistics and traffic monitoring
+    - Dark and light themes
 IssueTracker: https://github.com/2dust/v2rayNG/issues
-License: GPL-3.0-or-later
+License: GPL-3.0
 Name: v2rayNG
 Repo: https://github.com/2dust/v2rayNG
 RepoType: git

@@ -1,0 +1,6 @@
+- Support to import data (subscriptions, servers, routing configs) from .json and .happ files
+- UI update for subscription and server list
+- Power button theme fix
+- Background settings restrictions moved to VPN settings
+- Network fetch timeout increased to 9 seconds
+- Several UI improvements

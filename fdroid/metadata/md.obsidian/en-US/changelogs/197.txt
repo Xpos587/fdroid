@@ -1,0 +1,3 @@
+https://obsidian.md/changelog/2025-04-22-desktop-v1.8.10/
+
+Note: The linux arm64 builds have been re-uploaded with a different version of Electron (v34.5.2) to fix a critical crash.

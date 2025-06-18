@@ -1,60 +1,60 @@
 AntiFeatures:
-  - NonFreeNet
-  - TetheredNet
+    - NonFreeNet
+    - TetheredNet
 AuthorName: arsLan4k1390
 Builds:
-  - disable: Uses prebuilt libraries
-    versionCode: 1000000
-    versionName: "10.14.5"
+    - disable: Uses prebuilt libraries
+      versionCode: 1000000
+      versionName: 10.14.5
 Categories:
-  - Connectivity
-  - Internet
-CurrentVersion: "10.14.5"
-CurrentVersionCode: 1000000
+    - Connectivity
+    - Internet
+CurrentVersion: 11.9.1
+CurrentVersionCode: 59100
 Description: |
-  Third-party Telegram client with privacy-focused modifications and useful features
+    Third-party Telegram client with privacy-focused modifications and useful features
 
-  <b>Key Features</b>
+    <b>Key Features</b>
 
-  - Support up to 10 accounts simultaneously
-  - Material You (Monet) themes and app icon
-  - No content restrictions
-  - Allow to set proxy before login
-  - Native biometrics support for enhanced security
-  - Profile pictures upload date display
-  - Mutual contact icons in contacts list
-  - Advanced chat management with blur support
+    - Support up to 10 accounts simultaneously
+    - Material You (Monet) themes and app icon
+    - No content restrictions
+    - Allow to set proxy before login
+    - Native biometrics support for enhanced security
+    - Profile pictures upload date display
+    - Mutual contact icons in contacts list
+    - Advanced chat management with blur support
 
-  <b>Privacy & Security</b>
+    <b>Privacy & Security</b>
 
-  - Disable Google Analytics option
-  - Biometric protection for archive and specific chats
-  - "Kaboom" feature (erase all data in 1 click)
-  - Hide archive from chats list
-  - Silence notifications from non-contacts
+    - Disable Google Analytics option
+    - Biometric protection for archive and specific chats
+    - "Kaboom" feature (erase all data in 1 click)
+    - Hide archive from chats list
+    - Silence notifications from non-contacts
 
-  <b>Chat Enhancements</b>
+    <b>Chat Enhancements</b>
 
-  - Scrollable and clickable chat preview
-  - Messages history from any user/channel
-  - Delete all own messages from groups
-  - Copy photos to clipboard
-  - Stickers downloader
-  - Fast search by holding dialog name
+    - Scrollable and clickable chat preview
+    - Messages history from any user/channel
+    - Delete all own messages from groups
+    - Copy photos to clipboard
+    - Stickers downloader
+    - Fast search by holding dialog name
 
-  <b>Customization</b>
+    <b>Customization</b>
 
-  - VKUI/Solar icons in app
-  - Custom reply and profile backgrounds
-  - Configurable message bubbles and menu
-  - Various tab styles and drawer customizations
-  - Snow effects in header and chats
+    - VKUI/Solar icons in app
+    - Custom reply and profile backgrounds
+    - Configurable message bubbles and menu
+    - Various tab styles and drawer customizations
+    - Snow effects in header and chats
 
-  <b>Important Note</b>
+    <b>Important Note</b>
 
-  This is an unofficial fork of Telegram. While maintaining full compatibility with Telegram's protocol, it offers additional privacy and customization features not available in the official client.
+    This is an unofficial fork of Telegram. While maintaining full compatibility with Telegram's protocol, it offers additional privacy and customization features not available in the official client.
 IssueTracker: https://github.com/arsLan4k1390/Cherrygram/issues
-License: GPL-2.0-or-later
+License: GPL-2.0
 Name: Cherrygram
 Repo: https://github.com/arsLan4k1390/Cherrygram
 RepoType: git

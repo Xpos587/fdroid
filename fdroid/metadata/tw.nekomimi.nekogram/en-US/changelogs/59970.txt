@@ -1,0 +1,3 @@
+- <https://telegram.org/blog/direct-to-channel-trim-voice-and-more>
+- <https://telegram.org/blog/gift-marketplace-and-more>
+- Bug fixes and other improvements
