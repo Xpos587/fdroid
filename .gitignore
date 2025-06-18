@@ -2,8 +2,26 @@
 fdroid/tmp
 fdroid/repo/status
 fdroid/metadata/**/phoneScreenshots
-fdroid/config.yml
+
+fdroid/repo/*.apk
+fdroid/repo/*.jar
+fdroid/repo/*.json
+fdroid/repo/*.xml
+fdroid/repo/*.html
+fdroid/repo/*.css
+fdroid/repo/*.png
+fdroid/repo/diff/
+fdroid/repo/status/
+
+# Исключения для структуры
+!fdroid/repo/*/
+!fdroid/repo/*/en-US/
+!fdroid/repo/*/en-US/icon.png
+!fdroid/repo/*/en-US/featureGraphic.png
+!fdroid/repo/*/en-US/phoneScreenshots/
+
+# Конфигурация
 fdroid/keystore.p12
+fdroid/config.yml
 
 metascoop/metascoop
-.DS_Store

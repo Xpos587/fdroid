@@ -2,7 +2,7 @@ name: Generate F-Droid repo
 
 on:
   # schedule:
-  #   - cron: "35 0 * * *"
+  #   - cron: "60 0 * * *"
   repository_dispatch:
     types: [fdroid-update]
   push:
