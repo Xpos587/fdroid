@@ -1,7 +1,13 @@
 AuthorName: Hiddify
+Builds:
+  - disable: Uses prebuilt libraries
+    versionCode: 257000
+    versionName: 2.5.7
 Categories:
   - Connectivity
   - Security
+CurrentVersion: 2.5.7
+CurrentVersionCode: 257000
 Description: |
   A multi-platform proxy client based on Sing-box and Xray core, supporting a wide range of protocols and advanced features. Hiddify offers comprehensive proxy management with dual core support and automatic node selection.
 

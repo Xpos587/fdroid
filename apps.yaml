@@ -122,6 +122,7 @@ hiddify:
 
     Hiddify does not provide VPN services. Users must acquire or set up their own servers. Please comply with local laws when using the app.
 
+  allow_prerelease: true
   categories:
     - Connectivity
     - Security
