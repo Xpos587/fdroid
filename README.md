@@ -44,12 +44,14 @@ This repository hosts a [F-Droid](https://f-droid.org/) repo for curated Android
 ## Apps
 
 <!-- This table is auto-generated. Do not edit -->
-| Icon | Name | Description | Version |
-| --- | --- | --- | --- |
-| <a href="https://github.com/Happ-proxy/happ-android"><img src="fdroid/repo/su.happ.proxyutility/en-US/icon.png" alt="Happ icon" width="36px" height="36px"></a> | [**Happ**](https://github.com/Happ-proxy/happ-android) | A proxy management app powered by Xray core with support for multiple protocols. | 2.8.0 (1193) |
-| <a href="https://github.com/MatsuriDayo/NekoBoxForAndroid"><img src="fdroid/repo/moe.nb4a/en-US/icon.png" alt="NekoBox icon" width="36px" height="36px"></a> | [**NekoBox**](https://github.com/MatsuriDayo/NekoBoxForAndroid) | NekoBox for Android / sing-box / universal proxy toolchain for Android | 1.3.9 (215) |
-| <a href="https://github.com/2dust/v2rayNG"><img src="fdroid/repo/com.v2ray.ang/en-US/icon.png" alt="v2rayNG icon" width="36px" height="36px"></a> | [**v2rayNG**](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, support Xray core and v2fly core | 1.10.4 (4000654) |
-| <a href="https://github.com/wgtunnel/wgtunnel"><img src="fdroid/repo/com.zaneschepke.wireguardautotunnel/en-US/icon.png" alt="WG Tunnel icon" width="36px" height="36px"></a> | [**WG Tunnel**](https://github.com/wgtunnel/wgtunnel) | A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling. | 3.9.1 (39100) |
+
+| Icon                                                                                                                                                                          | Name                                                            | Description                                                                      | Version          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------- |
+| <a href="https://github.com/Happ-proxy/happ-android"><img src="fdroid/repo/su.happ.proxyutility/en-US/icon.png" alt="Happ icon" width="36px" height="36px"></a>               | [**Happ**](https://github.com/Happ-proxy/happ-android)          | A proxy management app powered by Xray core with support for multiple protocols. | 2.8.0 (1193)     |
+| <a href="https://github.com/MatsuriDayo/NekoBoxForAndroid"><img src="fdroid/repo/moe.nb4a/en-US/icon.png" alt="NekoBox icon" width="36px" height="36px"></a>                  | [**NekoBox**](https://github.com/MatsuriDayo/NekoBoxForAndroid) | NekoBox for Android / sing-box / universal proxy toolchain for Android           | 1.3.9 (215)      |
+| <a href="https://github.com/2dust/v2rayNG"><img src="fdroid/repo/com.v2ray.ang/en-US/icon.png" alt="v2rayNG icon" width="36px" height="36px"></a>                             | [**v2rayNG**](https://github.com/2dust/v2rayNG)                 | A V2Ray client for Android, support Xray core and v2fly core                     | 1.10.4 (4000654) |
+| <a href="https://github.com/wgtunnel/wgtunnel"><img src="fdroid/repo/com.zaneschepke.wireguardautotunnel/en-US/icon.png" alt="WG Tunnel icon" width="36px" height="36px"></a> | [**WG Tunnel**](https://github.com/wgtunnel/wgtunnel)           | A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling.           | 3.9.1 (39100)    |
+
 <!-- end apps table -->
 
 ## How to use
@@ -65,7 +67,7 @@ This repository hosts a [F-Droid](https://f-droid.org/) repo for curated Android
 3. **Scan QR Code** - Use the QR code above or manually add the repository URL:
 
    ```txt
-   https://raw.githubusercontent.com/Xpos587/fdroid/main/fdroid/repo?fingerprint=94FA53EC8CA69F08E6D4EF89E99E7CF1C0EB356DDAFD9F37B302C4087446F922
+   https://xpos587.github.io/fdroid/?fingerprint=94FA53EC8CA69F08E6D4EF89E99E7CF1C0EB356DDAFD9F37B302C4087446F922
    ```
 
 4. **Install Apps** - Search for "WG Tunnel", "v2rayNG" or other apps in the Droid-ify client.

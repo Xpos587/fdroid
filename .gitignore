@@ -19,6 +19,7 @@ fdroid/repo/status/
 !fdroid/repo/*/en-US/icon.png
 !fdroid/repo/*/en-US/featureGraphic.png
 !fdroid/repo/*/en-US/phoneScreenshots/
+!fdroid/repo/index-v1.json
 
 # Конфигурация
 fdroid/keystore.p12
