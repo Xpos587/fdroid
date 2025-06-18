@@ -1,0 +1,44 @@
+{
+  "/etc/issue.net": "Ubuntu 24.04.2 LTS",
+  "antiFeatures": {
+    "UpstreamNonFree": {
+      "apps": [
+        "su.happ.proxyutility"
+      ]
+    }
+  },
+  "apksigner": "/usr/bin/apksigner",
+  "archivePolicy0": [],
+  "commandLine": [
+    "/home/runner/.local/bin/fdroid update",
+    "--pretty",
+    "--delete-unknown"
+  ],
+  "disabled": [],
+  "endTimestamp": 1750232745607,
+  "failedBuilds": {},
+  "jarsigner": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.15-6/x64/bin/jarsigner",
+  "keytool": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.15-6/x64/bin/keytool",
+  "needsUpdate": [
+    "app.hiddify.com"
+  ],
+  "noPackages": [
+    "app.hiddify.com",
+    "com.v2ray.ang",
+    "com.zaneschepke.wireguardautotunnel",
+    "moe.nb4a",
+    "su.happ.proxyutility"
+  ],
+  "noUpdateCheck": [],
+  "stages": {
+    "delete_disabled_builds": 1750232741475,
+    "index.make repo": 1750232743050,
+    "prepare_apps repo": 1750232741838,
+    "process_apks": 1750232741476,
+    "read_added_date_from_all_apks": 1750232741838,
+    "remove_apks": 1750232741837,
+    "scan_repo_files": 1750232741837
+  },
+  "startTimestamp": 1750232741000,
+  "subcommand": "update"
+}

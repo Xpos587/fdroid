@@ -1,0 +1,20 @@
+{
+  "repo": {
+    "timestamp": 1750232743000
+  },
+  "packages": {
+    "com.v2ray.ang": {
+      "metadata": {
+        "license": "GPL-3.0"
+      }
+    },
+    "moe.nb4a": {
+      "metadata": {
+        "license": "NOASSERTION",
+        "description": {
+          "en-US": "Universal proxy toolchain for Android powered by sing-box core with support for multiple protocols[1]\n\n<b>Features</b>\n\n- Support for multiple proxy protocols: SOCKS (4/4a/5), HTTP(S), SSH, Shadowsocks, VMess, Trojan, VLESS, AnyTLS, ShadowTLS, TUIC, Hysteria 1/2, WireGuard[1]\n- Plugin support for extended protocols (Trojan-Go, NaïveProxy, Mieru)[1]\n- Multiple subscription format support (Shadowsocks, ClashMeta, v2rayN, sing-box outbound)[1]\n- Intuitive Android interface based on shadowsocks-android and SagerNet[1]\n- Built-in web dashboard powered by Yacd-meta[1]\n- Powered by robust sing-box core technology[1]\n\n<b>Important Note</b>\n\nNekoBox does not provide VPN services. Users are responsible for acquiring or setting up their own servers. Please comply with applicable laws in your jurisdiction when utilizing the app.\n\n<b>Warning</b>\n\nGoogle Play version has been controlled by third party since May 2024 and is non-open source[1]. Use only official GitHub releases.\n"
+        }
+      }
+    }
+  }
+}
