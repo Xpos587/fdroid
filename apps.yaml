@@ -71,33 +71,6 @@ happ:
     - Internet
     - Security
 
-nekobox:
-  git: https://github.com/MatsuriDayo/NekoBoxForAndroid
-  name: "NekoBox"
-  description: |
-    Universal proxy toolchain for Android powered by sing-box core with support for multiple protocols
-
-    <b>Features</b>
-
-    - Support for multiple proxy protocols: SOCKS (4/4a/5), HTTP(S), SSH, Shadowsocks, VMess, Trojan, VLESS, AnyTLS, ShadowTLS, TUIC, Hysteria 1/2, WireGuard
-    - Plugin support for extended protocols (Trojan-Go, NaïveProxy, Mieru)
-    - Multiple subscription format support (Shadowsocks, ClashMeta, v2rayN, sing-box outbound)
-    - Intuitive Android interface based on shadowsocks-android and SagerNet
-    - Built-in web dashboard powered by Yacd-meta
-    - Powered by robust sing-box core technology
-
-    <b>Important Note</b>
-
-    NekoBox does not provide VPN services. Users are responsible for acquiring or setting up their own servers. Please comply with applicable laws in your jurisdiction when utilizing the app.
-
-    <b>Warning</b>
-
-    Google Play version has been controlled by third party since May 2024 and is non-open source. Use only official GitHub releases.
-
-  categories:
-    - Internet
-    - Security
-
 hiddify:
   git: https://github.com/hiddify/hiddify-app
   name: "Hiddify"
