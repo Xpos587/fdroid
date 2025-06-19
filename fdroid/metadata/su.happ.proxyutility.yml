@@ -1,30 +1,31 @@
 AntiFeatures:
-    - UpstreamNonFree
+  - UpstreamNonFree
+  - Tracking
 AuthorName: Happ-proxy
 Builds:
-    - disable: Uses prebuilt libraries
-      versionCode: 28000
-      versionName: 2.8.0
+  - disable: Uses prebuilt libraries
+    versionCode: 28000
+    versionName: 2.8.0
 Categories:
-    - Connectivity
-    - Security
+  - Connectivity
+  - Security
 CurrentVersion: 2.8.1
 CurrentVersionCode: 1195
 Description: |
-    Happ is a mobile application designed for convenient proxy server management, powered by the robust Xray core. The app features an intuitive interface and a range of useful functions, making it an essential tool for managing connections.
+  Happ is a mobile application designed for convenient proxy server management, powered by the robust Xray core. The app features an intuitive interface and a range of useful functions, making it an essential tool for managing connections.
 
-    <b>Features</b>
+  <b>Features</b>
 
-    - Configuration of proxy servers based on flexible routing rules
-    - Support for multiple modern protocols including VLESS (Reality), VMess, Trojan, Shadowsocks, Socks
-    - Private by design - no data collection, information stays on your device
-    - Flexible routing rules for advanced proxy management
-    - Intuitive interface for easy connection management
-    - Powered by robust Xray core technology
+  - Configuration of proxy servers based on flexible routing rules
+  - Support for multiple modern protocols including VLESS (Reality), VMess, Trojan, Shadowsocks, Socks
+  - Private by design - no data collection, information stays on your device
+  - Flexible routing rules for advanced proxy management
+  - Intuitive interface for easy connection management
+  - Powered by robust Xray core technology
 
-    <b>Important Note</b>
+  <b>Important Note</b>
 
-    Happ does not provide VPN services for purchase. Users are responsible for acquiring or setting up their own servers. Please comply with applicable laws in your jurisdiction when utilizing the app.
+  Happ does not provide VPN services for purchase. Users are responsible for acquiring or setting up their own servers. Please comply with applicable laws in your jurisdiction when utilizing the app.
 IssueTracker: https://github.com/Happ-proxy/happ-android/issues
 License: PublicDomain
 Name: Happ

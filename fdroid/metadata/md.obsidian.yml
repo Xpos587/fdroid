@@ -1,41 +1,41 @@
 AntiFeatures:
-    - UpstreamNonFree
+  - UpstreamNonFree
 AuthorName: obsidianmd
 Builds:
-    - disable: Uses prebuilt libraries
-      versionCode: 1000000
-      versionName: 1.7.4
+  - disable: Uses prebuilt libraries
+    versionCode: 1000000
+    versionName: 1.7.4
 Categories:
-    - Writing
-    - Science & Education
+  - Writing
+  - Science & Education
 CurrentVersion: 1.8.10
 CurrentVersionCode: 197
 Description: |
-    A powerful knowledge base on top of a local folder of plain text Markdown files
+  A powerful knowledge base on top of a local folder of plain text Markdown files
 
-    <b>Key Features</b>
+  <b>Key Features</b>
 
-    - Linked thought: connect ideas with [[wiki-style]] links
-    - Graph view: see connections between your notes
-    - Local files: your data stays on your device
-    - Extensive plugin ecosystem with 1000+ community plugins
-    - Customizable themes and CSS support
-    - Canvas for visual note-taking
-    - Daily notes and templates
-    - Powerful search and query capabilities
-    - Sync across devices (paid service)
-    - Publish notes to web (paid service)
+  - Linked thought: connect ideas with [[wiki-style]] links
+  - Graph view: see connections between your notes
+  - Local files: your data stays on your device
+  - Extensive plugin ecosystem with 1000+ community plugins
+  - Customizable themes and CSS support
+  - Canvas for visual note-taking
+  - Daily notes and templates
+  - Powerful search and query capabilities
+  - Sync across devices (paid service)
+  - Publish notes to web (paid service)
 
-    <b>Perfect for</b>
+  <b>Perfect for</b>
 
-    - Personal knowledge management
-    - Research and note-taking
-    - Project planning and documentation
-    - Creative writing and content creation
+  - Personal knowledge management
+  - Research and note-taking
+  - Project planning and documentation
+  - Creative writing and content creation
 
-    <b>Note</b>
+  <b>Note</b>
 
-    Obsidian is proprietary software but free for personal use. The extensive plugin system allows deep customization for your workflow.
+  Obsidian is proprietary software but free for personal use. The extensive plugin system allows deep customization for your workflow.
 IssueTracker: https://github.com/obsidianmd/obsidian-releases/issues
 License: PublicDomain
 Name: Obsidian

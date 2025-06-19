@@ -1,6 +1,7 @@
 AntiFeatures:
   - NonFreeNet
   - TetheredNet
+  - Tracking
 AuthorName: arsLan4k1390
 Builds:
   - disable: Uses prebuilt libraries
