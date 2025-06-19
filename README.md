@@ -40,17 +40,19 @@ This repository hosts a [F-Droid](https://f-droid.org/) repo for curated Android
 ## Apps
 
 <!-- This table is auto-generated. Do not edit -->
-| Icon | Name | Description | Version |
-| --- | --- | --- | --- |
-| <a href="https://github.com/arsLan4k1390/Cherrygram"><img src="fdroid/repo/uz.unnarsx.cherrygram/en-US/icon.png" alt="Cherrygram icon" width="36px" height="36px"></a> | [**Cherrygram**](https://github.com/arsLan4k1390/Cherrygram) | Third-party Telegram client with privacy-focused modifications | 11.9.1 (59100) |
-| <a href="https://github.com/chen08209/FlClash"><img src="fdroid/repo/com.follow.clash/en-US/icon.png" alt="FlClash icon" width="36px" height="36px"></a> | [**FlClash**](https://github.com/chen08209/FlClash) | A multi-platform proxy client based on ClashMeta,simple and easy to use, open... | 0.8.86 (2025061501) |
-| <a href="https://github.com/Happ-proxy/happ-android"><img src="fdroid/repo/su.happ.proxyutility/en-US/icon.png" alt="Happ icon" width="36px" height="36px"></a> | [**Happ**](https://github.com/Happ-proxy/happ-android) | A proxy management app powered by Xray core with support for multiple protocols. | 2.8.1 (1195) |
-| <a href="https://github.com/hiddify/hiddify-app"><img src="fdroid/repo/app.hiddify.com/en-US/icon.png" alt="Hiddify icon" width="36px" height="36px"></a> | [**Hiddify**](https://github.com/hiddify/hiddify-app) | Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria,... | 2.5.7 (20507) |
-| <a href="https://github.com/MatsuriDayo/NekoBoxForAndroid"><img src="fdroid/repo/moe.nb4a/en-US/icon.png" alt="NekoBox icon" width="36px" height="36px"></a> | [**NekoBox**](https://github.com/MatsuriDayo/NekoBoxForAndroid) | NekoBox for Android / sing-box / universal proxy toolchain for Android | 1.3.9 (215) |
-| <a href="https://github.com/Nekogram/Nekogram"><img src="fdroid/repo/tw.nekomimi.nekogram/en-US/icon.png" alt="Nekogram icon" width="36px" height="36px"></a> | [**Nekogram**](https://github.com/Nekogram/Nekogram) | Open-source third-party Telegram client with not many but useful modifications. | 11.12.0 (59970) |
-| <a href="https://github.com/obsidianmd/obsidian-releases"><img src="fdroid/repo/md.obsidian/en-US/icon.png" alt="Obsidian icon" width="36px" height="36px"></a> | [**Obsidian**](https://github.com/obsidianmd/obsidian-releases) | Community plugins list, theme list, and releases of Obsidian. | 1.8.10 (197) |
-| <a href="https://github.com/2dust/v2rayNG"><img src="fdroid/repo/com.v2ray.ang/en-US/icon.png" alt="v2rayNG icon" width="36px" height="36px"></a> | [**v2rayNG**](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, support Xray core and v2fly core | 1.10.7 (4000657) |
-| <a href="https://github.com/wgtunnel/wgtunnel"><img src="fdroid/repo/com.zaneschepke.wireguardautotunnel/en-US/icon.png" alt="WG Tunnel icon" width="36px" height="36px"></a> | [**WG Tunnel**](https://github.com/wgtunnel/wgtunnel) | A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling. | 3.9.3 (39300) |
+
+| Icon                                                                                                                                                                          | Name                                                            | Description                                                                      | Version             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------- |
+| <a href="https://github.com/arsLan4k1390/Cherrygram"><img src="fdroid/repo/uz.unnarsx.cherrygram/en-US/icon.png" alt="Cherrygram icon" width="36px" height="36px"></a>        | [**Cherrygram**](https://github.com/arsLan4k1390/Cherrygram)    | Third-party Telegram client with privacy-focused modifications                   | 11.9.1 (59100)      |
+| <a href="https://github.com/chen08209/FlClash"><img src="fdroid/repo/com.follow.clash/en-US/icon.png" alt="FlClash icon" width="36px" height="36px"></a>                      | [**FlClash**](https://github.com/chen08209/FlClash)             | A multi-platform proxy client based on ClashMeta,simple and easy to use, open... | 0.8.86 (2025061501) |
+| <a href="https://github.com/Happ-proxy/happ-android"><img src="fdroid/repo/su.happ.proxyutility/en-US/icon.png" alt="Happ icon" width="36px" height="36px"></a>               | [**Happ**](https://github.com/Happ-proxy/happ-android)          | A proxy management app powered by Xray core with support for multiple protocols. | 2.8.1 (1195)        |
+| <a href="https://github.com/hiddify/hiddify-app"><img src="fdroid/repo/app.hiddify.com/en-US/icon.png" alt="Hiddify icon" width="36px" height="36px"></a>                     | [**Hiddify**](https://github.com/hiddify/hiddify-app)           | Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria,... | 2.5.7 (20507)       |
+| <a href="https://github.com/MatsuriDayo/NekoBoxForAndroid"><img src="fdroid/repo/moe.nb4a/en-US/icon.png" alt="NekoBox icon" width="36px" height="36px"></a>                  | [**NekoBox**](https://github.com/MatsuriDayo/NekoBoxForAndroid) | NekoBox for Android / sing-box / universal proxy toolchain for Android           | 1.3.9 (215)         |
+| <a href="https://github.com/Nekogram/Nekogram"><img src="fdroid/repo/tw.nekomimi.nekogram/en-US/icon.png" alt="Nekogram icon" width="36px" height="36px"></a>                 | [**Nekogram**](https://github.com/Nekogram/Nekogram)            | Open-source third-party Telegram client with not many but useful modifications.  | 11.12.0 (59970)     |
+| <a href="https://github.com/obsidianmd/obsidian-releases"><img src="fdroid/repo/md.obsidian/en-US/icon.png" alt="Obsidian icon" width="36px" height="36px"></a>               | [**Obsidian**](https://github.com/obsidianmd/obsidian-releases) | Community plugins list, theme list, and releases of Obsidian.                    | 1.8.10 (197)        |
+| <a href="https://github.com/2dust/v2rayNG"><img src="fdroid/repo/com.v2ray.ang/en-US/icon.png" alt="v2rayNG icon" width="36px" height="36px"></a>                             | [**v2rayNG**](https://github.com/2dust/v2rayNG)                 | A V2Ray client for Android, support Xray core and v2fly core                     | 1.10.7 (4000657)    |
+| <a href="https://github.com/wgtunnel/wgtunnel"><img src="fdroid/repo/com.zaneschepke.wireguardautotunnel/en-US/icon.png" alt="WG Tunnel icon" width="36px" height="36px"></a> | [**WG Tunnel**](https://github.com/wgtunnel/wgtunnel)           | A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling.           | 3.9.3 (39300)       |
+
 <!-- end apps table -->
 
 ## How to use
@@ -66,7 +68,7 @@ This repository hosts a [F-Droid](https://f-droid.org/) repo for curated Android
 3. **Scan QR Code** - Use the QR code above or manually add the repository URL:
 
    ```txt
-   https://xpos587.github.io/fdroid/?fingerprint=94FA53EC8CA69F08E6D4EF89E99E7CF1C0EB356DDAFD9F37B302C4087446F922
+   https://fdroid.link/#https://xpos587.github.io/fdroid/repo?fingerprint=94FA53EC8CA69F08E6D4EF89E99E7CF1C0EB356DDAFD9F37B302C4087446F922
    ```
 
 4. **Install Apps** - Search for "WG Tunnel", "v2rayNG" or other apps in the Droid-ify client.

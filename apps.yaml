@@ -274,3 +274,41 @@ flclash:
   categories:
     - Internet
     - Security
+
+cromite:
+  git: https://github.com/uazo/cromite
+  name: "Cromite"
+  description: |
+    A Chromium fork based on Bromite with built-in support for ad blocking and an eye for privacy
+
+    <b>Key Features</b>
+
+    - Built-in ad blocking without extensions
+    - Anti-fingerprinting mitigations
+    - Privacy-focused modifications to Chromium
+    - Removes tracking and telemetry features
+    - Auto-update functionality
+    - Multi-platform support (Android, Windows, Linux)
+    - Based on latest Chromium stable releases
+    - Compatible with Chrome extensions
+
+    <b>Privacy Features</b>
+
+    - Disables features used for tracking users' habits
+    - Limits integration between browser and manufacturer
+    - Removes Google services dependencies
+    - Enhanced security sandbox support
+
+    <b>Perfect for</b>
+
+    - Privacy-conscious browsing
+    - Ad-free web experience
+    - Secure internet access
+    - Alternative to mainstream browsers
+
+    <b>Note</b>
+
+    Privacy features are not comprehensive enough for high-risk users - journalists or people in countries with freedom limitations should use Tor Browser instead.
+
+  categories:
+    - Internet
