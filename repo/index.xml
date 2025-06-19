@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="icon.png" name="Xpos587 Apps Repository" pubkey="3082036030820248a0030201020209009e269b918dee9eaa300d06092a864886f70d01010c0500305d310b300906035504061302525531193017060355040813105361696e742d5065746572736275726731193017060355040713105361696e742d50657465727362757267311830160603550403130f4d69636861656c20426f64617265763020170d3235303631373139323030365a180f32303532313130323139323030365a305d310b300906035504061302525531193017060355040813105361696e742d5065746572736275726731193017060355040713105361696e742d50657465727362757267311830160603550403130f4d69636861656c20426f646172657630820122300d06092a864886f70d01010105000382010f003082010a0282010100b5dd4c03b70a6aa72dba4cf7cef197aaeb8bd0e244fa01eec73a09c4488151f018ec657356d27516ae2008d08a85ebe1351c2025a88ee288f7a0767ba4b39c71a5946ed979d13a69af738638bebf548eab48f9970746944e9ffdae329ad93ae9b0f6f811033d6baf1063d453046de13902fccbd8a4145eb797fe25e7ab5e755decd8e8ccee185e21622f3d14a1f567c3ddd60dc8261d56c6fab1ef3b9dd75a508c20ba61fcb07a53646e0f8ce5b2dc849d7e4313f03ca285914d322f8c753b7f7c1159594d669f424c81f279099ca8178f727a5911b7769398c6b43b372463c946d95a545be1aa67db25c07f522e75c75d70ee6a323471f27302c60078be9d750203010001a321301f301d0603551d0e04160414d0c12e02cc8b7755887a8942591c00f6f9692b76300d06092a864886f70d01010c050003820101006dee597033b31ae7d32d7895ce51a3a5eb1b3887765ae02dfb8eebd44f340211a712859c42d8a8d9f3692cd86c3fc4e97fa047b1fea95ec3a3bc9accb42081cdb82062f033f5a4533432e5274b1dcab65bc66312455e2ea99f3cb9840e388dc0688aa8490e92ccd4d2b4658cc97511a51d1b828d8552268e3fe5bc06c7f640f2ef6731b31bb778cca5fb1fef1ba034040f923a7ab8096f934d19f0a9db05c8af66a56070a27459707b5a591f8527a5171cacab46d545fec02a1f6764370a0ee7e88a669e1d47e65e689c19b8b4e61cc1ea1c5727007373962c2b97794814af1f422efa33b58639b613b74bbd62fc6a21505aa69fa34177b2b25d26d390e75b60" timestamp="1750354031" url="https://xpos587.github.io/fdroid/repo" version="20002">
+	<repo icon="icon.png" name="Xpos587 Apps Repository" pubkey="3082036030820248a0030201020209009e269b918dee9eaa300d06092a864886f70d01010c0500305d310b300906035504061302525531193017060355040813105361696e742d5065746572736275726731193017060355040713105361696e742d50657465727362757267311830160603550403130f4d69636861656c20426f64617265763020170d3235303631373139323030365a180f32303532313130323139323030365a305d310b300906035504061302525531193017060355040813105361696e742d5065746572736275726731193017060355040713105361696e742d50657465727362757267311830160603550403130f4d69636861656c20426f646172657630820122300d06092a864886f70d01010105000382010f003082010a0282010100b5dd4c03b70a6aa72dba4cf7cef197aaeb8bd0e244fa01eec73a09c4488151f018ec657356d27516ae2008d08a85ebe1351c2025a88ee288f7a0767ba4b39c71a5946ed979d13a69af738638bebf548eab48f9970746944e9ffdae329ad93ae9b0f6f811033d6baf1063d453046de13902fccbd8a4145eb797fe25e7ab5e755decd8e8ccee185e21622f3d14a1f567c3ddd60dc8261d56c6fab1ef3b9dd75a508c20ba61fcb07a53646e0f8ce5b2dc849d7e4313f03ca285914d322f8c753b7f7c1159594d669f424c81f279099ca8178f727a5911b7769398c6b43b372463c946d95a545be1aa67db25c07f522e75c75d70ee6a323471f27302c60078be9d750203010001a321301f301d0603551d0e04160414d0c12e02cc8b7755887a8942591c00f6f9692b76300d06092a864886f70d01010c050003820101006dee597033b31ae7d32d7895ce51a3a5eb1b3887765ae02dfb8eebd44f340211a712859c42d8a8d9f3692cd86c3fc4e97fa047b1fea95ec3a3bc9accb42081cdb82062f033f5a4533432e5274b1dcab65bc66312455e2ea99f3cb9840e388dc0688aa8490e92ccd4d2b4658cc97511a51d1b828d8552268e3fe5bc06c7f640f2ef6731b31bb778cca5fb1fef1ba034040f923a7ab8096f934d19f0a9db05c8af66a56070a27459707b5a591f8527a5171cacab46d545fec02a1f6764370a0ee7e88a669e1d47e65e689c19b8b4e61cc1ea1c5727007373962c2b97794814af1f422efa33b58639b613b74bbd62fc6a21505aa69fa34177b2b25d26d390e75b60" timestamp="1750359233" url="https://xpos587.github.io/fdroid/repo" version="20002">
 		<description>Curated collection of high-quality Android applications. Features official binaries from trusted developers, including privacy tools, communication apps, open-source alternatives, and useful utilities. Covers both FOSS and proprietary applications for enhanced mobile experience.
 </description>
 	</repo>
@@ -407,106 +407,6 @@ Hiddify does not provide VPN services. Users must acquire or set up their own se
 			<added>2025-06-19</added>
 			<sig>976581050d25ae072b0cf4977fd0aa00</sig>
 			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,app.hiddify.com.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
-			<nativecode>arm64-v8a</nativecode>
-		</package>
-	</application>
-	<application id="moe.nb4a">
-		<id>moe.nb4a</id>
-		<added>2025-06-19</added>
-		<lastupdated>2025-06-19</lastupdated>
-		<name>NekoBox</name>
-		<summary>NekoBox for Android / sing-box / universal proxy toolchain for Android</summary>
-		<desc>Universal proxy toolchain for Android powered by sing-box core with support for multiple protocols
-
-&lt;b&gt;Features&lt;/b&gt;
-
-- Support for multiple proxy protocols: SOCKS (4/4a/5), HTTP(S), SSH, Shadowsocks, VMess, Trojan, VLESS, AnyTLS, ShadowTLS, TUIC, Hysteria 1/2, WireGuard
-- Plugin support for extended protocols (Trojan-Go, NaïveProxy, Mieru)
-- Multiple subscription format support (Shadowsocks, ClashMeta, v2rayN, sing-box outbound)
-- Intuitive Android interface based on shadowsocks-android and SagerNet
-- Built-in web dashboard powered by Yacd-meta
-- Powered by robust sing-box core technology
-
-&lt;b&gt;Important Note&lt;/b&gt;
-
-NekoBox does not provide VPN services. Users are responsible for acquiring or setting up their own servers. Please comply with applicable laws in your jurisdiction when utilizing the app.
-
-&lt;b&gt;Warning&lt;/b&gt;
-
-Google Play version has been controlled by third party since May 2024 and is non-open source. Use only official GitHub releases.
-</desc>
-		<license>NOASSERTION</license>
-		<categories>Internet,Security</categories>
-		<category>Internet</category>
-		<web>https://matsuridayo.github.io/</web>
-		<source>https://github.com/MatsuriDayo/NekoBoxForAndroid</source>
-		<tracker>https://github.com/MatsuriDayo/NekoBoxForAndroid/issues</tracker>
-		<author>MatsuriDayo</author>
-		<marketversion>1.3.9</marketversion>
-		<marketvercode>215</marketvercode>
-		<package>
-			<version>1.3.9</version>
-			<versioncode>215</versioncode>
-			<apkname>nekobox_1.3.9.apk</apkname>
-			<hash type="sha256">44ef5d5e1c3cc1a512e2b38a1155f9dbc87387400ef37affcf1e398326053bec</hash>
-			<size>15288987</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>35</targetSdkVersion>
-			<added>2025-06-19</added>
-			<sig>b8c9c504acbc253edec282f8e62d7079</sig>
-			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,EXPAND_STATUS_BAR,FLASHLIGHT,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SYSTEM_EXEMPTED,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,moe.nb4a.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.nb4a.SERVICE</permissions>
-			<nativecode>arm64-v8a</nativecode>
-		</package>
-		<package>
-			<version>1.3.8</version>
-			<versioncode>210</versioncode>
-			<apkname>nekobox_1.3.8.apk</apkname>
-			<hash type="sha256">e3468d2c9c5ee0c8a6381782f7e9530c184f73b20340b65328e5f33cb5c25ac0</hash>
-			<size>15066459</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>35</targetSdkVersion>
-			<added>2025-06-19</added>
-			<sig>b8c9c504acbc253edec282f8e62d7079</sig>
-			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,EXPAND_STATUS_BAR,FLASHLIGHT,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,moe.nb4a.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.nb4a.SERVICE</permissions>
-			<nativecode>arm64-v8a</nativecode>
-		</package>
-		<package>
-			<version>1.3.7</version>
-			<versioncode>205</versioncode>
-			<apkname>nekobox_1.3.7.apk</apkname>
-			<hash type="sha256">381ec24583a5685e7cc4513f0a65128b99d5694e8d490057d14943a601e2d139</hash>
-			<size>15065908</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>35</targetSdkVersion>
-			<added>2025-06-19</added>
-			<sig>b8c9c504acbc253edec282f8e62d7079</sig>
-			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,EXPAND_STATUS_BAR,FLASHLIGHT,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,moe.nb4a.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.nb4a.SERVICE</permissions>
-			<nativecode>arm64-v8a</nativecode>
-		</package>
-		<package>
-			<version>1.3.6</version>
-			<versioncode>200</versioncode>
-			<apkname>nekobox_1.3.6.apk</apkname>
-			<hash type="sha256">19bc628dc2a69f5cb23b369abb58b67298d212e3bab3c813be4dabd06fdb3e04</hash>
-			<size>14893352</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>35</targetSdkVersion>
-			<added>2025-06-19</added>
-			<sig>b8c9c504acbc253edec282f8e62d7079</sig>
-			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,EXPAND_STATUS_BAR,FLASHLIGHT,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,moe.nb4a.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.nb4a.SERVICE</permissions>
-			<nativecode>arm64-v8a</nativecode>
-		</package>
-		<package>
-			<version>1.3.5</version>
-			<versioncode>195</versioncode>
-			<apkname>nekobox_1.3.5.apk</apkname>
-			<hash type="sha256">64b5c16b31a14b42460536579cffd89af47d809b35fcf7bb6127f9ee15662046</hash>
-			<size>14884143</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>35</targetSdkVersion>
-			<added>2025-06-19</added>
-			<sig>b8c9c504acbc253edec282f8e62d7079</sig>
-			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,EXPAND_STATUS_BAR,FLASHLIGHT,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,moe.nb4a.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.nb4a.SERVICE</permissions>
 			<nativecode>arm64-v8a</nativecode>
 		</package>
 	</application>
