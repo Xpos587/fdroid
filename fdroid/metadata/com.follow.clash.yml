@@ -1,49 +1,49 @@
 AntiFeatures:
-  - Tracking
+    - Tracking
 AuthorName: chen08209
 Builds:
-  - disable: Uses prebuilt libraries
-    versionCode: 84000000
-    versionName: 0.8.84
+    - disable: Uses prebuilt libraries
+      versionCode: 84000000
+      versionName: 0.8.84
 Categories:
-  - Internet
-  - Security
-CurrentVersion: 0.8.84
-CurrentVersionCode: 84000000
+    - Internet
+    - Security
+CurrentVersion: 0.8.86
+CurrentVersionCode: 2025061501
 Description: |
-  A multi-platform proxy client based on ClashMeta, simple and easy to use, open-source and ad-free
+    A multi-platform proxy client based on ClashMeta, simple and easy to use, open-source and ad-free
 
-  <b>Key Features</b>
+    <b>Key Features</b>
 
-  - Multi-platform support: Android, Windows, macOS and Linux
-  - Adaptive multiple screen sizes with multiple color themes
-  - Material You Design with Surfboard-like UI
-  - Data synchronization via WebDAV
-  - Subscription link support
-  - Dark mode support
-  - System tray support (Linux)
-  - Android actions for automation
+    - Multi-platform support: Android, Windows, macOS and Linux
+    - Adaptive multiple screen sizes with multiple color themes
+    - Material You Design with Surfboard-like UI
+    - Data synchronization via WebDAV
+    - Subscription link support
+    - Dark mode support
+    - System tray support (Linux)
+    - Android actions for automation
 
-  <b>Perfect for</b>
+    <b>Perfect for</b>
 
-  - Network privacy and security
-  - Bypassing geo-restrictions
-  - Managing proxy connections
-  - Accessing restricted content
+    - Network privacy and security
+    - Bypassing geo-restrictions
+    - Managing proxy connections
+    - Accessing restricted content
 
-  <b>Technical Details</b>
+    <b>Technical Details</b>
 
-  - Based on ClashMeta proxy engine
-  - Built with Flutter framework
-  - Cross-platform compatibility
-  - Open-source and ad-free
+    - Based on ClashMeta proxy engine
+    - Built with Flutter framework
+    - Cross-platform compatibility
+    - Open-source and ad-free
 IssueTracker: https://github.com/chen08209/FlClash/issues
-License: GPL-3.0-or-later
+License: GPL-3.0
 Name: FlClash
 Repo: https://github.com/chen08209/FlClash
 RepoType: git
 SourceCode: https://github.com/chen08209/FlClash
-Summary: Multi-platform proxy client based on ClashMeta
+Summary: A multi-platform proxy client based on ClashMeta,simple and easy to use, open...
 UpdateCheckData: tags/v(.+)$
 UpdateCheckMode: Tags
 WebSite: https://github.com/chen08209/FlClash

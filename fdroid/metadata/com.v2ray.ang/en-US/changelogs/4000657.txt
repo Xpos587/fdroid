@@ -1,0 +1,5 @@
+### 本次更新
+
+1. https://github.com/XTLS/Xray-core/releases/tag/v25.6.8
+2. 修复了一些已知的问题 https://github.com/2dust/v2rayNG/issues/4626 https://github.com/2dust/v2rayNG/commit/3ead542e2b64851caa6893af004fb3bf5d351be6 https://github.com/2dust/v2rayNG/pull/4649 https://github.com/2dust/v2rayNG/commit/e0881caab4312beebd48bd90b4771f11df2bfe98 https://github.com/2dust/v2rayNG/commit/1a5e105212607fd4bc86421b152b5969548ec81c
+3. 优化延迟测试，测试两次后取最小值 https://github.com/2dust/AndroidLibXrayLite/commit/22f3e73a782b62d2eb878b0deabd16bf99ef3597

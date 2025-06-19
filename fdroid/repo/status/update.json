@@ -13,6 +13,15 @@
         "uz.unnarsx.cherrygram"
       ]
     },
+    "Tracking": {
+      "apps": [
+        "app.hiddify.com",
+        "com.follow.clash",
+        "su.happ.proxyutility",
+        "tw.nekomimi.nekogram",
+        "uz.unnarsx.cherrygram"
+      ]
+    },
     "UpstreamNonFree": {
       "apps": [
         "md.obsidian",
@@ -28,13 +37,14 @@
     "--delete-unknown"
   ],
   "disabled": [],
-  "endTimestamp": 1750298421263,
+  "endTimestamp": 1750354033692,
   "failedBuilds": {},
   "jarsigner": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.15-6/x64/bin/jarsigner",
   "keytool": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.15-6/x64/bin/keytool",
   "needsUpdate": [],
   "noPackages": [
     "app.hiddify.com",
+    "com.follow.clash",
     "com.v2ray.ang",
     "com.zaneschepke.wireguardautotunnel",
     "md.obsidian",
@@ -45,14 +55,14 @@
   ],
   "noUpdateCheck": [],
   "stages": {
-    "delete_disabled_builds": 1750298416924,
-    "index.make repo": 1750298418496,
-    "prepare_apps repo": 1750298417284,
-    "process_apks": 1750298416925,
-    "read_added_date_from_all_apks": 1750298417283,
-    "remove_apks": 1750298417283,
-    "scan_repo_files": 1750298417282
+    "delete_disabled_builds": 1750354029447,
+    "index.make repo": 1750354031027,
+    "prepare_apps repo": 1750354029811,
+    "process_apks": 1750354029448,
+    "read_added_date_from_all_apks": 1750354029811,
+    "remove_apks": 1750354029811,
+    "scan_repo_files": 1750354029810
   },
-  "startTimestamp": 1750298416000,
+  "startTimestamp": 1750354029000,
   "subcommand": "update"
 }

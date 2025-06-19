@@ -1,37 +1,37 @@
 AntiFeatures:
-  - Tracking
+    - Tracking
 AuthorName: hiddify
 Builds:
-  - disable: Uses prebuilt libraries
-    versionCode: 257000
-    versionName: 2.5.7
+    - disable: Uses prebuilt libraries
+      versionCode: 257000
+      versionName: 2.5.7
 Categories:
-  - Internet
-  - Security
+    - Internet
+    - Security
 CurrentVersion: 2.5.7
 CurrentVersionCode: 20507
 Description: |
-  A multi-platform proxy client based on Sing-box and Xray core, supporting a wide range of protocols and advanced features.
+    A multi-platform proxy client based on Sing-box and Xray core, supporting a wide range of protocols and advanced features.
 
-  <b>Features</b>
+    <b>Features</b>
 
-  - Multi-platform support: Android, iOS, Windows, macOS, Linux
-  - Intuitive and accessible UI with dark/light themes
-  - Delay-based automatic node selection
-  - Wide protocol support: VLESS, VMess, Reality, TUIC, Hysteria, WireGuard, SSH, Trojan, Shadowsocks
-  - Dual core support: both Sing-box and Xray core (selectable per node)
-  - Subscription formats: Sing-box, V2Ray, Clash, Clash Meta
-  - Automatic subscription update with profile info (remaining days, traffic usage)
-  - Advanced features: TUN mode, Split HTTP, config editor
-  - Open source, ad-free, community-driven
-  - Optimized for Iran, China, Russia and other countries
-  - Available on official stores and direct download
+    - Multi-platform support: Android, iOS, Windows, macOS, Linux
+    - Intuitive and accessible UI with dark/light themes
+    - Delay-based automatic node selection
+    - Wide protocol support: VLESS, VMess, Reality, TUIC, Hysteria, WireGuard, SSH, Trojan, Shadowsocks
+    - Dual core support: both Sing-box and Xray core (selectable per node)
+    - Subscription formats: Sing-box, V2Ray, Clash, Clash Meta
+    - Automatic subscription update with profile info (remaining days, traffic usage)
+    - Advanced features: TUN mode, Split HTTP, config editor
+    - Open source, ad-free, community-driven
+    - Optimized for Iran, China, Russia and other countries
+    - Available on official stores and direct download
 
-  <b>Important Note</b>
+    <b>Important Note</b>
 
-  Hiddify does not provide VPN services. Users must acquire or set up their own servers. Please comply with local laws when using the app.
+    Hiddify does not provide VPN services. Users must acquire or set up their own servers. Please comply with local laws when using the app.
 IssueTracker: https://github.com/hiddify/hiddify-app/issues
-License: PublicDomain
+License: NOASSERTION
 Name: Hiddify
 Repo: https://github.com/hiddify/hiddify-app
 RepoType: git
