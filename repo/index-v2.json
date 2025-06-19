@@ -13,8 +13,8 @@
         "size": 11854
       }
     },
-    "address": "https://raw.githubusercontent.com/Xpos587/fdroid/main/fdroid/repo",
-    "timestamp": 1750350708000,
+    "address": "https://xpos587.github.io/fdroid/repo",
+    "timestamp": 1750354031000,
     "categories": {
       "Connectivity": {
         "name": {
@@ -46,13 +46,13 @@
   "packages": {
     "app.hiddify.com": {
       "metadata": {
-        "added": 1750350609000,
+        "added": 1750353932000,
         "categories": [
           "Internet",
           "Security"
         ],
         "issueTracker": "https://github.com/hiddify/hiddify-app/issues",
-        "lastUpdated": 1750350611000,
+        "lastUpdated": 1750353934000,
         "license": "NOASSERTION",
         "sourceCode": "https://github.com/hiddify/hiddify-app",
         "webSite": "https://hiddify.com/app/",
@@ -77,7 +77,7 @@
       },
       "versions": {
         "e8bd97123b0cd2992b23a55e3c4f805652ac23e45f38d47cdea66fb74a3b3b67": {
-          "added": 1750350611000,
+          "added": 1750353934000,
           "file": {
             "name": "/hiddify_v2.5.7.apk",
             "sha256": "e8bd97123b0cd2992b23a55e3c4f805652ac23e45f38d47cdea66fb74a3b3b67",
@@ -133,10 +133,13 @@
                 "name": "android.permission.ACCESS_NETWORK_STATE"
               }
             ]
+          },
+          "antiFeatures": {
+            "Tracking": {}
           }
         },
         "9c5ca5e7ba3e5fe25d68faffd8f825972ca243fea049881c6e96ea91d0032cc1": {
-          "added": 1750350610000,
+          "added": 1750353933000,
           "file": {
             "name": "/hiddify_v2.3.1.apk",
             "sha256": "9c5ca5e7ba3e5fe25d68faffd8f825972ca243fea049881c6e96ea91d0032cc1",
@@ -192,10 +195,13 @@
                 "name": "android.permission.ACCESS_NETWORK_STATE"
               }
             ]
+          },
+          "antiFeatures": {
+            "Tracking": {}
           }
         },
         "f9406cb5c92dea3656e71cefc295017ab053d44d535e5abcde9dee51af12a5a6": {
-          "added": 1750350609000,
+          "added": 1750353932000,
           "file": {
             "name": "/hiddify_v2.1.5.apk",
             "sha256": "f9406cb5c92dea3656e71cefc295017ab053d44d535e5abcde9dee51af12a5a6",
@@ -251,19 +257,22 @@
                 "name": "android.permission.ACCESS_NETWORK_STATE"
               }
             ]
+          },
+          "antiFeatures": {
+            "Tracking": {}
           }
         }
       }
     },
     "com.follow.clash": {
       "metadata": {
-        "added": 1750350597000,
+        "added": 1750353920000,
         "categories": [
           "Internet",
           "Security"
         ],
         "issueTracker": "https://github.com/chen08209/FlClash/issues",
-        "lastUpdated": 1750350601000,
+        "lastUpdated": 1750353924000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/chen08209/FlClash",
         "webSite": "https://github.com/chen08209/FlClash",
@@ -288,7 +297,7 @@
       },
       "versions": {
         "9fedd1c1f3fa8a961eb5818d4c5ae20713581b26d38bdc3970aec861945a4654": {
-          "added": 1750350601000,
+          "added": 1750353924000,
           "file": {
             "name": "/flclash_v0.8.86.apk",
             "sha256": "9fedd1c1f3fa8a961eb5818d4c5ae20713581b26d38bdc3970aec861945a4654",
@@ -341,10 +350,13 @@
                 "name": "com.follow.clash.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
+          },
+          "antiFeatures": {
+            "Tracking": {}
           }
         },
         "2de5d4575123eeb0842c5bfc3cc45bd3ecc0b2b4d31870b0d8adb57c8434b36e": {
-          "added": 1750350600000,
+          "added": 1750353923000,
           "file": {
             "name": "/flclash_v0.8.85.apk",
             "sha256": "2de5d4575123eeb0842c5bfc3cc45bd3ecc0b2b4d31870b0d8adb57c8434b36e",
@@ -397,10 +409,13 @@
                 "name": "com.follow.clash.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
+          },
+          "antiFeatures": {
+            "Tracking": {}
           }
         },
         "1db4616f30081acfec8bb0e136a202ead28df9e84e76def97076f996beaaa8cc": {
-          "added": 1750350599000,
+          "added": 1750353922000,
           "file": {
             "name": "/flclash_v0.8.84.apk",
             "sha256": "1db4616f30081acfec8bb0e136a202ead28df9e84e76def97076f996beaaa8cc",
@@ -453,10 +468,13 @@
                 "name": "com.follow.clash.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
+          },
+          "antiFeatures": {
+            "Tracking": {}
           }
         },
         "eff47b1e3770b5a7a1fb3d8d7ad66daa557917af494856e266d410f08bb06122": {
-          "added": 1750350598000,
+          "added": 1750353921000,
           "file": {
             "name": "/flclash_v0.8.83.apk",
             "sha256": "eff47b1e3770b5a7a1fb3d8d7ad66daa557917af494856e266d410f08bb06122",
@@ -509,10 +527,13 @@
                 "name": "com.follow.clash.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
+          },
+          "antiFeatures": {
+            "Tracking": {}
           }
         },
         "2088b8c66120bb8916b01b104bfc813f55d4aadad82b4a90f91c542dd3a8b36f": {
-          "added": 1750350597000,
+          "added": 1750353920000,
           "file": {
             "name": "/flclash_v0.8.82.apk",
             "sha256": "2088b8c66120bb8916b01b104bfc813f55d4aadad82b4a90f91c542dd3a8b36f",
@@ -565,19 +586,22 @@
                 "name": "com.follow.clash.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
+          },
+          "antiFeatures": {
+            "Tracking": {}
           }
         }
       }
     },
     "com.v2ray.ang": {
       "metadata": {
-        "added": 1750350629000,
+        "added": 1750353952000,
         "categories": [
           "Internet",
           "Security"
         ],
         "issueTracker": "https://github.com/2dust/v2rayNG/issues",
-        "lastUpdated": 1750350634000,
+        "lastUpdated": 1750353956000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/2dust/v2rayNG",
         "authorName": "2dust",
@@ -601,7 +625,7 @@
       },
       "versions": {
         "cc40422c43ef7c57237fa074bae085c7ef41f8ae37c0ffc42960ac42e1f08dbe": {
-          "added": 1750350634000,
+          "added": 1750353956000,
           "file": {
             "name": "/v2rayng_1.10.7.apk",
             "sha256": "cc40422c43ef7c57237fa074bae085c7ef41f8ae37c0ffc42960ac42e1f08dbe",
@@ -666,7 +690,7 @@
           }
         },
         "5d9d836f059fa1a13215e1fab79f9dcf1317374e6130c46e473c8b8fb310f2cc": {
-          "added": 1750350632000,
+          "added": 1750353955000,
           "file": {
             "name": "/v2rayng_1.10.6.apk",
             "sha256": "5d9d836f059fa1a13215e1fab79f9dcf1317374e6130c46e473c8b8fb310f2cc",
@@ -731,7 +755,7 @@
           }
         },
         "53005c4717998ee0d7131c2647ff5b64bd064ee990b3c23154bb7b9827177bc5": {
-          "added": 1750350631000,
+          "added": 1750353954000,
           "file": {
             "name": "/v2rayng_1.10.5.apk",
             "sha256": "53005c4717998ee0d7131c2647ff5b64bd064ee990b3c23154bb7b9827177bc5",
@@ -796,7 +820,7 @@
           }
         },
         "f0b30cc524d7d3b6d33bb3c898b5a7f42625708cfe25dfb5283e4740679261be": {
-          "added": 1750350630000,
+          "added": 1750353953000,
           "file": {
             "name": "/v2rayng_1.10.4.apk",
             "sha256": "f0b30cc524d7d3b6d33bb3c898b5a7f42625708cfe25dfb5283e4740679261be",
@@ -861,7 +885,7 @@
           }
         },
         "663621138ad356cd2435028fe1173b7a647a19b4b1ea2a4a50b4fec2587acaa1": {
-          "added": 1750350629000,
+          "added": 1750353952000,
           "file": {
             "name": "/v2rayng_1.10.3.apk",
             "sha256": "663621138ad356cd2435028fe1173b7a647a19b4b1ea2a4a50b4fec2587acaa1",
@@ -929,13 +953,13 @@
     },
     "com.zaneschepke.wireguardautotunnel": {
       "metadata": {
-        "added": 1750350635000,
+        "added": 1750353957000,
         "categories": [
           "Internet",
           "Security"
         ],
         "issueTracker": "https://github.com/wgtunnel/wgtunnel/issues",
-        "lastUpdated": 1750350635000,
+        "lastUpdated": 1750353958000,
         "license": "MIT",
         "sourceCode": "https://github.com/wgtunnel/wgtunnel",
         "webSite": "https://wgtunnel.com/",
@@ -1003,7 +1027,7 @@
       },
       "versions": {
         "94e65b8556e80120cd1131ebb468aeb9ea3c1cf80e54c1a1a21602d5f84baaf4": {
-          "added": 1750350635000,
+          "added": 1750353958000,
           "file": {
             "name": "/wgtunnel_3.9.3.apk",
             "sha256": "94e65b8556e80120cd1131ebb468aeb9ea3c1cf80e54c1a1a21602d5f84baaf4",
@@ -1083,7 +1107,7 @@
           }
         },
         "8001dfed63d50f5e8935beea1d6ea5f6ba78290c29763a7712f52578d8eb0da2": {
-          "added": 1750350635000,
+          "added": 1750353957000,
           "file": {
             "name": "/wgtunnel_3.9.1.apk",
             "sha256": "8001dfed63d50f5e8935beea1d6ea5f6ba78290c29763a7712f52578d8eb0da2",
@@ -1166,13 +1190,13 @@
     },
     "md.obsidian": {
       "metadata": {
-        "added": 1750350626000,
+        "added": 1750353949000,
         "categories": [
           "Writing",
           "Science & Education"
         ],
         "issueTracker": "https://github.com/obsidianmd/obsidian-releases/issues",
-        "lastUpdated": 1750350628000,
+        "lastUpdated": 1750353951000,
         "license": "PublicDomain",
         "sourceCode": "https://github.com/obsidianmd/obsidian-releases",
         "webSite": "https://obsidian.md",
@@ -1197,7 +1221,7 @@
       },
       "versions": {
         "af09494c6fdec9815e1e562acd20e7591a49ee5449f84c2bef0052ca7c2c4adf": {
-          "added": 1750350626000,
+          "added": 1750353949000,
           "file": {
             "name": "/obsidian_v1.8.10.apk",
             "sha256": "af09494c6fdec9815e1e562acd20e7591a49ee5449f84c2bef0052ca7c2c4adf",
@@ -1253,7 +1277,7 @@
           }
         },
         "832fc9cfd9853ce2127348bf75a48f26a6346062930828358d8537ce8f2b6005": {
-          "added": 1750350628000,
+          "added": 1750353951000,
           "file": {
             "name": "/obsidian_v1.8.9.apk",
             "sha256": "832fc9cfd9853ce2127348bf75a48f26a6346062930828358d8537ce8f2b6005",
@@ -1309,7 +1333,7 @@
           }
         },
         "f5252b7c3774cdf58f48d9be5fb245d77e1cbd33b73d2ef54d54a62814e7fb52": {
-          "added": 1750350628000,
+          "added": 1750353951000,
           "file": {
             "name": "/obsidian_v1.8.7.apk",
             "sha256": "f5252b7c3774cdf58f48d9be5fb245d77e1cbd33b73d2ef54d54a62814e7fb52",
@@ -1365,7 +1389,7 @@
           }
         },
         "1a83470f5809c75431b22207422a63060907b0e305a8b3f18f5263b1bcc60d1e": {
-          "added": 1750350627000,
+          "added": 1750353950000,
           "file": {
             "name": "/obsidian_v1.8.4.apk",
             "sha256": "1a83470f5809c75431b22207422a63060907b0e305a8b3f18f5263b1bcc60d1e",
@@ -1421,7 +1445,7 @@
           }
         },
         "90c4b1af5902e632ee124518350bd97ab9e99984beebb83013680f24d66cc54c": {
-          "added": 1750350627000,
+          "added": 1750353950000,
           "file": {
             "name": "/obsidian_v1.8.3.apk",
             "sha256": "90c4b1af5902e632ee124518350bd97ab9e99984beebb83013680f24d66cc54c",
@@ -1480,13 +1504,13 @@
     },
     "moe.nb4a": {
       "metadata": {
-        "added": 1750350612000,
+        "added": 1750353935000,
         "categories": [
           "Internet",
           "Security"
         ],
         "issueTracker": "https://github.com/MatsuriDayo/NekoBoxForAndroid/issues",
-        "lastUpdated": 1750350615000,
+        "lastUpdated": 1750353938000,
         "license": "NOASSERTION",
         "sourceCode": "https://github.com/MatsuriDayo/NekoBoxForAndroid",
         "webSite": "https://matsuridayo.github.io/",
@@ -1511,7 +1535,7 @@
       },
       "versions": {
         "44ef5d5e1c3cc1a512e2b38a1155f9dbc87387400ef37affcf1e398326053bec": {
-          "added": 1750350615000,
+          "added": 1750353938000,
           "file": {
             "name": "/nekobox_1.3.9.apk",
             "sha256": "44ef5d5e1c3cc1a512e2b38a1155f9dbc87387400ef37affcf1e398326053bec",
@@ -1591,7 +1615,7 @@
           }
         },
         "e3468d2c9c5ee0c8a6381782f7e9530c184f73b20340b65328e5f33cb5c25ac0": {
-          "added": 1750350614000,
+          "added": 1750353937000,
           "file": {
             "name": "/nekobox_1.3.8.apk",
             "sha256": "e3468d2c9c5ee0c8a6381782f7e9530c184f73b20340b65328e5f33cb5c25ac0",
@@ -1671,7 +1695,7 @@
           }
         },
         "381ec24583a5685e7cc4513f0a65128b99d5694e8d490057d14943a601e2d139": {
-          "added": 1750350613000,
+          "added": 1750353937000,
           "file": {
             "name": "/nekobox_1.3.7.apk",
             "sha256": "381ec24583a5685e7cc4513f0a65128b99d5694e8d490057d14943a601e2d139",
@@ -1751,7 +1775,7 @@
           }
         },
         "19bc628dc2a69f5cb23b369abb58b67298d212e3bab3c813be4dabd06fdb3e04": {
-          "added": 1750350613000,
+          "added": 1750353936000,
           "file": {
             "name": "/nekobox_1.3.6.apk",
             "sha256": "19bc628dc2a69f5cb23b369abb58b67298d212e3bab3c813be4dabd06fdb3e04",
@@ -1831,7 +1855,7 @@
           }
         },
         "64b5c16b31a14b42460536579cffd89af47d809b35fcf7bb6127f9ee15662046": {
-          "added": 1750350612000,
+          "added": 1750353935000,
           "file": {
             "name": "/nekobox_1.3.5.apk",
             "sha256": "64b5c16b31a14b42460536579cffd89af47d809b35fcf7bb6127f9ee15662046",
@@ -1914,13 +1938,13 @@
     },
     "su.happ.proxyutility": {
       "metadata": {
-        "added": 1750350602000,
+        "added": 1750353925000,
         "categories": [
           "Internet",
           "Security"
         ],
         "issueTracker": "https://github.com/Happ-proxy/happ-android/issues",
-        "lastUpdated": 1750350608000,
+        "lastUpdated": 1750353931000,
         "license": "PublicDomain",
         "sourceCode": "https://github.com/Happ-proxy/happ-android",
         "webSite": "https://www.happ.su/",
@@ -1945,7 +1969,7 @@
       },
       "versions": {
         "5da2a530dabe5fffe9987a42a4f0628670692b7a87ce83a6dce89212ff037186": {
-          "added": 1750350608000,
+          "added": 1750353931000,
           "file": {
             "name": "/happ_2.8.1.apk",
             "sha256": "5da2a530dabe5fffe9987a42a4f0628670692b7a87ce83a6dce89212ff037186",
@@ -2019,11 +2043,12 @@
             ]
           },
           "antiFeatures": {
+            "Tracking": {},
             "UpstreamNonFree": {}
           }
         },
         "fe10da8a6586e6b28c494208633e9e12e2297f40744b63fa38fb0172cb0779e5": {
-          "added": 1750350606000,
+          "added": 1750353929000,
           "file": {
             "name": "/happ_2.8.0.apk",
             "sha256": "fe10da8a6586e6b28c494208633e9e12e2297f40744b63fa38fb0172cb0779e5",
@@ -2094,11 +2119,12 @@
             ]
           },
           "antiFeatures": {
+            "Tracking": {},
             "UpstreamNonFree": {}
           }
         },
         "a63b3782f10fadc4129611d6a6d779684382a3c4b566186ee81bf3418b0905f2": {
-          "added": 1750350605000,
+          "added": 1750353928000,
           "file": {
             "name": "/happ_2.7.1.apk",
             "sha256": "a63b3782f10fadc4129611d6a6d779684382a3c4b566186ee81bf3418b0905f2",
@@ -2169,11 +2195,12 @@
             ]
           },
           "antiFeatures": {
+            "Tracking": {},
             "UpstreamNonFree": {}
           }
         },
         "f2b3c847bbd059bed11086198eca3e811dddb4e677cced29c3671e50c7b2a206": {
-          "added": 1750350603000,
+          "added": 1750353926000,
           "file": {
             "name": "/happ_2.7.0.apk",
             "sha256": "f2b3c847bbd059bed11086198eca3e811dddb4e677cced29c3671e50c7b2a206",
@@ -2244,11 +2271,12 @@
             ]
           },
           "antiFeatures": {
+            "Tracking": {},
             "UpstreamNonFree": {}
           }
         },
         "8a3e8edfddc11812c4f72e73b26d9c8202fd579d7fda924eadd69f5d100e4aa1": {
-          "added": 1750350602000,
+          "added": 1750353925000,
           "file": {
             "name": "/happ_2.6.0.apk",
             "sha256": "8a3e8edfddc11812c4f72e73b26d9c8202fd579d7fda924eadd69f5d100e4aa1",
@@ -2319,6 +2347,7 @@
             ]
           },
           "antiFeatures": {
+            "Tracking": {},
             "UpstreamNonFree": {}
           }
         }
@@ -2326,13 +2355,13 @@
     },
     "tw.nekomimi.nekogram": {
       "metadata": {
-        "added": 1750350617000,
+        "added": 1750353940000,
         "categories": [
           "Internet",
           "Security"
         ],
         "issueTracker": "https://github.com/Nekogram/Nekogram/issues",
-        "lastUpdated": 1750350626000,
+        "lastUpdated": 1750353949000,
         "license": "GPL-2.0",
         "sourceCode": "https://github.com/Nekogram/Nekogram",
         "webSite": "https://nekogram.app",
@@ -2357,7 +2386,7 @@
       },
       "versions": {
         "200c6487f0e7c6975d3e9a09144923a2caeb32241446565ee52aadd04d8df861": {
-          "added": 1750350617000,
+          "added": 1750353940000,
           "file": {
             "name": "/nekogram_v11.12.0.apk",
             "sha256": "200c6487f0e7c6975d3e9a09144923a2caeb32241446565ee52aadd04d8df861",
@@ -2602,11 +2631,12 @@
           },
           "antiFeatures": {
             "NonFreeNet": {},
-            "TetheredNet": {}
+            "TetheredNet": {},
+            "Tracking": {}
           }
         },
         "31872fbfb6f9ab1d6e25141943bdec12c482802f969bbaa81c8d83204adeeb4d": {
-          "added": 1750350626000,
+          "added": 1750353949000,
           "file": {
             "name": "/nekogram_v11.9.2.apk",
             "sha256": "31872fbfb6f9ab1d6e25141943bdec12c482802f969bbaa81c8d83204adeeb4d",
@@ -2851,11 +2881,12 @@
           },
           "antiFeatures": {
             "NonFreeNet": {},
-            "TetheredNet": {}
+            "TetheredNet": {},
+            "Tracking": {}
           }
         },
         "f06ce18d55b708f3c3d578f9bc2fdf3b14f430d3f33e290e0112ef72d54d3751": {
-          "added": 1750350623000,
+          "added": 1750353946000,
           "file": {
             "name": "/nekogram_v11.9.0.apk",
             "sha256": "f06ce18d55b708f3c3d578f9bc2fdf3b14f430d3f33e290e0112ef72d54d3751",
@@ -3100,11 +3131,12 @@
           },
           "antiFeatures": {
             "NonFreeNet": {},
-            "TetheredNet": {}
+            "TetheredNet": {},
+            "Tracking": {}
           }
         },
         "1ebd52a39d31b49b82a68543a4c807bb5e63b047b3f03fd322f4d21125570570": {
-          "added": 1750350621000,
+          "added": 1750353944000,
           "file": {
             "name": "/nekogram_v11.8.2.apk",
             "sha256": "1ebd52a39d31b49b82a68543a4c807bb5e63b047b3f03fd322f4d21125570570",
@@ -3349,11 +3381,12 @@
           },
           "antiFeatures": {
             "NonFreeNet": {},
-            "TetheredNet": {}
+            "TetheredNet": {},
+            "Tracking": {}
           }
         },
         "2d45bcffd5aa3f962fd0a7b016e892806d48fa25789914fea17b837af0cf84b0": {
-          "added": 1750350619000,
+          "added": 1750353942000,
           "file": {
             "name": "/nekogram_v11.7.0.apk",
             "sha256": "2d45bcffd5aa3f962fd0a7b016e892806d48fa25789914fea17b837af0cf84b0",
@@ -3598,20 +3631,21 @@
           },
           "antiFeatures": {
             "NonFreeNet": {},
-            "TetheredNet": {}
+            "TetheredNet": {},
+            "Tracking": {}
           }
         }
       }
     },
     "uz.unnarsx.cherrygram": {
       "metadata": {
-        "added": 1750350586000,
+        "added": 1750353910000,
         "categories": [
           "Connectivity",
           "Internet"
         ],
         "issueTracker": "https://github.com/arsLan4k1390/Cherrygram/issues",
-        "lastUpdated": 1750350596000,
+        "lastUpdated": 1750353919000,
         "license": "GPL-2.0",
         "sourceCode": "https://github.com/arsLan4k1390/Cherrygram",
         "webSite": "https://t.me/Cherry_gram",
@@ -3636,7 +3670,7 @@
       },
       "versions": {
         "a44cea8bd9644032c463164a4e437388d4b67c76c6405e91bfd6da404e4be53b": {
-          "added": 1750350596000,
+          "added": 1750353919000,
           "file": {
             "name": "/cherrygram_9.3.0.apk",
             "sha256": "a44cea8bd9644032c463164a4e437388d4b67c76c6405e91bfd6da404e4be53b",
@@ -3902,11 +3936,12 @@
           },
           "antiFeatures": {
             "NonFreeNet": {},
-            "TetheredNet": {}
+            "TetheredNet": {},
+            "Tracking": {}
           }
         },
         "fa11d8b9e895540c3d33e7593477c88af07246ca2d0cf82745f56f3c3f7e6544": {
-          "added": 1750350594000,
+          "added": 1750353917000,
           "file": {
             "name": "/cherrygram_9.2.0.apk",
             "sha256": "fa11d8b9e895540c3d33e7593477c88af07246ca2d0cf82745f56f3c3f7e6544",
@@ -4172,11 +4207,12 @@
           },
           "antiFeatures": {
             "NonFreeNet": {},
-            "TetheredNet": {}
+            "TetheredNet": {},
+            "Tracking": {}
           }
         },
         "4f6bba17a6861d3948ebc8dfd0aadb62fa0f538b9c3e67fedcab19ff137c756c": {
-          "added": 1750350591000,
+          "added": 1750353914000,
           "file": {
             "name": "/cherrygram_9.1.0.apk",
             "sha256": "4f6bba17a6861d3948ebc8dfd0aadb62fa0f538b9c3e67fedcab19ff137c756c",
@@ -4442,11 +4478,12 @@
           },
           "antiFeatures": {
             "NonFreeNet": {},
-            "TetheredNet": {}
+            "TetheredNet": {},
+            "Tracking": {}
           }
         },
         "0ac1ead1b458bf3f5969ad74cfcda51821a1def0bb13158892ba2ca4164b6c4a": {
-          "added": 1750350589000,
+          "added": 1750353912000,
           "file": {
             "name": "/cherrygram_9.0.0.apk",
             "sha256": "0ac1ead1b458bf3f5969ad74cfcda51821a1def0bb13158892ba2ca4164b6c4a",
@@ -4712,11 +4749,12 @@
           },
           "antiFeatures": {
             "NonFreeNet": {},
-            "TetheredNet": {}
+            "TetheredNet": {},
+            "Tracking": {}
           }
         },
         "8fc44c429111a3ec8f267ad72d66a2865f9f51f0f2145a61d309b339596ceb51": {
-          "added": 1750350586000,
+          "added": 1750353910000,
           "file": {
             "name": "/cherrygram_8.9.0.apk",
             "sha256": "8fc44c429111a3ec8f267ad72d66a2865f9f51f0f2145a61d309b339596ceb51",
@@ -4982,7 +5020,8 @@
           },
           "antiFeatures": {
             "NonFreeNet": {},
-            "TetheredNet": {}
+            "TetheredNet": {},
+            "Tracking": {}
           }
         }
       }
