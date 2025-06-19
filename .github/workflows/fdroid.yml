@@ -84,8 +84,25 @@ jobs:
         env:
           GH_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Prepare deployment structure
+        run: |
+          mkdir -p deploy/repo
+          cp -r fdroid/repo/* deploy/repo/
+          cat <<EOF > deploy/index.html
+          <html>
+          <head>
+          <meta http-equiv="refresh" content="0; url=repo" />
+          </head>
+          <body>
+          <p><a href="repo">Click here if redirect is not working</a></p>
+          </body>
+          </html>
+          EOF
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./fdroid/repo
+          publish_dir: deploy
+          user_name: "github-actions[bot]"
+          user_email: "github-actions[bot]@users.noreply.github.com"

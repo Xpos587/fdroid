@@ -13,7 +13,6 @@ fdroid/repo/*.png
 fdroid/repo/diff/
 fdroid/repo/status/
 
-# Исключения для структуры
 !fdroid/repo/*/
 !fdroid/repo/*/en-US/
 !fdroid/repo/*/en-US/icon.png
@@ -21,7 +20,6 @@ fdroid/repo/status/
 !fdroid/repo/*/en-US/phoneScreenshots/
 !fdroid/repo/index-v1.json
 
-# Конфигурация
 fdroid/keystore.p12
 fdroid/config.yml
 

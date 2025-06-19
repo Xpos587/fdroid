@@ -1,40 +1,40 @@
 AntiFeatures:
-    - NonFreeNet
-    - TetheredNet
+  - NonFreeNet
+  - TetheredNet
 AuthorName: Nekogram
 Builds:
-    - disable: Uses prebuilt libraries
-      versionCode: 1000000
-      versionName: 10.14.5
+  - disable: Uses prebuilt libraries
+    versionCode: 1000000
+    versionName: 10.14.5
 Categories:
-    - Connectivity
-    - Internet
+  - Connectivity
+  - Internet
 CurrentVersion: 11.12.0
 CurrentVersionCode: 59970
 Description: |
-    Third-party Telegram client with useful modifications focused on privacy and user experience
+  Third-party Telegram client with useful modifications focused on privacy and user experience
 
-    <b>Key Features</b>
+  <b>Key Features</b>
 
-    - Enhanced privacy and security options
-    - Improved user interface and customization
-    - Additional chat management features
-    - Extended message formatting options
-    - Advanced notification controls
-    - Multiple account support
-    - Custom themes and appearance settings
+  - Enhanced privacy and security options
+  - Improved user interface and customization
+  - Additional chat management features
+  - Extended message formatting options
+  - Advanced notification controls
+  - Multiple account support
+  - Custom themes and appearance settings
 
-    <b>Localization</b>
+  <b>Localization</b>
 
-    - Multilingual support via Crowdin
-    - Community-driven translations
-    - Regular language updates
+  - Multilingual support via Crowdin
+  - Community-driven translations
+  - Regular language updates
 
-    <b>Important Note</b>
+  <b>Important Note</b>
 
-    This is an unofficial fork of Telegram for Android. While maintaining full compatibility with Telegram's protocol, it offers additional features not available in the official client.
+  This is an unofficial fork of Telegram for Android. While maintaining full compatibility with Telegram's protocol, it offers additional features not available in the official client.
 IssueTracker: https://github.com/Nekogram/Nekogram/issues
-License: GPL-2.0
+License: GPL-2.0-or-later
 Name: Nekogram
 Repo: https://github.com/Nekogram/Nekogram
 RepoType: git

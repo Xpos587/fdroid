@@ -21,7 +21,7 @@ wgtunnel:
   # As described on https://f-droid.org/en/docs/Build_Metadata_Reference/#Categories,
   # you can use any name here, but you should look at the existing categories first
   categories:
-    - Connectivity
+    - Internet
     - Security
 
 v2rayng:
@@ -45,7 +45,7 @@ v2rayng:
     - Dark and light themes
 
   categories:
-    - Connectivity
+    - Internet
     - Security
 
 happ:
@@ -68,7 +68,7 @@ happ:
     Happ does not provide VPN services for purchase. Users are responsible for acquiring or setting up their own servers. Please comply with applicable laws in your jurisdiction when utilizing the app.
 
   categories:
-    - Connectivity
+    - Internet
     - Security
 
 nekobox:
@@ -95,7 +95,7 @@ nekobox:
     Google Play version has been controlled by third party since May 2024 and is non-open source. Use only official GitHub releases.
 
   categories:
-    - Connectivity
+    - Internet
     - Security
 
 hiddify:
@@ -123,7 +123,7 @@ hiddify:
     Hiddify does not provide VPN services. Users must acquire or set up their own servers. Please comply with local laws when using the app.
 
   categories:
-    - Connectivity
+    - Internet
     - Security
 
 cherrygram:
@@ -203,8 +203,8 @@ nekogram:
     This is an unofficial fork of Telegram for Android. While maintaining full compatibility with Telegram's protocol, it offers additional features not available in the official client.
 
   categories:
-    - Connectivity
     - Internet
+    - Security
 
 obsidian:
   git: https://github.com/obsidianmd/obsidian-releases
@@ -239,3 +239,38 @@ obsidian:
   categories:
     - Writing
     - Science & Education
+
+flclash:
+  git: https://github.com/chen08209/FlClash
+  name: "FlClash"
+  description: |
+    A multi-platform proxy client based on ClashMeta, simple and easy to use, open-source and ad-free
+
+    <b>Key Features</b>
+
+    - Multi-platform support: Android, Windows, macOS and Linux
+    - Adaptive multiple screen sizes with multiple color themes
+    - Material You Design with Surfboard-like UI
+    - Data synchronization via WebDAV
+    - Subscription link support
+    - Dark mode support
+    - System tray support (Linux)
+    - Android actions for automation
+
+    <b>Perfect for</b>
+
+    - Network privacy and security
+    - Bypassing geo-restrictions
+    - Managing proxy connections
+    - Accessing restricted content
+
+    <b>Technical Details</b>
+
+    - Based on ClashMeta proxy engine
+    - Built with Flutter framework
+    - Cross-platform compatibility
+    - Open-source and ad-free
+
+  categories:
+    - Internet
+    - Security
