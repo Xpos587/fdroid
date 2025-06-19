@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1750354031000,
+    "timestamp": 1750355945000,
     "version": 20002,
     "name": "Xpos587 Apps Repository",
     "icon": "icon.png",
@@ -32,13 +32,36 @@
       "sourceCode": "https://github.com/arsLan4k1390/Cherrygram",
       "summary": "Third-party Telegram client with privacy-focused modifications",
       "webSite": "https://t.me/Cherry_gram",
-      "added": 1750353910000,
+      "added": 1750355790000,
       "packageName": "uz.unnarsx.cherrygram",
-      "lastUpdated": 1750353919000,
+      "lastUpdated": 1750355800000,
       "localized": {
         "en-US": {
           "icon": "icon_FsRw0zln_rxK_Gh_Dk0ExP1_4JPXmogxNYn8-HTbOso=.png",
           "whatsNew": "**\ud83c\uddfa\ud83c\uddf8 Changelog:\n\u2014** Updated all prompts in Gemini - now the AI \u200b\u200bresponds even more accurately,\n**\u2014** Summarize message text via Gemini,\n**\u2014** Scroll intensity configurator for \"Hide keyboard on scroll\" feat,\n**\u2014** \"Copy photo\" button inside photo viewer,\n**\u2014** \"Open Channel\" button in the profile header of discussion chat,\n**\u2014** Fixed lags during a scroll in chats list.\n\n**\ud83c\uddf7\ud83c\uddfa \u0421\u043f\u0438\u0441\u043e\u043a \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u0439:\n\u2014** \u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u044b \u0432\u0441\u0435 \u043f\u0440\u043e\u043c\u043f\u0442\u044b Gemini - \u0442\u0435\u043f\u0435\u0440\u044c \u0418\u0418 \u043e\u0442\u0432\u0435\u0447\u0430\u0435\u0442 \u0435\u0449\u0435 \u0442\u043e\u0447\u043d\u0435\u0435,\n**\u2014** \u041a\u0440\u0430\u0442\u043a\u0430\u044f \u0441\u0432\u043e\u0434\u043a\u0430 \u043f\u043e \u0442\u0435\u043a\u0441\u0442\u0443 \u0447\u0435\u0440\u0435\u0437"
+        }
+      }
+    },
+    {
+      "authorName": "uazo",
+      "categories": [
+        "Internet"
+      ],
+      "suggestedVersionName": "137.0.7151.104",
+      "suggestedVersionCode": "715110404",
+      "description": "A Chromium fork based on Bromite with built-in support for ad blocking and an eye for privacy\n\n<b>Key Features</b>\n\n- Built-in ad blocking without extensions\n- Anti-fingerprinting mitigations\n- Privacy-focused modifications to Chromium\n- Removes tracking and telemetry features\n- Auto-update functionality\n- Multi-platform support (Android, Windows, Linux)\n- Based on latest Chromium stable releases\n- Compatible with Chrome extensions\n\n<b>Privacy Features</b>\n\n- Disables features used for tracking users' habits\n- Limits integration between browser and manufacturer\n- Removes Google services dependencies\n- Enhanced security sandbox support\n\n<b>Perfect for</b>\n\n- Privacy-conscious browsing\n- Ad-free web experience\n- Secure internet access\n- Alternative to mainstream browsers\n\n<b>Note</b>\n\nPrivacy features are not comprehensive enough for high-risk users - journalists or people in countries with freedom limitations should use Tor Browser instead.\n",
+      "issueTracker": "https://github.com/uazo/cromite/issues",
+      "license": "GPL-3.0",
+      "name": "Cromite",
+      "sourceCode": "https://github.com/uazo/cromite",
+      "summary": "Cromite a Bromite fork with ad blocking and privacy enhancements; take back y...",
+      "webSite": "https://www.cromite.org",
+      "added": 1750355804000,
+      "packageName": "org.cromite.cromite",
+      "lastUpdated": 1750355822000,
+      "localized": {
+        "en-US": {
+          "whatsNew": "https://github.com/uazo/cromite/issues/2159#issuecomment-2969242863\n"
         }
       }
     },
@@ -60,9 +83,9 @@
       "sourceCode": "https://github.com/chen08209/FlClash",
       "summary": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open...",
       "webSite": "https://github.com/chen08209/FlClash",
-      "added": 1750353920000,
+      "added": 1750355823000,
       "packageName": "com.follow.clash",
-      "lastUpdated": 1750353924000,
+      "lastUpdated": 1750355826000,
       "localized": {
         "en-US": {
           "icon": "icon_lUz_WQbrZ0U_h6aCBjqnhLbOU_3zzj_BVc9KtuRpPAA=.png",
@@ -89,9 +112,9 @@
       "sourceCode": "https://github.com/Happ-proxy/happ-android",
       "summary": "A proxy management app powered by Xray core with support for multiple protocols.",
       "webSite": "https://www.happ.su/",
-      "added": 1750353925000,
+      "added": 1750355828000,
       "packageName": "su.happ.proxyutility",
-      "lastUpdated": 1750353931000,
+      "lastUpdated": 1750355833000,
       "localized": {
         "en-US": {
           "icon": "icon_bVkO3MQVFiyBXJKrKcYoD8lvKrn_tjcNvn102YKeXaQ=.png",
@@ -117,9 +140,9 @@
       "sourceCode": "https://github.com/hiddify/hiddify-app",
       "summary": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria,...",
       "webSite": "https://hiddify.com/app/",
-      "added": 1750353932000,
+      "added": 1750355834000,
       "packageName": "app.hiddify.com",
-      "lastUpdated": 1750353934000,
+      "lastUpdated": 1750355836000,
       "localized": {
         "en-US": {
           "icon": "icon_JQ1qOTrfTarvhOtf6MUxqA6wXMAidb6KFJDvUTQ0cuU=.png",
@@ -142,9 +165,9 @@
       "sourceCode": "https://github.com/MatsuriDayo/NekoBoxForAndroid",
       "summary": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
       "webSite": "https://matsuridayo.github.io/",
-      "added": 1750353935000,
+      "added": 1750355837000,
       "packageName": "moe.nb4a",
-      "lastUpdated": 1750353938000,
+      "lastUpdated": 1750355840000,
       "localized": {
         "en-US": {
           "icon": "icon_XpouIPn2ogA9CgvdM-F4-srfXna67WgqnmyP_pnv8Oo=.png",
@@ -172,9 +195,9 @@
       "sourceCode": "https://github.com/Nekogram/Nekogram",
       "summary": "Open-source third-party Telegram client with not many but useful modifications.",
       "webSite": "https://nekogram.app",
-      "added": 1750353940000,
+      "added": 1750355842000,
       "packageName": "tw.nekomimi.nekogram",
-      "lastUpdated": 1750353949000,
+      "lastUpdated": 1750355851000,
       "localized": {
         "en-US": {
           "icon": "icon_o_H5hap9eKw9-XNCC5Wm2MkWQxoJjBzETW26B2tBZ7Q=.png",
@@ -200,9 +223,9 @@
       "sourceCode": "https://github.com/obsidianmd/obsidian-releases",
       "summary": "Community plugins list, theme list, and releases of Obsidian.",
       "webSite": "https://obsidian.md",
-      "added": 1750353949000,
+      "added": 1750355852000,
       "packageName": "md.obsidian",
-      "lastUpdated": 1750353951000,
+      "lastUpdated": 1750355854000,
       "localized": {
         "en-US": {
           "icon": "icon_vxk9cuyU4RjMhCilVSUbiS_GUsyRhR26mhErBGYrZNI=.png",
@@ -224,9 +247,9 @@
       "name": "v2rayNG",
       "sourceCode": "https://github.com/2dust/v2rayNG",
       "summary": "A V2Ray client for Android, support Xray core and v2fly core",
-      "added": 1750353952000,
+      "added": 1750355855000,
       "packageName": "com.v2ray.ang",
-      "lastUpdated": 1750353956000,
+      "lastUpdated": 1750355859000,
       "localized": {
         "en-US": {
           "icon": "icon_dW_SaDQ-FnlJIqDSeSu5TzAlMeiUzvHY1mboTl017pk=.png",
@@ -249,9 +272,9 @@
       "sourceCode": "https://github.com/wgtunnel/wgtunnel",
       "summary": "A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling.",
       "webSite": "https://wgtunnel.com/",
-      "added": 1750353957000,
+      "added": 1750355860000,
       "packageName": "com.zaneschepke.wireguardautotunnel",
-      "lastUpdated": 1750353958000,
+      "lastUpdated": 1750355861000,
       "localized": {
         "en-US": {
           "featureGraphic": "featureGraphic_w_IthR1DGfyUJHyeJS7P3Q1U9ySK3bumittdxKqWfyw=.png",
@@ -272,7 +295,7 @@
   "packages": {
     "app.hiddify.com": [
       {
-        "added": 1750353934000,
+        "added": 1750355836000,
         "apkName": "hiddify_v2.5.7.apk",
         "hash": "e8bd97123b0cd2992b23a55e3c4f805652ac23e45f38d47cdea66fb74a3b3b67",
         "hashType": "sha256",
@@ -335,7 +358,7 @@
         "versionName": "2.5.7"
       },
       {
-        "added": 1750353933000,
+        "added": 1750355835000,
         "apkName": "hiddify_v2.3.1.apk",
         "hash": "9c5ca5e7ba3e5fe25d68faffd8f825972ca243fea049881c6e96ea91d0032cc1",
         "hashType": "sha256",
@@ -398,7 +421,7 @@
         "versionName": "2.3.1"
       },
       {
-        "added": 1750353932000,
+        "added": 1750355834000,
         "apkName": "hiddify_v2.1.5.apk",
         "hash": "f9406cb5c92dea3656e71cefc295017ab053d44d535e5abcde9dee51af12a5a6",
         "hashType": "sha256",
@@ -463,7 +486,7 @@
     ],
     "com.follow.clash": [
       {
-        "added": 1750353924000,
+        "added": 1750355826000,
         "apkName": "flclash_v0.8.86.apk",
         "hash": "9fedd1c1f3fa8a961eb5818d4c5ae20713581b26d38bdc3970aec861945a4654",
         "hashType": "sha256",
@@ -522,7 +545,7 @@
         "versionName": "0.8.86"
       },
       {
-        "added": 1750353923000,
+        "added": 1750355825000,
         "apkName": "flclash_v0.8.85.apk",
         "hash": "2de5d4575123eeb0842c5bfc3cc45bd3ecc0b2b4d31870b0d8adb57c8434b36e",
         "hashType": "sha256",
@@ -581,7 +604,7 @@
         "versionName": "0.8.85"
       },
       {
-        "added": 1750353922000,
+        "added": 1750355825000,
         "apkName": "flclash_v0.8.84.apk",
         "hash": "1db4616f30081acfec8bb0e136a202ead28df9e84e76def97076f996beaaa8cc",
         "hashType": "sha256",
@@ -640,7 +663,7 @@
         "versionName": "0.8.84"
       },
       {
-        "added": 1750353921000,
+        "added": 1750355824000,
         "apkName": "flclash_v0.8.83.apk",
         "hash": "eff47b1e3770b5a7a1fb3d8d7ad66daa557917af494856e266d410f08bb06122",
         "hashType": "sha256",
@@ -699,7 +722,7 @@
         "versionName": "0.8.83"
       },
       {
-        "added": 1750353920000,
+        "added": 1750355823000,
         "apkName": "flclash_v0.8.82.apk",
         "hash": "2088b8c66120bb8916b01b104bfc813f55d4aadad82b4a90f91c542dd3a8b36f",
         "hashType": "sha256",
@@ -760,7 +783,7 @@
     ],
     "com.v2ray.ang": [
       {
-        "added": 1750353956000,
+        "added": 1750355859000,
         "apkName": "v2rayng_1.10.7.apk",
         "hash": "cc40422c43ef7c57237fa074bae085c7ef41f8ae37c0ffc42960ac42e1f08dbe",
         "hashType": "sha256",
@@ -831,7 +854,7 @@
         "versionName": "1.10.7"
       },
       {
-        "added": 1750353955000,
+        "added": 1750355858000,
         "apkName": "v2rayng_1.10.6.apk",
         "hash": "5d9d836f059fa1a13215e1fab79f9dcf1317374e6130c46e473c8b8fb310f2cc",
         "hashType": "sha256",
@@ -902,7 +925,7 @@
         "versionName": "1.10.6"
       },
       {
-        "added": 1750353954000,
+        "added": 1750355857000,
         "apkName": "v2rayng_1.10.5.apk",
         "hash": "53005c4717998ee0d7131c2647ff5b64bd064ee990b3c23154bb7b9827177bc5",
         "hashType": "sha256",
@@ -973,7 +996,7 @@
         "versionName": "1.10.5"
       },
       {
-        "added": 1750353953000,
+        "added": 1750355856000,
         "apkName": "v2rayng_1.10.4.apk",
         "hash": "f0b30cc524d7d3b6d33bb3c898b5a7f42625708cfe25dfb5283e4740679261be",
         "hashType": "sha256",
@@ -1044,7 +1067,7 @@
         "versionName": "1.10.4"
       },
       {
-        "added": 1750353952000,
+        "added": 1750355855000,
         "apkName": "v2rayng_1.10.3.apk",
         "hash": "663621138ad356cd2435028fe1173b7a647a19b4b1ea2a4a50b4fec2587acaa1",
         "hashType": "sha256",
@@ -1117,7 +1140,7 @@
     ],
     "com.zaneschepke.wireguardautotunnel": [
       {
-        "added": 1750353958000,
+        "added": 1750355861000,
         "apkName": "wgtunnel_3.9.3.apk",
         "hash": "94e65b8556e80120cd1131ebb468aeb9ea3c1cf80e54c1a1a21602d5f84baaf4",
         "hashType": "sha256",
@@ -1207,7 +1230,7 @@
         "versionName": "3.9.3"
       },
       {
-        "added": 1750353957000,
+        "added": 1750355860000,
         "apkName": "wgtunnel_3.9.1.apk",
         "hash": "8001dfed63d50f5e8935beea1d6ea5f6ba78290c29763a7712f52578d8eb0da2",
         "hashType": "sha256",
@@ -1299,7 +1322,7 @@
     ],
     "md.obsidian": [
       {
-        "added": 1750353949000,
+        "added": 1750355852000,
         "apkName": "obsidian_v1.8.10.apk",
         "hash": "af09494c6fdec9815e1e562acd20e7591a49ee5449f84c2bef0052ca7c2c4adf",
         "hashType": "sha256",
@@ -1353,7 +1376,7 @@
         "versionName": "1.8.10"
       },
       {
-        "added": 1750353951000,
+        "added": 1750355854000,
         "apkName": "obsidian_v1.8.9.apk",
         "hash": "832fc9cfd9853ce2127348bf75a48f26a6346062930828358d8537ce8f2b6005",
         "hashType": "sha256",
@@ -1407,7 +1430,7 @@
         "versionName": "1.8.9"
       },
       {
-        "added": 1750353951000,
+        "added": 1750355853000,
         "apkName": "obsidian_v1.8.7.apk",
         "hash": "f5252b7c3774cdf58f48d9be5fb245d77e1cbd33b73d2ef54d54a62814e7fb52",
         "hashType": "sha256",
@@ -1461,7 +1484,7 @@
         "versionName": "1.8.7"
       },
       {
-        "added": 1750353950000,
+        "added": 1750355853000,
         "apkName": "obsidian_v1.8.4.apk",
         "hash": "1a83470f5809c75431b22207422a63060907b0e305a8b3f18f5263b1bcc60d1e",
         "hashType": "sha256",
@@ -1515,7 +1538,7 @@
         "versionName": "1.8.4"
       },
       {
-        "added": 1750353950000,
+        "added": 1750355852000,
         "apkName": "obsidian_v1.8.3.apk",
         "hash": "90c4b1af5902e632ee124518350bd97ab9e99984beebb83013680f24d66cc54c",
         "hashType": "sha256",
@@ -1571,7 +1594,7 @@
     ],
     "moe.nb4a": [
       {
-        "added": 1750353938000,
+        "added": 1750355840000,
         "apkName": "nekobox_1.3.9.apk",
         "hash": "44ef5d5e1c3cc1a512e2b38a1155f9dbc87387400ef37affcf1e398326053bec",
         "hashType": "sha256",
@@ -1662,7 +1685,7 @@
         "versionName": "1.3.9"
       },
       {
-        "added": 1750353937000,
+        "added": 1750355839000,
         "apkName": "nekobox_1.3.8.apk",
         "hash": "e3468d2c9c5ee0c8a6381782f7e9530c184f73b20340b65328e5f33cb5c25ac0",
         "hashType": "sha256",
@@ -1753,7 +1776,7 @@
         "versionName": "1.3.8"
       },
       {
-        "added": 1750353937000,
+        "added": 1750355839000,
         "apkName": "nekobox_1.3.7.apk",
         "hash": "381ec24583a5685e7cc4513f0a65128b99d5694e8d490057d14943a601e2d139",
         "hashType": "sha256",
@@ -1844,7 +1867,7 @@
         "versionName": "1.3.7"
       },
       {
-        "added": 1750353936000,
+        "added": 1750355838000,
         "apkName": "nekobox_1.3.6.apk",
         "hash": "19bc628dc2a69f5cb23b369abb58b67298d212e3bab3c813be4dabd06fdb3e04",
         "hashType": "sha256",
@@ -1935,7 +1958,7 @@
         "versionName": "1.3.6"
       },
       {
-        "added": 1750353935000,
+        "added": 1750355837000,
         "apkName": "nekobox_1.3.5.apk",
         "hash": "64b5c16b31a14b42460536579cffd89af47d809b35fcf7bb6127f9ee15662046",
         "hashType": "sha256",
@@ -2026,9 +2049,956 @@
         "versionName": "1.3.5"
       }
     ],
+    "org.cromite.cromite": [
+      {
+        "added": 1750355808000,
+        "apkName": "cromite_v137.0.7151.104-a427cbd404d3786353ab1cfc74aadcffaf22feeb.apk",
+        "hash": "1883e0826a387ac1041a9a476cf176bdeb188c586eb0f2ff21de71f3601d1d20",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "org.cromite.cromite",
+        "sig": "1eb24fd1ccf28d6ac9e0768d7d69766a",
+        "signer": "633fa41d8211d6d0916a819b89668c6de92e64232da67f9d16fd81c3b7e923ff",
+        "size": 143342094,
+        "targetSdkVersion": 35,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            null
+          ],
+          [
+            "android.permission.RUN_USER_INITIATED_JOBS",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.NFC",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.CREDENTIAL_MANAGER_QUERY_CANDIDATE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.CREDENTIAL_MANAGER_SET_ALLOWED_PROVIDERS",
+            null
+          ],
+          [
+            "android.permission.CREDENTIAL_MANAGER_SET_ORIGIN",
+            null
+          ],
+          [
+            "org.cromite.cromite.permission.READ_WRITE_BOOKMARK_FOLDERS",
+            null
+          ],
+          [
+            "org.cromite.cromite.TOS_ACKED",
+            null
+          ],
+          [
+            "com.chrome.permission.DEVICE_EXTRAS",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ]
+        ],
+        "uses-permission-sdk-23": [
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            30
+          ],
+          [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADVERTISE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_SCAN",
+            null
+          ],
+          [
+            "android.permission.REORDER_TASKS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_AUDIO",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_IMAGES",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VIDEO",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ]
+        ],
+        "versionCode": 715110404,
+        "versionName": "137.0.7151.104"
+      },
+      {
+        "added": 1750355822000,
+        "apkName": "cromite_v137.0.7151.72-4ea840397d139bcaf3298a54a80a93d135f7dac7.apk",
+        "hash": "a778006db584afc619129b88545532ea582d7a135fc6307215dd3d7935b51094",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "org.cromite.cromite",
+        "sig": "1eb24fd1ccf28d6ac9e0768d7d69766a",
+        "signer": "633fa41d8211d6d0916a819b89668c6de92e64232da67f9d16fd81c3b7e923ff",
+        "size": 143342417,
+        "targetSdkVersion": 35,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            null
+          ],
+          [
+            "android.permission.RUN_USER_INITIATED_JOBS",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.NFC",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.CREDENTIAL_MANAGER_QUERY_CANDIDATE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.CREDENTIAL_MANAGER_SET_ALLOWED_PROVIDERS",
+            null
+          ],
+          [
+            "android.permission.CREDENTIAL_MANAGER_SET_ORIGIN",
+            null
+          ],
+          [
+            "org.cromite.cromite.permission.READ_WRITE_BOOKMARK_FOLDERS",
+            null
+          ],
+          [
+            "org.cromite.cromite.TOS_ACKED",
+            null
+          ],
+          [
+            "com.chrome.permission.DEVICE_EXTRAS",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ]
+        ],
+        "uses-permission-sdk-23": [
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            30
+          ],
+          [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADVERTISE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_SCAN",
+            null
+          ],
+          [
+            "android.permission.REORDER_TASKS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_AUDIO",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_IMAGES",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VIDEO",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ]
+        ],
+        "versionCode": 715107204,
+        "versionName": "137.0.7151.72"
+      },
+      {
+        "added": 1750355817000,
+        "apkName": "cromite_v137.0.7151.56-b4f8d96284c854cbe6448d2e30ee5a30ce3f0b82.apk",
+        "hash": "82547386ce73c6dca55afd25b2ab816dced1ef801ceb38fc2369c868400eb96f",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "org.cromite.cromite",
+        "sig": "1eb24fd1ccf28d6ac9e0768d7d69766a",
+        "signer": "633fa41d8211d6d0916a819b89668c6de92e64232da67f9d16fd81c3b7e923ff",
+        "size": 143220212,
+        "targetSdkVersion": 35,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            null
+          ],
+          [
+            "android.permission.RUN_USER_INITIATED_JOBS",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.NFC",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.CREDENTIAL_MANAGER_QUERY_CANDIDATE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.CREDENTIAL_MANAGER_SET_ALLOWED_PROVIDERS",
+            null
+          ],
+          [
+            "android.permission.CREDENTIAL_MANAGER_SET_ORIGIN",
+            null
+          ],
+          [
+            "org.cromite.cromite.permission.READ_WRITE_BOOKMARK_FOLDERS",
+            null
+          ],
+          [
+            "org.cromite.cromite.TOS_ACKED",
+            null
+          ],
+          [
+            "com.chrome.permission.DEVICE_EXTRAS",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ]
+        ],
+        "uses-permission-sdk-23": [
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            30
+          ],
+          [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADVERTISE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_SCAN",
+            null
+          ],
+          [
+            "android.permission.REORDER_TASKS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_AUDIO",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_IMAGES",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VIDEO",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ]
+        ],
+        "versionCode": 715105604,
+        "versionName": "137.0.7151.56"
+      },
+      {
+        "added": 1750355813000,
+        "apkName": "cromite_v137.0.7151.44-1abdac0aff0916b1e4a4bd52f1896eec00834262.apk",
+        "hash": "a65cedd7493ab62fdb413f9f8631a879df93411bbc5461693697edb3a70b7f86",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "org.cromite.cromite",
+        "sig": "1eb24fd1ccf28d6ac9e0768d7d69766a",
+        "signer": "633fa41d8211d6d0916a819b89668c6de92e64232da67f9d16fd81c3b7e923ff",
+        "size": 143254096,
+        "targetSdkVersion": 35,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            null
+          ],
+          [
+            "android.permission.RUN_USER_INITIATED_JOBS",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.NFC",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.CREDENTIAL_MANAGER_QUERY_CANDIDATE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.CREDENTIAL_MANAGER_SET_ALLOWED_PROVIDERS",
+            null
+          ],
+          [
+            "android.permission.CREDENTIAL_MANAGER_SET_ORIGIN",
+            null
+          ],
+          [
+            "org.cromite.cromite.permission.READ_WRITE_BOOKMARK_FOLDERS",
+            null
+          ],
+          [
+            "org.cromite.cromite.TOS_ACKED",
+            null
+          ],
+          [
+            "com.chrome.permission.DEVICE_EXTRAS",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ]
+        ],
+        "uses-permission-sdk-23": [
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            30
+          ],
+          [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADVERTISE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_SCAN",
+            null
+          ],
+          [
+            "android.permission.REORDER_TASKS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_AUDIO",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_IMAGES",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VIDEO",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ]
+        ],
+        "versionCode": 715104404,
+        "versionName": "137.0.7151.44"
+      },
+      {
+        "added": 1750355804000,
+        "apkName": "cromite_v136.0.7103.125-5d68740ae01e43d2eaf6ad381fc777a353891749.apk",
+        "hash": "7e074e4170241653a15bb0f3f14e4e469937dbeaf4ff14fe28969b4ba228b2c4",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "org.cromite.cromite",
+        "sig": "1eb24fd1ccf28d6ac9e0768d7d69766a",
+        "signer": "633fa41d8211d6d0916a819b89668c6de92e64232da67f9d16fd81c3b7e923ff",
+        "size": 141986344,
+        "targetSdkVersion": 35,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            null
+          ],
+          [
+            "android.permission.RUN_USER_INITIATED_JOBS",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.NFC",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.CREDENTIAL_MANAGER_QUERY_CANDIDATE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.CREDENTIAL_MANAGER_SET_ALLOWED_PROVIDERS",
+            null
+          ],
+          [
+            "android.permission.CREDENTIAL_MANAGER_SET_ORIGIN",
+            null
+          ],
+          [
+            "org.cromite.cromite.permission.READ_WRITE_BOOKMARK_FOLDERS",
+            null
+          ],
+          [
+            "org.cromite.cromite.TOS_ACKED",
+            null
+          ],
+          [
+            "com.chrome.permission.DEVICE_EXTRAS",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ]
+        ],
+        "uses-permission-sdk-23": [
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            30
+          ],
+          [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADVERTISE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_SCAN",
+            null
+          ],
+          [
+            "android.permission.REORDER_TASKS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_AUDIO",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_IMAGES",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VIDEO",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ]
+        ],
+        "versionCode": 710312504,
+        "versionName": "136.0.7103.125"
+      }
+    ],
     "su.happ.proxyutility": [
       {
-        "added": 1750353931000,
+        "added": 1750355833000,
         "apkName": "happ_2.8.1.apk",
         "hash": "5da2a530dabe5fffe9987a42a4f0628670692b7a87ce83a6dce89212ff037186",
         "hashType": "sha256",
@@ -2112,7 +3082,7 @@
         "versionName": "2.8.1"
       },
       {
-        "added": 1750353929000,
+        "added": 1750355832000,
         "apkName": "happ_2.8.0.apk",
         "hash": "fe10da8a6586e6b28c494208633e9e12e2297f40744b63fa38fb0172cb0779e5",
         "hashType": "sha256",
@@ -2192,7 +3162,7 @@
         "versionName": "2.8.0"
       },
       {
-        "added": 1750353928000,
+        "added": 1750355830000,
         "apkName": "happ_2.7.1.apk",
         "hash": "a63b3782f10fadc4129611d6a6d779684382a3c4b566186ee81bf3418b0905f2",
         "hashType": "sha256",
@@ -2272,7 +3242,7 @@
         "versionName": "2.7.1"
       },
       {
-        "added": 1750353926000,
+        "added": 1750355829000,
         "apkName": "happ_2.7.0.apk",
         "hash": "f2b3c847bbd059bed11086198eca3e811dddb4e677cced29c3671e50c7b2a206",
         "hashType": "sha256",
@@ -2352,7 +3322,7 @@
         "versionName": "2.7.0"
       },
       {
-        "added": 1750353925000,
+        "added": 1750355828000,
         "apkName": "happ_2.6.0.apk",
         "hash": "8a3e8edfddc11812c4f72e73b26d9c8202fd579d7fda924eadd69f5d100e4aa1",
         "hashType": "sha256",
@@ -2434,7 +3404,7 @@
     ],
     "tw.nekomimi.nekogram": [
       {
-        "added": 1750353940000,
+        "added": 1750355842000,
         "apkName": "nekogram_v11.12.0.apk",
         "hash": "200c6487f0e7c6975d3e9a09144923a2caeb32241446565ee52aadd04d8df861",
         "hashType": "sha256",
@@ -2741,7 +3711,7 @@
         "versionName": "11.12.0"
       },
       {
-        "added": 1750353949000,
+        "added": 1750355851000,
         "apkName": "nekogram_v11.9.2.apk",
         "hash": "31872fbfb6f9ab1d6e25141943bdec12c482802f969bbaa81c8d83204adeeb4d",
         "hashType": "sha256",
@@ -3048,7 +4018,7 @@
         "versionName": "11.9.2"
       },
       {
-        "added": 1750353946000,
+        "added": 1750355849000,
         "apkName": "nekogram_v11.9.0.apk",
         "hash": "f06ce18d55b708f3c3d578f9bc2fdf3b14f430d3f33e290e0112ef72d54d3751",
         "hashType": "sha256",
@@ -3355,7 +4325,7 @@
         "versionName": "11.9.0"
       },
       {
-        "added": 1750353944000,
+        "added": 1750355846000,
         "apkName": "nekogram_v11.8.2.apk",
         "hash": "1ebd52a39d31b49b82a68543a4c807bb5e63b047b3f03fd322f4d21125570570",
         "hashType": "sha256",
@@ -3662,7 +4632,7 @@
         "versionName": "11.8.2"
       },
       {
-        "added": 1750353942000,
+        "added": 1750355844000,
         "apkName": "nekogram_v11.7.0.apk",
         "hash": "2d45bcffd5aa3f962fd0a7b016e892806d48fa25789914fea17b837af0cf84b0",
         "hashType": "sha256",
@@ -3971,7 +4941,7 @@
     ],
     "uz.unnarsx.cherrygram": [
       {
-        "added": 1750353919000,
+        "added": 1750355800000,
         "apkName": "cherrygram_9.3.0.apk",
         "hash": "a44cea8bd9644032c463164a4e437388d4b67c76c6405e91bfd6da404e4be53b",
         "hashType": "sha256",
@@ -4310,7 +5280,7 @@
         "versionName": "11.9.1"
       },
       {
-        "added": 1750353917000,
+        "added": 1750355797000,
         "apkName": "cherrygram_9.2.0.apk",
         "hash": "fa11d8b9e895540c3d33e7593477c88af07246ca2d0cf82745f56f3c3f7e6544",
         "hashType": "sha256",
@@ -4649,7 +5619,7 @@
         "versionName": "11.9.1"
       },
       {
-        "added": 1750353914000,
+        "added": 1750355795000,
         "apkName": "cherrygram_9.1.0.apk",
         "hash": "4f6bba17a6861d3948ebc8dfd0aadb62fa0f538b9c3e67fedcab19ff137c756c",
         "hashType": "sha256",
@@ -4988,7 +5958,7 @@
         "versionName": "11.9.0"
       },
       {
-        "added": 1750353912000,
+        "added": 1750355792000,
         "apkName": "cherrygram_9.0.0.apk",
         "hash": "0ac1ead1b458bf3f5969ad74cfcda51821a1def0bb13158892ba2ca4164b6c4a",
         "hashType": "sha256",
@@ -5327,7 +6297,7 @@
         "versionName": "11.7.0"
       },
       {
-        "added": 1750353910000,
+        "added": 1750355790000,
         "apkName": "cherrygram_8.9.0.apk",
         "hash": "8fc44c429111a3ec8f267ad72d66a2865f9f51f0f2145a61d309b339596ceb51",
         "hashType": "sha256",

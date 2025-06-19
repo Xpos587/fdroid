@@ -1,50 +1,50 @@
 AuthorName: uazo
 Builds:
-  - disable: Uses prebuilt libraries
-    versionCode: 12900000
-    versionName: 129.0.6668.100
+    - disable: Uses prebuilt libraries
+      versionCode: 12900000
+      versionName: 129.0.6668.100
 Categories:
-  - Internet
-CurrentVersion: 129.0.6668.100
-CurrentVersionCode: 12900000
+    - Internet
+CurrentVersion: 137.0.7151.104
+CurrentVersionCode: 715110404
 Description: |
-  A Chromium fork based on Bromite with built-in support for ad blocking and an eye for privacy
+    A Chromium fork based on Bromite with built-in support for ad blocking and an eye for privacy
 
-  <b>Key Features</b>
+    <b>Key Features</b>
 
-  - Built-in ad blocking without extensions
-  - Anti-fingerprinting mitigations
-  - Privacy-focused modifications to Chromium
-  - Removes tracking and telemetry features
-  - Auto-update functionality
-  - Multi-platform support (Android, Windows, Linux)
-  - Based on latest Chromium stable releases
-  - Compatible with Chrome extensions
+    - Built-in ad blocking without extensions
+    - Anti-fingerprinting mitigations
+    - Privacy-focused modifications to Chromium
+    - Removes tracking and telemetry features
+    - Auto-update functionality
+    - Multi-platform support (Android, Windows, Linux)
+    - Based on latest Chromium stable releases
+    - Compatible with Chrome extensions
 
-  <b>Privacy Features</b>
+    <b>Privacy Features</b>
 
-  - Disables features used for tracking users' habits
-  - Limits integration between browser and manufacturer
-  - Removes Google services dependencies
-  - Enhanced security sandbox support
+    - Disables features used for tracking users' habits
+    - Limits integration between browser and manufacturer
+    - Removes Google services dependencies
+    - Enhanced security sandbox support
 
-  <b>Perfect for</b>
+    <b>Perfect for</b>
 
-  - Privacy-conscious browsing
-  - Ad-free web experience
-  - Secure internet access
-  - Alternative to mainstream browsers
+    - Privacy-conscious browsing
+    - Ad-free web experience
+    - Secure internet access
+    - Alternative to mainstream browsers
 
-  <b>Note</b>
+    <b>Note</b>
 
-  Privacy features are not comprehensive enough for high-risk users - journalists or people in countries with freedom limitations should use Tor Browser instead.
+    Privacy features are not comprehensive enough for high-risk users - journalists or people in countries with freedom limitations should use Tor Browser instead.
 IssueTracker: https://github.com/uazo/cromite/issues
-License: GPL-3.0-or-later
+License: GPL-3.0
 Name: Cromite
 Repo: https://github.com/uazo/cromite
 RepoType: git
 SourceCode: https://github.com/uazo/cromite
-Summary: Privacy-focused Chromium fork with built-in ad blocking
+Summary: Cromite a Bromite fork with ad blocking and privacy enhancements; take back y...
 UpdateCheckData: tags/v(.+)$
 UpdateCheckMode: Tags
 WebSite: https://www.cromite.org

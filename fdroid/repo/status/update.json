@@ -37,7 +37,7 @@
     "--delete-unknown"
   ],
   "disabled": [],
-  "endTimestamp": 1750354033692,
+  "endTimestamp": 1750355948170,
   "failedBuilds": {},
   "jarsigner": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.15-6/x64/bin/jarsigner",
   "keytool": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.15-6/x64/bin/keytool",
@@ -49,20 +49,21 @@
     "com.zaneschepke.wireguardautotunnel",
     "md.obsidian",
     "moe.nb4a",
+    "org.cromite.cromite",
     "su.happ.proxyutility",
     "tw.nekomimi.nekogram",
     "uz.unnarsx.cherrygram"
   ],
   "noUpdateCheck": [],
   "stages": {
-    "delete_disabled_builds": 1750354029447,
-    "index.make repo": 1750354031027,
-    "prepare_apps repo": 1750354029811,
-    "process_apks": 1750354029448,
-    "read_added_date_from_all_apks": 1750354029811,
-    "remove_apks": 1750354029811,
-    "scan_repo_files": 1750354029810
+    "delete_disabled_builds": 1750355943685,
+    "index.make repo": 1750355945303,
+    "prepare_apps repo": 1750355944056,
+    "process_apks": 1750355943686,
+    "read_added_date_from_all_apks": 1750355944056,
+    "remove_apks": 1750355944055,
+    "scan_repo_files": 1750355944055
   },
-  "startTimestamp": 1750354029000,
+  "startTimestamp": 1750355943000,
   "subcommand": "update"
 }
