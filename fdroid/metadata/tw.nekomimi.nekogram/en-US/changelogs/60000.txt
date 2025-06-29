@@ -1,0 +1,2 @@
+- Fixed translating long messages with Google Translate
+- Bug fixes and other improvements
