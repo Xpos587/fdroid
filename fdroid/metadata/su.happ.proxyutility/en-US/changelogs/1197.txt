@@ -1,0 +1,15 @@
+Release 2.9.0 to Beta
+* Improved per-app proxy screen
+* Power button redesign
+* Improved TV dpad support for main screen
+* Added HWID label on main screen when there are no subscriptions
+* Fixed subscriptions and servers lists spacing
+* Fixed pinned server list not removing
+* Fixed editing menu for encrypted subscription
+* Fixed autoupdate notification not closing
+* Fixed case of sharing all servers from server-list with tv
+* Fixed server description for vmess servers when imported to tv
+* Handled case where custom json config was not formatted properly
+* Minor stability and optimizations for subscriptions / servers lists
+* Localization improvements
+* Minor Ui improvements
