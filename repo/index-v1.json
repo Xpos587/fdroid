@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1751335999000,
+    "timestamp": 1751421662000,
     "version": 20002,
     "name": "Xpos587 Apps Repository",
     "icon": "icon.png",
@@ -32,9 +32,9 @@
       "sourceCode": "https://github.com/arsLan4k1390/Cherrygram",
       "summary": "Third-party Telegram client with privacy-focused modifications",
       "webSite": "https://t.me/Cherry_gram",
-      "added": 1751335879000,
+      "added": 1751421542000,
       "packageName": "uz.unnarsx.cherrygram",
-      "lastUpdated": 1751335889000,
+      "lastUpdated": 1751421552000,
       "localized": {
         "en-US": {
           "icon": "icon_FsRw0zln_rxK_Gh_Dk0ExP1_4JPXmogxNYn8-HTbOso=.png",
@@ -60,9 +60,9 @@
       "sourceCode": "https://github.com/chen08209/FlClash",
       "summary": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open...",
       "webSite": "https://github.com/chen08209/FlClash",
-      "added": 1751335890000,
+      "added": 1751421553000,
       "packageName": "com.follow.clash",
-      "lastUpdated": 1751335894000,
+      "lastUpdated": 1751421556000,
       "localized": {
         "en-US": {
           "icon": "icon_lUz_WQbrZ0U_h6aCBjqnhLbOU_3zzj_BVc9KtuRpPAA=.png",
@@ -89,9 +89,9 @@
       "sourceCode": "https://github.com/Happ-proxy/happ-android",
       "summary": "A proxy management app powered by Xray core with support for multiple protocols.",
       "webSite": "https://www.happ.su/",
-      "added": 1751335895000,
+      "added": 1751421558000,
       "packageName": "su.happ.proxyutility",
-      "lastUpdated": 1751335900000,
+      "lastUpdated": 1751421563000,
       "localized": {
         "en-US": {
           "icon": "icon_bVkO3MQVFiyBXJKrKcYoD8lvKrn_tjcNvn102YKeXaQ=.png",
@@ -117,9 +117,9 @@
       "sourceCode": "https://github.com/hiddify/hiddify-app",
       "summary": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria,...",
       "webSite": "https://hiddify.com/app/",
-      "added": 1751335901000,
+      "added": 1751421564000,
       "packageName": "app.hiddify.com",
-      "lastUpdated": 1751335904000,
+      "lastUpdated": 1751421566000,
       "localized": {
         "en-US": {
           "icon": "icon_JQ1qOTrfTarvhOtf6MUxqA6wXMAidb6KFJDvUTQ0cuU=.png",
@@ -147,9 +147,9 @@
       "sourceCode": "https://github.com/Nekogram/Nekogram",
       "summary": "Open-source third-party Telegram client with not many but useful modifications.",
       "webSite": "https://nekogram.app",
-      "added": 1751335906000,
+      "added": 1751421569000,
       "packageName": "tw.nekomimi.nekogram",
-      "lastUpdated": 1751335915000,
+      "lastUpdated": 1751421577000,
       "localized": {
         "en-US": {
           "icon": "icon_o_H5hap9eKw9-XNCC5Wm2MkWQxoJjBzETW26B2tBZ7Q=.png",
@@ -175,9 +175,9 @@
       "sourceCode": "https://github.com/obsidianmd/obsidian-releases",
       "summary": "Community plugins list, theme list, and releases of Obsidian.",
       "webSite": "https://obsidian.md",
-      "added": 1751335915000,
+      "added": 1751421578000,
       "packageName": "md.obsidian",
-      "lastUpdated": 1751335917000,
+      "lastUpdated": 1751421580000,
       "localized": {
         "en-US": {
           "icon": "icon_vxk9cuyU4RjMhCilVSUbiS_GUsyRhR26mhErBGYrZNI=.png",
@@ -199,9 +199,9 @@
       "name": "v2rayNG",
       "sourceCode": "https://github.com/2dust/v2rayNG",
       "summary": "A V2Ray client for Android, support Xray core and v2fly core",
-      "added": 1751335918000,
+      "added": 1751421581000,
       "packageName": "com.v2ray.ang",
-      "lastUpdated": 1751335922000,
+      "lastUpdated": 1751421585000,
       "localized": {
         "en-US": {
           "icon": "icon_dW_SaDQ-FnlJIqDSeSu5TzAlMeiUzvHY1mboTl017pk=.png",
@@ -224,9 +224,9 @@
       "sourceCode": "https://github.com/wgtunnel/wgtunnel",
       "summary": "A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling.",
       "webSite": "https://wgtunnel.com/",
-      "added": 1751335923000,
+      "added": 1751421586000,
       "packageName": "com.zaneschepke.wireguardautotunnel",
-      "lastUpdated": 1751335924000,
+      "lastUpdated": 1751421587000,
       "localized": {
         "en-US": {
           "featureGraphic": "featureGraphic_w_IthR1DGfyUJHyeJS7P3Q1U9ySK3bumittdxKqWfyw=.png",
@@ -247,7 +247,7 @@
   "packages": {
     "app.hiddify.com": [
       {
-        "added": 1751335904000,
+        "added": 1751421566000,
         "apkName": "hiddify_v2.5.7.apk",
         "hash": "e8bd97123b0cd2992b23a55e3c4f805652ac23e45f38d47cdea66fb74a3b3b67",
         "hashType": "sha256",
@@ -310,7 +310,7 @@
         "versionName": "2.5.7"
       },
       {
-        "added": 1751335903000,
+        "added": 1751421565000,
         "apkName": "hiddify_v2.3.1.apk",
         "hash": "9c5ca5e7ba3e5fe25d68faffd8f825972ca243fea049881c6e96ea91d0032cc1",
         "hashType": "sha256",
@@ -373,7 +373,7 @@
         "versionName": "2.3.1"
       },
       {
-        "added": 1751335901000,
+        "added": 1751421564000,
         "apkName": "hiddify_v2.1.5.apk",
         "hash": "f9406cb5c92dea3656e71cefc295017ab053d44d535e5abcde9dee51af12a5a6",
         "hashType": "sha256",
@@ -438,7 +438,7 @@
     ],
     "com.follow.clash": [
       {
-        "added": 1751335894000,
+        "added": 1751421556000,
         "apkName": "flclash_v0.8.86.apk",
         "hash": "9fedd1c1f3fa8a961eb5818d4c5ae20713581b26d38bdc3970aec861945a4654",
         "hashType": "sha256",
@@ -497,7 +497,7 @@
         "versionName": "0.8.86"
       },
       {
-        "added": 1751335893000,
+        "added": 1751421556000,
         "apkName": "flclash_v0.8.85.apk",
         "hash": "2de5d4575123eeb0842c5bfc3cc45bd3ecc0b2b4d31870b0d8adb57c8434b36e",
         "hashType": "sha256",
@@ -556,7 +556,7 @@
         "versionName": "0.8.85"
       },
       {
-        "added": 1751335892000,
+        "added": 1751421555000,
         "apkName": "flclash_v0.8.84.apk",
         "hash": "1db4616f30081acfec8bb0e136a202ead28df9e84e76def97076f996beaaa8cc",
         "hashType": "sha256",
@@ -615,7 +615,7 @@
         "versionName": "0.8.84"
       },
       {
-        "added": 1751335891000,
+        "added": 1751421554000,
         "apkName": "flclash_v0.8.83.apk",
         "hash": "eff47b1e3770b5a7a1fb3d8d7ad66daa557917af494856e266d410f08bb06122",
         "hashType": "sha256",
@@ -674,7 +674,7 @@
         "versionName": "0.8.83"
       },
       {
-        "added": 1751335890000,
+        "added": 1751421553000,
         "apkName": "flclash_v0.8.82.apk",
         "hash": "2088b8c66120bb8916b01b104bfc813f55d4aadad82b4a90f91c542dd3a8b36f",
         "hashType": "sha256",
@@ -735,7 +735,7 @@
     ],
     "com.v2ray.ang": [
       {
-        "added": 1751335922000,
+        "added": 1751421585000,
         "apkName": "v2rayng_1.10.8.apk",
         "hash": "1b6f44171c8544421c075495da3e303cb2b16c2b9e81400ee63d02cd66b334c1",
         "hashType": "sha256",
@@ -806,7 +806,7 @@
         "versionName": "1.10.8"
       },
       {
-        "added": 1751335921000,
+        "added": 1751421584000,
         "apkName": "v2rayng_1.10.7.apk",
         "hash": "cc40422c43ef7c57237fa074bae085c7ef41f8ae37c0ffc42960ac42e1f08dbe",
         "hashType": "sha256",
@@ -877,7 +877,7 @@
         "versionName": "1.10.7"
       },
       {
-        "added": 1751335920000,
+        "added": 1751421583000,
         "apkName": "v2rayng_1.10.6.apk",
         "hash": "5d9d836f059fa1a13215e1fab79f9dcf1317374e6130c46e473c8b8fb310f2cc",
         "hashType": "sha256",
@@ -948,7 +948,7 @@
         "versionName": "1.10.6"
       },
       {
-        "added": 1751335919000,
+        "added": 1751421582000,
         "apkName": "v2rayng_1.10.5.apk",
         "hash": "53005c4717998ee0d7131c2647ff5b64bd064ee990b3c23154bb7b9827177bc5",
         "hashType": "sha256",
@@ -1019,7 +1019,7 @@
         "versionName": "1.10.5"
       },
       {
-        "added": 1751335918000,
+        "added": 1751421581000,
         "apkName": "v2rayng_1.10.4.apk",
         "hash": "f0b30cc524d7d3b6d33bb3c898b5a7f42625708cfe25dfb5283e4740679261be",
         "hashType": "sha256",
@@ -1092,7 +1092,7 @@
     ],
     "com.zaneschepke.wireguardautotunnel": [
       {
-        "added": 1751335924000,
+        "added": 1751421587000,
         "apkName": "wgtunnel_3.9.3.apk",
         "hash": "94e65b8556e80120cd1131ebb468aeb9ea3c1cf80e54c1a1a21602d5f84baaf4",
         "hashType": "sha256",
@@ -1182,7 +1182,7 @@
         "versionName": "3.9.3"
       },
       {
-        "added": 1751335923000,
+        "added": 1751421586000,
         "apkName": "wgtunnel_3.9.1.apk",
         "hash": "8001dfed63d50f5e8935beea1d6ea5f6ba78290c29763a7712f52578d8eb0da2",
         "hashType": "sha256",
@@ -1274,7 +1274,7 @@
     ],
     "md.obsidian": [
       {
-        "added": 1751335915000,
+        "added": 1751421578000,
         "apkName": "obsidian_v1.8.10.apk",
         "hash": "af09494c6fdec9815e1e562acd20e7591a49ee5449f84c2bef0052ca7c2c4adf",
         "hashType": "sha256",
@@ -1328,7 +1328,7 @@
         "versionName": "1.8.10"
       },
       {
-        "added": 1751335917000,
+        "added": 1751421580000,
         "apkName": "obsidian_v1.8.9.apk",
         "hash": "832fc9cfd9853ce2127348bf75a48f26a6346062930828358d8537ce8f2b6005",
         "hashType": "sha256",
@@ -1382,7 +1382,7 @@
         "versionName": "1.8.9"
       },
       {
-        "added": 1751335917000,
+        "added": 1751421579000,
         "apkName": "obsidian_v1.8.7.apk",
         "hash": "f5252b7c3774cdf58f48d9be5fb245d77e1cbd33b73d2ef54d54a62814e7fb52",
         "hashType": "sha256",
@@ -1436,7 +1436,7 @@
         "versionName": "1.8.7"
       },
       {
-        "added": 1751335916000,
+        "added": 1751421579000,
         "apkName": "obsidian_v1.8.4.apk",
         "hash": "1a83470f5809c75431b22207422a63060907b0e305a8b3f18f5263b1bcc60d1e",
         "hashType": "sha256",
@@ -1490,7 +1490,7 @@
         "versionName": "1.8.4"
       },
       {
-        "added": 1751335916000,
+        "added": 1751421578000,
         "apkName": "obsidian_v1.8.3.apk",
         "hash": "90c4b1af5902e632ee124518350bd97ab9e99984beebb83013680f24d66cc54c",
         "hashType": "sha256",
@@ -1546,7 +1546,7 @@
     ],
     "su.happ.proxyutility": [
       {
-        "added": 1751335900000,
+        "added": 1751421563000,
         "apkName": "happ_2.9.0.apk",
         "hash": "9153a01dd95851004b99cea06871ecec8012a1dfb5cd7ce9eebc600dc013b9b3",
         "hashType": "sha256",
@@ -1630,7 +1630,7 @@
         "versionName": "2.9.0"
       },
       {
-        "added": 1751335899000,
+        "added": 1751421562000,
         "apkName": "happ_2.8.1.apk",
         "hash": "5da2a530dabe5fffe9987a42a4f0628670692b7a87ce83a6dce89212ff037186",
         "hashType": "sha256",
@@ -1714,7 +1714,7 @@
         "versionName": "2.8.1"
       },
       {
-        "added": 1751335898000,
+        "added": 1751421560000,
         "apkName": "happ_2.8.0.apk",
         "hash": "fe10da8a6586e6b28c494208633e9e12e2297f40744b63fa38fb0172cb0779e5",
         "hashType": "sha256",
@@ -1794,7 +1794,7 @@
         "versionName": "2.8.0"
       },
       {
-        "added": 1751335896000,
+        "added": 1751421559000,
         "apkName": "happ_2.7.1.apk",
         "hash": "a63b3782f10fadc4129611d6a6d779684382a3c4b566186ee81bf3418b0905f2",
         "hashType": "sha256",
@@ -1874,7 +1874,7 @@
         "versionName": "2.7.1"
       },
       {
-        "added": 1751335895000,
+        "added": 1751421558000,
         "apkName": "happ_2.7.0.apk",
         "hash": "f2b3c847bbd059bed11086198eca3e811dddb4e677cced29c3671e50c7b2a206",
         "hashType": "sha256",
@@ -1956,7 +1956,7 @@
     ],
     "tw.nekomimi.nekogram": [
       {
-        "added": 1751335908000,
+        "added": 1751421571000,
         "apkName": "nekogram_v11.12.1.apk",
         "hash": "4dea86a47ede63bd900b9886fe2748d8800a72eb76d40738959e9c50f705d53c",
         "hashType": "sha256",
@@ -2263,7 +2263,7 @@
         "versionName": "11.12.1"
       },
       {
-        "added": 1751335906000,
+        "added": 1751421569000,
         "apkName": "nekogram_v11.12.0.apk",
         "hash": "200c6487f0e7c6975d3e9a09144923a2caeb32241446565ee52aadd04d8df861",
         "hashType": "sha256",
@@ -2570,7 +2570,7 @@
         "versionName": "11.12.0"
       },
       {
-        "added": 1751335915000,
+        "added": 1751421577000,
         "apkName": "nekogram_v11.9.2.apk",
         "hash": "31872fbfb6f9ab1d6e25141943bdec12c482802f969bbaa81c8d83204adeeb4d",
         "hashType": "sha256",
@@ -2877,7 +2877,7 @@
         "versionName": "11.9.2"
       },
       {
-        "added": 1751335912000,
+        "added": 1751421575000,
         "apkName": "nekogram_v11.9.0.apk",
         "hash": "f06ce18d55b708f3c3d578f9bc2fdf3b14f430d3f33e290e0112ef72d54d3751",
         "hashType": "sha256",
@@ -3184,7 +3184,7 @@
         "versionName": "11.9.0"
       },
       {
-        "added": 1751335910000,
+        "added": 1751421573000,
         "apkName": "nekogram_v11.8.2.apk",
         "hash": "1ebd52a39d31b49b82a68543a4c807bb5e63b047b3f03fd322f4d21125570570",
         "hashType": "sha256",
@@ -3493,7 +3493,7 @@
     ],
     "uz.unnarsx.cherrygram": [
       {
-        "added": 1751335889000,
+        "added": 1751421552000,
         "apkName": "cherrygram_9.3.0.apk",
         "hash": "a44cea8bd9644032c463164a4e437388d4b67c76c6405e91bfd6da404e4be53b",
         "hashType": "sha256",
@@ -3832,7 +3832,7 @@
         "versionName": "11.9.1"
       },
       {
-        "added": 1751335887000,
+        "added": 1751421549000,
         "apkName": "cherrygram_9.2.0.apk",
         "hash": "fa11d8b9e895540c3d33e7593477c88af07246ca2d0cf82745f56f3c3f7e6544",
         "hashType": "sha256",
@@ -4171,7 +4171,7 @@
         "versionName": "11.9.1"
       },
       {
-        "added": 1751335884000,
+        "added": 1751421547000,
         "apkName": "cherrygram_9.1.0.apk",
         "hash": "4f6bba17a6861d3948ebc8dfd0aadb62fa0f538b9c3e67fedcab19ff137c756c",
         "hashType": "sha256",
@@ -4510,7 +4510,7 @@
         "versionName": "11.9.0"
       },
       {
-        "added": 1751335882000,
+        "added": 1751421545000,
         "apkName": "cherrygram_9.0.0.apk",
         "hash": "0ac1ead1b458bf3f5969ad74cfcda51821a1def0bb13158892ba2ca4164b6c4a",
         "hashType": "sha256",
@@ -4849,7 +4849,7 @@
         "versionName": "11.7.0"
       },
       {
-        "added": 1751335879000,
+        "added": 1751421542000,
         "apkName": "cherrygram_8.9.0.apk",
         "hash": "8fc44c429111a3ec8f267ad72d66a2865f9f51f0f2145a61d309b339596ceb51",
         "hashType": "sha256",
