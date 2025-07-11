@@ -1,0 +1,4 @@
+### 本次更新
+
+1.  增加 对当前组生成多配置负载均衡配置 https://github.com/2dust/v2rayNG/pull/4716
+2. 修复一些已知的问题 https://github.com/2dust/v2rayNG/issues/4723

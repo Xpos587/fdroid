@@ -1,0 +1,7 @@
+* Improved Android TV support for main screen (subscriptions) and manual input screen
+* Manual input crash fixed for some configurations
+* Fixed case where meta parameters were cleared during auto-update
+* Fixed missing server description when sharing servers
+* Improved selection animations for per app proxy screen
+* Fixed case where servers in subscriptions were reverted
+* Minor UI improvements
