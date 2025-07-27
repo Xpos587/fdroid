@@ -1,0 +1,14 @@
+{
+  "repo": {
+    "timestamp": 1753582990000
+  },
+  "packages": {
+    "com.v2ray.ang": {
+      "versions": {
+        "8c7742bc5c52335eea006fc7ecab85415a587953fdd1dacc735be1b2514b8ab0": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}
