@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1753927819000,
+    "timestamp": 1759283969000,
     "version": 20002,
     "name": "Xpos587 Apps Repository",
     "icon": "icon.png",
@@ -23,8 +23,8 @@
         "Connectivity",
         "Internet"
       ],
-      "suggestedVersionName": "11.13.0",
-      "suggestedVersionCode": "60480",
+      "suggestedVersionName": "12.0.1",
+      "suggestedVersionCode": "61680",
       "description": "Third-party Telegram client with privacy-focused modifications and useful features\n\n<b>Key Features</b>\n\n- Support up to 10 accounts simultaneously\n- Material You (Monet) themes and app icon\n- No content restrictions\n- Allow to set proxy before login\n- Native biometrics support for enhanced security\n- Profile pictures upload date display\n- Mutual contact icons in contacts list\n- Advanced chat management with blur support\n\n<b>Privacy & Security</b>\n\n- Disable Google Analytics option\n- Biometric protection for archive and specific chats\n- \"Kaboom\" feature (erase all data in 1 click)\n- Hide archive from chats list\n- Silence notifications from non-contacts\n\n<b>Chat Enhancements</b>\n\n- Scrollable and clickable chat preview\n- Messages history from any user/channel\n- Delete all own messages from groups\n- Copy photos to clipboard\n- Stickers downloader\n- Fast search by holding dialog name\n\n<b>Customization</b>\n\n- VKUI/Solar icons in app\n- Custom reply and profile backgrounds\n- Configurable message bubbles and menu\n- Various tab styles and drawer customizations\n- Snow effects in header and chats\n\n<b>Important Note</b>\n\nThis is an unofficial fork of Telegram. While maintaining full compatibility with Telegram's protocol, it offers additional privacy and customization features not available in the official client.\n",
       "issueTracker": "https://github.com/arsLan4k1390/Cherrygram/issues",
       "license": "GPL-2.0",
@@ -32,13 +32,13 @@
       "sourceCode": "https://github.com/arsLan4k1390/Cherrygram",
       "summary": "Third-party Telegram client with privacy-focused modifications",
       "webSite": "https://t.me/Cherry_gram",
-      "added": 1753927698000,
+      "added": 1759283845000,
       "packageName": "uz.unnarsx.cherrygram",
-      "lastUpdated": 1753927708000,
+      "lastUpdated": 1759283855000,
       "localized": {
         "en-US": {
           "icon": "icon_FsRw0zln_rxK_Gh_Dk0ExP1_4JPXmogxNYn8-HTbOso=.png",
-          "whatsNew": "**\ud83c\uddfa\ud83c\uddf8 Changelog:\n\u2014** Send photo as sticker in chats,\n**\u2014** Fully refactored the Support screen \u2014 make sure to check it out!\n**\u2014** Bug fixes and improvements.\n**\u2014 Cherrygram Chats Preferences:\n\u2022** Restored setting to control the number of recent stickers and emoji.\n**\u2014 Cherrygram Drawer Preferences:\n\u2022** Full refactoring of avatar features,\n**\u2022** Option to add Market button to side menu.\n**\u2014 Cherrygram Privacy Preferences:\n\u2022** Fixed broken privacy toggles.\n\n**\ud83c\uddf7\ud83c\uddfa \u0421\u043f\u0438\u0441\u043e\u043a \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u0439:\n\u2014** \u041e\u0442\u043f\u0440\u0430\u0432\u043a\u0430 \u0444\u043e\u0442\u043e "
+          "whatsNew": "**\ud83c\uddfa\ud83c\uddf8 Changelog:\n\u2014** Sort chats in folders by unread messages,\n**\u2014** Sleep timer in the music player,\n**\u2014** Updated all app support options, including new methods for users in Russia, \n**\u2014** A lot of bug fixes.\n**\u2014 Cherrygram chats preferences:\n\u2022** Gemini as voice transcription provider,\n**\u2022** A lot of improvements in the new iOS-styled message menu.\n\n**\ud83c\uddf7\ud83c\uddfa \u0421\u043f\u0438\u0441\u043e\u043a \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u0439:\n\u2014** \u0421\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u043a\u0430 \u0447\u0430\u0442\u043e\u0432 \u0432 \u043f\u0430\u043f\u043a\u0430\u0445 \u043f\u043e \u043d\u0435\u043f\u0440\u043e\u0447\u0438\u0442\u0430\u043d\u043d\u044b\u043c \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f\u043c,\n**\u2014** \u0422\u0430\u0439\u043c\u0435\u0440 \u0441\u043d\u0430 \u0432 \u043c\u0443\u0437\u044b\u043a\u0430\u043b\u044c\u043d\u043e\u043c \u043f\u043b\u0435\u0435\u0440\u0435,\n**\u2014** \u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u044b \u0432\u0441\u0435 \u043c\u0435\u0442\u043e\u0434\u044b"
         }
       }
     },
@@ -51,8 +51,8 @@
         "Internet",
         "Security"
       ],
-      "suggestedVersionName": "0.8.87",
-      "suggestedVersionCode": "2025072902",
+      "suggestedVersionName": "0.8.89",
+      "suggestedVersionCode": "2025094701",
       "description": "A multi-platform proxy client based on ClashMeta, simple and easy to use, open-source and ad-free\n\n<b>Key Features</b>\n\n- Multi-platform support: Android, Windows, macOS and Linux\n- Adaptive multiple screen sizes with multiple color themes\n- Material You Design with Surfboard-like UI\n- Data synchronization via WebDAV\n- Subscription link support\n- Dark mode support\n- System tray support (Linux)\n- Android actions for automation\n\n<b>Perfect for</b>\n\n- Network privacy and security\n- Bypassing geo-restrictions\n- Managing proxy connections\n- Accessing restricted content\n\n<b>Technical Details</b>\n\n- Based on ClashMeta proxy engine\n- Built with Flutter framework\n- Cross-platform compatibility\n- Open-source and ad-free\n",
       "issueTracker": "https://github.com/chen08209/FlClash/issues",
       "license": "GPL-3.0",
@@ -60,13 +60,13 @@
       "sourceCode": "https://github.com/chen08209/FlClash",
       "summary": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open...",
       "webSite": "https://github.com/chen08209/FlClash",
-      "added": 1753927709000,
+      "added": 1759283856000,
       "packageName": "com.follow.clash",
-      "lastUpdated": 1753927713000,
+      "lastUpdated": 1759283858000,
       "localized": {
         "en-US": {
           "icon": "icon_lUz_WQbrZ0U_h6aCBjqnhLbOU_3zzj_BVc9KtuRpPAA=.png",
-          "whatsNew": "- Optimize desktop view\n\n- Optimize logs, requests, connection pages\n\n- Optimize windows tray auto hide\n\n- Optimize some details\n\n- Update core\n\n- Update changelog\n\n<div align=center>\n\n[![Release Downloads](https://img.shields.io/github/downloads/chen08209/FlClash/v0.8.87/total?style=flat-square&logo=github)](https://img.shields.io/github/downloads/chen08209/FlClash/v0.8.87/)\n\n</div>\n\n**Download based on your OS:**\n\n<div align=left>\n<table>\n    <thead align=left>\n        <tr>\n            <th>OS<"
+          "whatsNew": "- Fix some issues\n\n- Optimize Windows service mode\n\n- Update core\n\n- Update changelog\n\n<div align=center>\n\n[![Release Downloads](https://img.shields.io/github/downloads/chen08209/FlClash/v0.8.89/total?style=flat-square&logo=github)](https://img.shields.io/github/downloads/chen08209/FlClash/v0.8.89/)\n\n</div>\n\n**Download based on your OS:**\n\n<div align=left>\n<table>\n    <thead align=left>\n        <tr>\n            <th>OS</th>\n            <th>Download</th>\n        </tr>\n    </thead>\n    <tbody align"
         }
       }
     },
@@ -80,8 +80,8 @@
         "Internet",
         "Security"
       ],
-      "suggestedVersionName": "2.11.0",
-      "suggestedVersionCode": "1215",
+      "suggestedVersionName": "3.2.0",
+      "suggestedVersionCode": "1263",
       "description": "Happ is a mobile application designed for convenient proxy server management, powered by the robust Xray core. The app features an intuitive interface and a range of useful functions, making it an essential tool for managing connections.\n\n<b>Features</b>\n\n- Configuration of proxy servers based on flexible routing rules\n- Support for multiple modern protocols including VLESS (Reality), VMess, Trojan, Shadowsocks, Socks\n- Private by design - no data collection, information stays on your device\n- Flexible routing rules for advanced proxy management\n- Intuitive interface for easy connection management\n- Powered by robust Xray core technology\n\n<b>Important Note</b>\n\nHapp does not provide VPN services for purchase. Users are responsible for acquiring or setting up their own servers. Please comply with applicable laws in your jurisdiction when utilizing the app.\n",
       "issueTracker": "https://github.com/Happ-proxy/happ-android/issues",
       "license": "PublicDomain",
@@ -89,13 +89,13 @@
       "sourceCode": "https://github.com/Happ-proxy/happ-android",
       "summary": "A proxy management app powered by Xray core with support for multiple protocols.",
       "webSite": "https://www.happ.su/",
-      "added": 1753927714000,
+      "added": 1759283860000,
       "packageName": "su.happ.proxyutility",
-      "lastUpdated": 1753927720000,
+      "lastUpdated": 1759283867000,
       "localized": {
         "en-US": {
           "icon": "icon_bVkO3MQVFiyBXJKrKcYoD8lvKrn_tjcNvn102YKeXaQ=.png",
-          "whatsNew": "* Persian language\n* Improved DPad adaptation\n* New meta-params related to per-app-proxy\n* Fixed unlimited logs\n* Fixed geofiles invalidate after error\n* Several Ui improvements"
+          "whatsNew": "* Improved rendering optimization and stability for subscription/server list\n* New notifications (snackbars)\n* Improved parsing errors handling\n* Per App Proxy select & unselect all, invert; fixed import system apps\n* Excluded routes (IP addresses) support (VPN settings)\n* Multiple fixes related to date & time\n* Multiple fixes related to concurrent server list updates (duplicating or overwriting)\n* Local DNS toggle fix\n* Improved geofiles handling\n* Fixed cases when server list wasn't updated on"
         }
       }
     },
@@ -117,9 +117,9 @@
       "sourceCode": "https://github.com/hiddify/hiddify-app",
       "summary": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria,...",
       "webSite": "https://hiddify.com/app/",
-      "added": 1753927721000,
+      "added": 1759283868000,
       "packageName": "app.hiddify.com",
-      "lastUpdated": 1753927723000,
+      "lastUpdated": 1759283870000,
       "localized": {
         "en-US": {
           "icon": "icon_JQ1qOTrfTarvhOtf6MUxqA6wXMAidb6KFJDvUTQ0cuU=.png",
@@ -138,8 +138,8 @@
         "Internet",
         "Security"
       ],
-      "suggestedVersionName": "11.13.0",
-      "suggestedVersionCode": "60470",
+      "suggestedVersionName": "12.0.1",
+      "suggestedVersionCode": "61670",
       "description": "Third-party Telegram client with useful modifications focused on privacy and user experience\n\n<b>Key Features</b>\n\n- Enhanced privacy and security options\n- Improved user interface and customization\n- Additional chat management features\n- Extended message formatting options\n- Advanced notification controls\n- Multiple account support\n- Custom themes and appearance settings\n\n<b>Localization</b>\n\n- Multilingual support via Crowdin\n- Community-driven translations\n- Regular language updates\n\n<b>Important Note</b>\n\nThis is an unofficial fork of Telegram for Android. While maintaining full compatibility with Telegram's protocol, it offers additional features not available in the official client.\n",
       "issueTracker": "https://github.com/Nekogram/Nekogram/issues",
       "license": "GPL-2.0",
@@ -147,13 +147,13 @@
       "sourceCode": "https://github.com/Nekogram/Nekogram",
       "summary": "Open-source third-party Telegram client with not many but useful modifications.",
       "webSite": "https://nekogram.app",
-      "added": 1753927725000,
+      "added": 1759283873000,
       "packageName": "tw.nekomimi.nekogram",
-      "lastUpdated": 1753927734000,
+      "lastUpdated": 1759283881000,
       "localized": {
         "en-US": {
           "icon": "icon_o_H5hap9eKw9-XNCC5Wm2MkWQxoJjBzETW26B2tBZ7Q=.png",
-          "whatsNew": "- <https://telegram.org/blog/checklists-suggested-posts>\n- Bug fixes and other improvements"
+          "whatsNew": "- <https://telegram.org/blog/profile-music-gift-themes>\n- Bug fixes and other improvements"
         }
       }
     },
@@ -166,8 +166,8 @@
         "Writing",
         "Science & Education"
       ],
-      "suggestedVersionName": "1.8.10",
-      "suggestedVersionCode": "197",
+      "suggestedVersionName": "1.9.12",
+      "suggestedVersionCode": "237",
       "description": "A powerful knowledge base on top of a local folder of plain text Markdown files\n\n<b>Key Features</b>\n\n- Linked thought: connect ideas with [[wiki-style]] links\n- Graph view: see connections between your notes\n- Local files: your data stays on your device\n- Extensive plugin ecosystem with 1000+ community plugins\n- Customizable themes and CSS support\n- Canvas for visual note-taking\n- Daily notes and templates\n- Powerful search and query capabilities\n- Sync across devices (paid service)\n- Publish notes to web (paid service)\n\n<b>Perfect for</b>\n\n- Personal knowledge management\n- Research and note-taking\n- Project planning and documentation\n- Creative writing and content creation\n\n<b>Note</b>\n\nObsidian is proprietary software but free for personal use. The extensive plugin system allows deep customization for your workflow.\n",
       "issueTracker": "https://github.com/obsidianmd/obsidian-releases/issues",
       "license": "PublicDomain",
@@ -175,13 +175,13 @@
       "sourceCode": "https://github.com/obsidianmd/obsidian-releases",
       "summary": "Community plugins list, theme list, and releases of Obsidian.",
       "webSite": "https://obsidian.md",
-      "added": 1753927735000,
+      "added": 1759283882000,
       "packageName": "md.obsidian",
-      "lastUpdated": 1753927737000,
+      "lastUpdated": 1759283884000,
       "localized": {
         "en-US": {
           "icon": "icon_vxk9cuyU4RjMhCilVSUbiS_GUsyRhR26mhErBGYrZNI=.png",
-          "whatsNew": "https://obsidian.md/changelog/2025-04-22-desktop-v1.8.10/\n\nNote: The linux arm64 builds have been re-uploaded with a different version of Electron (v34.5.2) to fix a critical crash."
+          "whatsNew": "https://obsidian.md/changelog/2025-08-26-desktop-v1.9.12/"
         }
       }
     },
@@ -191,21 +191,21 @@
         "Internet",
         "Security"
       ],
-      "suggestedVersionName": "1.10.11",
-      "suggestedVersionCode": "4000661",
+      "suggestedVersionName": "1.10.23",
+      "suggestedVersionCode": "4000673",
       "description": "A V2Ray client for Android, support Xray core and v2fly core\n\n<b>Features</b>\n\n- Support for multiple protocols: V2Ray, Xray, Shadowsocks, Trojan, VMess, VLESS\n- Advanced routing with geoip and geosite data\n- Subscription support for automatic server updates\n- Built-in speed test and latency measurement\n- QR code scanning for easy server configuration\n- Import/export configuration files\n- Multiple proxy modes and routing rules\n- Support for XTLS encryption\n- Custom DNS settings\n- Statistics and traffic monitoring\n- Dark and light themes\n",
       "issueTracker": "https://github.com/2dust/v2rayNG/issues",
       "license": "GPL-3.0",
       "name": "v2rayNG",
       "sourceCode": "https://github.com/2dust/v2rayNG",
       "summary": "A V2Ray client for Android, support Xray core and v2fly core",
-      "added": 1753927738000,
+      "added": 1759283885000,
       "packageName": "com.v2ray.ang",
-      "lastUpdated": 1753927743000,
+      "lastUpdated": 1759283890000,
       "localized": {
         "en-US": {
           "icon": "icon_dW_SaDQ-FnlJIqDSeSu5TzAlMeiUzvHY1mboTl017pk=.png",
-          "whatsNew": "### \u672c\u6b21\u66f4\u65b0\n\n1.  \u589e\u52a0 \u5bf9\u5f53\u524d\u7ec4\u751f\u6210\u591a\u914d\u7f6e\u8d1f\u8f7d\u5747\u8861\u914d\u7f6e https://github.com/2dust/v2rayNG/pull/4716\n2. \u4fee\u590d\u4e00\u4e9b\u5df2\u77e5\u7684\u95ee\u9898 https://github.com/2dust/v2rayNG/issues/4723\n3. https://github.com/XTLS/Xray-core/releases/tag/v25.7.26"
+          "whatsNew": "### \u672c\u6b21\u66f4\u65b0\n\n1. https://github.com/XTLS/Xray-core/releases/tag/v25.9.11"
         }
       }
     },
@@ -215,8 +215,8 @@
         "Internet",
         "Security"
       ],
-      "suggestedVersionName": "3.9.4",
-      "suggestedVersionCode": "39400",
+      "suggestedVersionName": "4.0.3",
+      "suggestedVersionCode": "40003",
       "description": "An alternative VPN client app for WireGuard with additional features\n\n<b>Features</b>\n\n- Add tunnels via .conf file, zip, manual entry, or QR code\n- Auto connect to VPN based on Wi-Fi SSID, ethernet, or mobile data\n- Split tunneling by application with search\n- WireGuard support for kernel and userspace modes\n- Always-On VPN support\n- Export tunnels to zip\n- Quick tile support for VPN toggling\n- Static shortcuts support for primary tunnel for automation integration\n- Intent automation support for all tunnels\n- Automatic service restart after reboot\n- Battery preservation measures\n",
       "issueTracker": "https://github.com/wgtunnel/wgtunnel/issues",
       "license": "MIT",
@@ -224,9 +224,9 @@
       "sourceCode": "https://github.com/wgtunnel/wgtunnel",
       "summary": "A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling.",
       "webSite": "https://wgtunnel.com/",
-      "added": 1753927743000,
+      "added": 1759283890000,
       "packageName": "com.zaneschepke.wireguardautotunnel",
-      "lastUpdated": 1753927744000,
+      "lastUpdated": 1759283892000,
       "localized": {
         "en-US": {
           "featureGraphic": "featureGraphic_w_IthR1DGfyUJHyeJS7P3Q1U9ySK3bumittdxKqWfyw=.png",
@@ -239,7 +239,7 @@
             "5.png",
             "6.png"
           ],
-          "whatsNew": "No changelog found for 3.9.4\n\nSHA-256 fingerprints for the 4096-bit signing certificate:\n```sh\n5204d82e766e8aa14dcbb06dc70aebae2bdd812d4d6203cd521a8a685d7d3d80\n```\n\nTo verify fingerprint:\n```sh\napksigner verify --print-certs [path to APK file] | grep SHA-256\n```\n\n### Changelog\n### :boom: BREAKING CHANGES\n- due to [`872ff83`](https://github.com/wgtunnel/wgtunnel/commit/872ff83a12990dc2c5808a4fe6560774546a53be) - tunnel sorting *(commit by @zaneschepke)*:\n\n  tunnel sorting\n\n\n### :sparkles: New Fea"
+          "whatsNew": "No changelog found for 4.0.3\n\nSHA-256 fingerprints for the 4096-bit signing certificate:\n```sh\n5204d82e766e8aa14dcbb06dc70aebae2bdd812d4d6203cd521a8a685d7d3d80\n```\n\nTo verify fingerprint:\n```sh\napksigner verify --print-certs [path to APK file] | grep SHA-256\n```\n\n### Changelog\n### :bug: Bug Fixes\n- [`aa5adec`](https://github.com/wgtunnel/wgtunnel/commit/aa5adec902d55981e873b262db48458663e95a09) - notification stop action bug, monitoring failing to shut down race *(commit by @zaneschepke)*\n- [`de"
         }
       }
     }
@@ -247,7 +247,7 @@
   "packages": {
     "app.hiddify.com": [
       {
-        "added": 1753927723000,
+        "added": 1759283870000,
         "apkName": "hiddify_v2.5.7.apk",
         "hash": "e8bd97123b0cd2992b23a55e3c4f805652ac23e45f38d47cdea66fb74a3b3b67",
         "hashType": "sha256",
@@ -310,7 +310,7 @@
         "versionName": "2.5.7"
       },
       {
-        "added": 1753927722000,
+        "added": 1759283869000,
         "apkName": "hiddify_v2.3.1.apk",
         "hash": "9c5ca5e7ba3e5fe25d68faffd8f825972ca243fea049881c6e96ea91d0032cc1",
         "hashType": "sha256",
@@ -373,7 +373,7 @@
         "versionName": "2.3.1"
       },
       {
-        "added": 1753927721000,
+        "added": 1759283868000,
         "apkName": "hiddify_v2.1.5.apk",
         "hash": "f9406cb5c92dea3656e71cefc295017ab053d44d535e5abcde9dee51af12a5a6",
         "hashType": "sha256",
@@ -438,7 +438,173 @@
     ],
     "com.follow.clash": [
       {
-        "added": 1753927713000,
+        "added": 1759283858000,
+        "apkName": "flclash_v0.8.89.apk",
+        "hash": "13baa716b3066b3b433c9dda9a994f072cd3f37caad3ac81980d82a7fe402816",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.follow.clash",
+        "sig": "01d20204fe36565bf08806d0249b75a9",
+        "signer": "2859e236b6c1c6073773752678c52e8e902a9503ae9beed6729ca999c376841c",
+        "size": 45585926,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "com.follow.clash.permission.RECEIVE_BROADCASTS",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.gms.permission.AD_ID",
+            null
+          ],
+          [
+            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_ADSERVICES_AD_ID",
+            null
+          ],
+          [
+            "com.follow.clash.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 2025094701,
+        "versionName": "0.8.89"
+      },
+      {
+        "added": 1759283858000,
+        "apkName": "flclash_v0.8.88.apk",
+        "hash": "7d9f904ab649f7ee5e740eafcfce5d0479f3e504ee4915acb4e6ed9857087796",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.follow.clash",
+        "sig": "01d20204fe36565bf08806d0249b75a9",
+        "signer": "2859e236b6c1c6073773752678c52e8e902a9503ae9beed6729ca999c376841c",
+        "size": 45260486,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "com.follow.clash.permission.RECEIVE_BROADCASTS",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.gms.permission.AD_ID",
+            null
+          ],
+          [
+            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_ADSERVICES_AD_ID",
+            null
+          ],
+          [
+            "com.follow.clash.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 2025094301,
+        "versionName": "0.8.88"
+      },
+      {
+        "added": 1759283858000,
         "apkName": "flclash_v0.8.87.apk",
         "hash": "9086807e180d3baaadf378f4a22be64da95ef5c75bbaead6c428b51a3ee21d7a",
         "hashType": "sha256",
@@ -497,7 +663,7 @@
         "versionName": "0.8.87"
       },
       {
-        "added": 1753927712000,
+        "added": 1759283857000,
         "apkName": "flclash_v0.8.86.apk",
         "hash": "9fedd1c1f3fa8a961eb5818d4c5ae20713581b26d38bdc3970aec861945a4654",
         "hashType": "sha256",
@@ -556,7 +722,7 @@
         "versionName": "0.8.86"
       },
       {
-        "added": 1753927711000,
+        "added": 1759283856000,
         "apkName": "flclash_v0.8.85.apk",
         "hash": "2de5d4575123eeb0842c5bfc3cc45bd3ecc0b2b4d31870b0d8adb57c8434b36e",
         "hashType": "sha256",
@@ -613,131 +779,13 @@
         ],
         "versionCode": 202508071,
         "versionName": "0.8.85"
-      },
-      {
-        "added": 1753927710000,
-        "apkName": "flclash_v0.8.84.apk",
-        "hash": "1db4616f30081acfec8bb0e136a202ead28df9e84e76def97076f996beaaa8cc",
-        "hashType": "sha256",
-        "minSdkVersion": 21,
-        "nativecode": [
-          "arm64-v8a"
-        ],
-        "packageName": "com.follow.clash",
-        "sig": "01d20204fe36565bf08806d0249b75a9",
-        "signer": "2859e236b6c1c6073773752678c52e8e902a9503ae9beed6729ca999c376841c",
-        "size": 39438523,
-        "targetSdkVersion": 35,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ],
-          [
-            "android.permission.POST_NOTIFICATIONS",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.CHANGE_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
-            null
-          ],
-          [
-            "android.permission.QUERY_ALL_PACKAGES",
-            null
-          ],
-          [
-            "android.permission.CAMERA",
-            null
-          ],
-          [
-            "com.follow.clash.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
-            null
-          ]
-        ],
-        "versionCode": 202507013,
-        "versionName": "0.8.84"
-      },
-      {
-        "added": 1753927709000,
-        "apkName": "flclash_v0.8.83.apk",
-        "hash": "eff47b1e3770b5a7a1fb3d8d7ad66daa557917af494856e266d410f08bb06122",
-        "hashType": "sha256",
-        "minSdkVersion": 21,
-        "nativecode": [
-          "arm64-v8a"
-        ],
-        "packageName": "com.follow.clash",
-        "sig": "01d20204fe36565bf08806d0249b75a9",
-        "signer": "2859e236b6c1c6073773752678c52e8e902a9503ae9beed6729ca999c376841c",
-        "size": 39438592,
-        "targetSdkVersion": 35,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ],
-          [
-            "android.permission.POST_NOTIFICATIONS",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.CHANGE_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
-            null
-          ],
-          [
-            "android.permission.QUERY_ALL_PACKAGES",
-            null
-          ],
-          [
-            "android.permission.CAMERA",
-            null
-          ],
-          [
-            "com.follow.clash.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
-            null
-          ]
-        ],
-        "versionCode": 202507011,
-        "versionName": "0.8.83"
       }
     ],
     "com.v2ray.ang": [
       {
-        "added": 1753927739000,
-        "apkName": "v2rayng_1.10.11.apk",
-        "hash": "8c7742bc5c52335eea006fc7ecab85415a587953fdd1dacc735be1b2514b8ab0",
+        "added": 1759283890000,
+        "apkName": "v2rayng_1.10.23.apk",
+        "hash": "0c83693f92db4e3172bb3c1ced802ff1d72f2b8d008ec3c7e4324fb4826702cf",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -746,7 +794,7 @@
         "packageName": "com.v2ray.ang",
         "sig": "4d25e0ce917ad3f76d265d25ce902a6b",
         "signer": "b7dc883e7678d6c618569e48a1c8c267a134a75f8bcb763510c8bffb3b90b077",
-        "size": 34002640,
+        "size": 34281856,
         "targetSdkVersion": 35,
         "uses-permission": [
           [
@@ -802,13 +850,13 @@
             null
           ]
         ],
-        "versionCode": 4000661,
-        "versionName": "1.10.11"
+        "versionCode": 4000673,
+        "versionName": "1.10.23"
       },
       {
-        "added": 1753927738000,
-        "apkName": "v2rayng_1.10.10.apk",
-        "hash": "07c61bc4eeea95e7bba939643309a3a53d867fd9b8d962310ea6cb4c3f960954",
+        "added": 1759283889000,
+        "apkName": "v2rayng_1.10.22.apk",
+        "hash": "d1ddbec55e1e8a8f0a923750d2313a0ba734a554274212a6d1c6f167930b06fc",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -817,7 +865,7 @@
         "packageName": "com.v2ray.ang",
         "sig": "4d25e0ce917ad3f76d265d25ce902a6b",
         "signer": "b7dc883e7678d6c618569e48a1c8c267a134a75f8bcb763510c8bffb3b90b077",
-        "size": 33863888,
+        "size": 34210692,
         "targetSdkVersion": 35,
         "uses-permission": [
           [
@@ -873,13 +921,13 @@
             null
           ]
         ],
-        "versionCode": 4000660,
-        "versionName": "1.10.10"
+        "versionCode": 4000672,
+        "versionName": "1.10.22"
       },
       {
-        "added": 1753927743000,
-        "apkName": "v2rayng_1.10.9.apk",
-        "hash": "815cc91c2541ba80542d60d296de9936e62f6381f3341dc677e020077a2e6975",
+        "added": 1759283887000,
+        "apkName": "v2rayng_1.10.21.apk",
+        "hash": "5f204b9a5ffb0754a5d6bce45063aa92303f7c5423a473701d7fe47582b7f360",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -888,7 +936,7 @@
         "packageName": "com.v2ray.ang",
         "sig": "4d25e0ce917ad3f76d265d25ce902a6b",
         "signer": "b7dc883e7678d6c618569e48a1c8c267a134a75f8bcb763510c8bffb3b90b077",
-        "size": 33673032,
+        "size": 34182883,
         "targetSdkVersion": 35,
         "uses-permission": [
           [
@@ -944,13 +992,13 @@
             null
           ]
         ],
-        "versionCode": 4000659,
-        "versionName": "1.10.9"
+        "versionCode": 4000671,
+        "versionName": "1.10.21"
       },
       {
-        "added": 1753927741000,
-        "apkName": "v2rayng_1.10.8.apk",
-        "hash": "1b6f44171c8544421c075495da3e303cb2b16c2b9e81400ee63d02cd66b334c1",
+        "added": 1759283886000,
+        "apkName": "v2rayng_1.10.20.apk",
+        "hash": "33445341c536a929910404c07ce68ffecfe2ff0c8409b97ceae68a17e5f0d214",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -959,7 +1007,7 @@
         "packageName": "com.v2ray.ang",
         "sig": "4d25e0ce917ad3f76d265d25ce902a6b",
         "signer": "b7dc883e7678d6c618569e48a1c8c267a134a75f8bcb763510c8bffb3b90b077",
-        "size": 33663105,
+        "size": 34178684,
         "targetSdkVersion": 35,
         "uses-permission": [
           [
@@ -1015,13 +1063,13 @@
             null
           ]
         ],
-        "versionCode": 4000658,
-        "versionName": "1.10.8"
+        "versionCode": 4000670,
+        "versionName": "1.10.20"
       },
       {
-        "added": 1753927740000,
-        "apkName": "v2rayng_1.10.7.apk",
-        "hash": "cc40422c43ef7c57237fa074bae085c7ef41f8ae37c0ffc42960ac42e1f08dbe",
+        "added": 1759283885000,
+        "apkName": "v2rayng_1.10.19.apk",
+        "hash": "cefa6d92a242cfd6f6729057cfd8f0f21acedc64948052135d400d7e3dc508ca",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1030,7 +1078,7 @@
         "packageName": "com.v2ray.ang",
         "sig": "4d25e0ce917ad3f76d265d25ce902a6b",
         "signer": "b7dc883e7678d6c618569e48a1c8c267a134a75f8bcb763510c8bffb3b90b077",
-        "size": 33655186,
+        "size": 34197551,
         "targetSdkVersion": 35,
         "uses-permission": [
           [
@@ -1086,15 +1134,15 @@
             null
           ]
         ],
-        "versionCode": 4000657,
-        "versionName": "1.10.7"
+        "versionCode": 4000669,
+        "versionName": "1.10.19"
       }
     ],
     "com.zaneschepke.wireguardautotunnel": [
       {
-        "added": 1753927744000,
-        "apkName": "wgtunnel_3.9.4.apk",
-        "hash": "f6741949afbf3cd709f2b47ac71461b0a760e6c9b272c64a7d8794906fc9221e",
+        "added": 1759283892000,
+        "apkName": "wgtunnel_4.0.3.apk",
+        "hash": "09bea9fa62a5100493c361ef6c5464178bc57fe505c95e2c848da77fc09a46e5",
         "hashType": "sha256",
         "minSdkVersion": 26,
         "nativecode": [
@@ -1106,8 +1154,8 @@
         "packageName": "com.zaneschepke.wireguardautotunnel",
         "sig": "21dad82894453bd1db3f09179d247e3c",
         "signer": "5204d82e766e8aa14dcbb06dc70aebae2bdd812d4d6203cd521a8a685d7d3d80",
-        "size": 34695805,
-        "targetSdkVersion": 35,
+        "size": 55626185,
+        "targetSdkVersion": 36,
         "uses-permission": [
           [
             "android.permission.INTERNET",
@@ -1118,7 +1166,7 @@
             null
           ],
           [
-            "android.permission.FOREGROUND_SERVICE_SYSTEM_EXEMPTED",
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
             null
           ],
           [
@@ -1126,11 +1174,11 @@
             null
           ],
           [
-            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.FOREGROUND_SERVICE_SYSTEM_EXEMPTED",
             null
           ],
           [
-            "android.permission.WAKE_LOCK",
+            "android.permission.FOREGROUND_SERVICE",
             null
           ],
           [
@@ -1162,11 +1210,7 @@
             null
           ],
           [
-            "android.permission.USE_BIOMETRIC",
-            null
-          ],
-          [
-            "android.permission.USE_FINGERPRINT",
+            "android.permission.WAKE_LOCK",
             null
           ],
           [
@@ -1182,13 +1226,13 @@
             null
           ]
         ],
-        "versionCode": 39400,
-        "versionName": "3.9.4"
+        "versionCode": 40003,
+        "versionName": "4.0.3"
       },
       {
-        "added": 1753927744000,
-        "apkName": "wgtunnel_3.9.3.apk",
-        "hash": "94e65b8556e80120cd1131ebb468aeb9ea3c1cf80e54c1a1a21602d5f84baaf4",
+        "added": 1759283891000,
+        "apkName": "wgtunnel_4.0.2.apk",
+        "hash": "fa55988aad3caeca3b62e0588663fb61f6697958369b3e899874229f208897cc",
         "hashType": "sha256",
         "minSdkVersion": 26,
         "nativecode": [
@@ -1200,8 +1244,8 @@
         "packageName": "com.zaneschepke.wireguardautotunnel",
         "sig": "21dad82894453bd1db3f09179d247e3c",
         "signer": "5204d82e766e8aa14dcbb06dc70aebae2bdd812d4d6203cd521a8a685d7d3d80",
-        "size": 29364729,
-        "targetSdkVersion": 35,
+        "size": 55626185,
+        "targetSdkVersion": 36,
         "uses-permission": [
           [
             "android.permission.INTERNET",
@@ -1212,7 +1256,7 @@
             null
           ],
           [
-            "android.permission.FOREGROUND_SERVICE_SYSTEM_EXEMPTED",
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
             null
           ],
           [
@@ -1220,11 +1264,11 @@
             null
           ],
           [
-            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.FOREGROUND_SERVICE_SYSTEM_EXEMPTED",
             null
           ],
           [
-            "android.permission.WAKE_LOCK",
+            "android.permission.FOREGROUND_SERVICE",
             null
           ],
           [
@@ -1256,11 +1300,7 @@
             null
           ],
           [
-            "android.permission.USE_BIOMETRIC",
-            null
-          ],
-          [
-            "android.permission.USE_FINGERPRINT",
+            "android.permission.WAKE_LOCK",
             null
           ],
           [
@@ -1268,17 +1308,21 @@
             null
           ],
           [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ],
+          [
             "android.permission.CAMERA",
             null
           ]
         ],
-        "versionCode": 39300,
-        "versionName": "3.9.3"
+        "versionCode": 40002,
+        "versionName": "4.0.2"
       },
       {
-        "added": 1753927743000,
-        "apkName": "wgtunnel_3.9.1.apk",
-        "hash": "8001dfed63d50f5e8935beea1d6ea5f6ba78290c29763a7712f52578d8eb0da2",
+        "added": 1759283891000,
+        "apkName": "wgtunnel_4.0.1.apk",
+        "hash": "ef58f420b7c38628ea98782257e02089434d8ec1e508210b028e39d57c86bd9a",
         "hashType": "sha256",
         "minSdkVersion": 26,
         "nativecode": [
@@ -1290,8 +1334,8 @@
         "packageName": "com.zaneschepke.wireguardautotunnel",
         "sig": "21dad82894453bd1db3f09179d247e3c",
         "signer": "5204d82e766e8aa14dcbb06dc70aebae2bdd812d4d6203cd521a8a685d7d3d80",
-        "size": 29311202,
-        "targetSdkVersion": 35,
+        "size": 55553763,
+        "targetSdkVersion": 36,
         "uses-permission": [
           [
             "android.permission.INTERNET",
@@ -1302,7 +1346,7 @@
             null
           ],
           [
-            "android.permission.FOREGROUND_SERVICE_SYSTEM_EXEMPTED",
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
             null
           ],
           [
@@ -1310,11 +1354,11 @@
             null
           ],
           [
-            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.FOREGROUND_SERVICE_SYSTEM_EXEMPTED",
             null
           ],
           [
-            "android.permission.WAKE_LOCK",
+            "android.permission.FOREGROUND_SERVICE",
             null
           ],
           [
@@ -1346,11 +1390,7 @@
             null
           ],
           [
-            "android.permission.USE_BIOMETRIC",
-            null
-          ],
-          [
-            "android.permission.USE_FINGERPRINT",
+            "android.permission.WAKE_LOCK",
             null
           ],
           [
@@ -1358,17 +1398,219 @@
             null
           ],
           [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ],
+          [
             "android.permission.CAMERA",
             null
           ]
         ],
-        "versionCode": 39100,
-        "versionName": "3.9.1"
+        "versionCode": 40001,
+        "versionName": "4.0.1"
+      },
+      {
+        "added": 1759283890000,
+        "apkName": "wgtunnel_4.0.0.apk",
+        "hash": "42d01d98f3756eb5e771d96dd6c050c64385f24a84887326132f86479399e52c",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.zaneschepke.wireguardautotunnel",
+        "sig": "21dad82894453bd1db3f09179d247e3c",
+        "signer": "5204d82e766e8aa14dcbb06dc70aebae2bdd812d4d6203cd521a8a685d7d3d80",
+        "size": 55553659,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.SCHEDULE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SYSTEM_EXEMPTED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.zaneschepke.wireguardautotunnel.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ]
+        ],
+        "versionCode": 40000,
+        "versionName": "4.0.0"
       }
     ],
     "md.obsidian": [
       {
-        "added": 1753927735000,
+        "added": 1759283884000,
+        "apkName": "obsidian_v1.9.12.apk",
+        "hash": "8afdaeaf7b6274138a7f343d34dc75bf461051c385a1088f289dbb99c076f610",
+        "hashType": "sha256",
+        "minSdkVersion": 22,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "md.obsidian",
+        "sig": "5dc9dfab084405dd447b7e19726e00d5",
+        "signer": "bd3bd52f4427b5ab7f8059d071a35e3de943c646546d32313da5f1cac254b7e4",
+        "size": 12088275,
+        "targetSdkVersion": 35,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "md.obsidian.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 237,
+        "versionName": "1.9.12"
+      },
+      {
+        "added": 1759283884000,
+        "apkName": "obsidian_v1.9.10.apk",
+        "hash": "0b6e5449bbb98bef64c2fdd6d7478600f37cdd39398a179003744619d9a3a8e7",
+        "hashType": "sha256",
+        "minSdkVersion": 22,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "md.obsidian",
+        "sig": "5dc9dfab084405dd447b7e19726e00d5",
+        "signer": "bd3bd52f4427b5ab7f8059d071a35e3de943c646546d32313da5f1cac254b7e4",
+        "size": 12088220,
+        "targetSdkVersion": 35,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "md.obsidian.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 234,
+        "versionName": "1.9.10"
+      },
+      {
+        "added": 1759283882000,
         "apkName": "obsidian_v1.8.10.apk",
         "hash": "af09494c6fdec9815e1e562acd20e7591a49ee5449f84c2bef0052ca7c2c4adf",
         "hashType": "sha256",
@@ -1422,7 +1664,7 @@
         "versionName": "1.8.10"
       },
       {
-        "added": 1753927737000,
+        "added": 1759283883000,
         "apkName": "obsidian_v1.8.9.apk",
         "hash": "832fc9cfd9853ce2127348bf75a48f26a6346062930828358d8537ce8f2b6005",
         "hashType": "sha256",
@@ -1476,7 +1718,7 @@
         "versionName": "1.8.9"
       },
       {
-        "added": 1753927737000,
+        "added": 1759283882000,
         "apkName": "obsidian_v1.8.7.apk",
         "hash": "f5252b7c3774cdf58f48d9be5fb245d77e1cbd33b73d2ef54d54a62814e7fb52",
         "hashType": "sha256",
@@ -1528,121 +1770,13 @@
         ],
         "versionCode": 191,
         "versionName": "1.8.7"
-      },
-      {
-        "added": 1753927736000,
-        "apkName": "obsidian_v1.8.4.apk",
-        "hash": "1a83470f5809c75431b22207422a63060907b0e305a8b3f18f5263b1bcc60d1e",
-        "hashType": "sha256",
-        "minSdkVersion": 22,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86",
-          "x86_64"
-        ],
-        "packageName": "md.obsidian",
-        "sig": "5dc9dfab084405dd447b7e19726e00d5",
-        "signer": "bd3bd52f4427b5ab7f8059d071a35e3de943c646546d32313da5f1cac254b7e4",
-        "size": 10171237,
-        "targetSdkVersion": 34,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.READ_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.WRITE_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.MANAGE_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.RECORD_AUDIO",
-            null
-          ],
-          [
-            "android.permission.MODIFY_AUDIO_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "md.obsidian.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
-            null
-          ]
-        ],
-        "versionCode": 186,
-        "versionName": "1.8.4"
-      },
-      {
-        "added": 1753927736000,
-        "apkName": "obsidian_v1.8.3.apk",
-        "hash": "90c4b1af5902e632ee124518350bd97ab9e99984beebb83013680f24d66cc54c",
-        "hashType": "sha256",
-        "minSdkVersion": 22,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86",
-          "x86_64"
-        ],
-        "packageName": "md.obsidian",
-        "sig": "5dc9dfab084405dd447b7e19726e00d5",
-        "signer": "bd3bd52f4427b5ab7f8059d071a35e3de943c646546d32313da5f1cac254b7e4",
-        "size": 10171207,
-        "targetSdkVersion": 34,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.READ_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.WRITE_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.MANAGE_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.RECORD_AUDIO",
-            null
-          ],
-          [
-            "android.permission.MODIFY_AUDIO_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "md.obsidian.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
-            null
-          ]
-        ],
-        "versionCode": 183,
-        "versionName": "1.8.3"
       }
     ],
     "su.happ.proxyutility": [
       {
-        "added": 1753927717000,
-        "apkName": "happ_2.11.0.apk",
-        "hash": "825b189546478481777a3b339be9a3b161da86c1dd095e9a5b5c753ae6951984",
+        "added": 1759283867000,
+        "apkName": "happ_3.2.0.apk",
+        "hash": "ff92f9fe6ef61b7c131002d93b4d31422c5d7ed1d1d61129e9dce99560ef3307",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1652,7 +1786,95 @@
         "packageName": "su.happ.proxyutility",
         "sig": "2609392acc5f151cfd6629301e57c071",
         "signer": "397e98abed03c5f263ffaf4e8a1043b2a59f538b99e75cf152fa05a7e8007d8d",
-        "size": 51171923,
+        "size": 50563043,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_IMAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.QUICKBOOT_POWERON",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "su.happ.proxyutility.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 1263,
+        "versionName": "3.2.0"
+      },
+      {
+        "added": 1759283865000,
+        "apkName": "happ_3.1.3.apk",
+        "hash": "790db2b253de309df34bc1cc284c25962c36793a02e719ad770e9efd6474e31a",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "su.happ.proxyutility",
+        "sig": "2609392acc5f151cfd6629301e57c071",
+        "signer": "397e98abed03c5f263ffaf4e8a1043b2a59f538b99e75cf152fa05a7e8007d8d",
+        "size": 50280424,
         "targetSdkVersion": 35,
         "uses-permission": [
           [
@@ -1724,13 +1946,13 @@
             null
           ]
         ],
-        "versionCode": 1215,
-        "versionName": "2.11.0"
+        "versionCode": 1253,
+        "versionName": "3.1.3"
       },
       {
-        "added": 1753927715000,
-        "apkName": "happ_2.10.1.apk",
-        "hash": "e45854a38725e637c63f6dba6832a9c3dfccf8bfe4fa99ac22552821b91824ca",
+        "added": 1759283864000,
+        "apkName": "happ_3.1.2.apk",
+        "hash": "2480294ddad57ff70afff197f4d2fabfcd568bb68d48cfe0cea3c3b261df8e57",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1740,7 +1962,7 @@
         "packageName": "su.happ.proxyutility",
         "sig": "2609392acc5f151cfd6629301e57c071",
         "signer": "397e98abed03c5f263ffaf4e8a1043b2a59f538b99e75cf152fa05a7e8007d8d",
-        "size": 38041164,
+        "size": 50281626,
         "targetSdkVersion": 35,
         "uses-permission": [
           [
@@ -1804,17 +2026,21 @@
             null
           ],
           [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
             "su.happ.proxyutility.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
             null
           ]
         ],
-        "versionCode": 1205,
-        "versionName": "2.10.1"
+        "versionCode": 1247,
+        "versionName": "3.1.2"
       },
       {
-        "added": 1753927714000,
-        "apkName": "happ_2.10.0.apk",
-        "hash": "ecc5b0dbfe886334f2e9538dccb934817e36591ff005ae246a0437fc572ff74e",
+        "added": 1759283862000,
+        "apkName": "happ_3.1.1.apk",
+        "hash": "30d6b5032e224ae54fd949e0ed7ead58f4225a05dc54e4688a8b8bd66e86a39b",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1824,7 +2050,7 @@
         "packageName": "su.happ.proxyutility",
         "sig": "2609392acc5f151cfd6629301e57c071",
         "signer": "397e98abed03c5f263ffaf4e8a1043b2a59f538b99e75cf152fa05a7e8007d8d",
-        "size": 38038653,
+        "size": 50268961,
         "targetSdkVersion": 35,
         "uses-permission": [
           [
@@ -1888,17 +2114,21 @@
             null
           ],
           [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
             "su.happ.proxyutility.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
             null
           ]
         ],
-        "versionCode": 1203,
-        "versionName": "2.10.0"
+        "versionCode": 1243,
+        "versionName": "3.1.1"
       },
       {
-        "added": 1753927720000,
-        "apkName": "happ_2.9.1.apk",
-        "hash": "6b4a6a45da6e995ee9692bdc7702849b06ddbda915a3a35c4045e839817e9d4d",
+        "added": 1759283860000,
+        "apkName": "happ_3.1.0.apk",
+        "hash": "3b2cf4b9380a8d41a2a9c5e5da2cde38d294d9f5c9e66136bafe0dd38f01eb58",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1908,7 +2138,7 @@
         "packageName": "su.happ.proxyutility",
         "sig": "2609392acc5f151cfd6629301e57c071",
         "signer": "397e98abed03c5f263ffaf4e8a1043b2a59f538b99e75cf152fa05a7e8007d8d",
-        "size": 38030957,
+        "size": 49703047,
         "targetSdkVersion": 35,
         "uses-permission": [
           [
@@ -1972,87 +2202,7 @@
             null
           ],
           [
-            "su.happ.proxyutility.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
-            null
-          ]
-        ],
-        "versionCode": 1201,
-        "versionName": "2.9.1"
-      },
-      {
-        "added": 1753927719000,
-        "apkName": "happ_2.9.0.apk",
-        "hash": "9153a01dd95851004b99cea06871ecec8012a1dfb5cd7ce9eebc600dc013b9b3",
-        "hashType": "sha256",
-        "minSdkVersion": 21,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a"
-        ],
-        "packageName": "su.happ.proxyutility",
-        "sig": "2609392acc5f151cfd6629301e57c071",
-        "signer": "397e98abed03c5f263ffaf4e8a1043b2a59f538b99e75cf152fa05a7e8007d8d",
-        "size": 38029307,
-        "targetSdkVersion": 35,
-        "uses-permission": [
-          [
-            "android.permission.REQUEST_INSTALL_PACKAGES",
-            null
-          ],
-          [
-            "android.permission.QUERY_ALL_PACKAGES",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.CHANGE_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.READ_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.CAMERA",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
-            null
-          ],
-          [
-            "android.permission.POST_NOTIFICATIONS",
-            null
-          ],
-          [
-            "android.permission.READ_MEDIA_IMAGES",
-            null
-          ],
-          [
-            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.QUICKBOOT_POWERON",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
             null
           ],
           [
@@ -2060,13 +2210,627 @@
             null
           ]
         ],
-        "versionCode": 1197,
-        "versionName": "2.9.0"
+        "versionCode": 1235,
+        "versionName": "3.1.0"
       }
     ],
     "tw.nekomimi.nekogram": [
       {
-        "added": 1753927730000,
+        "added": 1759283881000,
+        "apkName": "nekogram_v12.0.1.apk",
+        "hash": "9206ed52b4272872b7e3873f1f89bb7c3051048a640a329811d87d6756ac3bda",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "tw.nekomimi.nekogram",
+        "sig": "e2e8b7008de515577bafb5a5e617eb58",
+        "signer": "5ce932b970199fbda2aae7bf21e1ad9e70b0809a7b1ac94c0699f5d5ada83313",
+        "size": 48321320,
+        "targetSdkVersion": 35,
+        "uses-permission": [
+          [
+            "android.permission.READ_CLIPBOARD",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_CAMERA",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MICROPHONE",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            32
+          ],
+          [
+            "android.permission.READ_MEDIA_IMAGES",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VIDEO",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_AUDIO",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.WRITE_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.READ_PROFILE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            30
+          ],
+          [
+            "android.permission.MANAGE_OWN_CALLS",
+            null
+          ],
+          [
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_NUMBERS",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.READ",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.WRITE",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            null
+          ],
+          [
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            null
+          ],
+          [
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            null
+          ],
+          [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            null
+          ],
+          [
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_APP_BADGE",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            29
+          ],
+          [
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_MEDIA_LOCATION",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.gms.permission.AD_ID",
+            null
+          ],
+          [
+            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_ADSERVICES_AD_ID",
+            null
+          ],
+          [
+            "tw.nekomimi.nekogram.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 61670,
+        "versionName": "12.0.1"
+      },
+      {
+        "added": 1759283879000,
+        "apkName": "nekogram_v11.14.1.apk",
+        "hash": "739303faf5f169e41c4b0ce59c058d9a60a72df916ddbaef07f3fa72a0c7c41a",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "tw.nekomimi.nekogram",
+        "sig": "e2e8b7008de515577bafb5a5e617eb58",
+        "signer": "5ce932b970199fbda2aae7bf21e1ad9e70b0809a7b1ac94c0699f5d5ada83313",
+        "size": 48009936,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.READ_CLIPBOARD",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_CAMERA",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MICROPHONE",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            32
+          ],
+          [
+            "android.permission.READ_MEDIA_IMAGES",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VIDEO",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_AUDIO",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.WRITE_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.READ_PROFILE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            30
+          ],
+          [
+            "android.permission.MANAGE_OWN_CALLS",
+            null
+          ],
+          [
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_NUMBERS",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.READ",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.WRITE",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            null
+          ],
+          [
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            null
+          ],
+          [
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            null
+          ],
+          [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            null
+          ],
+          [
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_APP_BADGE",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            29
+          ],
+          [
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_MEDIA_LOCATION",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.gms.permission.AD_ID",
+            null
+          ],
+          [
+            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_ADSERVICES_AD_ID",
+            null
+          ],
+          [
+            "tw.nekomimi.nekogram.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 61100,
+        "versionName": "11.14.1"
+      },
+      {
+        "added": 1759283877000,
         "apkName": "nekogram_v11.13.0.apk",
         "hash": "99ee190b02c8dfa63851d22de78a30dbcc419473aed0cbbc4351d08f1cbc6ea4",
         "hashType": "sha256",
@@ -2373,7 +3137,7 @@
         "versionName": "11.13.0"
       },
       {
-        "added": 1753927728000,
+        "added": 1759283875000,
         "apkName": "nekogram_v11.12.1.apk",
         "hash": "4dea86a47ede63bd900b9886fe2748d8800a72eb76d40738959e9c50f705d53c",
         "hashType": "sha256",
@@ -2680,7 +3444,7 @@
         "versionName": "11.12.1"
       },
       {
-        "added": 1753927725000,
+        "added": 1759283873000,
         "apkName": "nekogram_v11.12.0.apk",
         "hash": "200c6487f0e7c6975d3e9a09144923a2caeb32241446565ee52aadd04d8df861",
         "hashType": "sha256",
@@ -2985,627 +3749,13 @@
         ],
         "versionCode": 59970,
         "versionName": "11.12.0"
-      },
-      {
-        "added": 1753927734000,
-        "apkName": "nekogram_v11.9.2.apk",
-        "hash": "31872fbfb6f9ab1d6e25141943bdec12c482802f969bbaa81c8d83204adeeb4d",
-        "hashType": "sha256",
-        "minSdkVersion": 21,
-        "nativecode": [
-          "arm64-v8a"
-        ],
-        "packageName": "tw.nekomimi.nekogram",
-        "sig": "e2e8b7008de515577bafb5a5e617eb58",
-        "signer": "5ce932b970199fbda2aae7bf21e1ad9e70b0809a7b1ac94c0699f5d5ada83313",
-        "size": 46965905,
-        "targetSdkVersion": 34,
-        "uses-permission": [
-          [
-            "android.permission.READ_CLIPBOARD",
-            null
-          ],
-          [
-            "android.permission.BLUETOOTH_CONNECT",
-            null
-          ],
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_CAMERA",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_LOCATION",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_MICROPHONE",
-            null
-          ],
-          [
-            "android.permission.RECORD_AUDIO",
-            null
-          ],
-          [
-            "android.permission.MODIFY_AUDIO_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.ACCESS_WIFI_STATE",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.READ_EXTERNAL_STORAGE",
-            32
-          ],
-          [
-            "android.permission.READ_MEDIA_IMAGES",
-            null
-          ],
-          [
-            "android.permission.READ_MEDIA_VIDEO",
-            null
-          ],
-          [
-            "android.permission.READ_MEDIA_AUDIO",
-            null
-          ],
-          [
-            "android.permission.GET_ACCOUNTS",
-            null
-          ],
-          [
-            "android.permission.READ_CONTACTS",
-            null
-          ],
-          [
-            "android.permission.WRITE_CONTACTS",
-            null
-          ],
-          [
-            "android.permission.MANAGE_ACCOUNTS",
-            null
-          ],
-          [
-            "android.permission.READ_PROFILE",
-            null
-          ],
-          [
-            "android.permission.WRITE_SYNC_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.READ_SYNC_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.AUTHENTICATE_ACCOUNTS",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.SYSTEM_ALERT_WINDOW",
-            null
-          ],
-          [
-            "android.permission.READ_PHONE_STATE",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.USE_FINGERPRINT",
-            null
-          ],
-          [
-            "android.permission.USE_BIOMETRIC",
-            null
-          ],
-          [
-            "android.permission.INSTALL_SHORTCUT",
-            null
-          ],
-          [
-            "com.android.launcher.permission.INSTALL_SHORTCUT",
-            null
-          ],
-          [
-            "com.android.launcher.permission.UNINSTALL_SHORTCUT",
-            null
-          ],
-          [
-            "android.permission.CAMERA",
-            null
-          ],
-          [
-            "android.permission.BLUETOOTH",
-            30
-          ],
-          [
-            "android.permission.MANAGE_OWN_CALLS",
-            null
-          ],
-          [
-            "android.permission.USE_FULL_SCREEN_INTENT",
-            null
-          ],
-          [
-            "android.permission.REQUEST_INSTALL_PACKAGES",
-            null
-          ],
-          [
-            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
-            null
-          ],
-          [
-            "android.permission.READ_PHONE_NUMBERS",
-            null
-          ],
-          [
-            "android.permission.POST_NOTIFICATIONS",
-            null
-          ],
-          [
-            "com.sec.android.provider.badge.permission.READ",
-            null
-          ],
-          [
-            "com.sec.android.provider.badge.permission.WRITE",
-            null
-          ],
-          [
-            "com.htc.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.htc.launcher.permission.UPDATE_SHORTCUT",
-            null
-          ],
-          [
-            "com.sonyericsson.home.permission.BROADCAST_BADGE",
-            null
-          ],
-          [
-            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
-            null
-          ],
-          [
-            "com.anddoes.launcher.permission.UPDATE_COUNT",
-            null
-          ],
-          [
-            "com.majeur.launcher.permission.UPDATE_BADGE",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.CHANGE_BADGE",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.READ_APP_BADGE",
-            null
-          ],
-          [
-            "com.oppo.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.oppo.launcher.permission.WRITE_SETTINGS",
-            null
-          ],
-          [
-            "me.everything.badger.permission.BADGE_COUNT_READ",
-            null
-          ],
-          [
-            "me.everything.badger.permission.BADGE_COUNT_WRITE",
-            null
-          ],
-          [
-            "com.android.vending.BILLING",
-            null
-          ],
-          [
-            "android.permission.WRITE_EXTERNAL_STORAGE",
-            29
-          ],
-          [
-            "android.permission.ACCESS_BACKGROUND_LOCATION",
-            null
-          ],
-          [
-            "android.permission.ACCESS_COARSE_LOCATION",
-            null
-          ],
-          [
-            "android.permission.ACCESS_FINE_LOCATION",
-            null
-          ],
-          [
-            "android.permission.ACCESS_MEDIA_LOCATION",
-            null
-          ],
-          [
-            "com.google.android.c2dm.permission.RECEIVE",
-            null
-          ],
-          [
-            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
-            null
-          ],
-          [
-            "com.google.android.gms.permission.AD_ID",
-            null
-          ],
-          [
-            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
-            null
-          ],
-          [
-            "android.permission.ACCESS_ADSERVICES_AD_ID",
-            null
-          ],
-          [
-            "tw.nekomimi.nekogram.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
-            null
-          ]
-        ],
-        "versionCode": 59010,
-        "versionName": "11.9.2"
-      },
-      {
-        "added": 1753927732000,
-        "apkName": "nekogram_v11.9.0.apk",
-        "hash": "f06ce18d55b708f3c3d578f9bc2fdf3b14f430d3f33e290e0112ef72d54d3751",
-        "hashType": "sha256",
-        "minSdkVersion": 21,
-        "nativecode": [
-          "arm64-v8a"
-        ],
-        "packageName": "tw.nekomimi.nekogram",
-        "sig": "e2e8b7008de515577bafb5a5e617eb58",
-        "signer": "5ce932b970199fbda2aae7bf21e1ad9e70b0809a7b1ac94c0699f5d5ada83313",
-        "size": 46261692,
-        "targetSdkVersion": 34,
-        "uses-permission": [
-          [
-            "android.permission.READ_CLIPBOARD",
-            null
-          ],
-          [
-            "android.permission.BLUETOOTH_CONNECT",
-            null
-          ],
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_CAMERA",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_LOCATION",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_MICROPHONE",
-            null
-          ],
-          [
-            "android.permission.RECORD_AUDIO",
-            null
-          ],
-          [
-            "android.permission.MODIFY_AUDIO_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.ACCESS_WIFI_STATE",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.READ_EXTERNAL_STORAGE",
-            32
-          ],
-          [
-            "android.permission.READ_MEDIA_IMAGES",
-            null
-          ],
-          [
-            "android.permission.READ_MEDIA_VIDEO",
-            null
-          ],
-          [
-            "android.permission.READ_MEDIA_AUDIO",
-            null
-          ],
-          [
-            "android.permission.GET_ACCOUNTS",
-            null
-          ],
-          [
-            "android.permission.READ_CONTACTS",
-            null
-          ],
-          [
-            "android.permission.WRITE_CONTACTS",
-            null
-          ],
-          [
-            "android.permission.MANAGE_ACCOUNTS",
-            null
-          ],
-          [
-            "android.permission.READ_PROFILE",
-            null
-          ],
-          [
-            "android.permission.WRITE_SYNC_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.READ_SYNC_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.AUTHENTICATE_ACCOUNTS",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.SYSTEM_ALERT_WINDOW",
-            null
-          ],
-          [
-            "android.permission.READ_PHONE_STATE",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.USE_FINGERPRINT",
-            null
-          ],
-          [
-            "android.permission.USE_BIOMETRIC",
-            null
-          ],
-          [
-            "android.permission.INSTALL_SHORTCUT",
-            null
-          ],
-          [
-            "com.android.launcher.permission.INSTALL_SHORTCUT",
-            null
-          ],
-          [
-            "com.android.launcher.permission.UNINSTALL_SHORTCUT",
-            null
-          ],
-          [
-            "android.permission.CAMERA",
-            null
-          ],
-          [
-            "android.permission.BLUETOOTH",
-            30
-          ],
-          [
-            "android.permission.MANAGE_OWN_CALLS",
-            null
-          ],
-          [
-            "android.permission.USE_FULL_SCREEN_INTENT",
-            null
-          ],
-          [
-            "android.permission.REQUEST_INSTALL_PACKAGES",
-            null
-          ],
-          [
-            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
-            null
-          ],
-          [
-            "android.permission.READ_PHONE_NUMBERS",
-            null
-          ],
-          [
-            "android.permission.POST_NOTIFICATIONS",
-            null
-          ],
-          [
-            "com.sec.android.provider.badge.permission.READ",
-            null
-          ],
-          [
-            "com.sec.android.provider.badge.permission.WRITE",
-            null
-          ],
-          [
-            "com.htc.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.htc.launcher.permission.UPDATE_SHORTCUT",
-            null
-          ],
-          [
-            "com.sonyericsson.home.permission.BROADCAST_BADGE",
-            null
-          ],
-          [
-            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
-            null
-          ],
-          [
-            "com.anddoes.launcher.permission.UPDATE_COUNT",
-            null
-          ],
-          [
-            "com.majeur.launcher.permission.UPDATE_BADGE",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.CHANGE_BADGE",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.READ_APP_BADGE",
-            null
-          ],
-          [
-            "com.oppo.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.oppo.launcher.permission.WRITE_SETTINGS",
-            null
-          ],
-          [
-            "me.everything.badger.permission.BADGE_COUNT_READ",
-            null
-          ],
-          [
-            "me.everything.badger.permission.BADGE_COUNT_WRITE",
-            null
-          ],
-          [
-            "com.android.vending.BILLING",
-            null
-          ],
-          [
-            "android.permission.WRITE_EXTERNAL_STORAGE",
-            29
-          ],
-          [
-            "android.permission.ACCESS_BACKGROUND_LOCATION",
-            null
-          ],
-          [
-            "android.permission.ACCESS_COARSE_LOCATION",
-            null
-          ],
-          [
-            "android.permission.ACCESS_FINE_LOCATION",
-            null
-          ],
-          [
-            "android.permission.ACCESS_MEDIA_LOCATION",
-            null
-          ],
-          [
-            "com.google.android.c2dm.permission.RECEIVE",
-            null
-          ],
-          [
-            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
-            null
-          ],
-          [
-            "com.google.android.gms.permission.AD_ID",
-            null
-          ],
-          [
-            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
-            null
-          ],
-          [
-            "android.permission.ACCESS_ADSERVICES_AD_ID",
-            null
-          ],
-          [
-            "tw.nekomimi.nekogram.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
-            null
-          ]
-        ],
-        "versionCode": 58370,
-        "versionName": "11.9.0"
       }
     ],
     "uz.unnarsx.cherrygram": [
       {
-        "added": 1753927708000,
-        "apkName": "cherrygram_9.5.0.apk",
-        "hash": "1ac41d3d865b743fc9fbe3a27fbeb6c0c78de4ca90ad7297857e4c2fca98df79",
+        "added": 1759283855000,
+        "apkName": "cherrygram_9.8.0.apk",
+        "hash": "111ad7116f1db54c1e86487c585deb77a509d2c2005e46112d8c89509e283d4c",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -3614,7 +3764,1028 @@
         "packageName": "uz.unnarsx.cherrygram",
         "sig": "572a63b6bf8f015265e3c0f378444736",
         "signer": "a9d5ba4a1aa06b969bfec97b557183160c856f1e1401d756a043af110dddc71f",
-        "size": 52511503,
+        "size": 53523905,
+        "targetSdkVersion": 35,
+        "uses-permission": [
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "uz.unnarsx.cherrygram.permission.MAPS_RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_MEDIA_LOCATION",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_REMOTE_MESSAGING",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_CAMERA",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MICROPHONE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_PHONE_CALL",
+            null
+          ],
+          [
+            "android.permission.SCHEDULE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_NUMBERS",
+            null
+          ],
+          [
+            "android.permission.SEND_SMS",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.READ_CLIPBOARD",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_IMAGES",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VIDEO",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_AUDIO",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.WRITE_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.READ_PROFILE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.MANAGE_OWN_CALLS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.READ",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.WRITE",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            null
+          ],
+          [
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            null
+          ],
+          [
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            null
+          ],
+          [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            null
+          ],
+          [
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_APP_BADGE",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.WRITE_CALENDAR",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.gms.permission.AD_ID",
+            null
+          ],
+          [
+            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_ADSERVICES_AD_ID",
+            null
+          ],
+          [
+            "uz.unnarsx.cherrygram.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 61680,
+        "versionName": "12.0.1"
+      },
+      {
+        "added": 1759283852000,
+        "apkName": "cherrygram_9.7.1.apk",
+        "hash": "9bf56fe3a6cab90d0c895feb5b3b0ece4c0337107a2b8278a3bbaa244787f4f7",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "uz.unnarsx.cherrygram",
+        "sig": "572a63b6bf8f015265e3c0f378444736",
+        "signer": "a9d5ba4a1aa06b969bfec97b557183160c856f1e1401d756a043af110dddc71f",
+        "size": 53394294,
+        "targetSdkVersion": 35,
+        "uses-permission": [
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "uz.unnarsx.cherrygram.permission.MAPS_RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_MEDIA_LOCATION",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_REMOTE_MESSAGING",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_CAMERA",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MICROPHONE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_PHONE_CALL",
+            null
+          ],
+          [
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_NUMBERS",
+            null
+          ],
+          [
+            "android.permission.SEND_SMS",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.READ_CLIPBOARD",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_IMAGES",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VIDEO",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_AUDIO",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.WRITE_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.READ_PROFILE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.MANAGE_OWN_CALLS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.READ",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.WRITE",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            null
+          ],
+          [
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            null
+          ],
+          [
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            null
+          ],
+          [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            null
+          ],
+          [
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_APP_BADGE",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.WRITE_CALENDAR",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.gms.permission.AD_ID",
+            null
+          ],
+          [
+            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_ADSERVICES_AD_ID",
+            null
+          ],
+          [
+            "uz.unnarsx.cherrygram.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 61670,
+        "versionName": "12.0.1"
+      },
+      {
+        "added": 1759283850000,
+        "apkName": "cherrygram_9.7.0.apk",
+        "hash": "e148afda8fc4608961fea44bf9a333baf5b8772e1443c594557717ca2c5392a6",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "uz.unnarsx.cherrygram",
+        "sig": "572a63b6bf8f015265e3c0f378444736",
+        "signer": "a9d5ba4a1aa06b969bfec97b557183160c856f1e1401d756a043af110dddc71f",
+        "size": 53394185,
+        "targetSdkVersion": 35,
+        "uses-permission": [
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "uz.unnarsx.cherrygram.permission.MAPS_RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_MEDIA_LOCATION",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_REMOTE_MESSAGING",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_CAMERA",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MICROPHONE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_PHONE_CALL",
+            null
+          ],
+          [
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_NUMBERS",
+            null
+          ],
+          [
+            "android.permission.SEND_SMS",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.READ_CLIPBOARD",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_IMAGES",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VIDEO",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_AUDIO",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.WRITE_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.READ_PROFILE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.MANAGE_OWN_CALLS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.READ",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.WRITE",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            null
+          ],
+          [
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            null
+          ],
+          [
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            null
+          ],
+          [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            null
+          ],
+          [
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_APP_BADGE",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.WRITE_CALENDAR",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.gms.permission.AD_ID",
+            null
+          ],
+          [
+            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_ADSERVICES_AD_ID",
+            null
+          ],
+          [
+            "uz.unnarsx.cherrygram.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 61660,
+        "versionName": "12.0.1"
+      },
+      {
+        "added": 1759283847000,
+        "apkName": "cherrygram_9.6.0.apk",
+        "hash": "ff9b9ae004ee3cc59ca223fb412f0c36b79bedbd4c45c2f21b35e1c676ae502f",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "uz.unnarsx.cherrygram",
+        "sig": "572a63b6bf8f015265e3c0f378444736",
+        "signer": "a9d5ba4a1aa06b969bfec97b557183160c856f1e1401d756a043af110dddc71f",
+        "size": 53033844,
         "targetSdkVersion": 34,
         "uses-permission": [
           [
@@ -3938,1364 +5109,347 @@
             null
           ]
         ],
-        "versionCode": 60480,
+        "versionCode": 61080,
+        "versionName": "11.14.1"
+      },
+      {
+        "added": 1759283845000,
+        "apkName": "cherrygram_9.5.2.apk",
+        "hash": "3f8023e4eb345e8b952829ad4bdc610856af7371d7d89ccf29f16699efd6ca1b",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "uz.unnarsx.cherrygram",
+        "sig": "572a63b6bf8f015265e3c0f378444736",
+        "signer": "a9d5ba4a1aa06b969bfec97b557183160c856f1e1401d756a043af110dddc71f",
+        "size": 52511747,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "uz.unnarsx.cherrygram.permission.MAPS_RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_MEDIA_LOCATION",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_REMOTE_MESSAGING",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_CAMERA",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_MICROPHONE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_PHONE_CALL",
+            null
+          ],
+          [
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_NUMBERS",
+            null
+          ],
+          [
+            "android.permission.SEND_SMS",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.READ_CLIPBOARD",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_IMAGES",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VIDEO",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_AUDIO",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.WRITE_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.READ_PROFILE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.MANAGE_OWN_CALLS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.READ",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.WRITE",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            null
+          ],
+          [
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            null
+          ],
+          [
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            null
+          ],
+          [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            null
+          ],
+          [
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_APP_BADGE",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.WRITE_CALENDAR",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.gms.permission.AD_ID",
+            null
+          ],
+          [
+            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_ADSERVICES_AD_ID",
+            null
+          ],
+          [
+            "uz.unnarsx.cherrygram.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 60500,
         "versionName": "11.13.0"
-      },
-      {
-        "added": 1753927706000,
-        "apkName": "cherrygram_9.4.0.apk",
-        "hash": "df472aab2274313bb168d5abca8f3b45cd4764dab4fbc9731363c44843b930b6",
-        "hashType": "sha256",
-        "minSdkVersion": 21,
-        "nativecode": [
-          "arm64-v8a"
-        ],
-        "packageName": "uz.unnarsx.cherrygram",
-        "sig": "572a63b6bf8f015265e3c0f378444736",
-        "signer": "a9d5ba4a1aa06b969bfec97b557183160c856f1e1401d756a043af110dddc71f",
-        "size": 52840578,
-        "targetSdkVersion": 34,
-        "uses-permission": [
-          [
-            "com.google.android.c2dm.permission.RECEIVE",
-            null
-          ],
-          [
-            "uz.unnarsx.cherrygram.permission.MAPS_RECEIVE",
-            null
-          ],
-          [
-            "com.google.android.providers.gsf.permission.READ_GSERVICES",
-            null
-          ],
-          [
-            "android.permission.ACCESS_COARSE_LOCATION",
-            null
-          ],
-          [
-            "android.permission.ACCESS_FINE_LOCATION",
-            null
-          ],
-          [
-            "android.permission.ACCESS_MEDIA_LOCATION",
-            null
-          ],
-          [
-            "android.permission.CALL_PHONE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_REMOTE_MESSAGING",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_CAMERA",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_LOCATION",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_MICROPHONE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_PHONE_CALL",
-            null
-          ],
-          [
-            "android.permission.USE_FULL_SCREEN_INTENT",
-            null
-          ],
-          [
-            "android.permission.READ_PHONE_STATE",
-            null
-          ],
-          [
-            "android.permission.READ_PHONE_NUMBERS",
-            null
-          ],
-          [
-            "android.permission.SEND_SMS",
-            null
-          ],
-          [
-            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
-            null
-          ],
-          [
-            "android.permission.READ_CLIPBOARD",
-            null
-          ],
-          [
-            "android.permission.BLUETOOTH_CONNECT",
-            null
-          ],
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.RECORD_AUDIO",
-            null
-          ],
-          [
-            "android.permission.MODIFY_AUDIO_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.ACCESS_WIFI_STATE",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.READ_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.READ_MEDIA_IMAGES",
-            null
-          ],
-          [
-            "android.permission.READ_MEDIA_VIDEO",
-            null
-          ],
-          [
-            "android.permission.READ_MEDIA_AUDIO",
-            null
-          ],
-          [
-            "android.permission.GET_ACCOUNTS",
-            null
-          ],
-          [
-            "android.permission.READ_CONTACTS",
-            null
-          ],
-          [
-            "android.permission.WRITE_CONTACTS",
-            null
-          ],
-          [
-            "android.permission.MANAGE_ACCOUNTS",
-            null
-          ],
-          [
-            "android.permission.READ_PROFILE",
-            null
-          ],
-          [
-            "android.permission.WRITE_SYNC_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.READ_SYNC_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.AUTHENTICATE_ACCOUNTS",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.SYSTEM_ALERT_WINDOW",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.USE_FINGERPRINT",
-            null
-          ],
-          [
-            "android.permission.USE_BIOMETRIC",
-            null
-          ],
-          [
-            "android.permission.INSTALL_SHORTCUT",
-            null
-          ],
-          [
-            "com.android.launcher.permission.INSTALL_SHORTCUT",
-            null
-          ],
-          [
-            "com.android.launcher.permission.UNINSTALL_SHORTCUT",
-            null
-          ],
-          [
-            "android.permission.CAMERA",
-            null
-          ],
-          [
-            "android.permission.BLUETOOTH",
-            null
-          ],
-          [
-            "android.permission.MANAGE_OWN_CALLS",
-            null
-          ],
-          [
-            "android.permission.REQUEST_INSTALL_PACKAGES",
-            null
-          ],
-          [
-            "android.permission.POST_NOTIFICATIONS",
-            null
-          ],
-          [
-            "com.sec.android.provider.badge.permission.READ",
-            null
-          ],
-          [
-            "com.sec.android.provider.badge.permission.WRITE",
-            null
-          ],
-          [
-            "com.htc.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.htc.launcher.permission.UPDATE_SHORTCUT",
-            null
-          ],
-          [
-            "com.sonyericsson.home.permission.BROADCAST_BADGE",
-            null
-          ],
-          [
-            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
-            null
-          ],
-          [
-            "com.anddoes.launcher.permission.UPDATE_COUNT",
-            null
-          ],
-          [
-            "com.majeur.launcher.permission.UPDATE_BADGE",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.CHANGE_BADGE",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.READ_APP_BADGE",
-            null
-          ],
-          [
-            "com.oppo.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.oppo.launcher.permission.WRITE_SETTINGS",
-            null
-          ],
-          [
-            "me.everything.badger.permission.BADGE_COUNT_READ",
-            null
-          ],
-          [
-            "me.everything.badger.permission.BADGE_COUNT_WRITE",
-            null
-          ],
-          [
-            "com.android.vending.BILLING",
-            null
-          ],
-          [
-            "android.permission.WRITE_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.ACCESS_BACKGROUND_LOCATION",
-            null
-          ],
-          [
-            "android.permission.READ_CALENDAR",
-            null
-          ],
-          [
-            "android.permission.WRITE_CALENDAR",
-            null
-          ],
-          [
-            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
-            null
-          ],
-          [
-            "com.google.android.gms.permission.AD_ID",
-            null
-          ],
-          [
-            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
-            null
-          ],
-          [
-            "android.permission.ACCESS_ADSERVICES_AD_ID",
-            null
-          ],
-          [
-            "uz.unnarsx.cherrygram.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
-            null
-          ]
-        ],
-        "versionCode": 60470,
-        "versionName": "11.13.0"
-      },
-      {
-        "added": 1753927703000,
-        "apkName": "cherrygram_9.3.0.apk",
-        "hash": "a44cea8bd9644032c463164a4e437388d4b67c76c6405e91bfd6da404e4be53b",
-        "hashType": "sha256",
-        "minSdkVersion": 21,
-        "nativecode": [
-          "arm64-v8a"
-        ],
-        "packageName": "uz.unnarsx.cherrygram",
-        "sig": "572a63b6bf8f015265e3c0f378444736",
-        "signer": "a9d5ba4a1aa06b969bfec97b557183160c856f1e1401d756a043af110dddc71f",
-        "size": 52186626,
-        "targetSdkVersion": 34,
-        "uses-permission": [
-          [
-            "com.google.android.c2dm.permission.RECEIVE",
-            null
-          ],
-          [
-            "uz.unnarsx.cherrygram.permission.MAPS_RECEIVE",
-            null
-          ],
-          [
-            "com.google.android.providers.gsf.permission.READ_GSERVICES",
-            null
-          ],
-          [
-            "android.permission.ACCESS_COARSE_LOCATION",
-            null
-          ],
-          [
-            "android.permission.ACCESS_FINE_LOCATION",
-            null
-          ],
-          [
-            "android.permission.ACCESS_MEDIA_LOCATION",
-            null
-          ],
-          [
-            "android.permission.CALL_PHONE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_REMOTE_MESSAGING",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_CAMERA",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_LOCATION",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_MICROPHONE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_PHONE_CALL",
-            null
-          ],
-          [
-            "android.permission.USE_FULL_SCREEN_INTENT",
-            null
-          ],
-          [
-            "android.permission.READ_PHONE_STATE",
-            null
-          ],
-          [
-            "android.permission.READ_PHONE_NUMBERS",
-            null
-          ],
-          [
-            "android.permission.SEND_SMS",
-            null
-          ],
-          [
-            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
-            null
-          ],
-          [
-            "android.permission.READ_CLIPBOARD",
-            null
-          ],
-          [
-            "android.permission.BLUETOOTH_CONNECT",
-            null
-          ],
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.RECORD_AUDIO",
-            null
-          ],
-          [
-            "android.permission.MODIFY_AUDIO_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.ACCESS_WIFI_STATE",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.READ_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.READ_MEDIA_IMAGES",
-            null
-          ],
-          [
-            "android.permission.READ_MEDIA_VIDEO",
-            null
-          ],
-          [
-            "android.permission.READ_MEDIA_AUDIO",
-            null
-          ],
-          [
-            "android.permission.GET_ACCOUNTS",
-            null
-          ],
-          [
-            "android.permission.READ_CONTACTS",
-            null
-          ],
-          [
-            "android.permission.WRITE_CONTACTS",
-            null
-          ],
-          [
-            "android.permission.MANAGE_ACCOUNTS",
-            null
-          ],
-          [
-            "android.permission.READ_PROFILE",
-            null
-          ],
-          [
-            "android.permission.WRITE_SYNC_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.READ_SYNC_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.AUTHENTICATE_ACCOUNTS",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.SYSTEM_ALERT_WINDOW",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.USE_FINGERPRINT",
-            null
-          ],
-          [
-            "android.permission.USE_BIOMETRIC",
-            null
-          ],
-          [
-            "android.permission.INSTALL_SHORTCUT",
-            null
-          ],
-          [
-            "com.android.launcher.permission.INSTALL_SHORTCUT",
-            null
-          ],
-          [
-            "com.android.launcher.permission.UNINSTALL_SHORTCUT",
-            null
-          ],
-          [
-            "android.permission.CAMERA",
-            null
-          ],
-          [
-            "android.permission.BLUETOOTH",
-            null
-          ],
-          [
-            "android.permission.MANAGE_OWN_CALLS",
-            null
-          ],
-          [
-            "android.permission.REQUEST_INSTALL_PACKAGES",
-            null
-          ],
-          [
-            "android.permission.POST_NOTIFICATIONS",
-            null
-          ],
-          [
-            "com.sec.android.provider.badge.permission.READ",
-            null
-          ],
-          [
-            "com.sec.android.provider.badge.permission.WRITE",
-            null
-          ],
-          [
-            "com.htc.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.htc.launcher.permission.UPDATE_SHORTCUT",
-            null
-          ],
-          [
-            "com.sonyericsson.home.permission.BROADCAST_BADGE",
-            null
-          ],
-          [
-            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
-            null
-          ],
-          [
-            "com.anddoes.launcher.permission.UPDATE_COUNT",
-            null
-          ],
-          [
-            "com.majeur.launcher.permission.UPDATE_BADGE",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.CHANGE_BADGE",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.READ_APP_BADGE",
-            null
-          ],
-          [
-            "com.oppo.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.oppo.launcher.permission.WRITE_SETTINGS",
-            null
-          ],
-          [
-            "me.everything.badger.permission.BADGE_COUNT_READ",
-            null
-          ],
-          [
-            "me.everything.badger.permission.BADGE_COUNT_WRITE",
-            null
-          ],
-          [
-            "com.android.vending.BILLING",
-            null
-          ],
-          [
-            "android.permission.WRITE_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.ACCESS_BACKGROUND_LOCATION",
-            null
-          ],
-          [
-            "android.permission.READ_CALENDAR",
-            null
-          ],
-          [
-            "android.permission.WRITE_CALENDAR",
-            null
-          ],
-          [
-            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
-            null
-          ],
-          [
-            "com.google.android.gms.permission.AD_ID",
-            null
-          ],
-          [
-            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
-            null
-          ],
-          [
-            "android.permission.ACCESS_ADSERVICES_AD_ID",
-            null
-          ],
-          [
-            "uz.unnarsx.cherrygram.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
-            null
-          ]
-        ],
-        "versionCode": 59100,
-        "versionName": "11.9.1"
-      },
-      {
-        "added": 1753927701000,
-        "apkName": "cherrygram_9.2.0.apk",
-        "hash": "fa11d8b9e895540c3d33e7593477c88af07246ca2d0cf82745f56f3c3f7e6544",
-        "hashType": "sha256",
-        "minSdkVersion": 21,
-        "nativecode": [
-          "arm64-v8a"
-        ],
-        "packageName": "uz.unnarsx.cherrygram",
-        "sig": "572a63b6bf8f015265e3c0f378444736",
-        "signer": "a9d5ba4a1aa06b969bfec97b557183160c856f1e1401d756a043af110dddc71f",
-        "size": 52262703,
-        "targetSdkVersion": 34,
-        "uses-permission": [
-          [
-            "com.google.android.c2dm.permission.RECEIVE",
-            null
-          ],
-          [
-            "uz.unnarsx.cherrygram.permission.MAPS_RECEIVE",
-            null
-          ],
-          [
-            "com.google.android.providers.gsf.permission.READ_GSERVICES",
-            null
-          ],
-          [
-            "android.permission.ACCESS_COARSE_LOCATION",
-            null
-          ],
-          [
-            "android.permission.ACCESS_FINE_LOCATION",
-            null
-          ],
-          [
-            "android.permission.ACCESS_MEDIA_LOCATION",
-            null
-          ],
-          [
-            "android.permission.CALL_PHONE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_REMOTE_MESSAGING",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_CAMERA",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_LOCATION",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_MICROPHONE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_PHONE_CALL",
-            null
-          ],
-          [
-            "android.permission.USE_FULL_SCREEN_INTENT",
-            null
-          ],
-          [
-            "android.permission.READ_PHONE_STATE",
-            null
-          ],
-          [
-            "android.permission.READ_PHONE_NUMBERS",
-            null
-          ],
-          [
-            "android.permission.SEND_SMS",
-            null
-          ],
-          [
-            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
-            null
-          ],
-          [
-            "android.permission.READ_CLIPBOARD",
-            null
-          ],
-          [
-            "android.permission.BLUETOOTH_CONNECT",
-            null
-          ],
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.RECORD_AUDIO",
-            null
-          ],
-          [
-            "android.permission.MODIFY_AUDIO_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.ACCESS_WIFI_STATE",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.READ_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.READ_MEDIA_IMAGES",
-            null
-          ],
-          [
-            "android.permission.READ_MEDIA_VIDEO",
-            null
-          ],
-          [
-            "android.permission.READ_MEDIA_AUDIO",
-            null
-          ],
-          [
-            "android.permission.GET_ACCOUNTS",
-            null
-          ],
-          [
-            "android.permission.READ_CONTACTS",
-            null
-          ],
-          [
-            "android.permission.WRITE_CONTACTS",
-            null
-          ],
-          [
-            "android.permission.MANAGE_ACCOUNTS",
-            null
-          ],
-          [
-            "android.permission.READ_PROFILE",
-            null
-          ],
-          [
-            "android.permission.WRITE_SYNC_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.READ_SYNC_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.AUTHENTICATE_ACCOUNTS",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.SYSTEM_ALERT_WINDOW",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.USE_FINGERPRINT",
-            null
-          ],
-          [
-            "android.permission.USE_BIOMETRIC",
-            null
-          ],
-          [
-            "android.permission.INSTALL_SHORTCUT",
-            null
-          ],
-          [
-            "com.android.launcher.permission.INSTALL_SHORTCUT",
-            null
-          ],
-          [
-            "com.android.launcher.permission.UNINSTALL_SHORTCUT",
-            null
-          ],
-          [
-            "android.permission.CAMERA",
-            null
-          ],
-          [
-            "android.permission.BLUETOOTH",
-            null
-          ],
-          [
-            "android.permission.MANAGE_OWN_CALLS",
-            null
-          ],
-          [
-            "android.permission.REQUEST_INSTALL_PACKAGES",
-            null
-          ],
-          [
-            "android.permission.POST_NOTIFICATIONS",
-            null
-          ],
-          [
-            "com.sec.android.provider.badge.permission.READ",
-            null
-          ],
-          [
-            "com.sec.android.provider.badge.permission.WRITE",
-            null
-          ],
-          [
-            "com.htc.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.htc.launcher.permission.UPDATE_SHORTCUT",
-            null
-          ],
-          [
-            "com.sonyericsson.home.permission.BROADCAST_BADGE",
-            null
-          ],
-          [
-            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
-            null
-          ],
-          [
-            "com.anddoes.launcher.permission.UPDATE_COUNT",
-            null
-          ],
-          [
-            "com.majeur.launcher.permission.UPDATE_BADGE",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.CHANGE_BADGE",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.READ_APP_BADGE",
-            null
-          ],
-          [
-            "com.oppo.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.oppo.launcher.permission.WRITE_SETTINGS",
-            null
-          ],
-          [
-            "me.everything.badger.permission.BADGE_COUNT_READ",
-            null
-          ],
-          [
-            "me.everything.badger.permission.BADGE_COUNT_WRITE",
-            null
-          ],
-          [
-            "com.android.vending.BILLING",
-            null
-          ],
-          [
-            "android.permission.WRITE_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.ACCESS_BACKGROUND_LOCATION",
-            null
-          ],
-          [
-            "android.permission.READ_CALENDAR",
-            null
-          ],
-          [
-            "android.permission.WRITE_CALENDAR",
-            null
-          ],
-          [
-            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
-            null
-          ],
-          [
-            "com.google.android.gms.permission.AD_ID",
-            null
-          ],
-          [
-            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
-            null
-          ],
-          [
-            "android.permission.ACCESS_ADSERVICES_AD_ID",
-            null
-          ],
-          [
-            "uz.unnarsx.cherrygram.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
-            null
-          ]
-        ],
-        "versionCode": 59000,
-        "versionName": "11.9.1"
-      },
-      {
-        "added": 1753927698000,
-        "apkName": "cherrygram_9.1.0.apk",
-        "hash": "4f6bba17a6861d3948ebc8dfd0aadb62fa0f538b9c3e67fedcab19ff137c756c",
-        "hashType": "sha256",
-        "minSdkVersion": 21,
-        "nativecode": [
-          "arm64-v8a"
-        ],
-        "packageName": "uz.unnarsx.cherrygram",
-        "sig": "572a63b6bf8f015265e3c0f378444736",
-        "signer": "a9d5ba4a1aa06b969bfec97b557183160c856f1e1401d756a043af110dddc71f",
-        "size": 51811197,
-        "targetSdkVersion": 34,
-        "uses-permission": [
-          [
-            "com.google.android.c2dm.permission.RECEIVE",
-            null
-          ],
-          [
-            "uz.unnarsx.cherrygram.permission.MAPS_RECEIVE",
-            null
-          ],
-          [
-            "com.google.android.providers.gsf.permission.READ_GSERVICES",
-            null
-          ],
-          [
-            "android.permission.ACCESS_COARSE_LOCATION",
-            null
-          ],
-          [
-            "android.permission.ACCESS_FINE_LOCATION",
-            null
-          ],
-          [
-            "android.permission.ACCESS_MEDIA_LOCATION",
-            null
-          ],
-          [
-            "android.permission.CALL_PHONE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_REMOTE_MESSAGING",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_CAMERA",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_LOCATION",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_MICROPHONE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_PHONE_CALL",
-            null
-          ],
-          [
-            "android.permission.USE_FULL_SCREEN_INTENT",
-            null
-          ],
-          [
-            "android.permission.READ_PHONE_STATE",
-            null
-          ],
-          [
-            "android.permission.READ_PHONE_NUMBERS",
-            null
-          ],
-          [
-            "android.permission.SEND_SMS",
-            null
-          ],
-          [
-            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
-            null
-          ],
-          [
-            "android.permission.READ_CLIPBOARD",
-            null
-          ],
-          [
-            "android.permission.BLUETOOTH_CONNECT",
-            null
-          ],
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.RECORD_AUDIO",
-            null
-          ],
-          [
-            "android.permission.MODIFY_AUDIO_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.ACCESS_WIFI_STATE",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.READ_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.READ_MEDIA_IMAGES",
-            null
-          ],
-          [
-            "android.permission.READ_MEDIA_VIDEO",
-            null
-          ],
-          [
-            "android.permission.READ_MEDIA_AUDIO",
-            null
-          ],
-          [
-            "android.permission.GET_ACCOUNTS",
-            null
-          ],
-          [
-            "android.permission.READ_CONTACTS",
-            null
-          ],
-          [
-            "android.permission.WRITE_CONTACTS",
-            null
-          ],
-          [
-            "android.permission.MANAGE_ACCOUNTS",
-            null
-          ],
-          [
-            "android.permission.READ_PROFILE",
-            null
-          ],
-          [
-            "android.permission.WRITE_SYNC_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.READ_SYNC_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.AUTHENTICATE_ACCOUNTS",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.SYSTEM_ALERT_WINDOW",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.USE_FINGERPRINT",
-            null
-          ],
-          [
-            "android.permission.USE_BIOMETRIC",
-            null
-          ],
-          [
-            "android.permission.INSTALL_SHORTCUT",
-            null
-          ],
-          [
-            "com.android.launcher.permission.INSTALL_SHORTCUT",
-            null
-          ],
-          [
-            "com.android.launcher.permission.UNINSTALL_SHORTCUT",
-            null
-          ],
-          [
-            "android.permission.CAMERA",
-            null
-          ],
-          [
-            "android.permission.BLUETOOTH",
-            null
-          ],
-          [
-            "android.permission.MANAGE_OWN_CALLS",
-            null
-          ],
-          [
-            "android.permission.REQUEST_INSTALL_PACKAGES",
-            null
-          ],
-          [
-            "android.permission.POST_NOTIFICATIONS",
-            null
-          ],
-          [
-            "com.sec.android.provider.badge.permission.READ",
-            null
-          ],
-          [
-            "com.sec.android.provider.badge.permission.WRITE",
-            null
-          ],
-          [
-            "com.htc.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.htc.launcher.permission.UPDATE_SHORTCUT",
-            null
-          ],
-          [
-            "com.sonyericsson.home.permission.BROADCAST_BADGE",
-            null
-          ],
-          [
-            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
-            null
-          ],
-          [
-            "com.anddoes.launcher.permission.UPDATE_COUNT",
-            null
-          ],
-          [
-            "com.majeur.launcher.permission.UPDATE_BADGE",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.CHANGE_BADGE",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.READ_APP_BADGE",
-            null
-          ],
-          [
-            "com.oppo.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.oppo.launcher.permission.WRITE_SETTINGS",
-            null
-          ],
-          [
-            "me.everything.badger.permission.BADGE_COUNT_READ",
-            null
-          ],
-          [
-            "me.everything.badger.permission.BADGE_COUNT_WRITE",
-            null
-          ],
-          [
-            "com.android.vending.BILLING",
-            null
-          ],
-          [
-            "android.permission.WRITE_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.ACCESS_BACKGROUND_LOCATION",
-            null
-          ],
-          [
-            "android.permission.READ_CALENDAR",
-            null
-          ],
-          [
-            "android.permission.WRITE_CALENDAR",
-            null
-          ],
-          [
-            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
-            null
-          ],
-          [
-            "com.google.android.gms.permission.AD_ID",
-            null
-          ],
-          [
-            "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
-            null
-          ],
-          [
-            "android.permission.ACCESS_ADSERVICES_AD_ID",
-            null
-          ],
-          [
-            "uz.unnarsx.cherrygram.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
-            null
-          ]
-        ],
-        "versionCode": 58370,
-        "versionName": "11.9.0"
       }
     ]
   }
