@@ -1,0 +1,3 @@
+### 本次更新
+
+1. https://github.com/XTLS/Xray-core/releases/tag/v25.9.11
