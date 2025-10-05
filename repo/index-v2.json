@@ -14,7 +14,7 @@
       }
     },
     "address": "https://xpos587.github.io/fdroid/repo",
-    "timestamp": 1759542192000,
+    "timestamp": 1759629453000,
     "categories": {
       "Connectivity": {
         "name": {
@@ -46,13 +46,13 @@
   "packages": {
     "app.hiddify.com": {
       "metadata": {
-        "added": 1759542091000,
+        "added": 1759629352000,
         "categories": [
           "Internet",
           "Security"
         ],
         "issueTracker": "https://github.com/hiddify/hiddify-app/issues",
-        "lastUpdated": 1759542093000,
+        "lastUpdated": 1759629354000,
         "license": "NOASSERTION",
         "sourceCode": "https://github.com/hiddify/hiddify-app",
         "webSite": "https://hiddify.com/app/",
@@ -77,7 +77,7 @@
       },
       "versions": {
         "e8bd97123b0cd2992b23a55e3c4f805652ac23e45f38d47cdea66fb74a3b3b67": {
-          "added": 1759542093000,
+          "added": 1759629354000,
           "file": {
             "name": "/hiddify_v2.5.7.apk",
             "sha256": "e8bd97123b0cd2992b23a55e3c4f805652ac23e45f38d47cdea66fb74a3b3b67",
@@ -139,7 +139,7 @@
           }
         },
         "9c5ca5e7ba3e5fe25d68faffd8f825972ca243fea049881c6e96ea91d0032cc1": {
-          "added": 1759542092000,
+          "added": 1759629353000,
           "file": {
             "name": "/hiddify_v2.3.1.apk",
             "sha256": "9c5ca5e7ba3e5fe25d68faffd8f825972ca243fea049881c6e96ea91d0032cc1",
@@ -201,7 +201,7 @@
           }
         },
         "f9406cb5c92dea3656e71cefc295017ab053d44d535e5abcde9dee51af12a5a6": {
-          "added": 1759542091000,
+          "added": 1759629352000,
           "file": {
             "name": "/hiddify_v2.1.5.apk",
             "sha256": "f9406cb5c92dea3656e71cefc295017ab053d44d535e5abcde9dee51af12a5a6",
@@ -266,13 +266,13 @@
     },
     "com.follow.clash": {
       "metadata": {
-        "added": 1759542078000,
+        "added": 1759629339000,
         "categories": [
           "Internet",
           "Security"
         ],
         "issueTracker": "https://github.com/chen08209/FlClash/issues",
-        "lastUpdated": 1759542080000,
+        "lastUpdated": 1759629342000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/chen08209/FlClash",
         "webSite": "https://github.com/chen08209/FlClash",
@@ -297,7 +297,7 @@
       },
       "versions": {
         "13baa716b3066b3b433c9dda9a994f072cd3f37caad3ac81980d82a7fe402816": {
-          "added": 1759542080000,
+          "added": 1759629342000,
           "file": {
             "name": "/flclash_v0.8.89.apk",
             "sha256": "13baa716b3066b3b433c9dda9a994f072cd3f37caad3ac81980d82a7fe402816",
@@ -374,7 +374,7 @@
           }
         },
         "7d9f904ab649f7ee5e740eafcfce5d0479f3e504ee4915acb4e6ed9857087796": {
-          "added": 1759542080000,
+          "added": 1759629341000,
           "file": {
             "name": "/flclash_v0.8.88.apk",
             "sha256": "7d9f904ab649f7ee5e740eafcfce5d0479f3e504ee4915acb4e6ed9857087796",
@@ -451,7 +451,7 @@
           }
         },
         "9086807e180d3baaadf378f4a22be64da95ef5c75bbaead6c428b51a3ee21d7a": {
-          "added": 1759542080000,
+          "added": 1759629341000,
           "file": {
             "name": "/flclash_v0.8.87.apk",
             "sha256": "9086807e180d3baaadf378f4a22be64da95ef5c75bbaead6c428b51a3ee21d7a",
@@ -510,7 +510,7 @@
           }
         },
         "9fedd1c1f3fa8a961eb5818d4c5ae20713581b26d38bdc3970aec861945a4654": {
-          "added": 1759542079000,
+          "added": 1759629340000,
           "file": {
             "name": "/flclash_v0.8.86.apk",
             "sha256": "9fedd1c1f3fa8a961eb5818d4c5ae20713581b26d38bdc3970aec861945a4654",
@@ -569,7 +569,7 @@
           }
         },
         "2de5d4575123eeb0842c5bfc3cc45bd3ecc0b2b4d31870b0d8adb57c8434b36e": {
-          "added": 1759542078000,
+          "added": 1759629339000,
           "file": {
             "name": "/flclash_v0.8.85.apk",
             "sha256": "2de5d4575123eeb0842c5bfc3cc45bd3ecc0b2b4d31870b0d8adb57c8434b36e",
@@ -631,13 +631,13 @@
     },
     "com.v2ray.ang": {
       "metadata": {
-        "added": 1759542109000,
+        "added": 1759629369000,
         "categories": [
           "Internet",
           "Security"
         ],
         "issueTracker": "https://github.com/2dust/v2rayNG/issues",
-        "lastUpdated": 1759542113000,
+        "lastUpdated": 1759629373000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/2dust/v2rayNG",
         "authorName": "2dust",
@@ -661,7 +661,7 @@
       },
       "versions": {
         "0c83693f92db4e3172bb3c1ced802ff1d72f2b8d008ec3c7e4324fb4826702cf": {
-          "added": 1759542113000,
+          "added": 1759629373000,
           "file": {
             "name": "/v2rayng_1.10.23.apk",
             "sha256": "0c83693f92db4e3172bb3c1ced802ff1d72f2b8d008ec3c7e4324fb4826702cf",
@@ -726,7 +726,7 @@
           }
         },
         "d1ddbec55e1e8a8f0a923750d2313a0ba734a554274212a6d1c6f167930b06fc": {
-          "added": 1759542112000,
+          "added": 1759629372000,
           "file": {
             "name": "/v2rayng_1.10.22.apk",
             "sha256": "d1ddbec55e1e8a8f0a923750d2313a0ba734a554274212a6d1c6f167930b06fc",
@@ -791,7 +791,7 @@
           }
         },
         "5f204b9a5ffb0754a5d6bce45063aa92303f7c5423a473701d7fe47582b7f360": {
-          "added": 1759542111000,
+          "added": 1759629371000,
           "file": {
             "name": "/v2rayng_1.10.21.apk",
             "sha256": "5f204b9a5ffb0754a5d6bce45063aa92303f7c5423a473701d7fe47582b7f360",
@@ -856,7 +856,7 @@
           }
         },
         "33445341c536a929910404c07ce68ffecfe2ff0c8409b97ceae68a17e5f0d214": {
-          "added": 1759542110000,
+          "added": 1759629370000,
           "file": {
             "name": "/v2rayng_1.10.20.apk",
             "sha256": "33445341c536a929910404c07ce68ffecfe2ff0c8409b97ceae68a17e5f0d214",
@@ -921,7 +921,7 @@
           }
         },
         "cefa6d92a242cfd6f6729057cfd8f0f21acedc64948052135d400d7e3dc508ca": {
-          "added": 1759542109000,
+          "added": 1759629369000,
           "file": {
             "name": "/v2rayng_1.10.19.apk",
             "sha256": "cefa6d92a242cfd6f6729057cfd8f0f21acedc64948052135d400d7e3dc508ca",
@@ -989,13 +989,13 @@
     },
     "com.zaneschepke.wireguardautotunnel": {
       "metadata": {
-        "added": 1759542114000,
+        "added": 1759629374000,
         "categories": [
           "Internet",
           "Security"
         ],
         "issueTracker": "https://github.com/wgtunnel/wgtunnel/issues",
-        "lastUpdated": 1759542116000,
+        "lastUpdated": 1759629375000,
         "license": "MIT",
         "sourceCode": "https://github.com/wgtunnel/wgtunnel",
         "webSite": "https://wgtunnel.com/",
@@ -1063,7 +1063,7 @@
       },
       "versions": {
         "09bea9fa62a5100493c361ef6c5464178bc57fe505c95e2c848da77fc09a46e5": {
-          "added": 1759542116000,
+          "added": 1759629375000,
           "file": {
             "name": "/wgtunnel_4.0.3.apk",
             "sha256": "09bea9fa62a5100493c361ef6c5464178bc57fe505c95e2c848da77fc09a46e5",
@@ -1143,7 +1143,7 @@
           }
         },
         "fa55988aad3caeca3b62e0588663fb61f6697958369b3e899874229f208897cc": {
-          "added": 1759542115000,
+          "added": 1759629375000,
           "file": {
             "name": "/wgtunnel_4.0.2.apk",
             "sha256": "fa55988aad3caeca3b62e0588663fb61f6697958369b3e899874229f208897cc",
@@ -1223,7 +1223,7 @@
           }
         },
         "ef58f420b7c38628ea98782257e02089434d8ec1e508210b028e39d57c86bd9a": {
-          "added": 1759542114000,
+          "added": 1759629374000,
           "file": {
             "name": "/wgtunnel_4.0.1.apk",
             "sha256": "ef58f420b7c38628ea98782257e02089434d8ec1e508210b028e39d57c86bd9a",
@@ -1303,7 +1303,7 @@
           }
         },
         "42d01d98f3756eb5e771d96dd6c050c64385f24a84887326132f86479399e52c": {
-          "added": 1759542114000,
+          "added": 1759629374000,
           "file": {
             "name": "/wgtunnel_4.0.0.apk",
             "sha256": "42d01d98f3756eb5e771d96dd6c050c64385f24a84887326132f86479399e52c",
@@ -1386,13 +1386,13 @@
     },
     "md.obsidian": {
       "metadata": {
-        "added": 1759542105000,
+        "added": 1759629365000,
         "categories": [
           "Writing",
           "Science & Education"
         ],
         "issueTracker": "https://github.com/obsidianmd/obsidian-releases/issues",
-        "lastUpdated": 1759542108000,
+        "lastUpdated": 1759629368000,
         "license": "PublicDomain",
         "sourceCode": "https://github.com/obsidianmd/obsidian-releases",
         "webSite": "https://obsidian.md",
@@ -1417,7 +1417,7 @@
       },
       "versions": {
         "b6aad3d92cfc774308f5df6de8de25df3363999b31347d184af43fd60841657a": {
-          "added": 1759542108000,
+          "added": 1759629368000,
           "file": {
             "name": "/obsidian_v1.9.14.apk",
             "sha256": "b6aad3d92cfc774308f5df6de8de25df3363999b31347d184af43fd60841657a",
@@ -1473,7 +1473,7 @@
           }
         },
         "8afdaeaf7b6274138a7f343d34dc75bf461051c385a1088f289dbb99c076f610": {
-          "added": 1759542107000,
+          "added": 1759629367000,
           "file": {
             "name": "/obsidian_v1.9.12.apk",
             "sha256": "8afdaeaf7b6274138a7f343d34dc75bf461051c385a1088f289dbb99c076f610",
@@ -1529,7 +1529,7 @@
           }
         },
         "0b6e5449bbb98bef64c2fdd6d7478600f37cdd39398a179003744619d9a3a8e7": {
-          "added": 1759542106000,
+          "added": 1759629366000,
           "file": {
             "name": "/obsidian_v1.9.10.apk",
             "sha256": "0b6e5449bbb98bef64c2fdd6d7478600f37cdd39398a179003744619d9a3a8e7",
@@ -1585,7 +1585,7 @@
           }
         },
         "af09494c6fdec9815e1e562acd20e7591a49ee5449f84c2bef0052ca7c2c4adf": {
-          "added": 1759542105000,
+          "added": 1759629365000,
           "file": {
             "name": "/obsidian_v1.8.10.apk",
             "sha256": "af09494c6fdec9815e1e562acd20e7591a49ee5449f84c2bef0052ca7c2c4adf",
@@ -1641,7 +1641,7 @@
           }
         },
         "832fc9cfd9853ce2127348bf75a48f26a6346062930828358d8537ce8f2b6005": {
-          "added": 1759542106000,
+          "added": 1759629366000,
           "file": {
             "name": "/obsidian_v1.8.9.apk",
             "sha256": "832fc9cfd9853ce2127348bf75a48f26a6346062930828358d8537ce8f2b6005",
@@ -1700,13 +1700,13 @@
     },
     "su.happ.proxyutility": {
       "metadata": {
-        "added": 1759542082000,
+        "added": 1759629343000,
         "categories": [
           "Internet",
           "Security"
         ],
         "issueTracker": "https://github.com/Happ-proxy/happ-android/issues",
-        "lastUpdated": 1759542090000,
+        "lastUpdated": 1759629351000,
         "license": "PublicDomain",
         "sourceCode": "https://github.com/Happ-proxy/happ-android",
         "webSite": "https://www.happ.su/",
@@ -1731,7 +1731,7 @@
       },
       "versions": {
         "ff92f9fe6ef61b7c131002d93b4d31422c5d7ed1d1d61129e9dce99560ef3307": {
-          "added": 1759542090000,
+          "added": 1759629351000,
           "file": {
             "name": "/happ_3.2.0.apk",
             "sha256": "ff92f9fe6ef61b7c131002d93b4d31422c5d7ed1d1d61129e9dce99560ef3307",
@@ -1813,7 +1813,7 @@
           }
         },
         "790db2b253de309df34bc1cc284c25962c36793a02e719ad770e9efd6474e31a": {
-          "added": 1759542088000,
+          "added": 1759629349000,
           "file": {
             "name": "/happ_3.1.3.apk",
             "sha256": "790db2b253de309df34bc1cc284c25962c36793a02e719ad770e9efd6474e31a",
@@ -1895,7 +1895,7 @@
           }
         },
         "2480294ddad57ff70afff197f4d2fabfcd568bb68d48cfe0cea3c3b261df8e57": {
-          "added": 1759542086000,
+          "added": 1759629347000,
           "file": {
             "name": "/happ_3.1.2.apk",
             "sha256": "2480294ddad57ff70afff197f4d2fabfcd568bb68d48cfe0cea3c3b261df8e57",
@@ -1977,7 +1977,7 @@
           }
         },
         "30d6b5032e224ae54fd949e0ed7ead58f4225a05dc54e4688a8b8bd66e86a39b": {
-          "added": 1759542084000,
+          "added": 1759629345000,
           "file": {
             "name": "/happ_3.1.1.apk",
             "sha256": "30d6b5032e224ae54fd949e0ed7ead58f4225a05dc54e4688a8b8bd66e86a39b",
@@ -2059,7 +2059,7 @@
           }
         },
         "3b2cf4b9380a8d41a2a9c5e5da2cde38d294d9f5c9e66136bafe0dd38f01eb58": {
-          "added": 1759542082000,
+          "added": 1759629343000,
           "file": {
             "name": "/happ_3.1.0.apk",
             "sha256": "3b2cf4b9380a8d41a2a9c5e5da2cde38d294d9f5c9e66136bafe0dd38f01eb58",
@@ -2144,13 +2144,13 @@
     },
     "tw.nekomimi.nekogram": {
       "metadata": {
-        "added": 1759542095000,
+        "added": 1759629356000,
         "categories": [
           "Internet",
           "Security"
         ],
         "issueTracker": "https://github.com/Nekogram/Nekogram/issues",
-        "lastUpdated": 1759542105000,
+        "lastUpdated": 1759629365000,
         "license": "GPL-2.0",
         "sourceCode": "https://github.com/Nekogram/Nekogram",
         "webSite": "https://nekogram.app",
@@ -2175,7 +2175,7 @@
       },
       "versions": {
         "9206ed52b4272872b7e3873f1f89bb7c3051048a640a329811d87d6756ac3bda": {
-          "added": 1759542105000,
+          "added": 1759629365000,
           "file": {
             "name": "/nekogram_v12.0.1.apk",
             "sha256": "9206ed52b4272872b7e3873f1f89bb7c3051048a640a329811d87d6756ac3bda",
@@ -2425,7 +2425,7 @@
           }
         },
         "739303faf5f169e41c4b0ce59c058d9a60a72df916ddbaef07f3fa72a0c7c41a": {
-          "added": 1759542102000,
+          "added": 1759629362000,
           "file": {
             "name": "/nekogram_v11.14.1.apk",
             "sha256": "739303faf5f169e41c4b0ce59c058d9a60a72df916ddbaef07f3fa72a0c7c41a",
@@ -2675,7 +2675,7 @@
           }
         },
         "99ee190b02c8dfa63851d22de78a30dbcc419473aed0cbbc4351d08f1cbc6ea4": {
-          "added": 1759542100000,
+          "added": 1759629360000,
           "file": {
             "name": "/nekogram_v11.13.0.apk",
             "sha256": "99ee190b02c8dfa63851d22de78a30dbcc419473aed0cbbc4351d08f1cbc6ea4",
@@ -2925,7 +2925,7 @@
           }
         },
         "4dea86a47ede63bd900b9886fe2748d8800a72eb76d40738959e9c50f705d53c": {
-          "added": 1759542098000,
+          "added": 1759629358000,
           "file": {
             "name": "/nekogram_v11.12.1.apk",
             "sha256": "4dea86a47ede63bd900b9886fe2748d8800a72eb76d40738959e9c50f705d53c",
@@ -3175,7 +3175,7 @@
           }
         },
         "200c6487f0e7c6975d3e9a09144923a2caeb32241446565ee52aadd04d8df861": {
-          "added": 1759542095000,
+          "added": 1759629356000,
           "file": {
             "name": "/nekogram_v11.12.0.apk",
             "sha256": "200c6487f0e7c6975d3e9a09144923a2caeb32241446565ee52aadd04d8df861",
@@ -3428,13 +3428,13 @@
     },
     "uz.unnarsx.cherrygram": {
       "metadata": {
-        "added": 1759542067000,
+        "added": 1759629328000,
         "categories": [
           "Connectivity",
           "Internet"
         ],
         "issueTracker": "https://github.com/arsLan4k1390/Cherrygram/issues",
-        "lastUpdated": 1759542077000,
+        "lastUpdated": 1759629338000,
         "license": "GPL-2.0",
         "sourceCode": "https://github.com/arsLan4k1390/Cherrygram",
         "webSite": "https://t.me/Cherry_gram",
@@ -3459,7 +3459,7 @@
       },
       "versions": {
         "111ad7116f1db54c1e86487c585deb77a509d2c2005e46112d8c89509e283d4c": {
-          "added": 1759542077000,
+          "added": 1759629338000,
           "file": {
             "name": "/cherrygram_9.8.0.apk",
             "sha256": "111ad7116f1db54c1e86487c585deb77a509d2c2005e46112d8c89509e283d4c",
@@ -3733,7 +3733,7 @@
           }
         },
         "9bf56fe3a6cab90d0c895feb5b3b0ece4c0337107a2b8278a3bbaa244787f4f7": {
-          "added": 1759542074000,
+          "added": 1759629336000,
           "file": {
             "name": "/cherrygram_9.7.1.apk",
             "sha256": "9bf56fe3a6cab90d0c895feb5b3b0ece4c0337107a2b8278a3bbaa244787f4f7",
@@ -4004,7 +4004,7 @@
           }
         },
         "e148afda8fc4608961fea44bf9a333baf5b8772e1443c594557717ca2c5392a6": {
-          "added": 1759542072000,
+          "added": 1759629333000,
           "file": {
             "name": "/cherrygram_9.7.0.apk",
             "sha256": "e148afda8fc4608961fea44bf9a333baf5b8772e1443c594557717ca2c5392a6",
@@ -4275,7 +4275,7 @@
           }
         },
         "ff9b9ae004ee3cc59ca223fb412f0c36b79bedbd4c45c2f21b35e1c676ae502f": {
-          "added": 1759542069000,
+          "added": 1759629331000,
           "file": {
             "name": "/cherrygram_9.6.0.apk",
             "sha256": "ff9b9ae004ee3cc59ca223fb412f0c36b79bedbd4c45c2f21b35e1c676ae502f",
@@ -4546,7 +4546,7 @@
           }
         },
         "3f8023e4eb345e8b952829ad4bdc610856af7371d7d89ccf29f16699efd6ca1b": {
-          "added": 1759542067000,
+          "added": 1759629328000,
           "file": {
             "name": "/cherrygram_9.5.2.apk",
             "sha256": "3f8023e4eb345e8b952829ad4bdc610856af7371d7d89ccf29f16699efd6ca1b",
