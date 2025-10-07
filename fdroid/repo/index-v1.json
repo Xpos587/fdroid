@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1759715370000,
+    "timestamp": 1759801601000,
     "version": 20002,
     "name": "Xpos587 Apps Repository",
     "icon": "icon.png",
@@ -32,9 +32,9 @@
       "sourceCode": "https://github.com/arsLan4k1390/Cherrygram",
       "summary": "Third-party Telegram client with privacy-focused modifications",
       "webSite": "https://t.me/Cherry_gram",
-      "added": 1759715246000,
+      "added": 1759801480000,
       "packageName": "uz.unnarsx.cherrygram",
-      "lastUpdated": 1759715256000,
+      "lastUpdated": 1759801489000,
       "localized": {
         "en-US": {
           "icon": "icon_FsRw0zln_rxK_Gh_Dk0ExP1_4JPXmogxNYn8-HTbOso=.png",
@@ -60,9 +60,9 @@
       "sourceCode": "https://github.com/chen08209/FlClash",
       "summary": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open...",
       "webSite": "https://github.com/chen08209/FlClash",
-      "added": 1759715257000,
+      "added": 1759801490000,
       "packageName": "com.follow.clash",
-      "lastUpdated": 1759715260000,
+      "lastUpdated": 1759801493000,
       "localized": {
         "en-US": {
           "icon": "icon_lUz_WQbrZ0U_h6aCBjqnhLbOU_3zzj_BVc9KtuRpPAA=.png",
@@ -80,8 +80,8 @@
         "Internet",
         "Security"
       ],
-      "suggestedVersionName": "3.2.0",
-      "suggestedVersionCode": "1263",
+      "suggestedVersionName": "3.3.0",
+      "suggestedVersionCode": "1265",
       "description": "Happ is a mobile application designed for convenient proxy server management, powered by the robust Xray core. The app features an intuitive interface and a range of useful functions, making it an essential tool for managing connections.\n\n<b>Features</b>\n\n- Configuration of proxy servers based on flexible routing rules\n- Support for multiple modern protocols including VLESS (Reality), VMess, Trojan, Shadowsocks, Socks\n- Private by design - no data collection, information stays on your device\n- Flexible routing rules for advanced proxy management\n- Intuitive interface for easy connection management\n- Powered by robust Xray core technology\n\n<b>Important Note</b>\n\nHapp does not provide VPN services for purchase. Users are responsible for acquiring or setting up their own servers. Please comply with applicable laws in your jurisdiction when utilizing the app.\n",
       "issueTracker": "https://github.com/Happ-proxy/happ-android/issues",
       "license": "PublicDomain",
@@ -89,13 +89,13 @@
       "sourceCode": "https://github.com/Happ-proxy/happ-android",
       "summary": "A proxy management app powered by Xray core with support for multiple protocols.",
       "webSite": "https://www.happ.su/",
-      "added": 1759715262000,
+      "added": 1759801495000,
       "packageName": "su.happ.proxyutility",
-      "lastUpdated": 1759715269000,
+      "lastUpdated": 1759801502000,
       "localized": {
         "en-US": {
           "icon": "icon_bVkO3MQVFiyBXJKrKcYoD8lvKrn_tjcNvn102YKeXaQ=.png",
-          "whatsNew": "* Improved rendering optimization and stability for subscription/server list\n* New notifications (snackbars)\n* Improved parsing errors handling\n* Per App Proxy select & unselect all, invert; fixed import system apps\n* Excluded routes (IP addresses) support (VPN settings)\n* Multiple fixes related to date & time\n* Multiple fixes related to concurrent server list updates (duplicating or overwriting)\n* Local DNS toggle fix\n* Improved geofiles handling\n* Fixed cases when server list wasn't updated on"
+          "whatsNew": "Release to Beta\n-Update core to 25.9.11\n-Add new fragment param maxSplit\n-Add noises edit and parsing from config"
         }
       }
     },
@@ -117,9 +117,9 @@
       "sourceCode": "https://github.com/hiddify/hiddify-app",
       "summary": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria,...",
       "webSite": "https://hiddify.com/app/",
-      "added": 1759715270000,
+      "added": 1759801503000,
       "packageName": "app.hiddify.com",
-      "lastUpdated": 1759715273000,
+      "lastUpdated": 1759801505000,
       "localized": {
         "en-US": {
           "icon": "icon_JQ1qOTrfTarvhOtf6MUxqA6wXMAidb6KFJDvUTQ0cuU=.png",
@@ -147,9 +147,9 @@
       "sourceCode": "https://github.com/Nekogram/Nekogram",
       "summary": "Open-source third-party Telegram client with not many but useful modifications.",
       "webSite": "https://nekogram.app",
-      "added": 1759715275000,
+      "added": 1759801508000,
       "packageName": "tw.nekomimi.nekogram",
-      "lastUpdated": 1759715284000,
+      "lastUpdated": 1759801516000,
       "localized": {
         "en-US": {
           "icon": "icon_o_H5hap9eKw9-XNCC5Wm2MkWQxoJjBzETW26B2tBZ7Q=.png",
@@ -175,9 +175,9 @@
       "sourceCode": "https://github.com/obsidianmd/obsidian-releases",
       "summary": "Community plugins list, theme list, and releases of Obsidian.",
       "webSite": "https://obsidian.md",
-      "added": 1759715285000,
+      "added": 1759801517000,
       "packageName": "md.obsidian",
-      "lastUpdated": 1759715287000,
+      "lastUpdated": 1759801519000,
       "localized": {
         "en-US": {
           "icon": "icon_vxk9cuyU4RjMhCilVSUbiS_GUsyRhR26mhErBGYrZNI=.png",
@@ -199,9 +199,9 @@
       "name": "v2rayNG",
       "sourceCode": "https://github.com/2dust/v2rayNG",
       "summary": "A V2Ray client for Android, support Xray core and v2fly core",
-      "added": 1759715288000,
+      "added": 1759801521000,
       "packageName": "com.v2ray.ang",
-      "lastUpdated": 1759715293000,
+      "lastUpdated": 1759801525000,
       "localized": {
         "en-US": {
           "icon": "icon_dW_SaDQ-FnlJIqDSeSu5TzAlMeiUzvHY1mboTl017pk=.png",
@@ -224,9 +224,9 @@
       "sourceCode": "https://github.com/wgtunnel/wgtunnel",
       "summary": "A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling.",
       "webSite": "https://wgtunnel.com/",
-      "added": 1759715293000,
+      "added": 1759801525000,
       "packageName": "com.zaneschepke.wireguardautotunnel",
-      "lastUpdated": 1759715295000,
+      "lastUpdated": 1759801527000,
       "localized": {
         "en-US": {
           "featureGraphic": "featureGraphic_w_IthR1DGfyUJHyeJS7P3Q1U9ySK3bumittdxKqWfyw=.png",
@@ -247,7 +247,7 @@
   "packages": {
     "app.hiddify.com": [
       {
-        "added": 1759715273000,
+        "added": 1759801505000,
         "apkName": "hiddify_v2.5.7.apk",
         "hash": "e8bd97123b0cd2992b23a55e3c4f805652ac23e45f38d47cdea66fb74a3b3b67",
         "hashType": "sha256",
@@ -310,7 +310,7 @@
         "versionName": "2.5.7"
       },
       {
-        "added": 1759715271000,
+        "added": 1759801504000,
         "apkName": "hiddify_v2.3.1.apk",
         "hash": "9c5ca5e7ba3e5fe25d68faffd8f825972ca243fea049881c6e96ea91d0032cc1",
         "hashType": "sha256",
@@ -373,7 +373,7 @@
         "versionName": "2.3.1"
       },
       {
-        "added": 1759715270000,
+        "added": 1759801503000,
         "apkName": "hiddify_v2.1.5.apk",
         "hash": "f9406cb5c92dea3656e71cefc295017ab053d44d535e5abcde9dee51af12a5a6",
         "hashType": "sha256",
@@ -438,7 +438,7 @@
     ],
     "com.follow.clash": [
       {
-        "added": 1759715260000,
+        "added": 1759801493000,
         "apkName": "flclash_v0.8.89.apk",
         "hash": "13baa716b3066b3b433c9dda9a994f072cd3f37caad3ac81980d82a7fe402816",
         "hashType": "sha256",
@@ -521,7 +521,7 @@
         "versionName": "0.8.89"
       },
       {
-        "added": 1759715260000,
+        "added": 1759801493000,
         "apkName": "flclash_v0.8.88.apk",
         "hash": "7d9f904ab649f7ee5e740eafcfce5d0479f3e504ee4915acb4e6ed9857087796",
         "hashType": "sha256",
@@ -604,7 +604,7 @@
         "versionName": "0.8.88"
       },
       {
-        "added": 1759715259000,
+        "added": 1759801492000,
         "apkName": "flclash_v0.8.87.apk",
         "hash": "9086807e180d3baaadf378f4a22be64da95ef5c75bbaead6c428b51a3ee21d7a",
         "hashType": "sha256",
@@ -663,7 +663,7 @@
         "versionName": "0.8.87"
       },
       {
-        "added": 1759715258000,
+        "added": 1759801491000,
         "apkName": "flclash_v0.8.86.apk",
         "hash": "9fedd1c1f3fa8a961eb5818d4c5ae20713581b26d38bdc3970aec861945a4654",
         "hashType": "sha256",
@@ -722,7 +722,7 @@
         "versionName": "0.8.86"
       },
       {
-        "added": 1759715257000,
+        "added": 1759801490000,
         "apkName": "flclash_v0.8.85.apk",
         "hash": "2de5d4575123eeb0842c5bfc3cc45bd3ecc0b2b4d31870b0d8adb57c8434b36e",
         "hashType": "sha256",
@@ -783,7 +783,7 @@
     ],
     "com.v2ray.ang": [
       {
-        "added": 1759715293000,
+        "added": 1759801525000,
         "apkName": "v2rayng_1.10.23.apk",
         "hash": "0c83693f92db4e3172bb3c1ced802ff1d72f2b8d008ec3c7e4324fb4826702cf",
         "hashType": "sha256",
@@ -854,7 +854,7 @@
         "versionName": "1.10.23"
       },
       {
-        "added": 1759715292000,
+        "added": 1759801524000,
         "apkName": "v2rayng_1.10.22.apk",
         "hash": "d1ddbec55e1e8a8f0a923750d2313a0ba734a554274212a6d1c6f167930b06fc",
         "hashType": "sha256",
@@ -925,7 +925,7 @@
         "versionName": "1.10.22"
       },
       {
-        "added": 1759715291000,
+        "added": 1759801523000,
         "apkName": "v2rayng_1.10.21.apk",
         "hash": "5f204b9a5ffb0754a5d6bce45063aa92303f7c5423a473701d7fe47582b7f360",
         "hashType": "sha256",
@@ -996,7 +996,7 @@
         "versionName": "1.10.21"
       },
       {
-        "added": 1759715290000,
+        "added": 1759801522000,
         "apkName": "v2rayng_1.10.20.apk",
         "hash": "33445341c536a929910404c07ce68ffecfe2ff0c8409b97ceae68a17e5f0d214",
         "hashType": "sha256",
@@ -1067,7 +1067,7 @@
         "versionName": "1.10.20"
       },
       {
-        "added": 1759715288000,
+        "added": 1759801521000,
         "apkName": "v2rayng_1.10.19.apk",
         "hash": "cefa6d92a242cfd6f6729057cfd8f0f21acedc64948052135d400d7e3dc508ca",
         "hashType": "sha256",
@@ -1140,7 +1140,7 @@
     ],
     "com.zaneschepke.wireguardautotunnel": [
       {
-        "added": 1759715295000,
+        "added": 1759801527000,
         "apkName": "wgtunnel_4.0.3.apk",
         "hash": "09bea9fa62a5100493c361ef6c5464178bc57fe505c95e2c848da77fc09a46e5",
         "hashType": "sha256",
@@ -1230,7 +1230,7 @@
         "versionName": "4.0.3"
       },
       {
-        "added": 1759715295000,
+        "added": 1759801527000,
         "apkName": "wgtunnel_4.0.2.apk",
         "hash": "fa55988aad3caeca3b62e0588663fb61f6697958369b3e899874229f208897cc",
         "hashType": "sha256",
@@ -1320,7 +1320,7 @@
         "versionName": "4.0.2"
       },
       {
-        "added": 1759715294000,
+        "added": 1759801526000,
         "apkName": "wgtunnel_4.0.1.apk",
         "hash": "ef58f420b7c38628ea98782257e02089434d8ec1e508210b028e39d57c86bd9a",
         "hashType": "sha256",
@@ -1410,7 +1410,7 @@
         "versionName": "4.0.1"
       },
       {
-        "added": 1759715293000,
+        "added": 1759801525000,
         "apkName": "wgtunnel_4.0.0.apk",
         "hash": "42d01d98f3756eb5e771d96dd6c050c64385f24a84887326132f86479399e52c",
         "hashType": "sha256",
@@ -1502,7 +1502,7 @@
     ],
     "md.obsidian": [
       {
-        "added": 1759715287000,
+        "added": 1759801519000,
         "apkName": "obsidian_v1.9.14.apk",
         "hash": "b6aad3d92cfc774308f5df6de8de25df3363999b31347d184af43fd60841657a",
         "hashType": "sha256",
@@ -1556,7 +1556,7 @@
         "versionName": "1.9.14"
       },
       {
-        "added": 1759715287000,
+        "added": 1759801519000,
         "apkName": "obsidian_v1.9.12.apk",
         "hash": "8afdaeaf7b6274138a7f343d34dc75bf461051c385a1088f289dbb99c076f610",
         "hashType": "sha256",
@@ -1610,7 +1610,7 @@
         "versionName": "1.9.12"
       },
       {
-        "added": 1759715286000,
+        "added": 1759801518000,
         "apkName": "obsidian_v1.9.10.apk",
         "hash": "0b6e5449bbb98bef64c2fdd6d7478600f37cdd39398a179003744619d9a3a8e7",
         "hashType": "sha256",
@@ -1664,7 +1664,7 @@
         "versionName": "1.9.10"
       },
       {
-        "added": 1759715285000,
+        "added": 1759801517000,
         "apkName": "obsidian_v1.8.10.apk",
         "hash": "af09494c6fdec9815e1e562acd20e7591a49ee5449f84c2bef0052ca7c2c4adf",
         "hashType": "sha256",
@@ -1718,7 +1718,7 @@
         "versionName": "1.8.10"
       },
       {
-        "added": 1759715285000,
+        "added": 1759801517000,
         "apkName": "obsidian_v1.8.9.apk",
         "hash": "832fc9cfd9853ce2127348bf75a48f26a6346062930828358d8537ce8f2b6005",
         "hashType": "sha256",
@@ -1774,7 +1774,95 @@
     ],
     "su.happ.proxyutility": [
       {
-        "added": 1759715269000,
+        "added": 1759801502000,
+        "apkName": "happ_3.3.0.apk",
+        "hash": "c8156f093d49efe0efdf589c7e0ab2f86c66972ee0a6127112ce23ac798d27c5",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "su.happ.proxyutility",
+        "sig": "2609392acc5f151cfd6629301e57c071",
+        "signer": "397e98abed03c5f263ffaf4e8a1043b2a59f538b99e75cf152fa05a7e8007d8d",
+        "size": 50906972,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_IMAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.QUICKBOOT_POWERON",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "su.happ.proxyutility.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 1265,
+        "versionName": "3.3.0"
+      },
+      {
+        "added": 1759801500000,
         "apkName": "happ_3.2.0.apk",
         "hash": "ff92f9fe6ef61b7c131002d93b4d31422c5d7ed1d1d61129e9dce99560ef3307",
         "hashType": "sha256",
@@ -1862,7 +1950,7 @@
         "versionName": "3.2.0"
       },
       {
-        "added": 1759715268000,
+        "added": 1759801498000,
         "apkName": "happ_3.1.3.apk",
         "hash": "790db2b253de309df34bc1cc284c25962c36793a02e719ad770e9efd6474e31a",
         "hashType": "sha256",
@@ -1950,7 +2038,7 @@
         "versionName": "3.1.3"
       },
       {
-        "added": 1759715266000,
+        "added": 1759801497000,
         "apkName": "happ_3.1.2.apk",
         "hash": "2480294ddad57ff70afff197f4d2fabfcd568bb68d48cfe0cea3c3b261df8e57",
         "hashType": "sha256",
@@ -2038,7 +2126,7 @@
         "versionName": "3.1.2"
       },
       {
-        "added": 1759715264000,
+        "added": 1759801495000,
         "apkName": "happ_3.1.1.apk",
         "hash": "30d6b5032e224ae54fd949e0ed7ead58f4225a05dc54e4688a8b8bd66e86a39b",
         "hashType": "sha256",
@@ -2124,99 +2212,11 @@
         ],
         "versionCode": 1243,
         "versionName": "3.1.1"
-      },
-      {
-        "added": 1759715262000,
-        "apkName": "happ_3.1.0.apk",
-        "hash": "3b2cf4b9380a8d41a2a9c5e5da2cde38d294d9f5c9e66136bafe0dd38f01eb58",
-        "hashType": "sha256",
-        "minSdkVersion": 21,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a"
-        ],
-        "packageName": "su.happ.proxyutility",
-        "sig": "2609392acc5f151cfd6629301e57c071",
-        "signer": "397e98abed03c5f263ffaf4e8a1043b2a59f538b99e75cf152fa05a7e8007d8d",
-        "size": 49703047,
-        "targetSdkVersion": 35,
-        "uses-permission": [
-          [
-            "android.permission.REQUEST_INSTALL_PACKAGES",
-            null
-          ],
-          [
-            "android.permission.QUERY_ALL_PACKAGES",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.CHANGE_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.READ_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.CAMERA",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
-            null
-          ],
-          [
-            "android.permission.POST_NOTIFICATIONS",
-            null
-          ],
-          [
-            "android.permission.READ_MEDIA_IMAGES",
-            null
-          ],
-          [
-            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.QUICKBOOT_POWERON",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "com.google.android.c2dm.permission.RECEIVE",
-            null
-          ],
-          [
-            "su.happ.proxyutility.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
-            null
-          ]
-        ],
-        "versionCode": 1235,
-        "versionName": "3.1.0"
       }
     ],
     "tw.nekomimi.nekogram": [
       {
-        "added": 1759715284000,
+        "added": 1759801516000,
         "apkName": "nekogram_v12.0.1.apk",
         "hash": "9206ed52b4272872b7e3873f1f89bb7c3051048a640a329811d87d6756ac3bda",
         "hashType": "sha256",
@@ -2523,7 +2523,7 @@
         "versionName": "12.0.1"
       },
       {
-        "added": 1759715282000,
+        "added": 1759801514000,
         "apkName": "nekogram_v11.14.1.apk",
         "hash": "739303faf5f169e41c4b0ce59c058d9a60a72df916ddbaef07f3fa72a0c7c41a",
         "hashType": "sha256",
@@ -2830,7 +2830,7 @@
         "versionName": "11.14.1"
       },
       {
-        "added": 1759715279000,
+        "added": 1759801512000,
         "apkName": "nekogram_v11.13.0.apk",
         "hash": "99ee190b02c8dfa63851d22de78a30dbcc419473aed0cbbc4351d08f1cbc6ea4",
         "hashType": "sha256",
@@ -3137,7 +3137,7 @@
         "versionName": "11.13.0"
       },
       {
-        "added": 1759715277000,
+        "added": 1759801510000,
         "apkName": "nekogram_v11.12.1.apk",
         "hash": "4dea86a47ede63bd900b9886fe2748d8800a72eb76d40738959e9c50f705d53c",
         "hashType": "sha256",
@@ -3444,7 +3444,7 @@
         "versionName": "11.12.1"
       },
       {
-        "added": 1759715275000,
+        "added": 1759801508000,
         "apkName": "nekogram_v11.12.0.apk",
         "hash": "200c6487f0e7c6975d3e9a09144923a2caeb32241446565ee52aadd04d8df861",
         "hashType": "sha256",
@@ -3753,7 +3753,7 @@
     ],
     "uz.unnarsx.cherrygram": [
       {
-        "added": 1759715256000,
+        "added": 1759801489000,
         "apkName": "cherrygram_9.8.0.apk",
         "hash": "111ad7116f1db54c1e86487c585deb77a509d2c2005e46112d8c89509e283d4c",
         "hashType": "sha256",
@@ -4096,7 +4096,7 @@
         "versionName": "12.0.1"
       },
       {
-        "added": 1759715254000,
+        "added": 1759801487000,
         "apkName": "cherrygram_9.7.1.apk",
         "hash": "9bf56fe3a6cab90d0c895feb5b3b0ece4c0337107a2b8278a3bbaa244787f4f7",
         "hashType": "sha256",
@@ -4435,7 +4435,7 @@
         "versionName": "12.0.1"
       },
       {
-        "added": 1759715251000,
+        "added": 1759801485000,
         "apkName": "cherrygram_9.7.0.apk",
         "hash": "e148afda8fc4608961fea44bf9a333baf5b8772e1443c594557717ca2c5392a6",
         "hashType": "sha256",
@@ -4774,7 +4774,7 @@
         "versionName": "12.0.1"
       },
       {
-        "added": 1759715249000,
+        "added": 1759801482000,
         "apkName": "cherrygram_9.6.0.apk",
         "hash": "ff9b9ae004ee3cc59ca223fb412f0c36b79bedbd4c45c2f21b35e1c676ae502f",
         "hashType": "sha256",
@@ -5113,7 +5113,7 @@
         "versionName": "11.14.1"
       },
       {
-        "added": 1759715246000,
+        "added": 1759801480000,
         "apkName": "cherrygram_9.5.2.apk",
         "hash": "3f8023e4eb345e8b952829ad4bdc610856af7371d7d89ccf29f16699efd6ca1b",
         "hashType": "sha256",

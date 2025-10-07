@@ -1,0 +1,4 @@
+Release to Beta
+-Update core to 25.9.11
+-Add new fragment param maxSplit
+-Add noises edit and parsing from config
