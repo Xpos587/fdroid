@@ -1,0 +1,14 @@
+{
+  "repo": {
+    "timestamp": 1759974569000
+  },
+  "packages": {
+    "com.follow.clash": {
+      "versions": {
+        "3f67a23066737e8425872e67cdae7f9992f88f7c55334681a0bbd82731010bf3": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}
