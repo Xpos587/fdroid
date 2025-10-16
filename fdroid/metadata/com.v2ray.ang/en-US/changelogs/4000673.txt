@@ -1,3 +1,4 @@
 ### 本次更新
 
-1. https://github.com/XTLS/Xray-core/releases/tag/v25.9.11
+1. https://github.com/XTLS/Xray-core/releases/tag/v25.10.15
+2. https://github.com/2dust/v2rayNG/pull/4905
