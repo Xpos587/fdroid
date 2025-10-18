@@ -10,8 +10,8 @@ Builds:
 Categories:
     - Internet
     - Security
-CurrentVersion: 12.0.1
-CurrentVersionCode: 61670
+CurrentVersion: 12.1.1
+CurrentVersionCode: 62110
 Description: |
     Third-party Telegram client with useful modifications focused on privacy and user experience
 
