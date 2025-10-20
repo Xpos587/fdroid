@@ -49,7 +49,7 @@ This repository hosts a [F-Droid](https://f-droid.org/) repo for curated Android
 | <a href="https://github.com/Nekogram/Nekogram"><img src="fdroid/repo/tw.nekomimi.nekogram/en-US/icon.png" alt="Nekogram icon" width="36px" height="36px"></a> | [**Nekogram**](https://github.com/Nekogram/Nekogram) | Open-source third-party Telegram client with not many but useful modifications. | 12.1.1 (62110) |
 | <a href="https://github.com/obsidianmd/obsidian-releases"><img src="fdroid/repo/md.obsidian/en-US/icon.png" alt="Obsidian icon" width="36px" height="36px"></a> | [**Obsidian**](https://github.com/obsidianmd/obsidian-releases) | Community plugins list, theme list, and releases of Obsidian. | 1.9.14 (241) |
 | <a href="https://github.com/2dust/v2rayNG"><img src="fdroid/repo/com.v2ray.ang/en-US/icon.png" alt="v2rayNG icon" width="36px" height="36px"></a> | [**v2rayNG**](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, support Xray core and v2fly core | 1.10.24 (4000673) |
-| <a href="https://github.com/wgtunnel/wgtunnel"><img src="fdroid/repo/com.zaneschepke.wireguardautotunnel/en-US/icon.png" alt="WG Tunnel icon" width="36px" height="36px"></a> | [**WG Tunnel**](https://github.com/wgtunnel/wgtunnel) | A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling. | 4.1.0 (40100) |
+| <a href="https://github.com/wgtunnel/wgtunnel"><img src="fdroid/repo/com.zaneschepke.wireguardautotunnel/en-US/icon.png" alt="WG Tunnel icon" width="36px" height="36px"></a> | [**WG Tunnel**](https://github.com/wgtunnel/wgtunnel) | A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling. | 4.1.1 (40101) |
 <!-- end apps table -->
 
 ## How to use
