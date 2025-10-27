@@ -1,0 +1,4 @@
+### 本次更新
+
+1. 本次更新，为了让老版本能正常使用内置检查更新功能，删除了上一版本中添加的 fdroid 版本
+2. 想下载 fdroid  版本打开 https://github.com/2dust/v2rayNG/releases/tag/1.10.25
