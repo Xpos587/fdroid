@@ -14,7 +14,7 @@
       }
     },
     "address": "https://xpos587.github.io/fdroid/repo",
-    "timestamp": 1761530539000,
+    "timestamp": 1761616388000,
     "categories": {
       "Connectivity": {
         "name": {
@@ -46,13 +46,13 @@
   "packages": {
     "app.hiddify.com": {
       "metadata": {
-        "added": 1761530434000,
+        "added": 1761616282000,
         "categories": [
           "Internet",
           "Security"
         ],
         "issueTracker": "https://github.com/hiddify/hiddify-app/issues",
-        "lastUpdated": 1761530436000,
+        "lastUpdated": 1761616285000,
         "license": "NOASSERTION",
         "sourceCode": "https://github.com/hiddify/hiddify-app",
         "webSite": "https://hiddify.com/app/",
@@ -77,7 +77,7 @@
       },
       "versions": {
         "e8bd97123b0cd2992b23a55e3c4f805652ac23e45f38d47cdea66fb74a3b3b67": {
-          "added": 1761530436000,
+          "added": 1761616285000,
           "file": {
             "name": "/hiddify_v2.5.7.apk",
             "sha256": "e8bd97123b0cd2992b23a55e3c4f805652ac23e45f38d47cdea66fb74a3b3b67",
@@ -139,7 +139,7 @@
           }
         },
         "9c5ca5e7ba3e5fe25d68faffd8f825972ca243fea049881c6e96ea91d0032cc1": {
-          "added": 1761530435000,
+          "added": 1761616284000,
           "file": {
             "name": "/hiddify_v2.3.1.apk",
             "sha256": "9c5ca5e7ba3e5fe25d68faffd8f825972ca243fea049881c6e96ea91d0032cc1",
@@ -201,7 +201,7 @@
           }
         },
         "f9406cb5c92dea3656e71cefc295017ab053d44d535e5abcde9dee51af12a5a6": {
-          "added": 1761530434000,
+          "added": 1761616282000,
           "file": {
             "name": "/hiddify_v2.1.5.apk",
             "sha256": "f9406cb5c92dea3656e71cefc295017ab053d44d535e5abcde9dee51af12a5a6",
@@ -266,13 +266,13 @@
     },
     "com.follow.clash": {
       "metadata": {
-        "added": 1761530421000,
+        "added": 1761616270000,
         "categories": [
           "Internet",
           "Security"
         ],
         "issueTracker": "https://github.com/chen08209/FlClash/issues",
-        "lastUpdated": 1761530424000,
+        "lastUpdated": 1761616272000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/chen08209/FlClash",
         "webSite": "https://github.com/chen08209/FlClash",
@@ -297,7 +297,7 @@
       },
       "versions": {
         "3f67a23066737e8425872e67cdae7f9992f88f7c55334681a0bbd82731010bf3": {
-          "added": 1761530424000,
+          "added": 1761616272000,
           "file": {
             "name": "/flclash_v0.8.90.apk",
             "sha256": "3f67a23066737e8425872e67cdae7f9992f88f7c55334681a0bbd82731010bf3",
@@ -374,7 +374,7 @@
           }
         },
         "13baa716b3066b3b433c9dda9a994f072cd3f37caad3ac81980d82a7fe402816": {
-          "added": 1761530423000,
+          "added": 1761616272000,
           "file": {
             "name": "/flclash_v0.8.89.apk",
             "sha256": "13baa716b3066b3b433c9dda9a994f072cd3f37caad3ac81980d82a7fe402816",
@@ -451,7 +451,7 @@
           }
         },
         "7d9f904ab649f7ee5e740eafcfce5d0479f3e504ee4915acb4e6ed9857087796": {
-          "added": 1761530423000,
+          "added": 1761616271000,
           "file": {
             "name": "/flclash_v0.8.88.apk",
             "sha256": "7d9f904ab649f7ee5e740eafcfce5d0479f3e504ee4915acb4e6ed9857087796",
@@ -528,7 +528,7 @@
           }
         },
         "9086807e180d3baaadf378f4a22be64da95ef5c75bbaead6c428b51a3ee21d7a": {
-          "added": 1761530422000,
+          "added": 1761616271000,
           "file": {
             "name": "/flclash_v0.8.87.apk",
             "sha256": "9086807e180d3baaadf378f4a22be64da95ef5c75bbaead6c428b51a3ee21d7a",
@@ -587,7 +587,7 @@
           }
         },
         "9fedd1c1f3fa8a961eb5818d4c5ae20713581b26d38bdc3970aec861945a4654": {
-          "added": 1761530421000,
+          "added": 1761616270000,
           "file": {
             "name": "/flclash_v0.8.86.apk",
             "sha256": "9fedd1c1f3fa8a961eb5818d4c5ae20713581b26d38bdc3970aec861945a4654",
@@ -649,13 +649,13 @@
     },
     "com.v2ray.ang": {
       "metadata": {
-        "added": 1761530451000,
+        "added": 1761616300000,
         "categories": [
           "Internet",
           "Security"
         ],
         "issueTracker": "https://github.com/2dust/v2rayNG/issues",
-        "lastUpdated": 1761530456000,
+        "lastUpdated": 1761616305000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/2dust/v2rayNG",
         "authorName": "2dust",
@@ -679,7 +679,7 @@
       },
       "versions": {
         "a1736314312e0fc7b444d6b9f455d2f48641a57b9f41cf359b7ad758b5bf3c8b": {
-          "added": 1761530456000,
+          "added": 1761616305000,
           "file": {
             "name": "/v2rayng_1.10.26.apk",
             "sha256": "a1736314312e0fc7b444d6b9f455d2f48641a57b9f41cf359b7ad758b5bf3c8b",
@@ -744,7 +744,7 @@
           }
         },
         "0c83693f92db4e3172bb3c1ced802ff1d72f2b8d008ec3c7e4324fb4826702cf": {
-          "added": 1761530452000,
+          "added": 1761616301000,
           "file": {
             "name": "/v2rayng_1.10.23.apk",
             "sha256": "0c83693f92db4e3172bb3c1ced802ff1d72f2b8d008ec3c7e4324fb4826702cf",
@@ -809,7 +809,7 @@
           }
         },
         "5bb1b60bf8ef40f46af5bb60f3403d13d41725ee1a25bd2ff6f28426c60c66e7": {
-          "added": 1761530453000,
+          "added": 1761616302000,
           "file": {
             "name": "/v2rayng_1.10.24.apk",
             "sha256": "5bb1b60bf8ef40f46af5bb60f3403d13d41725ee1a25bd2ff6f28426c60c66e7",
@@ -874,7 +874,7 @@
           }
         },
         "d1ddbec55e1e8a8f0a923750d2313a0ba734a554274212a6d1c6f167930b06fc": {
-          "added": 1761530451000,
+          "added": 1761616300000,
           "file": {
             "name": "/v2rayng_1.10.22.apk",
             "sha256": "d1ddbec55e1e8a8f0a923750d2313a0ba734a554274212a6d1c6f167930b06fc",
@@ -942,13 +942,13 @@
     },
     "com.zaneschepke.wireguardautotunnel": {
       "metadata": {
-        "added": 1761530456000,
+        "added": 1761616305000,
         "categories": [
           "Internet",
           "Security"
         ],
         "issueTracker": "https://github.com/wgtunnel/wgtunnel/issues",
-        "lastUpdated": 1761530458000,
+        "lastUpdated": 1761616307000,
         "license": "MIT",
         "sourceCode": "https://github.com/wgtunnel/wgtunnel",
         "webSite": "https://wgtunnel.com/",
@@ -1016,7 +1016,7 @@
       },
       "versions": {
         "147c31054088b8f4d8fda29e7c7825d7570ac4c0816d8eeb9a1ae1268a4fd8b6": {
-          "added": 1761530458000,
+          "added": 1761616307000,
           "file": {
             "name": "/wgtunnel_4.1.1.apk",
             "sha256": "147c31054088b8f4d8fda29e7c7825d7570ac4c0816d8eeb9a1ae1268a4fd8b6",
@@ -1096,7 +1096,7 @@
           }
         },
         "da2a3197c7954babf3e4986fdf77446f84a24e2664d0db16b5215a4c83ea243a": {
-          "added": 1761530457000,
+          "added": 1761616306000,
           "file": {
             "name": "/wgtunnel_4.1.0.apk",
             "sha256": "da2a3197c7954babf3e4986fdf77446f84a24e2664d0db16b5215a4c83ea243a",
@@ -1176,7 +1176,7 @@
           }
         },
         "09bea9fa62a5100493c361ef6c5464178bc57fe505c95e2c848da77fc09a46e5": {
-          "added": 1761530457000,
+          "added": 1761616306000,
           "file": {
             "name": "/wgtunnel_4.0.3.apk",
             "sha256": "09bea9fa62a5100493c361ef6c5464178bc57fe505c95e2c848da77fc09a46e5",
@@ -1256,7 +1256,7 @@
           }
         },
         "fa55988aad3caeca3b62e0588663fb61f6697958369b3e899874229f208897cc": {
-          "added": 1761530456000,
+          "added": 1761616305000,
           "file": {
             "name": "/wgtunnel_4.0.2.apk",
             "sha256": "fa55988aad3caeca3b62e0588663fb61f6697958369b3e899874229f208897cc",
@@ -1339,13 +1339,13 @@
     },
     "md.obsidian": {
       "metadata": {
-        "added": 1761530447000,
+        "added": 1761616296000,
         "categories": [
           "Writing",
           "Science & Education"
         ],
         "issueTracker": "https://github.com/obsidianmd/obsidian-releases/issues",
-        "lastUpdated": 1761530450000,
+        "lastUpdated": 1761616299000,
         "license": "PublicDomain",
         "sourceCode": "https://github.com/obsidianmd/obsidian-releases",
         "webSite": "https://obsidian.md",
@@ -1370,7 +1370,7 @@
       },
       "versions": {
         "b6aad3d92cfc774308f5df6de8de25df3363999b31347d184af43fd60841657a": {
-          "added": 1761530450000,
+          "added": 1761616299000,
           "file": {
             "name": "/obsidian_v1.9.14.apk",
             "sha256": "b6aad3d92cfc774308f5df6de8de25df3363999b31347d184af43fd60841657a",
@@ -1426,7 +1426,7 @@
           }
         },
         "8afdaeaf7b6274138a7f343d34dc75bf461051c385a1088f289dbb99c076f610": {
-          "added": 1761530449000,
+          "added": 1761616298000,
           "file": {
             "name": "/obsidian_v1.9.12.apk",
             "sha256": "8afdaeaf7b6274138a7f343d34dc75bf461051c385a1088f289dbb99c076f610",
@@ -1482,7 +1482,7 @@
           }
         },
         "0b6e5449bbb98bef64c2fdd6d7478600f37cdd39398a179003744619d9a3a8e7": {
-          "added": 1761530449000,
+          "added": 1761616298000,
           "file": {
             "name": "/obsidian_v1.9.10.apk",
             "sha256": "0b6e5449bbb98bef64c2fdd6d7478600f37cdd39398a179003744619d9a3a8e7",
@@ -1538,7 +1538,7 @@
           }
         },
         "af09494c6fdec9815e1e562acd20e7591a49ee5449f84c2bef0052ca7c2c4adf": {
-          "added": 1761530447000,
+          "added": 1761616296000,
           "file": {
             "name": "/obsidian_v1.8.10.apk",
             "sha256": "af09494c6fdec9815e1e562acd20e7591a49ee5449f84c2bef0052ca7c2c4adf",
@@ -1594,7 +1594,7 @@
           }
         },
         "832fc9cfd9853ce2127348bf75a48f26a6346062930828358d8537ce8f2b6005": {
-          "added": 1761530448000,
+          "added": 1761616297000,
           "file": {
             "name": "/obsidian_v1.8.9.apk",
             "sha256": "832fc9cfd9853ce2127348bf75a48f26a6346062930828358d8537ce8f2b6005",
@@ -1653,13 +1653,13 @@
     },
     "su.happ.proxyutility": {
       "metadata": {
-        "added": 1761530425000,
+        "added": 1761616274000,
         "categories": [
           "Internet",
           "Security"
         ],
         "issueTracker": "https://github.com/Happ-proxy/happ-android/issues",
-        "lastUpdated": 1761530432000,
+        "lastUpdated": 1761616281000,
         "license": "PublicDomain",
         "sourceCode": "https://github.com/Happ-proxy/happ-android",
         "webSite": "https://www.happ.su/",
@@ -1684,7 +1684,7 @@
       },
       "versions": {
         "132817757d034f5c4e159e99f5c32fd79a19f0d07e13a41dae57c49bd0f3de00": {
-          "added": 1761530432000,
+          "added": 1761616281000,
           "file": {
             "name": "/happ_3.3.4.apk",
             "sha256": "132817757d034f5c4e159e99f5c32fd79a19f0d07e13a41dae57c49bd0f3de00",
@@ -1766,7 +1766,7 @@
           }
         },
         "d4a12976ac65f69ff446096c7532c9a9be7d9bd91210bfb73ce4c4c9def9f16d": {
-          "added": 1761530431000,
+          "added": 1761616280000,
           "file": {
             "name": "/happ_3.3.3.apk",
             "sha256": "d4a12976ac65f69ff446096c7532c9a9be7d9bd91210bfb73ce4c4c9def9f16d",
@@ -1848,7 +1848,7 @@
           }
         },
         "8c4375fa6c50c310afe236be5f9c2b32daed06c152ef00fefc94e9065fce02a1": {
-          "added": 1761530429000,
+          "added": 1761616278000,
           "file": {
             "name": "/happ_3.3.2.apk",
             "sha256": "8c4375fa6c50c310afe236be5f9c2b32daed06c152ef00fefc94e9065fce02a1",
@@ -1930,7 +1930,7 @@
           }
         },
         "09e5507e85fc117e180099a14af3d8e5b4bcea49943ee0485659e4c0e9d8121f": {
-          "added": 1761530427000,
+          "added": 1761616276000,
           "file": {
             "name": "/happ_3.3.1.apk",
             "sha256": "09e5507e85fc117e180099a14af3d8e5b4bcea49943ee0485659e4c0e9d8121f",
@@ -2012,7 +2012,7 @@
           }
         },
         "c8156f093d49efe0efdf589c7e0ab2f86c66972ee0a6127112ce23ac798d27c5": {
-          "added": 1761530425000,
+          "added": 1761616274000,
           "file": {
             "name": "/happ_3.3.0.apk",
             "sha256": "c8156f093d49efe0efdf589c7e0ab2f86c66972ee0a6127112ce23ac798d27c5",
@@ -2097,13 +2097,13 @@
     },
     "tw.nekomimi.nekogram": {
       "metadata": {
-        "added": 1761530438000,
+        "added": 1761616287000,
         "categories": [
           "Internet",
           "Security"
         ],
         "issueTracker": "https://github.com/Nekogram/Nekogram/issues",
-        "lastUpdated": 1761530447000,
+        "lastUpdated": 1761616296000,
         "license": "GPL-2.0",
         "sourceCode": "https://github.com/Nekogram/Nekogram",
         "webSite": "https://nekogram.app",
@@ -2128,7 +2128,7 @@
       },
       "versions": {
         "ff9f4a9b15e2349e6bb02fe6a220d631a1c5d2d21ddcef9af2ff5d7d634b6b13": {
-          "added": 1761530447000,
+          "added": 1761616296000,
           "file": {
             "name": "/nekogram_v12.1.1.apk",
             "sha256": "ff9f4a9b15e2349e6bb02fe6a220d631a1c5d2d21ddcef9af2ff5d7d634b6b13",
@@ -2378,7 +2378,7 @@
           }
         },
         "9206ed52b4272872b7e3873f1f89bb7c3051048a640a329811d87d6756ac3bda": {
-          "added": 1761530445000,
+          "added": 1761616294000,
           "file": {
             "name": "/nekogram_v12.0.1.apk",
             "sha256": "9206ed52b4272872b7e3873f1f89bb7c3051048a640a329811d87d6756ac3bda",
@@ -2628,7 +2628,7 @@
           }
         },
         "739303faf5f169e41c4b0ce59c058d9a60a72df916ddbaef07f3fa72a0c7c41a": {
-          "added": 1761530442000,
+          "added": 1761616291000,
           "file": {
             "name": "/nekogram_v11.14.1.apk",
             "sha256": "739303faf5f169e41c4b0ce59c058d9a60a72df916ddbaef07f3fa72a0c7c41a",
@@ -2878,7 +2878,7 @@
           }
         },
         "99ee190b02c8dfa63851d22de78a30dbcc419473aed0cbbc4351d08f1cbc6ea4": {
-          "added": 1761530440000,
+          "added": 1761616289000,
           "file": {
             "name": "/nekogram_v11.13.0.apk",
             "sha256": "99ee190b02c8dfa63851d22de78a30dbcc419473aed0cbbc4351d08f1cbc6ea4",
@@ -3128,7 +3128,7 @@
           }
         },
         "4dea86a47ede63bd900b9886fe2748d8800a72eb76d40738959e9c50f705d53c": {
-          "added": 1761530438000,
+          "added": 1761616287000,
           "file": {
             "name": "/nekogram_v11.12.1.apk",
             "sha256": "4dea86a47ede63bd900b9886fe2748d8800a72eb76d40738959e9c50f705d53c",
@@ -3381,13 +3381,13 @@
     },
     "uz.unnarsx.cherrygram": {
       "metadata": {
-        "added": 1761530410000,
+        "added": 1761616259000,
         "categories": [
           "Connectivity",
           "Internet"
         ],
         "issueTracker": "https://github.com/arsLan4k1390/Cherrygram/issues",
-        "lastUpdated": 1761530420000,
+        "lastUpdated": 1761616269000,
         "license": "GPL-2.0",
         "sourceCode": "https://github.com/arsLan4k1390/Cherrygram",
         "webSite": "https://t.me/Cherry_gram",
@@ -3411,8 +3411,282 @@
         "preferredSigner": "a9d5ba4a1aa06b969bfec97b557183160c856f1e1401d756a043af110dddc71f"
       },
       "versions": {
+        "c73e135c19c38231a5a3dac9380622e414f949a9b95b3f9adc82b6483d2d59de": {
+          "added": 1761616269000,
+          "file": {
+            "name": "/cherrygram_9.9.0.apk",
+            "sha256": "c73e135c19c38231a5a3dac9380622e414f949a9b95b3f9adc82b6483d2d59de",
+            "size": 52871549
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "12.1.1",
+            "versionCode": 62120,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "a9d5ba4a1aa06b969bfec97b557183160c856f1e1401d756a043af110dddc71f"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "com.google.android.c2dm.permission.RECEIVE"
+              },
+              {
+                "name": "uz.unnarsx.cherrygram.permission.MAPS_RECEIVE"
+              },
+              {
+                "name": "com.google.android.providers.gsf.permission.READ_GSERVICES"
+              },
+              {
+                "name": "android.permission.ACCESS_COARSE_LOCATION"
+              },
+              {
+                "name": "android.permission.ACCESS_FINE_LOCATION"
+              },
+              {
+                "name": "android.permission.ACCESS_MEDIA_LOCATION"
+              },
+              {
+                "name": "android.permission.CALL_PHONE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_REMOTE_MESSAGING"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_CAMERA"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_LOCATION"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MICROPHONE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_PHONE_CALL"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.USE_FULL_SCREEN_INTENT"
+              },
+              {
+                "name": "android.permission.READ_PHONE_STATE"
+              },
+              {
+                "name": "android.permission.READ_PHONE_NUMBERS"
+              },
+              {
+                "name": "android.permission.SEND_SMS"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.READ_CLIPBOARD"
+              },
+              {
+                "name": "android.permission.BLUETOOTH_CONNECT"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.RECORD_AUDIO"
+              },
+              {
+                "name": "android.permission.MODIFY_AUDIO_SETTINGS"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VIDEO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_AUDIO"
+              },
+              {
+                "name": "android.permission.GET_ACCOUNTS"
+              },
+              {
+                "name": "android.permission.READ_CONTACTS"
+              },
+              {
+                "name": "android.permission.WRITE_CONTACTS"
+              },
+              {
+                "name": "android.permission.MANAGE_ACCOUNTS"
+              },
+              {
+                "name": "android.permission.READ_PROFILE"
+              },
+              {
+                "name": "android.permission.WRITE_SYNC_SETTINGS"
+              },
+              {
+                "name": "android.permission.READ_SYNC_SETTINGS"
+              },
+              {
+                "name": "android.permission.AUTHENTICATE_ACCOUNTS"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.SYSTEM_ALERT_WINDOW"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.INSTALL_SHORTCUT"
+              },
+              {
+                "name": "com.android.launcher.permission.INSTALL_SHORTCUT"
+              },
+              {
+                "name": "com.android.launcher.permission.UNINSTALL_SHORTCUT"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.BLUETOOTH"
+              },
+              {
+                "name": "android.permission.MANAGE_OWN_CALLS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "com.sec.android.provider.badge.permission.READ"
+              },
+              {
+                "name": "com.sec.android.provider.badge.permission.WRITE"
+              },
+              {
+                "name": "com.htc.launcher.permission.READ_SETTINGS"
+              },
+              {
+                "name": "com.htc.launcher.permission.UPDATE_SHORTCUT"
+              },
+              {
+                "name": "com.sonyericsson.home.permission.BROADCAST_BADGE"
+              },
+              {
+                "name": "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE"
+              },
+              {
+                "name": "com.anddoes.launcher.permission.UPDATE_COUNT"
+              },
+              {
+                "name": "com.majeur.launcher.permission.UPDATE_BADGE"
+              },
+              {
+                "name": "com.huawei.android.launcher.permission.CHANGE_BADGE"
+              },
+              {
+                "name": "com.huawei.android.launcher.permission.READ_SETTINGS"
+              },
+              {
+                "name": "com.huawei.android.launcher.permission.WRITE_SETTINGS"
+              },
+              {
+                "name": "android.permission.READ_APP_BADGE"
+              },
+              {
+                "name": "com.oppo.launcher.permission.READ_SETTINGS"
+              },
+              {
+                "name": "com.oppo.launcher.permission.WRITE_SETTINGS"
+              },
+              {
+                "name": "me.everything.badger.permission.BADGE_COUNT_READ"
+              },
+              {
+                "name": "me.everything.badger.permission.BADGE_COUNT_WRITE"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_BACKGROUND_LOCATION"
+              },
+              {
+                "name": "android.permission.READ_CALENDAR"
+              },
+              {
+                "name": "android.permission.WRITE_CALENDAR"
+              },
+              {
+                "name": "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+              },
+              {
+                "name": "com.google.android.gms.permission.AD_ID"
+              },
+              {
+                "name": "android.permission.ACCESS_ADSERVICES_ATTRIBUTION"
+              },
+              {
+                "name": "android.permission.ACCESS_ADSERVICES_AD_ID"
+              },
+              {
+                "name": "uz.unnarsx.cherrygram.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          },
+          "antiFeatures": {
+            "NonFreeNet": {},
+            "TetheredNet": {},
+            "Tracking": {}
+          }
+        },
         "111ad7116f1db54c1e86487c585deb77a509d2c2005e46112d8c89509e283d4c": {
-          "added": 1761530420000,
+          "added": 1761616266000,
           "file": {
             "name": "/cherrygram_9.8.0.apk",
             "sha256": "111ad7116f1db54c1e86487c585deb77a509d2c2005e46112d8c89509e283d4c",
@@ -3686,7 +3960,7 @@
           }
         },
         "9bf56fe3a6cab90d0c895feb5b3b0ece4c0337107a2b8278a3bbaa244787f4f7": {
-          "added": 1761530418000,
+          "added": 1761616264000,
           "file": {
             "name": "/cherrygram_9.7.1.apk",
             "sha256": "9bf56fe3a6cab90d0c895feb5b3b0ece4c0337107a2b8278a3bbaa244787f4f7",
@@ -3957,7 +4231,7 @@
           }
         },
         "e148afda8fc4608961fea44bf9a333baf5b8772e1443c594557717ca2c5392a6": {
-          "added": 1761530415000,
+          "added": 1761616261000,
           "file": {
             "name": "/cherrygram_9.7.0.apk",
             "sha256": "e148afda8fc4608961fea44bf9a333baf5b8772e1443c594557717ca2c5392a6",
@@ -4228,7 +4502,7 @@
           }
         },
         "ff9b9ae004ee3cc59ca223fb412f0c36b79bedbd4c45c2f21b35e1c676ae502f": {
-          "added": 1761530413000,
+          "added": 1761616259000,
           "file": {
             "name": "/cherrygram_9.6.0.apk",
             "sha256": "ff9b9ae004ee3cc59ca223fb412f0c36b79bedbd4c45c2f21b35e1c676ae502f",
@@ -4240,277 +4514,6 @@
             ],
             "versionName": "11.14.1",
             "versionCode": 61080,
-            "usesSdk": {
-              "minSdkVersion": 21,
-              "targetSdkVersion": 34
-            },
-            "signer": {
-              "sha256": [
-                "a9d5ba4a1aa06b969bfec97b557183160c856f1e1401d756a043af110dddc71f"
-              ]
-            },
-            "usesPermission": [
-              {
-                "name": "com.google.android.c2dm.permission.RECEIVE"
-              },
-              {
-                "name": "uz.unnarsx.cherrygram.permission.MAPS_RECEIVE"
-              },
-              {
-                "name": "com.google.android.providers.gsf.permission.READ_GSERVICES"
-              },
-              {
-                "name": "android.permission.ACCESS_COARSE_LOCATION"
-              },
-              {
-                "name": "android.permission.ACCESS_FINE_LOCATION"
-              },
-              {
-                "name": "android.permission.ACCESS_MEDIA_LOCATION"
-              },
-              {
-                "name": "android.permission.CALL_PHONE"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE_REMOTE_MESSAGING"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE_CAMERA"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE_LOCATION"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE_MICROPHONE"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE_PHONE_CALL"
-              },
-              {
-                "name": "android.permission.USE_FULL_SCREEN_INTENT"
-              },
-              {
-                "name": "android.permission.READ_PHONE_STATE"
-              },
-              {
-                "name": "android.permission.READ_PHONE_NUMBERS"
-              },
-              {
-                "name": "android.permission.SEND_SMS"
-              },
-              {
-                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
-              },
-              {
-                "name": "android.permission.READ_CLIPBOARD"
-              },
-              {
-                "name": "android.permission.BLUETOOTH_CONNECT"
-              },
-              {
-                "name": "android.permission.INTERNET"
-              },
-              {
-                "name": "android.permission.RECORD_AUDIO"
-              },
-              {
-                "name": "android.permission.MODIFY_AUDIO_SETTINGS"
-              },
-              {
-                "name": "android.permission.ACCESS_NETWORK_STATE"
-              },
-              {
-                "name": "android.permission.ACCESS_WIFI_STATE"
-              },
-              {
-                "name": "android.permission.WAKE_LOCK"
-              },
-              {
-                "name": "android.permission.READ_EXTERNAL_STORAGE"
-              },
-              {
-                "name": "android.permission.READ_MEDIA_IMAGES"
-              },
-              {
-                "name": "android.permission.READ_MEDIA_VIDEO"
-              },
-              {
-                "name": "android.permission.READ_MEDIA_AUDIO"
-              },
-              {
-                "name": "android.permission.GET_ACCOUNTS"
-              },
-              {
-                "name": "android.permission.READ_CONTACTS"
-              },
-              {
-                "name": "android.permission.WRITE_CONTACTS"
-              },
-              {
-                "name": "android.permission.MANAGE_ACCOUNTS"
-              },
-              {
-                "name": "android.permission.READ_PROFILE"
-              },
-              {
-                "name": "android.permission.WRITE_SYNC_SETTINGS"
-              },
-              {
-                "name": "android.permission.READ_SYNC_SETTINGS"
-              },
-              {
-                "name": "android.permission.AUTHENTICATE_ACCOUNTS"
-              },
-              {
-                "name": "android.permission.VIBRATE"
-              },
-              {
-                "name": "android.permission.SYSTEM_ALERT_WINDOW"
-              },
-              {
-                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
-              },
-              {
-                "name": "android.permission.USE_FINGERPRINT"
-              },
-              {
-                "name": "android.permission.USE_BIOMETRIC"
-              },
-              {
-                "name": "android.permission.INSTALL_SHORTCUT"
-              },
-              {
-                "name": "com.android.launcher.permission.INSTALL_SHORTCUT"
-              },
-              {
-                "name": "com.android.launcher.permission.UNINSTALL_SHORTCUT"
-              },
-              {
-                "name": "android.permission.CAMERA"
-              },
-              {
-                "name": "android.permission.BLUETOOTH"
-              },
-              {
-                "name": "android.permission.MANAGE_OWN_CALLS"
-              },
-              {
-                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
-              },
-              {
-                "name": "android.permission.POST_NOTIFICATIONS"
-              },
-              {
-                "name": "com.sec.android.provider.badge.permission.READ"
-              },
-              {
-                "name": "com.sec.android.provider.badge.permission.WRITE"
-              },
-              {
-                "name": "com.htc.launcher.permission.READ_SETTINGS"
-              },
-              {
-                "name": "com.htc.launcher.permission.UPDATE_SHORTCUT"
-              },
-              {
-                "name": "com.sonyericsson.home.permission.BROADCAST_BADGE"
-              },
-              {
-                "name": "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE"
-              },
-              {
-                "name": "com.anddoes.launcher.permission.UPDATE_COUNT"
-              },
-              {
-                "name": "com.majeur.launcher.permission.UPDATE_BADGE"
-              },
-              {
-                "name": "com.huawei.android.launcher.permission.CHANGE_BADGE"
-              },
-              {
-                "name": "com.huawei.android.launcher.permission.READ_SETTINGS"
-              },
-              {
-                "name": "com.huawei.android.launcher.permission.WRITE_SETTINGS"
-              },
-              {
-                "name": "android.permission.READ_APP_BADGE"
-              },
-              {
-                "name": "com.oppo.launcher.permission.READ_SETTINGS"
-              },
-              {
-                "name": "com.oppo.launcher.permission.WRITE_SETTINGS"
-              },
-              {
-                "name": "me.everything.badger.permission.BADGE_COUNT_READ"
-              },
-              {
-                "name": "me.everything.badger.permission.BADGE_COUNT_WRITE"
-              },
-              {
-                "name": "com.android.vending.BILLING"
-              },
-              {
-                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
-              },
-              {
-                "name": "android.permission.ACCESS_BACKGROUND_LOCATION"
-              },
-              {
-                "name": "android.permission.READ_CALENDAR"
-              },
-              {
-                "name": "android.permission.WRITE_CALENDAR"
-              },
-              {
-                "name": "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
-              },
-              {
-                "name": "com.google.android.gms.permission.AD_ID"
-              },
-              {
-                "name": "android.permission.ACCESS_ADSERVICES_ATTRIBUTION"
-              },
-              {
-                "name": "android.permission.ACCESS_ADSERVICES_AD_ID"
-              },
-              {
-                "name": "uz.unnarsx.cherrygram.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-              }
-            ]
-          },
-          "antiFeatures": {
-            "NonFreeNet": {},
-            "TetheredNet": {},
-            "Tracking": {}
-          }
-        },
-        "3f8023e4eb345e8b952829ad4bdc610856af7371d7d89ccf29f16699efd6ca1b": {
-          "added": 1761530410000,
-          "file": {
-            "name": "/cherrygram_9.5.2.apk",
-            "sha256": "3f8023e4eb345e8b952829ad4bdc610856af7371d7d89ccf29f16699efd6ca1b",
-            "size": 52511747
-          },
-          "manifest": {
-            "nativecode": [
-              "arm64-v8a"
-            ],
-            "versionName": "11.13.0",
-            "versionCode": 60500,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 34

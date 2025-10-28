@@ -1,0 +1,14 @@
+{
+  "repo": {
+    "timestamp": 1761616388000
+  },
+  "packages": {
+    "uz.unnarsx.cherrygram": {
+      "versions": {
+        "c73e135c19c38231a5a3dac9380622e414f949a9b95b3f9adc82b6483d2d59de": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}
