@@ -37,10 +37,10 @@
     "--delete-unknown"
   ],
   "disabled": [],
-  "endTimestamp": 1761875744504,
+  "endTimestamp": 1761962481641,
   "failedBuilds": {},
-  "jarsigner": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.16-8/x64/bin/jarsigner",
-  "keytool": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.16-8/x64/bin/keytool",
+  "jarsigner": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.17-10/x64/bin/jarsigner",
+  "keytool": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.17-10/x64/bin/keytool",
   "needsUpdate": [],
   "noPackages": [
     "app.hiddify.com",
@@ -54,14 +54,14 @@
   ],
   "noUpdateCheck": [],
   "stages": {
-    "delete_disabled_builds": 1761875740726,
-    "index.make repo": 1761875741942,
-    "prepare_apps repo": 1761875740729,
-    "process_apks": 1761875740727,
-    "read_added_date_from_all_apks": 1761875740729,
-    "remove_apks": 1761875740729,
-    "scan_repo_files": 1761875740728
+    "delete_disabled_builds": 1761962477651,
+    "index.make repo": 1761962478874,
+    "prepare_apps repo": 1761962477654,
+    "process_apks": 1761962477652,
+    "read_added_date_from_all_apks": 1761962477654,
+    "remove_apks": 1761962477654,
+    "scan_repo_files": 1761962477653
   },
-  "startTimestamp": 1761875740000,
+  "startTimestamp": 1761962477000,
   "subcommand": "update"
 }
