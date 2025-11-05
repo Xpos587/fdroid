@@ -6,8 +6,8 @@ Builds:
 Categories:
     - Internet
     - Security
-CurrentVersion: 4.1.2
-CurrentVersionCode: 40102
+CurrentVersion: 4.1.4
+CurrentVersionCode: 40104
 Description: |
     An alternative VPN client app for WireGuard with additional features
 
