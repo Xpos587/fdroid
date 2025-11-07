@@ -1,0 +1,6 @@
+### 本次更新
+
+1. 默认优先使用 HEV TUN
+2. 改进一些文字
+3. 改进了分应用设置，并在设置中的入口移除，请在抽屉菜单中进入
+4. 想下载 fdroid  版本打开 https://github.com/2dust/v2rayNG/releases/tag/1.10.25
