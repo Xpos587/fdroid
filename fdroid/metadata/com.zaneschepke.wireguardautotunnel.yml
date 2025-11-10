@@ -30,7 +30,7 @@ Name: WG Tunnel
 Repo: https://github.com/wgtunnel/wgtunnel
 RepoType: git
 SourceCode: https://github.com/wgtunnel/wgtunnel
-Summary: A FOSS WireGuard & AmneziaWG VPN client with auto-tunneling, lockdown & proxy...
+Summary: A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & p...
 UpdateCheckData: tags/(.+)$
 UpdateCheckMode: Tags
 WebSite: https://wgtunnel.com/
