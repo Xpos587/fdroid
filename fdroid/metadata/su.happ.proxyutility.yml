@@ -9,8 +9,8 @@ Builds:
 Categories:
     - Internet
     - Security
-CurrentVersion: 3.4.0
-CurrentVersionCode: 1285
+CurrentVersion: 3.5.0
+CurrentVersionCode: 1291
 Description: |
     Happ is a mobile application designed for convenient proxy server management, powered by the robust Xray core. The app features an intuitive interface and a range of useful functions, making it an essential tool for managing connections.
 
