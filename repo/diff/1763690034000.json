@@ -1,0 +1,14 @@
+{
+  "repo": {
+    "timestamp": 1763690109000
+  },
+  "packages": {
+    "tw.nekomimi.nekogram": {
+      "versions": {
+        "db01710e87c5d990d3c33b19691565951e57b9659aafc6413b3d5e29e4c95294": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}
