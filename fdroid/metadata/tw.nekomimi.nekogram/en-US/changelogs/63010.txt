@@ -1,0 +1,3 @@
+- <https://telegram.org/blog/live-stories-gift-auctions>
+- Added option to hide channel bottom buttons
+- Bug fixes and other improvements
