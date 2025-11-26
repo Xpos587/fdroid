@@ -1,131 +1,115 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="icon.png" name="Xpos587 Apps Repository" pubkey="3082036030820248a0030201020209009e269b918dee9eaa300d06092a864886f70d01010c0500305d310b300906035504061302525531193017060355040813105361696e742d5065746572736275726731193017060355040713105361696e742d50657465727362757267311830160603550403130f4d69636861656c20426f64617265763020170d3235303631373139323030365a180f32303532313130323139323030365a305d310b300906035504061302525531193017060355040813105361696e742d5065746572736275726731193017060355040713105361696e742d50657465727362757267311830160603550403130f4d69636861656c20426f646172657630820122300d06092a864886f70d01010105000382010f003082010a0282010100b5dd4c03b70a6aa72dba4cf7cef197aaeb8bd0e244fa01eec73a09c4488151f018ec657356d27516ae2008d08a85ebe1351c2025a88ee288f7a0767ba4b39c71a5946ed979d13a69af738638bebf548eab48f9970746944e9ffdae329ad93ae9b0f6f811033d6baf1063d453046de13902fccbd8a4145eb797fe25e7ab5e755decd8e8ccee185e21622f3d14a1f567c3ddd60dc8261d56c6fab1ef3b9dd75a508c20ba61fcb07a53646e0f8ce5b2dc849d7e4313f03ca285914d322f8c753b7f7c1159594d669f424c81f279099ca8178f727a5911b7769398c6b43b372463c946d95a545be1aa67db25c07f522e75c75d70ee6a323471f27302c60078be9d750203010001a321301f301d0603551d0e04160414d0c12e02cc8b7755887a8942591c00f6f9692b76300d06092a864886f70d01010c050003820101006dee597033b31ae7d32d7895ce51a3a5eb1b3887765ae02dfb8eebd44f340211a712859c42d8a8d9f3692cd86c3fc4e97fa047b1fea95ec3a3bc9accb42081cdb82062f033f5a4533432e5274b1dcab65bc66312455e2ea99f3cb9840e388dc0688aa8490e92ccd4d2b4658cc97511a51d1b828d8552268e3fe5bc06c7f640f2ef6731b31bb778cca5fb1fef1ba034040f923a7ab8096f934d19f0a9db05c8af66a56070a27459707b5a591f8527a5171cacab46d545fec02a1f6764370a0ee7e88a669e1d47e65e689c19b8b4e61cc1ea1c5727007373962c2b97794814af1f422efa33b58639b613b74bbd62fc6a21505aa69fa34177b2b25d26d390e75b60" timestamp="1764122276" url="https://xpos587.github.io/fdroid/repo" version="20002">
+	<repo icon="icon.png" name="Xpos587 Apps Repository" pubkey="3082036030820248a0030201020209009e269b918dee9eaa300d06092a864886f70d01010c0500305d310b300906035504061302525531193017060355040813105361696e742d5065746572736275726731193017060355040713105361696e742d50657465727362757267311830160603550403130f4d69636861656c20426f64617265763020170d3235303631373139323030365a180f32303532313130323139323030365a305d310b300906035504061302525531193017060355040813105361696e742d5065746572736275726731193017060355040713105361696e742d50657465727362757267311830160603550403130f4d69636861656c20426f646172657630820122300d06092a864886f70d01010105000382010f003082010a0282010100b5dd4c03b70a6aa72dba4cf7cef197aaeb8bd0e244fa01eec73a09c4488151f018ec657356d27516ae2008d08a85ebe1351c2025a88ee288f7a0767ba4b39c71a5946ed979d13a69af738638bebf548eab48f9970746944e9ffdae329ad93ae9b0f6f811033d6baf1063d453046de13902fccbd8a4145eb797fe25e7ab5e755decd8e8ccee185e21622f3d14a1f567c3ddd60dc8261d56c6fab1ef3b9dd75a508c20ba61fcb07a53646e0f8ce5b2dc849d7e4313f03ca285914d322f8c753b7f7c1159594d669f424c81f279099ca8178f727a5911b7769398c6b43b372463c946d95a545be1aa67db25c07f522e75c75d70ee6a323471f27302c60078be9d750203010001a321301f301d0603551d0e04160414d0c12e02cc8b7755887a8942591c00f6f9692b76300d06092a864886f70d01010c050003820101006dee597033b31ae7d32d7895ce51a3a5eb1b3887765ae02dfb8eebd44f340211a712859c42d8a8d9f3692cd86c3fc4e97fa047b1fea95ec3a3bc9accb42081cdb82062f033f5a4533432e5274b1dcab65bc66312455e2ea99f3cb9840e388dc0688aa8490e92ccd4d2b4658cc97511a51d1b828d8552268e3fe5bc06c7f640f2ef6731b31bb778cca5fb1fef1ba034040f923a7ab8096f934d19f0a9db05c8af66a56070a27459707b5a591f8527a5171cacab46d545fec02a1f6764370a0ee7e88a669e1d47e65e689c19b8b4e61cc1ea1c5727007373962c2b97794814af1f422efa33b58639b613b74bbd62fc6a21505aa69fa34177b2b25d26d390e75b60" timestamp="1764164381" url="https://xpos587.github.io/fdroid/repo" version="20002">
 		<description>Curated collection of high-quality Android applications. Features official binaries from trusted developers, including privacy tools, communication apps, open-source alternatives, and useful utilities. Covers both FOSS and proprietary applications for enhanced mobile experience.
 </description>
 	</repo>
-	<application id="uz.unnarsx.cherrygram">
-		<id>uz.unnarsx.cherrygram</id>
+	<application id="pocketnet.app">
+		<id>pocketnet.app</id>
 		<added>2025-11-26</added>
 		<lastupdated>2025-11-26</lastupdated>
-		<name>Cherrygram</name>
-		<summary>Third-party Telegram client with privacy-focused modifications</summary>
-		<desc>Third-party Telegram client with privacy-focused modifications and useful features
+		<name>Bastyon</name>
+		<summary>Decentralized social network based on the blockchain</summary>
+		<desc>Bastyon (Pocketnet) is a decentralized social network built on blockchain technology
 
 &lt;b&gt;Key Features&lt;/b&gt;
 
-- Support up to 10 accounts simultaneously
-- Material You (Monet) themes and app icon
-- No content restrictions
-- Allow to set proxy before login
-- Native biometrics support for enhanced security
-- Profile pictures upload date display
-- Mutual contact icons in contacts list
-- Advanced chat management with blur support
+- Decentralized blockchain-based social platform
+- No central authority or censorship
+- Content rewards with POCKET cryptocurrency
+- Integrated wallet and payment system
+- End-to-end encrypted messaging
+- Support for images, videos, and articles
+- Community-driven content moderation
+- Mini-applications platform
+- Tor integration for enhanced privacy
+- Multi-platform support (Android, iOS, Desktop, Web)
 
-&lt;b&gt;Privacy &amp; Security&lt;/b&gt;
+&lt;b&gt;Blockchain Technology&lt;/b&gt;
 
-- Disable Google Analytics option
-- Biometric protection for archive and specific chats
-- &quot;Kaboom&quot; feature (erase all data in 1 click)
-- Hide archive from chats list
-- Silence notifications from non-contacts
-
-&lt;b&gt;Chat Enhancements&lt;/b&gt;
-
-- Scrollable and clickable chat preview
-- Messages history from any user/channel
-- Delete all own messages from groups
-- Copy photos to clipboard
-- Stickers downloader
-- Fast search by holding dialog name
-
-&lt;b&gt;Customization&lt;/b&gt;
-
-- VKUI/Solar icons in app
-- Custom reply and profile backgrounds
-- Configurable message bubbles and menu
-- Various tab styles and drawer customizations
-- Snow effects in header and chats
+- Built on custom Pocketnet blockchain
+- Proof-of-Stake consensus
+- Content stored permanently on blockchain
+- No single point of failure
+- User-controlled data and identity
 
 &lt;b&gt;Important Note&lt;/b&gt;
 
-This is an unofficial fork of Telegram. While maintaining full compatibility with Telegram's protocol, it offers additional privacy and customization features not available in the official client.
+Bastyon is a decentralized platform that combines social networking with blockchain technology. Users can earn rewards for creating quality content and participating in the network.
 </desc>
-		<license>GPL-2.0</license>
-		<categories>Connectivity,Internet</categories>
-		<category>Connectivity</category>
-		<web>https://t.me/Cherry_gram</web>
-		<source>https://github.com/arsLan4k1390/Cherrygram</source>
-		<tracker>https://github.com/arsLan4k1390/Cherrygram/issues</tracker>
-		<author>arsLan4k1390</author>
-		<marketversion>12.1.1</marketversion>
-		<marketvercode>62120</marketvercode>
-		<antifeatures>NonFreeNet,TetheredNet,Tracking</antifeatures>
+		<license>Apache-2.0</license>
+		<categories>Social,Internet,Money</categories>
+		<category>Social</category>
+		<web>https://bastyon.com</web>
+		<source>https://github.com/pocketnetteam/pocketnet.gui</source>
+		<tracker>https://github.com/pocketnetteam/pocketnet.gui/issues</tracker>
+		<author>pocketnetteam</author>
+		<marketversion>1.8.129</marketversion>
+		<marketvercode>1801295</marketvercode>
 		<package>
-			<version>12.1.1</version>
-			<versioncode>62120</versioncode>
-			<apkname>cherrygram_9.9.0.apk</apkname>
-			<hash type="sha256">c73e135c19c38231a5a3dac9380622e414f949a9b95b3f9adc82b6483d2d59de</hash>
-			<size>52871549</size>
-			<sdkver>21</sdkver>
+			<version>1.8.129</version>
+			<versioncode>1801295</versioncode>
+			<apkname>bastyon_v0.9.129.apk</apkname>
+			<hash type="sha256">a87805b04253a49e64ac224993c6366ca6554c10435cdd02660ecbb683a86534</hash>
+			<size>76555245</size>
+			<sdkver>24</sdkver>
 			<targetSdkVersion>35</targetSdkVersion>
 			<added>2025-11-26</added>
-			<sig>572a63b6bf8f015265e3c0f378444736</sig>
-			<permissions>ACCESS_ADSERVICES_AD_ID,ACCESS_ADSERVICES_ATTRIBUTION,ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BLUETOOTH_CONNECT,CALL_PHONE,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_CAMERA,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_LOCATION,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_MEDIA_PROJECTION,FOREGROUND_SERVICE_MICROPHONE,FOREGROUND_SERVICE_PHONE_CALL,FOREGROUND_SERVICE_REMOTE_MESSAGING,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_ACCOUNTS,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CALENDAR,READ_CLIPBOARD,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_INSTALL_PACKAGES,SCHEDULE_EXACT_ALARM,SEND_SMS,SYSTEM_ALERT_WINDOW,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CALENDAR,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.vending.BILLING,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,com.google.android.providers.gsf.permission.READ_GSERVICES,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,uz.unnarsx.cherrygram.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,uz.unnarsx.cherrygram.permission.MAPS_RECEIVE</permissions>
-			<nativecode>arm64-v8a</nativecode>
+			<sig>3c2056fecbde72f2af6b9073cf13cfb0</sig>
+			<permissions>ACCESS_ADSERVICES_AD_ID,ACCESS_ADSERVICES_ATTRIBUTION,ACCESS_NETWORK_STATE,CAMERA,CAPTURE_AUDIO_OUTPUT,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_MEDIA_PLAYBACK,GET_ACCOUNTS,GET_TASKS,INTERNET,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,RECORD_AUDIO,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,com.google.android.providers.gsf.permission.READ_GSERVICES,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,pocketnet.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
 		</package>
 		<package>
-			<version>12.0.1</version>
-			<versioncode>61680</versioncode>
-			<apkname>cherrygram_9.8.0.apk</apkname>
-			<hash type="sha256">111ad7116f1db54c1e86487c585deb77a509d2c2005e46112d8c89509e283d4c</hash>
-			<size>53523905</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>35</targetSdkVersion>
-			<added>2025-11-26</added>
-			<sig>572a63b6bf8f015265e3c0f378444736</sig>
-			<permissions>ACCESS_ADSERVICES_AD_ID,ACCESS_ADSERVICES_ATTRIBUTION,ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BLUETOOTH_CONNECT,CALL_PHONE,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_CAMERA,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_LOCATION,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_MEDIA_PROJECTION,FOREGROUND_SERVICE_MICROPHONE,FOREGROUND_SERVICE_PHONE_CALL,FOREGROUND_SERVICE_REMOTE_MESSAGING,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_ACCOUNTS,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CALENDAR,READ_CLIPBOARD,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_INSTALL_PACKAGES,SCHEDULE_EXACT_ALARM,SEND_SMS,SYSTEM_ALERT_WINDOW,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CALENDAR,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.vending.BILLING,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,com.google.android.providers.gsf.permission.READ_GSERVICES,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,uz.unnarsx.cherrygram.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,uz.unnarsx.cherrygram.permission.MAPS_RECEIVE</permissions>
-			<nativecode>arm64-v8a</nativecode>
-		</package>
-		<package>
-			<version>12.0.1</version>
-			<versioncode>61670</versioncode>
-			<apkname>cherrygram_9.7.1.apk</apkname>
-			<hash type="sha256">9bf56fe3a6cab90d0c895feb5b3b0ece4c0337107a2b8278a3bbaa244787f4f7</hash>
-			<size>53394294</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>35</targetSdkVersion>
-			<added>2025-11-26</added>
-			<sig>572a63b6bf8f015265e3c0f378444736</sig>
-			<permissions>ACCESS_ADSERVICES_AD_ID,ACCESS_ADSERVICES_ATTRIBUTION,ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BLUETOOTH_CONNECT,CALL_PHONE,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_CAMERA,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_LOCATION,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_MEDIA_PROJECTION,FOREGROUND_SERVICE_MICROPHONE,FOREGROUND_SERVICE_PHONE_CALL,FOREGROUND_SERVICE_REMOTE_MESSAGING,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_ACCOUNTS,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CALENDAR,READ_CLIPBOARD,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_INSTALL_PACKAGES,SEND_SMS,SYSTEM_ALERT_WINDOW,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CALENDAR,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.vending.BILLING,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,com.google.android.providers.gsf.permission.READ_GSERVICES,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,uz.unnarsx.cherrygram.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,uz.unnarsx.cherrygram.permission.MAPS_RECEIVE</permissions>
-			<nativecode>arm64-v8a</nativecode>
-		</package>
-		<package>
-			<version>12.0.1</version>
-			<versioncode>61660</versioncode>
-			<apkname>cherrygram_9.7.0.apk</apkname>
-			<hash type="sha256">e148afda8fc4608961fea44bf9a333baf5b8772e1443c594557717ca2c5392a6</hash>
-			<size>53394185</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>35</targetSdkVersion>
-			<added>2025-11-26</added>
-			<sig>572a63b6bf8f015265e3c0f378444736</sig>
-			<permissions>ACCESS_ADSERVICES_AD_ID,ACCESS_ADSERVICES_ATTRIBUTION,ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BLUETOOTH_CONNECT,CALL_PHONE,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_CAMERA,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_LOCATION,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_MEDIA_PROJECTION,FOREGROUND_SERVICE_MICROPHONE,FOREGROUND_SERVICE_PHONE_CALL,FOREGROUND_SERVICE_REMOTE_MESSAGING,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_ACCOUNTS,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CALENDAR,READ_CLIPBOARD,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_INSTALL_PACKAGES,SEND_SMS,SYSTEM_ALERT_WINDOW,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CALENDAR,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.vending.BILLING,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,com.google.android.providers.gsf.permission.READ_GSERVICES,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,uz.unnarsx.cherrygram.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,uz.unnarsx.cherrygram.permission.MAPS_RECEIVE</permissions>
-			<nativecode>arm64-v8a</nativecode>
-		</package>
-		<package>
-			<version>11.14.1</version>
-			<versioncode>61080</versioncode>
-			<apkname>cherrygram_9.6.0.apk</apkname>
-			<hash type="sha256">ff9b9ae004ee3cc59ca223fb412f0c36b79bedbd4c45c2f21b35e1c676ae502f</hash>
-			<size>53033844</size>
-			<sdkver>21</sdkver>
+			<version>1.8.124</version>
+			<versioncode>1801244</versioncode>
+			<apkname>bastyon_v0.9.124.apk</apkname>
+			<hash type="sha256">e1c4fc3aaf428666c98eb1cbaeb663a7f5e9d73fd26b68ad9b64eb08761ae29e</hash>
+			<size>36844506</size>
+			<sdkver>24</sdkver>
 			<targetSdkVersion>34</targetSdkVersion>
 			<added>2025-11-26</added>
-			<sig>572a63b6bf8f015265e3c0f378444736</sig>
-			<permissions>ACCESS_ADSERVICES_AD_ID,ACCESS_ADSERVICES_ATTRIBUTION,ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BLUETOOTH_CONNECT,CALL_PHONE,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_CAMERA,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_LOCATION,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_MEDIA_PROJECTION,FOREGROUND_SERVICE_MICROPHONE,FOREGROUND_SERVICE_PHONE_CALL,FOREGROUND_SERVICE_REMOTE_MESSAGING,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_ACCOUNTS,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CALENDAR,READ_CLIPBOARD,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_INSTALL_PACKAGES,SEND_SMS,SYSTEM_ALERT_WINDOW,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CALENDAR,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.vending.BILLING,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,com.google.android.providers.gsf.permission.READ_GSERVICES,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,uz.unnarsx.cherrygram.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,uz.unnarsx.cherrygram.permission.MAPS_RECEIVE</permissions>
-			<nativecode>arm64-v8a</nativecode>
+			<sig>3c2056fecbde72f2af6b9073cf13cfb0</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,CAPTURE_AUDIO_OUTPUT,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_MEDIA_PLAYBACK,GET_ACCOUNTS,GET_TASKS,INTERNET,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,RECORD_AUDIO,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,pocketnet.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.8.119</version>
+			<versioncode>1801190</versioncode>
+			<apkname>bastyon_v0.9.119.apk</apkname>
+			<hash type="sha256">92a3c74b255d0cc18e534acf0351a307f795c4e36121bdeae200b5574a933029</hash>
+			<size>36837470</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-11-26</added>
+			<sig>3c2056fecbde72f2af6b9073cf13cfb0</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,CAPTURE_AUDIO_OUTPUT,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_MEDIA_PLAYBACK,GET_ACCOUNTS,GET_TASKS,INTERNET,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,RECORD_AUDIO,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,pocketnet.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.8.116</version>
+			<versioncode>1801162</versioncode>
+			<apkname>bastyon_v0.9.116.apk</apkname>
+			<hash type="sha256">b90223f63faa271d81f28009c2866506e3a3d1ee6f1ba30be1c4aae9bca334cb</hash>
+			<size>36836235</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-11-26</added>
+			<sig>3c2056fecbde72f2af6b9073cf13cfb0</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,CAPTURE_AUDIO_OUTPUT,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_MEDIA_PLAYBACK,GET_ACCOUNTS,GET_TASKS,INTERNET,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,RECORD_AUDIO,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,pocketnet.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.8.114</version>
+			<versioncode>1801141</versioncode>
+			<apkname>bastyon_v0.9.114.apk</apkname>
+			<hash type="sha256">cc37b688a009e19bda576f962aecacb113208c087bf991855a4b7491d4cf26c5</hash>
+			<size>36841738</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2025-11-26</added>
+			<sig>3c2056fecbde72f2af6b9073cf13cfb0</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,CAPTURE_AUDIO_OUTPUT,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_MEDIA_PLAYBACK,GET_ACCOUNTS,GET_TASKS,INTERNET,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,RECORD_AUDIO,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,pocketnet.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
 		</package>
 	</application>
 	<application id="com.follow.clash">
@@ -334,201 +318,6 @@ Happ does not provide VPN services for purchase. Users are responsible for acqui
 			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
 		</package>
 	</application>
-	<application id="app.hiddify.com">
-		<id>app.hiddify.com</id>
-		<added>2025-11-26</added>
-		<lastupdated>2025-11-26</lastupdated>
-		<name>Hiddify</name>
-		<summary>Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria,...</summary>
-		<desc>A multi-platform proxy client based on Sing-box and Xray core, supporting a wide range of protocols and advanced features.
-
-&lt;b&gt;Features&lt;/b&gt;
-
-- Multi-platform support: Android, iOS, Windows, macOS, Linux
-- Intuitive and accessible UI with dark/light themes
-- Delay-based automatic node selection
-- Wide protocol support: VLESS, VMess, Reality, TUIC, Hysteria, WireGuard, SSH, Trojan, Shadowsocks
-- Dual core support: both Sing-box and Xray core (selectable per node)
-- Subscription formats: Sing-box, V2Ray, Clash, Clash Meta
-- Automatic subscription update with profile info (remaining days, traffic usage)
-- Advanced features: TUN mode, Split HTTP, config editor
-- Open source, ad-free, community-driven
-- Optimized for Iran, China, Russia and other countries
-- Available on official stores and direct download
-
-&lt;b&gt;Important Note&lt;/b&gt;
-
-Hiddify does not provide VPN services. Users must acquire or set up their own servers. Please comply with local laws when using the app.
-</desc>
-		<license>NOASSERTION</license>
-		<categories>Internet,Security</categories>
-		<category>Internet</category>
-		<web>https://hiddify.com/app/</web>
-		<source>https://github.com/hiddify/hiddify-app</source>
-		<tracker>https://github.com/hiddify/hiddify-app/issues</tracker>
-		<author>hiddify</author>
-		<marketversion>2.5.7</marketversion>
-		<marketvercode>20507</marketvercode>
-		<antifeatures>Tracking</antifeatures>
-		<package>
-			<version>2.5.7</version>
-			<versioncode>20507</versioncode>
-			<apkname>hiddify_v2.5.7.apk</apkname>
-			<hash type="sha256">e8bd97123b0cd2992b23a55e3c4f805652ac23e45f38d47cdea66fb74a3b3b67</hash>
-			<size>50718670</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>34</targetSdkVersion>
-			<added>2025-11-26</added>
-			<sig>976581050d25ae072b0cf4977fd0aa00</sig>
-			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,app.hiddify.com.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
-			<nativecode>arm64-v8a</nativecode>
-		</package>
-		<package>
-			<version>2.3.1</version>
-			<versioncode>20301</versioncode>
-			<apkname>hiddify_v2.3.1.apk</apkname>
-			<hash type="sha256">9c5ca5e7ba3e5fe25d68faffd8f825972ca243fea049881c6e96ea91d0032cc1</hash>
-			<size>49950421</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>34</targetSdkVersion>
-			<added>2025-11-26</added>
-			<sig>976581050d25ae072b0cf4977fd0aa00</sig>
-			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,app.hiddify.com.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
-			<nativecode>arm64-v8a</nativecode>
-		</package>
-		<package>
-			<version>2.1.5</version>
-			<versioncode>20105</versioncode>
-			<apkname>hiddify_v2.1.5.apk</apkname>
-			<hash type="sha256">f9406cb5c92dea3656e71cefc295017ab053d44d535e5abcde9dee51af12a5a6</hash>
-			<size>49449609</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>34</targetSdkVersion>
-			<added>2025-11-26</added>
-			<sig>976581050d25ae072b0cf4977fd0aa00</sig>
-			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,app.hiddify.com.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
-			<nativecode>arm64-v8a</nativecode>
-		</package>
-	</application>
-	<application id="tw.nekomimi.nekogram">
-		<id>tw.nekomimi.nekogram</id>
-		<added>2025-11-26</added>
-		<lastupdated>2025-11-26</lastupdated>
-		<name>Nekogram</name>
-		<summary>Open-source third-party Telegram client with not many but useful modifications.</summary>
-		<desc>Third-party Telegram client with useful modifications focused on privacy and user experience
-
-&lt;b&gt;Key Features&lt;/b&gt;
-
-- Enhanced privacy and security options
-- Improved user interface and customization
-- Additional chat management features
-- Extended message formatting options
-- Advanced notification controls
-- Multiple account support
-- Custom themes and appearance settings
-
-&lt;b&gt;Localization&lt;/b&gt;
-
-- Multilingual support via Crowdin
-- Community-driven translations
-- Regular language updates
-
-&lt;b&gt;Important Note&lt;/b&gt;
-
-This is an unofficial fork of Telegram for Android. While maintaining full compatibility with Telegram's protocol, it offers additional features not available in the official client.
-</desc>
-		<license>GPL-2.0</license>
-		<categories>Internet,Security</categories>
-		<category>Internet</category>
-		<web>https://nekogram.app</web>
-		<source>https://github.com/Nekogram/Nekogram</source>
-		<tracker>https://github.com/Nekogram/Nekogram/issues</tracker>
-		<author>Nekogram</author>
-		<marketversion>12.2.3</marketversion>
-		<marketvercode>63010</marketvercode>
-		<antifeatures>NonFreeNet,TetheredNet,Tracking</antifeatures>
-		<package>
-			<version>12.2.3</version>
-			<versioncode>63010</versioncode>
-			<apkname>nekogram_v12.2.3.apk</apkname>
-			<hash type="sha256">294651b357e69b1574b0a8ea73bca5ef177105e3b96c860e56a96c4f691c3c94</hash>
-			<size>63117857</size>
-			<sdkver>23</sdkver>
-			<targetSdkVersion>36</targetSdkVersion>
-			<added>2025-11-26</added>
-			<sig>e2e8b7008de515577bafb5a5e617eb58</sig>
-			<permissions>ACCESS_ADSERVICES_AD_ID,ACCESS_ADSERVICES_ATTRIBUTION,ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BLUETOOTH_CONNECT,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_CAMERA,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_LOCATION,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_MEDIA_PROJECTION,FOREGROUND_SERVICE_MICROPHONE,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_ACCOUNTS,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CLIPBOARD,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.vending.BILLING,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,tw.nekomimi.nekogram.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
-			<uses-permission maxSdkVersion="30" name="android.permission.BLUETOOTH"/>
-			<uses-permission maxSdkVersion="32" name="android.permission.READ_EXTERNAL_STORAGE"/>
-			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-			<nativecode>arm64-v8a</nativecode>
-		</package>
-		<package>
-			<version>12.1.1</version>
-			<versioncode>62110</versioncode>
-			<apkname>nekogram_v12.1.1.apk</apkname>
-			<hash type="sha256">ff9f4a9b15e2349e6bb02fe6a220d631a1c5d2d21ddcef9af2ff5d7d634b6b13</hash>
-			<size>47601896</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>36</targetSdkVersion>
-			<added>2025-11-26</added>
-			<sig>e2e8b7008de515577bafb5a5e617eb58</sig>
-			<permissions>ACCESS_ADSERVICES_AD_ID,ACCESS_ADSERVICES_ATTRIBUTION,ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BLUETOOTH_CONNECT,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_CAMERA,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_LOCATION,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_MEDIA_PROJECTION,FOREGROUND_SERVICE_MICROPHONE,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_ACCOUNTS,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CLIPBOARD,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.vending.BILLING,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,tw.nekomimi.nekogram.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
-			<uses-permission maxSdkVersion="30" name="android.permission.BLUETOOTH"/>
-			<uses-permission maxSdkVersion="32" name="android.permission.READ_EXTERNAL_STORAGE"/>
-			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-			<nativecode>arm64-v8a</nativecode>
-		</package>
-		<package>
-			<version>12.0.1</version>
-			<versioncode>61670</versioncode>
-			<apkname>nekogram_v12.0.1.apk</apkname>
-			<hash type="sha256">9206ed52b4272872b7e3873f1f89bb7c3051048a640a329811d87d6756ac3bda</hash>
-			<size>48321320</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>35</targetSdkVersion>
-			<added>2025-11-26</added>
-			<sig>e2e8b7008de515577bafb5a5e617eb58</sig>
-			<permissions>ACCESS_ADSERVICES_AD_ID,ACCESS_ADSERVICES_ATTRIBUTION,ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BLUETOOTH_CONNECT,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_CAMERA,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_LOCATION,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_MEDIA_PROJECTION,FOREGROUND_SERVICE_MICROPHONE,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_ACCOUNTS,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CLIPBOARD,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.vending.BILLING,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,tw.nekomimi.nekogram.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
-			<uses-permission maxSdkVersion="30" name="android.permission.BLUETOOTH"/>
-			<uses-permission maxSdkVersion="32" name="android.permission.READ_EXTERNAL_STORAGE"/>
-			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-			<nativecode>arm64-v8a</nativecode>
-		</package>
-		<package>
-			<version>11.14.1</version>
-			<versioncode>61100</versioncode>
-			<apkname>nekogram_v11.14.1.apk</apkname>
-			<hash type="sha256">739303faf5f169e41c4b0ce59c058d9a60a72df916ddbaef07f3fa72a0c7c41a</hash>
-			<size>48009936</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>34</targetSdkVersion>
-			<added>2025-11-26</added>
-			<sig>e2e8b7008de515577bafb5a5e617eb58</sig>
-			<permissions>ACCESS_ADSERVICES_AD_ID,ACCESS_ADSERVICES_ATTRIBUTION,ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BLUETOOTH_CONNECT,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_CAMERA,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_LOCATION,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_MEDIA_PROJECTION,FOREGROUND_SERVICE_MICROPHONE,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_ACCOUNTS,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CLIPBOARD,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.vending.BILLING,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,tw.nekomimi.nekogram.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
-			<uses-permission maxSdkVersion="30" name="android.permission.BLUETOOTH"/>
-			<uses-permission maxSdkVersion="32" name="android.permission.READ_EXTERNAL_STORAGE"/>
-			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-			<nativecode>arm64-v8a</nativecode>
-		</package>
-		<package>
-			<version>11.13.0</version>
-			<versioncode>60470</versioncode>
-			<apkname>nekogram_v11.13.0.apk</apkname>
-			<hash type="sha256">99ee190b02c8dfa63851d22de78a30dbcc419473aed0cbbc4351d08f1cbc6ea4</hash>
-			<size>47565465</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>34</targetSdkVersion>
-			<added>2025-11-26</added>
-			<sig>e2e8b7008de515577bafb5a5e617eb58</sig>
-			<permissions>ACCESS_ADSERVICES_AD_ID,ACCESS_ADSERVICES_ATTRIBUTION,ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BLUETOOTH_CONNECT,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_CAMERA,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_LOCATION,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_MEDIA_PROJECTION,FOREGROUND_SERVICE_MICROPHONE,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_ACCOUNTS,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_APP_BADGE,READ_CLIPBOARD,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.vending.BILLING,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,tw.nekomimi.nekogram.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
-			<uses-permission maxSdkVersion="30" name="android.permission.BLUETOOTH"/>
-			<uses-permission maxSdkVersion="32" name="android.permission.READ_EXTERNAL_STORAGE"/>
-			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-			<nativecode>arm64-v8a</nativecode>
-		</package>
-	</application>
 	<application id="md.obsidian">
 		<id>md.obsidian</id>
 		<added>2025-11-26</added>
@@ -718,64 +507,6 @@ Obsidian is proprietary software but free for personal use. The extensive plugin
 			<added>2025-11-26</added>
 			<sig>4d25e0ce917ad3f76d265d25ce902a6b</sig>
 			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,com.v2ray.ang.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
-			<nativecode>arm64-v8a</nativecode>
-		</package>
-	</application>
-	<application id="com.zaneschepke.wireguardautotunnel">
-		<id>com.zaneschepke.wireguardautotunnel</id>
-		<added>2025-11-26</added>
-		<lastupdated>2025-11-26</lastupdated>
-		<name>WG Tunnel</name>
-		<summary>A FOSS WireGuard &amp; AmneziaWG Android client with auto-tunneling, lockdown &amp; p...</summary>
-		<desc>An alternative VPN client app for WireGuard with additional features
-
-&lt;b&gt;Features&lt;/b&gt;
-
-- Add tunnels via .conf file, zip, manual entry, or QR code
-- Auto connect to VPN based on Wi-Fi SSID, ethernet, or mobile data
-- Split tunneling by application with search
-- WireGuard support for kernel and userspace modes
-- Always-On VPN support
-- Export tunnels to zip
-- Quick tile support for VPN toggling
-- Static shortcuts support for primary tunnel for automation integration
-- Intent automation support for all tunnels
-- Automatic service restart after reboot
-- Battery preservation measures
-</desc>
-		<license>MIT</license>
-		<categories>Internet,Security</categories>
-		<category>Internet</category>
-		<web>https://wgtunnel.com/</web>
-		<source>https://github.com/wgtunnel/wgtunnel</source>
-		<tracker>https://github.com/wgtunnel/wgtunnel/issues</tracker>
-		<author>wgtunnel</author>
-		<marketversion>4.1.8</marketversion>
-		<marketvercode>40108</marketvercode>
-		<package>
-			<version>4.1.8</version>
-			<versioncode>40108</versioncode>
-			<apkname>wgtunnel_4.1.8.apk</apkname>
-			<hash type="sha256">24f7ec0b7b84bfb84d405d2c9faf5f5a747d4ab1a819a1f56fe089ef1993e931</hash>
-			<size>18715747</size>
-			<sdkver>26</sdkver>
-			<targetSdkVersion>36</targetSdkVersion>
-			<added>2025-11-26</added>
-			<sig>21dad82894453bd1db3f09179d247e3c</sig>
-			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,FOREGROUND_SERVICE_SYSTEM_EXEMPTED,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,SCHEDULE_EXACT_ALARM,WAKE_LOCK,com.zaneschepke.wireguardautotunnel.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.shizuku.manager.permission.API_V23</permissions>
-			<nativecode>arm64-v8a</nativecode>
-		</package>
-		<package>
-			<version>4.1.7</version>
-			<versioncode>40107</versioncode>
-			<apkname>wgtunnel_4.1.7.apk</apkname>
-			<hash type="sha256">446cc6c72b87e5970a528dc045e9c71fa234210556b658fd6bb620b35eac8412</hash>
-			<size>18715751</size>
-			<sdkver>26</sdkver>
-			<targetSdkVersion>36</targetSdkVersion>
-			<added>2025-11-26</added>
-			<sig>21dad82894453bd1db3f09179d247e3c</sig>
-			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,FOREGROUND_SERVICE_SYSTEM_EXEMPTED,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,SCHEDULE_EXACT_ALARM,WAKE_LOCK,com.zaneschepke.wireguardautotunnel.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.shizuku.manager.permission.API_V23</permissions>
 			<nativecode>arm64-v8a</nativecode>
 		</package>
 	</application>
