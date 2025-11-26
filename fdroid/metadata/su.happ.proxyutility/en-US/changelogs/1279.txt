@@ -1,3 +1,0 @@
-* Subscription settings improved for TV
-* Dialogs fixed and minor redesign
-* Fixed some cases of invalid subscription imports

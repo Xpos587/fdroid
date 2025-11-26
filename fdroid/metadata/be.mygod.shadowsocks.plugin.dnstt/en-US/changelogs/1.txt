@@ -1,0 +1,5 @@
+• Initial release
+• Support for multiple CPU architectures (ARM, x86)
+• DNS tunneling implementation
+• Shadowsocks plugin compatibility
+• Lightweight and efficient design

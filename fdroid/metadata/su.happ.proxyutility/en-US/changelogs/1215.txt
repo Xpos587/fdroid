@@ -1,6 +1,0 @@
-* Persian language
-* Improved DPad adaptation
-* New meta-params related to per-app-proxy
-* Fixed unlimited logs
-* Fixed geofiles invalidate after error
-* Several Ui improvements

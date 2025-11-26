@@ -1,29 +1,3 @@
-wgtunnel:
-  git: https://github.com/wgtunnel/wgtunnel
-  name: "WG Tunnel"
-  description: |
-    An alternative VPN client app for WireGuard with additional features
-
-    <b>Features</b>
-
-    - Add tunnels via .conf file, zip, manual entry, or QR code
-    - Auto connect to VPN based on Wi-Fi SSID, ethernet, or mobile data
-    - Split tunneling by application with search
-    - WireGuard support for kernel and userspace modes
-    - Always-On VPN support
-    - Export tunnels to zip
-    - Quick tile support for VPN toggling
-    - Static shortcuts support for primary tunnel for automation integration
-    - Intent automation support for all tunnels
-    - Automatic service restart after reboot
-    - Battery preservation measures
-
-  # As described on https://f-droid.org/en/docs/Build_Metadata_Reference/#Categories,
-  # you can use any name here, but you should look at the existing categories first
-  categories:
-    - Internet
-    - Security
-
 v2rayng:
   git: https://github.com/2dust/v2rayNG
   name: "v2rayNG"
@@ -71,114 +45,6 @@ happ:
     - Internet
     - Security
 
-hiddify:
-  git: https://github.com/hiddify/hiddify-app
-  name: "Hiddify"
-  description: |
-    A multi-platform proxy client based on Sing-box and Xray core, supporting a wide range of protocols and advanced features.
-
-    <b>Features</b>
-
-    - Multi-platform support: Android, iOS, Windows, macOS, Linux
-    - Intuitive and accessible UI with dark/light themes
-    - Delay-based automatic node selection
-    - Wide protocol support: VLESS, VMess, Reality, TUIC, Hysteria, WireGuard, SSH, Trojan, Shadowsocks
-    - Dual core support: both Sing-box and Xray core (selectable per node)
-    - Subscription formats: Sing-box, V2Ray, Clash, Clash Meta
-    - Automatic subscription update with profile info (remaining days, traffic usage)
-    - Advanced features: TUN mode, Split HTTP, config editor
-    - Open source, ad-free, community-driven
-    - Optimized for Iran, China, Russia and other countries
-    - Available on official stores and direct download
-
-    <b>Important Note</b>
-
-    Hiddify does not provide VPN services. Users must acquire or set up their own servers. Please comply with local laws when using the app.
-
-  categories:
-    - Internet
-    - Security
-
-cherrygram:
-  git: https://github.com/arsLan4k1390/Cherrygram
-  name: "Cherrygram"
-  description: |
-    Third-party Telegram client with privacy-focused modifications and useful features
-
-    <b>Key Features</b>
-
-    - Support up to 10 accounts simultaneously
-    - Material You (Monet) themes and app icon
-    - No content restrictions
-    - Allow to set proxy before login
-    - Native biometrics support for enhanced security
-    - Profile pictures upload date display
-    - Mutual contact icons in contacts list
-    - Advanced chat management with blur support
-
-    <b>Privacy & Security</b>
-
-    - Disable Google Analytics option
-    - Biometric protection for archive and specific chats
-    - "Kaboom" feature (erase all data in 1 click)
-    - Hide archive from chats list
-    - Silence notifications from non-contacts
-
-    <b>Chat Enhancements</b>
-
-    - Scrollable and clickable chat preview
-    - Messages history from any user/channel
-    - Delete all own messages from groups
-    - Copy photos to clipboard
-    - Stickers downloader
-    - Fast search by holding dialog name
-
-    <b>Customization</b>
-
-    - VKUI/Solar icons in app
-    - Custom reply and profile backgrounds
-    - Configurable message bubbles and menu
-    - Various tab styles and drawer customizations
-    - Snow effects in header and chats
-
-    <b>Important Note</b>
-
-    This is an unofficial fork of Telegram. While maintaining full compatibility with Telegram's protocol, it offers additional privacy and customization features not available in the official client.
-
-  categories:
-    - Connectivity
-    - Internet
-
-nekogram:
-  git: https://github.com/Nekogram/Nekogram
-  name: "Nekogram"
-  description: |
-    Third-party Telegram client with useful modifications focused on privacy and user experience
-
-    <b>Key Features</b>
-
-    - Enhanced privacy and security options
-    - Improved user interface and customization
-    - Additional chat management features
-    - Extended message formatting options
-    - Advanced notification controls
-    - Multiple account support
-    - Custom themes and appearance settings
-
-    <b>Localization</b>
-
-    - Multilingual support via Crowdin
-    - Community-driven translations
-    - Regular language updates
-
-    <b>Important Note</b>
-
-    This is an unofficial fork of Telegram for Android. While maintaining full compatibility with Telegram's protocol, it offers additional features not available in the official client.
-
-  categories:
-    - Internet
-    - Security
-
 obsidian:
   git: https://github.com/obsidianmd/obsidian-releases
   name: "Obsidian"
@@ -212,6 +78,90 @@ obsidian:
   categories:
     - Writing
     - Science & Education
+
+bastyon:
+  git: https://github.com/pocketnetteam/pocketnet.gui
+  name: "Bastyon"
+  description: |
+    Bastyon (Pocketnet) is a decentralized social network built on blockchain technology
+
+    <b>Key Features</b>
+
+    - Decentralized blockchain-based social platform
+    - No central authority or censorship
+    - Content rewards with POCKET cryptocurrency
+    - Integrated wallet and payment system
+    - End-to-end encrypted messaging
+    - Support for images, videos, and articles
+    - Community-driven content moderation
+    - Mini-applications platform
+    - Tor integration for enhanced privacy
+    - Multi-platform support (Android, iOS, Desktop, Web)
+
+    <b>Blockchain Technology</b>
+
+    - Built on custom Pocketnet blockchain
+    - Proof-of-Stake consensus
+    - Content stored permanently on blockchain
+    - No single point of failure
+    - User-controlled data and identity
+
+    <b>Important Note</b>
+
+    Bastyon is a decentralized platform that combines social networking with blockchain technology. Users can earn rewards for creating quality content and participating in the network.
+
+  categories:
+    - Social
+    - Internet
+    - Money
+
+dnstt:
+  git: https://github.com/Mygod/dnstt-plugin-android
+  name: "DNS Tunnel Plugin"
+  description: |
+    DNS Tunnel Plugin - A Shadowsocks plugin for DNS tunneling and bypassing network restrictions
+
+    <b>Key Features</b>
+
+    - DNS tunneling plugin specifically for Shadowsocks client
+    - Multiple architecture support (ARM, x86)
+    - Lightweight and efficient implementation
+    - Seamless integration with Shadowsocks for Android
+    - Support for encrypted DNS traffic
+    - UDP-based tunneling protocol
+
+    <b>Technical Details</b>
+
+    - Supports multiple CPU architectures:
+      - ARM64-v8a (64-bit ARM)
+      - ARMv7a (32-bit ARM)
+      - x86 (32-bit Intel)
+      - x86_64 (64-bit Intel)
+    - Optimized for performance and low battery consumption
+    - Native Shadowsocks plugin compatibility
+    - Based on DNS-over-TLS tunneling technology
+
+    <b>Requirements</b>
+
+    - Requires Shadowsocks for Android (com.github.shadowsocks)
+    - Compatible with official Shadowsocks client from F-Droid
+    - Plugin-based architecture for easy integration
+
+    <b>Use Cases</b>
+
+    - Bypassing network censorship through Shadowsocks
+    - Accessing blocked services via DNS tunneling
+    - Secure communication through DNS protocol
+    - Circumventing deep packet inspection
+    - Alternative traffic routing method for Shadowsocks
+
+    <b>Important Note</b>
+
+    This is a plugin for the Shadowsocks client and requires the main Shadowsocks for Android app to function. Install the Shadowsocks client first, then enable this plugin in the connection settings. Use responsibly and comply with local regulations.
+
+  categories:
+    - Internet
+    - Security
 
 flclash:
   git: https://github.com/chen08209/FlClash

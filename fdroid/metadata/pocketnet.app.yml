@@ -1,0 +1,49 @@
+AuthorName: pocketnetteam
+Builds:
+    - disable: Uses prebuilt binaries
+      versionCode: 129000
+      versionName: 0.9.129
+Categories:
+    - Social
+    - Internet
+    - Money
+CurrentVersion: 0.9.129
+CurrentVersionCode: 129000
+Description: |
+    Bastyon (Pocketnet) is a decentralized social network built on blockchain technology
+
+    <b>Key Features</b>
+
+    - Decentralized blockchain-based social platform
+    - No central authority or censorship
+    - Content rewards with POCKET cryptocurrency
+    - Integrated wallet and payment system
+    - End-to-end encrypted messaging
+    - Support for images, videos, and articles
+    - Community-driven content moderation
+    - Mini-applications platform
+    - Tor integration for enhanced privacy
+    - Multi-platform support (Android, iOS, Desktop, Web)
+
+    <b>Blockchain Technology</b>
+
+    - Built on custom Pocketnet blockchain
+    - Proof-of-Stake consensus
+    - Content stored permanently on blockchain
+    - No single point of failure
+    - User-controlled data and identity
+
+    <b>Important Note</b>
+
+    Bastyon is a decentralized platform that combines social networking with blockchain technology. Users can earn rewards for creating quality content and participating in the network.
+
+IssueTracker: https://github.com/pocketnetteam/pocketnet.gui/issues
+License: MIT
+Name: Bastyon
+Repo: https://github.com/pocketnetteam/pocketnet.gui
+RepoType: git
+SourceCode: https://github.com/pocketnetteam/pocketnet.gui
+Summary: Decentralized social network built on blockchain technology
+UpdateCheckData: Bastyon.apk$
+UpdateCheckMode: HTTP
+WebSite: https://bastyon.com

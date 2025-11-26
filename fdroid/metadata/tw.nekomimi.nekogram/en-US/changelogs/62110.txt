@@ -1,2 +1,0 @@
-- <https://telegram.org/blog/comments-in-video-chats-threads-for-bots>
-- Bug fixes and other improvements

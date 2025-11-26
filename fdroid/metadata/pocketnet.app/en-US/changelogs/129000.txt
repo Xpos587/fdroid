@@ -1,0 +1,10 @@
+• Fix/app interface ux fixes
+• Update nodes list with new IPs
+• Add application category filters
+• Fix Tor runner plugin integration
+• Add Service Worker request handler for mini-apps
+• Fix video server proxy behavior
+• Fix Android 7 SSL handshake error
+• Add report to miniapp feature
+• Update reputation phrase replacement
+• Various bug fixes and improvements

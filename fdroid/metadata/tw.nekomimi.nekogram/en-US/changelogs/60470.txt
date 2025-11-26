@@ -1,2 +1,0 @@
-- <https://telegram.org/blog/checklists-suggested-posts>
-- Bug fixes and other improvements

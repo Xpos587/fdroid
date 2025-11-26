@@ -1,0 +1,60 @@
+AuthorName: Mygod
+Builds:
+    - disable: Uses prebuilt binaries
+      versionCode: 1
+      versionName: 0.0.1
+Categories:
+    - Internet
+    - Security
+CurrentVersion: 0.0.1
+CurrentVersionCode: 1
+Description: |
+    DNS Tunnel Plugin - A Shadowsocks plugin for DNS tunneling and bypassing network restrictions
+
+    <b>Key Features</b>
+
+    - DNS tunneling plugin specifically for Shadowsocks client
+    - Multiple architecture support (ARM, x86)
+    - Lightweight and efficient implementation
+    - Seamless integration with Shadowsocks for Android
+    - Support for encrypted DNS traffic
+    - UDP-based tunneling protocol
+
+    <b>Technical Details</b>
+
+    - Supports multiple CPU architectures:
+      - ARM64-v8a (64-bit ARM)
+      - ARMv7a (32-bit ARM)
+      - x86 (32-bit Intel)
+      - x86_64 (64-bit Intel)
+    - Optimized for performance and low battery consumption
+    - Native Shadowsocks plugin compatibility
+    - Based on DNS-over-TLS tunneling technology
+
+    <b>Requirements</b>
+
+    - Requires Shadowsocks for Android (com.github.shadowsocks)
+    - Compatible with official Shadowsocks client from F-Droid
+    - Plugin-based architecture for easy integration
+
+    <b>Use Cases</b>
+
+    - Bypassing network censorship through Shadowsocks
+    - Accessing blocked services via DNS tunneling
+    - Secure communication through DNS protocol
+    - Circumventing deep packet inspection
+    - Alternative traffic routing method for Shadowsocks
+
+    <b>Important Note</b>
+
+    This is a plugin for the Shadowsocks client and requires the main Shadowsocks for Android app to function. Install the Shadowsocks client first, then enable this plugin in the connection settings. Use responsibly and comply with local regulations.
+
+IssueTracker: https://github.com/Mygod/dnstt-plugin-android/issues
+License: GPL-3.0
+Name: DNS Tunnel Plugin
+Repo: https://github.com/Mygod/dnstt-plugin-android
+RepoType: git
+SourceCode: https://github.com/Mygod/dnstt-plugin-android
+Summary: DNS tunneling plugin for bypassing network restrictions
+UpdateCheckData: app-.+-release\.apk$
+UpdateCheckMode: HTTP
