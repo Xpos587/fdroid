@@ -1,25 +1,10 @@
 {
-  "/etc/issue.net": "Ubuntu 24.04.2 LTS",
+  "/etc/issue.net": "Ubuntu 24.04.3 LTS",
   "antiFeatures": {
-    "NonFreeNet": {
-      "apps": [
-        "tw.nekomimi.nekogram",
-        "uz.unnarsx.cherrygram"
-      ]
-    },
-    "TetheredNet": {
-      "apps": [
-        "tw.nekomimi.nekogram",
-        "uz.unnarsx.cherrygram"
-      ]
-    },
     "Tracking": {
       "apps": [
-        "app.hiddify.com",
         "com.follow.clash",
-        "su.happ.proxyutility",
-        "tw.nekomimi.nekogram",
-        "uz.unnarsx.cherrygram"
+        "su.happ.proxyutility"
       ]
     },
     "UpstreamNonFree": {
@@ -37,31 +22,31 @@
     "--delete-unknown"
   ],
   "disabled": [],
-  "endTimestamp": 1751421664996,
+  "endTimestamp": 1764164383826,
   "failedBuilds": {},
-  "jarsigner": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.15-6/x64/bin/jarsigner",
-  "keytool": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.15-6/x64/bin/keytool",
-  "needsUpdate": [],
+  "jarsigner": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.17-10/x64/bin/jarsigner",
+  "keytool": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.17-10/x64/bin/keytool",
+  "needsUpdate": [
+    "be.mygod.shadowsocks.plugin.dnstt"
+  ],
   "noPackages": [
-    "app.hiddify.com",
+    "be.mygod.shadowsocks.plugin.dnstt",
     "com.follow.clash",
     "com.v2ray.ang",
-    "com.zaneschepke.wireguardautotunnel",
     "md.obsidian",
-    "su.happ.proxyutility",
-    "tw.nekomimi.nekogram",
-    "uz.unnarsx.cherrygram"
+    "pocketnet.app",
+    "su.happ.proxyutility"
   ],
   "noUpdateCheck": [],
   "stages": {
-    "delete_disabled_builds": 1751421660771,
-    "index.make repo": 1751421662336,
-    "prepare_apps repo": 1751421661126,
-    "process_apks": 1751421660772,
-    "read_added_date_from_all_apks": 1751421661125,
-    "remove_apks": 1751421661125,
-    "scan_repo_files": 1751421661124
+    "delete_disabled_builds": 1764164380986,
+    "index.make repo": 1764164381173,
+    "prepare_apps repo": 1764164381168,
+    "process_apks": 1764164380987,
+    "read_added_date_from_all_apks": 1764164381167,
+    "remove_apks": 1764164381167,
+    "scan_repo_files": 1764164381167
   },
-  "startTimestamp": 1751421660000,
+  "startTimestamp": 1764164380000,
   "subcommand": "update"
 }

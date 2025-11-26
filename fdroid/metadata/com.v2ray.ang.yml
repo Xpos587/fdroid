@@ -6,8 +6,8 @@ Builds:
 Categories:
     - Internet
     - Security
-CurrentVersion: 1.10.8
-CurrentVersionCode: 4000658
+CurrentVersion: 1.10.28
+CurrentVersionCode: 4000679
 Description: |
     A V2Ray client for Android, support Xray core and v2fly core
 

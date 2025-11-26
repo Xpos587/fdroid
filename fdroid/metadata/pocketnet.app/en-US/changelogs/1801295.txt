@@ -1,0 +1,55 @@
+## What's Changed
+
+- Fix/app interface ux fixes (#1526) (51d0abdd3)
+- nodes (#1535) (aad27cac4)
+- patch: new ips whitelisted (#1534) (668ea2a5b)
+- stun/turn fix (#1532) (9ed6c0419)
+- fix: align the tor icon (#1527) (fccfcce8b)
+- feat: add application category filters (#1511) (e92204ee5)
+- build: disable icon caching (#1520) (9dd43c193)
+- Pkoin boost probability (#1522) (3994a635e)
+- patch: cordova update (#1523) (b77f3eebc)
+- feat(android): add tor runner plugin (#1521) (d7f4df7dd)
+- feat(apps): add Service Worker request handler for mini-apps (#1518) (a0180191a)
+- fix: video server proxy behaviour on archivedouble (#1517) (0f303c0ad)
+- fix: update cordova android (#1513) (e4ff5786b)
+- fix messages (#1507) (50ff4ff34)
+- feat: display tor status text (#1486) (c8fda476d)
+- fix(android): background video playback (#1498) (291f2a90d)
+- fix: android 7 ssl handshake error (#1500) (2f334b79a)
+- fix(application): application list layout & action icon styles (#1493) (fb10d33a7)
+- feat: add report to miniapp (#1492) (fe58fd2e6)
+- reputation phrase replacement (#1473) (065fb0258)
+
+**Full Changelog**: https://github.com/pocketnetteam/pocketnet.gui/compare/v0.9.124...v0.9.129
+
+## Build Information
+- Build commit: 5741d57ca48cafaf312bd20e2eeec102a7d22e5a
+- Build date: Tue Aug 19 11:38:14 UTC 2025
+- Build number: 80
+
+
+
+## SHA256 checksums
+```
+544596477be8e59823af1c8b87e3403a89e041ced6fda55a63d0be784421cc0a  BastyonSetup.exe
+d5c6b7c67080a54f0652d66eb8756cbd7fe2abc5151ed2bf0cb36d29c8521d91  BastyonSetup-win7.exe
+a87805b04253a49e64ac224993c6366ca6554c10435cdd02660ecbb683a86534  Bastyon.apk
+43532ef8fde8e0ef8983b007df24ddba69ec9332f35ac7fa45bfeace3297e950  BastyonGF.apk
+32abbbcbe29bac79b043f7b03342a7aaf42edcc6db6083f8ecf6ab10adf0d021  Bastyon.AppImage
+81bdcb8fe929d8beebeb099c0a7da355c46dd112b4fa759787f2b27cf239282e  BastyonSetup.deb
+22cf7f29b249c3c1f675e9cb02425f130af61e25633c0fbecef909dcea1f1a55  BastyonSetup.rpm
+7ba7fd827dd34d5cb138e32857d3d07180fe037e0a79617718719df0435ae6fe  BastyonSetup.dmg
+976e4f65aeda6e9f4b7c2046220de0f27018967f656960e6d5984d279c93644d  latest.yml
+551f0f56211a81354cd68981f2d17cc10968c7597582c38eb1ba6e6e85c06c3f  latest-win7.yml
+0bae709b72d94b8c2bb773741f69d32b57dea02c0d6bc24ef76cbb11f1cf0112  latest-linux.yml
+fdb8844ba54c66e17fa224ba9cc8803b8cfa54ad07f6bf70c5d6e4b63ca39a6d  latest-mac.yml
+
+```
+
+## Attention!
+We distribute our software only through https://github.com/pocketnetteam
+Any other resources offering to download executables, "installers" or source code are not related to the Pocketnet Team community
+
+## Contacts
+support@pocketnet.app

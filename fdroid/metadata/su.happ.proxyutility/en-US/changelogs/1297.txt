@@ -1,0 +1,3 @@
+* Push notifications improvements (locale link)
+* Routing profile activate/diactivate fix for update
+* Fix permission message
