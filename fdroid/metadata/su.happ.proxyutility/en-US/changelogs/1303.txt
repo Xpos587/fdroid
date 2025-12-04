@@ -1,0 +1,11 @@
+* Improved UI and D-pad management for Ping, Statistics and Logs screens on TV
+* Fixed cases when openning invalid attached link for the subscription could cause crashes
+* "View logs" section was moved to "Logs settings"
+* Fixed multiple cases related to invalid routing import
+* Improved permission error messages
+* Improved stories UI for persian language
+* Fixed case when additional arguments were visible for server configuration with fragmentation type "none"
+* Fixed cases when expiration time was invalid + expiration time is now calculated in hours (if expires in current day)
+* Fixed parsing some parameters for trojan server configurations
+* Fixed cases of invalid reconnecting when network configuration was changed
+* Fixed concurrent updates of cryptographical data, that was causing complete application cache cleaning (e.g. subscriptions could be lost after update on open)

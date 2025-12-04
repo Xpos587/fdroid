@@ -1,0 +1,6 @@
+### 本次更新
+
+- 订阅设置里增加 User Agent
+- 调整 hevtun 参数 https://github.com/2dust/v2rayNG/pull/5056 
+- https://github.com/XTLS/Xray-core/releases/tag/v25.12.2
+- 想下载 fdroid  版本打开 https://github.com/2dust/v2rayNG/releases/tag/1.10.25 
