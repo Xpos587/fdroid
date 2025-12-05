@@ -1,0 +1,62 @@
+## What's Changed
+
+- change transactions api version (for offer meta data option) (#1572) (391f0cabd)
+- add barteron offer metadata (#1571) (47068c5d0)
+- Update roy.js (#1570) (a2a8f9ce6)
+- Update package.json (#1569) (2d1f54df3)
+- Update package.json (#1567) (449d9cc7d)
+- v (#1568) (2ae775bd8)
+- v (#1566) (b96105685)
+- feat: add review miniapp (#1565) (1460679a4)
+- feat: add review miniapp (#1564) (407866ab2)
+- v (#1563) (976e34485)
+- feat: add default all filters for miniapps (#1561) (d08e6a778)
+- v (#1562) (4a984446b)
+- fix: ch style (#1560) (64e41f4a3)
+- fix: icons (#1559) (4d8ccf04d)
+- add barteron safe deal (#1557) (bcebdcb97)
+- v (#1558) (06fe8a363)
+- feat: add screen sharing support for Electron (#1552) (4fed60adc)
+- fix: reduce the minimum keyboard size (#1555) (e563c557a)
+- fix: update icons (#1556) (a89e142bb)
+- fix: 26 er transaction (#1554) (59b75b119)
+- fix: blank space above the keyboard in chat (#1547) (a6e2a0575)
+- build: update bastyonCalls.js (#1551) (2609cdf10)
+- fix: tor socks port changed, tor control port added (#1544) (34e2583b4)
+- v (#1546) (a0ad5ada6)
+- Merge pull request #1545 from pocketnetteam:fix/node-control-refresh (bafae2a9b)
+- feat: add nodeControl info to cached data in Proxy (87ba237e5)
+- fix: long app startup time when always use tor (#1541) (6e448719d)
+- fix: add resize (#1542) (0e9f2786e)
+
+## Build Information
+- Build commit: 391f0cabd7ff137a7488ba73c263da891d9d1d41
+- Build date: Thu Dec  4 08:24:26 UTC 2025
+- Build number: 81
+
+**Full Changelog**: https://github.com/pocketnetteam/pocketnet.gui/compare/v0.9.129...v0.9.134
+
+
+## SHA256 checksums
+```
+266c215001ad92c797ca85d3e8f142e92cb678c132e36dbb14ef135aed84e181  Bastyon.apk
+cd22aa3342e9de1627133aa02be47a77facdd4d015e1ab1b62bb224750a755b7  Bastyon.AppImage
+5f252c477d6cf6d00d9d50b0e1e571c8331ae5951b1f6c92650d55694d7bcf8b  BastyonGF.apk
+4849b65dc6aa14a97994f10363dbe49c5b4480d3997bff587c427d8f648dbca9  BastyonSetup.deb
+d2f9232752b0e8a51a780c8097832dc1260ff659cd24b8e00b03310758737996  BastyonSetup.dmg
+7d5fe57b27d73f9199e79ccf49476b04d634a570a5c72900e4246cc2ba964183  BastyonSetup.exe
+f3a95b133dd961d270d8e0279aca4804d2b5ec916e889593acfe520144ac0df2  BastyonSetup.rpm
+b3d24db06a24f698198ff77d316f6368d98e2b05554210200e067b50bf3605e6  BastyonSetup-win7.exe
+76eade5e26fd2a83885d33df026eebe5e3ffffce4a1fa0b212a0615a2eeaffda  head.txt
+ed6e241f115c878f0191a7fc61b677e267aa90d2585edb0414d3802f8d25c302  latest-linux.yml
+74f5ee55db227db1f35bd5f82228f2a976c45a7eee48e5db5ef5cab87132874d  latest-mac.yml
+c61a8d50d97d65ab112ff6d8c40b7cb28905b227825680aff0e432c67fd389a2  latest-win7.yml
+ff4d83f992d8c9a8e720a9d2925c0e20f88b6620fb9c1d3ae5aa37d76f3c532c  latest.yml
+```
+
+## Attention!
+We distribute our software only through https://github.com/pocketnetteam
+Any other resources offering to download executables, "installers" or source code are not related to the Pocketnet Team community
+
+## Contacts
+support@pocketnet.app
