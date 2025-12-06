@@ -1,0 +1,3 @@
+* Added feature to customize routing order (manually set order of proxy, direct and block during Xray server config generation)
+* Fixed previously selected server reset during subscription's updates
+* Fixed subscription's last update time was updated even for failed updates
