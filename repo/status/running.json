@@ -22,7 +22,7 @@
     "--delete-unknown"
   ],
   "disabled": [],
-  "endTimestamp": 1765418580972,
+  "endTimestamp": 1765505359083,
   "failedBuilds": {},
   "jarsigner": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.17-10/x64/bin/jarsigner",
   "keytool": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.17-10/x64/bin/keytool",
@@ -39,14 +39,14 @@
   ],
   "noUpdateCheck": [],
   "stages": {
-    "delete_disabled_builds": 1765418578136,
-    "index.make repo": 1765418578319,
-    "prepare_apps repo": 1765418578314,
-    "process_apks": 1765418578136,
-    "read_added_date_from_all_apks": 1765418578314,
-    "remove_apks": 1765418578314,
-    "scan_repo_files": 1765418578313
+    "delete_disabled_builds": 1765505356349,
+    "index.make repo": 1765505356529,
+    "prepare_apps repo": 1765505356524,
+    "process_apks": 1765505356349,
+    "read_added_date_from_all_apks": 1765505356524,
+    "remove_apks": 1765505356524,
+    "scan_repo_files": 1765505356523
   },
-  "startTimestamp": 1765418578000,
+  "startTimestamp": 1765505356000,
   "subcommand": "update"
 }
