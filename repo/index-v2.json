@@ -14,7 +14,7 @@
       }
     },
     "address": "https://xpos587.github.io/fdroid/repo",
-    "timestamp": 1765505356000,
+    "timestamp": 1765591023000,
     "categories": {
       "Internet": {
         "name": {
@@ -51,13 +51,13 @@
   "packages": {
     "com.follow.clash": {
       "metadata": {
-        "added": 1765505193000,
+        "added": 1765590921000,
         "categories": [
           "Internet",
           "Security"
         ],
         "issueTracker": "https://github.com/chen08209/FlClash/issues",
-        "lastUpdated": 1765505196000,
+        "lastUpdated": 1765590923000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/chen08209/FlClash",
         "webSite": "https://github.com/chen08209/FlClash",
@@ -81,8 +81,85 @@
         "preferredSigner": "2859e236b6c1c6073773752678c52e8e902a9503ae9beed6729ca999c376841c"
       },
       "versions": {
+        "94cfe73efd5938a0fce56d59a33b6e1442136b70c45edad8aa5776978ad297b3": {
+          "added": 1765590923000,
+          "file": {
+            "name": "/flclash_v0.8.91.apk",
+            "sha256": "94cfe73efd5938a0fce56d59a33b6e1442136b70c45edad8aa5776978ad297b3",
+            "size": 45790263
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.8.91",
+            "versionCode": 2025124201,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "2859e236b6c1c6073773752678c52e8e902a9503ae9beed6729ca999c376841c"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.CHANGE_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "com.follow.clash.permission.RECEIVE_BROADCASTS"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+              },
+              {
+                "name": "com.google.android.gms.permission.AD_ID"
+              },
+              {
+                "name": "android.permission.ACCESS_ADSERVICES_ATTRIBUTION"
+              },
+              {
+                "name": "android.permission.ACCESS_ADSERVICES_AD_ID"
+              },
+              {
+                "name": "com.follow.clash.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          },
+          "antiFeatures": {
+            "Tracking": {}
+          }
+        },
         "3f67a23066737e8425872e67cdae7f9992f88f7c55334681a0bbd82731010bf3": {
-          "added": 1765505196000,
+          "added": 1765590922000,
           "file": {
             "name": "/flclash_v0.8.90.apk",
             "sha256": "3f67a23066737e8425872e67cdae7f9992f88f7c55334681a0bbd82731010bf3",
@@ -159,7 +236,7 @@
           }
         },
         "13baa716b3066b3b433c9dda9a994f072cd3f37caad3ac81980d82a7fe402816": {
-          "added": 1765505195000,
+          "added": 1765590922000,
           "file": {
             "name": "/flclash_v0.8.89.apk",
             "sha256": "13baa716b3066b3b433c9dda9a994f072cd3f37caad3ac81980d82a7fe402816",
@@ -236,7 +313,7 @@
           }
         },
         "7d9f904ab649f7ee5e740eafcfce5d0479f3e504ee4915acb4e6ed9857087796": {
-          "added": 1765505195000,
+          "added": 1765590921000,
           "file": {
             "name": "/flclash_v0.8.88.apk",
             "sha256": "7d9f904ab649f7ee5e740eafcfce5d0479f3e504ee4915acb4e6ed9857087796",
@@ -313,7 +390,7 @@
           }
         },
         "9086807e180d3baaadf378f4a22be64da95ef5c75bbaead6c428b51a3ee21d7a": {
-          "added": 1765505194000,
+          "added": 1765590921000,
           "file": {
             "name": "/flclash_v0.8.87.apk",
             "sha256": "9086807e180d3baaadf378f4a22be64da95ef5c75bbaead6c428b51a3ee21d7a",
@@ -370,77 +447,18 @@
           "antiFeatures": {
             "Tracking": {}
           }
-        },
-        "9fedd1c1f3fa8a961eb5818d4c5ae20713581b26d38bdc3970aec861945a4654": {
-          "added": 1765505193000,
-          "file": {
-            "name": "/flclash_v0.8.86.apk",
-            "sha256": "9fedd1c1f3fa8a961eb5818d4c5ae20713581b26d38bdc3970aec861945a4654",
-            "size": 40790400
-          },
-          "manifest": {
-            "nativecode": [
-              "arm64-v8a"
-            ],
-            "versionName": "0.8.86",
-            "versionCode": 2025061501,
-            "usesSdk": {
-              "minSdkVersion": 21,
-              "targetSdkVersion": 35
-            },
-            "signer": {
-              "sha256": [
-                "2859e236b6c1c6073773752678c52e8e902a9503ae9beed6729ca999c376841c"
-              ]
-            },
-            "usesPermission": [
-              {
-                "name": "android.permission.INTERNET"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE"
-              },
-              {
-                "name": "android.permission.POST_NOTIFICATIONS"
-              },
-              {
-                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
-              },
-              {
-                "name": "android.permission.ACCESS_NETWORK_STATE"
-              },
-              {
-                "name": "android.permission.CHANGE_NETWORK_STATE"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
-              },
-              {
-                "name": "android.permission.QUERY_ALL_PACKAGES"
-              },
-              {
-                "name": "android.permission.CAMERA"
-              },
-              {
-                "name": "com.follow.clash.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-              }
-            ]
-          },
-          "antiFeatures": {
-            "Tracking": {}
-          }
         }
       }
     },
     "com.v2ray.ang": {
       "metadata": {
-        "added": 1765505209000,
+        "added": 1765590937000,
         "categories": [
           "Internet",
           "Security"
         ],
         "issueTracker": "https://github.com/2dust/v2rayNG/issues",
-        "lastUpdated": 1765505213000,
+        "lastUpdated": 1765590942000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/2dust/v2rayNG",
         "authorName": "2dust",
@@ -464,7 +482,7 @@
       },
       "versions": {
         "7b50911bbe2af5d29bda0e93cef92990a31c5822638d846a93f01b2a0bfe3b60": {
-          "added": 1765505213000,
+          "added": 1765590942000,
           "file": {
             "name": "/v2rayng_1.10.31.apk",
             "sha256": "7b50911bbe2af5d29bda0e93cef92990a31c5822638d846a93f01b2a0bfe3b60",
@@ -529,7 +547,7 @@
           }
         },
         "8309c315bcc9df9d0c4816156ad0af7513a0db29bd6af44e1cf5220357e9c238": {
-          "added": 1765505212000,
+          "added": 1765590941000,
           "file": {
             "name": "/v2rayng_1.10.30.apk",
             "sha256": "8309c315bcc9df9d0c4816156ad0af7513a0db29bd6af44e1cf5220357e9c238",
@@ -594,7 +612,7 @@
           }
         },
         "319ee066e32cd0e6e6717f6961c9fc5029e82e47a441e0e8528a3796d521fa99": {
-          "added": 1765505211000,
+          "added": 1765590940000,
           "file": {
             "name": "/v2rayng_1.10.29.apk",
             "sha256": "319ee066e32cd0e6e6717f6961c9fc5029e82e47a441e0e8528a3796d521fa99",
@@ -659,7 +677,7 @@
           }
         },
         "1ba2afc3ad99bd914364d0ad7fe0831d3d0507b83ade08027ce20ac76e70f58e": {
-          "added": 1765505210000,
+          "added": 1765590938000,
           "file": {
             "name": "/v2rayng_1.10.28.apk",
             "sha256": "1ba2afc3ad99bd914364d0ad7fe0831d3d0507b83ade08027ce20ac76e70f58e",
@@ -724,7 +742,7 @@
           }
         },
         "8b77253e5134930466b965023049c61b7422b6c6e9b2aee2c0690fad7196d547": {
-          "added": 1765505209000,
+          "added": 1765590937000,
           "file": {
             "name": "/v2rayng_1.10.27.apk",
             "sha256": "8b77253e5134930466b965023049c61b7422b6c6e9b2aee2c0690fad7196d547",
@@ -792,13 +810,13 @@
     },
     "md.obsidian": {
       "metadata": {
-        "added": 1765505206000,
+        "added": 1765590933000,
         "categories": [
           "Writing",
           "Science & Education"
         ],
         "issueTracker": "https://github.com/obsidianmd/obsidian-releases/issues",
-        "lastUpdated": 1765505208000,
+        "lastUpdated": 1765590936000,
         "license": "PublicDomain",
         "sourceCode": "https://github.com/obsidianmd/obsidian-releases",
         "webSite": "https://obsidian.md",
@@ -823,7 +841,7 @@
       },
       "versions": {
         "2b8c81c862f6020bc9b8059f1082c60346b288d35fb16aadbb093ec79159936f": {
-          "added": 1765505206000,
+          "added": 1765590934000,
           "file": {
             "name": "/obsidian_v1.10.6.apk",
             "sha256": "2b8c81c862f6020bc9b8059f1082c60346b288d35fb16aadbb093ec79159936f",
@@ -879,7 +897,7 @@
           }
         },
         "80694be9fda6258a5c66b4dfade529e91697813f2c771efeae94d3e3cbf8eed2": {
-          "added": 1765505206000,
+          "added": 1765590933000,
           "file": {
             "name": "/obsidian_v1.10.3.apk",
             "sha256": "80694be9fda6258a5c66b4dfade529e91697813f2c771efeae94d3e3cbf8eed2",
@@ -935,7 +953,7 @@
           }
         },
         "b6aad3d92cfc774308f5df6de8de25df3363999b31347d184af43fd60841657a": {
-          "added": 1765505208000,
+          "added": 1765590936000,
           "file": {
             "name": "/obsidian_v1.9.14.apk",
             "sha256": "b6aad3d92cfc774308f5df6de8de25df3363999b31347d184af43fd60841657a",
@@ -991,7 +1009,7 @@
           }
         },
         "8afdaeaf7b6274138a7f343d34dc75bf461051c385a1088f289dbb99c076f610": {
-          "added": 1765505207000,
+          "added": 1765590935000,
           "file": {
             "name": "/obsidian_v1.9.12.apk",
             "sha256": "8afdaeaf7b6274138a7f343d34dc75bf461051c385a1088f289dbb99c076f610",
@@ -1047,7 +1065,7 @@
           }
         },
         "0b6e5449bbb98bef64c2fdd6d7478600f37cdd39398a179003744619d9a3a8e7": {
-          "added": 1765505207000,
+          "added": 1765590935000,
           "file": {
             "name": "/obsidian_v1.9.10.apk",
             "sha256": "0b6e5449bbb98bef64c2fdd6d7478600f37cdd39398a179003744619d9a3a8e7",
@@ -1106,14 +1124,14 @@
     },
     "pocketnet.app": {
       "metadata": {
-        "added": 1765505190000,
+        "added": 1765590917000,
         "categories": [
           "Social",
           "Internet",
           "Money"
         ],
         "issueTracker": "https://github.com/pocketnetteam/pocketnet.gui/issues",
-        "lastUpdated": 1765505192000,
+        "lastUpdated": 1765590920000,
         "license": "Apache-2.0",
         "sourceCode": "https://github.com/pocketnetteam/pocketnet.gui",
         "webSite": "https://bastyon.com",
@@ -1131,7 +1149,7 @@
       },
       "versions": {
         "266c215001ad92c797ca85d3e8f142e92cb678c132e36dbb14ef135aed84e181": {
-          "added": 1765505192000,
+          "added": 1765590920000,
           "file": {
             "name": "/bastyon_v0.9.134.apk",
             "sha256": "266c215001ad92c797ca85d3e8f142e92cb678c132e36dbb14ef135aed84e181",
@@ -1301,7 +1319,7 @@
           }
         },
         "a87805b04253a49e64ac224993c6366ca6554c10435cdd02660ecbb683a86534": {
-          "added": 1765505192000,
+          "added": 1765590919000,
           "file": {
             "name": "/bastyon_v0.9.129.apk",
             "sha256": "a87805b04253a49e64ac224993c6366ca6554c10435cdd02660ecbb683a86534",
@@ -1471,7 +1489,7 @@
           }
         },
         "e1c4fc3aaf428666c98eb1cbaeb663a7f5e9d73fd26b68ad9b64eb08761ae29e": {
-          "added": 1765505191000,
+          "added": 1765590918000,
           "file": {
             "name": "/bastyon_v0.9.124.apk",
             "sha256": "e1c4fc3aaf428666c98eb1cbaeb663a7f5e9d73fd26b68ad9b64eb08761ae29e",
@@ -1632,7 +1650,7 @@
           }
         },
         "92a3c74b255d0cc18e534acf0351a307f795c4e36121bdeae200b5574a933029": {
-          "added": 1765505191000,
+          "added": 1765590918000,
           "file": {
             "name": "/bastyon_v0.9.119.apk",
             "sha256": "92a3c74b255d0cc18e534acf0351a307f795c4e36121bdeae200b5574a933029",
@@ -1793,7 +1811,7 @@
           }
         },
         "b90223f63faa271d81f28009c2866506e3a3d1ee6f1ba30be1c4aae9bca334cb": {
-          "added": 1765505190000,
+          "added": 1765590917000,
           "file": {
             "name": "/bastyon_v0.9.116.apk",
             "sha256": "b90223f63faa271d81f28009c2866506e3a3d1ee6f1ba30be1c4aae9bca334cb",
@@ -1957,13 +1975,13 @@
     },
     "su.happ.proxyutility": {
       "metadata": {
-        "added": 1765505197000,
+        "added": 1765590925000,
         "categories": [
           "Internet",
           "Security"
         ],
         "issueTracker": "https://github.com/Happ-proxy/happ-android/issues",
-        "lastUpdated": 1765505205000,
+        "lastUpdated": 1765590933000,
         "license": "PublicDomain",
         "sourceCode": "https://github.com/Happ-proxy/happ-android",
         "webSite": "https://www.happ.su/",
@@ -1987,8 +2005,172 @@
         "preferredSigner": "397e98abed03c5f263ffaf4e8a1043b2a59f538b99e75cf152fa05a7e8007d8d"
       },
       "versions": {
+        "3cc2d3d1635c2b9b1e90b72f68c672cdcb1c33b71bd10ab2fb42ac291445a28f": {
+          "added": 1765590933000,
+          "file": {
+            "name": "/happ_3.7.1.apk",
+            "sha256": "3cc2d3d1635c2b9b1e90b72f68c672cdcb1c33b71bd10ab2fb42ac291445a28f",
+            "size": 55094810
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "3.7.1",
+            "versionCode": 1319,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "397e98abed03c5f263ffaf4e8a1043b2a59f538b99e75cf152fa05a7e8007d8d"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.CHANGE_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.QUICKBOOT_POWERON"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "com.google.android.c2dm.permission.RECEIVE"
+              },
+              {
+                "name": "su.happ.proxyutility.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          },
+          "antiFeatures": {
+            "Tracking": {},
+            "UpstreamNonFree": {}
+          }
+        },
+        "54b7fe94531a09f0ca512566a75a4444ce0bdf62a13ae91ec2bb0f4074eee041": {
+          "added": 1765590931000,
+          "file": {
+            "name": "/happ_3.7.0.apk",
+            "sha256": "54b7fe94531a09f0ca512566a75a4444ce0bdf62a13ae91ec2bb0f4074eee041",
+            "size": 55095742
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a"
+            ],
+            "versionName": "3.7.0",
+            "versionCode": 1317,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "397e98abed03c5f263ffaf4e8a1043b2a59f538b99e75cf152fa05a7e8007d8d"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.CHANGE_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.QUICKBOOT_POWERON"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "com.google.android.c2dm.permission.RECEIVE"
+              },
+              {
+                "name": "su.happ.proxyutility.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          },
+          "antiFeatures": {
+            "Tracking": {},
+            "UpstreamNonFree": {}
+          }
+        },
         "162e44d7f336ed89c67b0b02349fb056a000087b61452f7dffd2211631da0b56": {
-          "added": 1765505205000,
+          "added": 1765590929000,
           "file": {
             "name": "/happ_3.6.2.apk",
             "sha256": "162e44d7f336ed89c67b0b02349fb056a000087b61452f7dffd2211631da0b56",
@@ -2070,7 +2252,7 @@
           }
         },
         "9a468daadd4321e3043a7a1195798d128ccded8b217ff1139906ec2936676630": {
-          "added": 1765505203000,
+          "added": 1765590927000,
           "file": {
             "name": "/happ_3.6.1.apk",
             "sha256": "9a468daadd4321e3043a7a1195798d128ccded8b217ff1139906ec2936676630",
@@ -2152,7 +2334,7 @@
           }
         },
         "4fc54198bf7737bf3e3c7f9d59177430eab02f9b0323f5aa00785201c15cb88b": {
-          "added": 1765505201000,
+          "added": 1765590925000,
           "file": {
             "name": "/happ_3.6.0.apk",
             "sha256": "4fc54198bf7737bf3e3c7f9d59177430eab02f9b0323f5aa00785201c15cb88b",
@@ -2165,170 +2347,6 @@
             ],
             "versionName": "3.6.0",
             "versionCode": 1303,
-            "usesSdk": {
-              "minSdkVersion": 21,
-              "targetSdkVersion": 36
-            },
-            "signer": {
-              "sha256": [
-                "397e98abed03c5f263ffaf4e8a1043b2a59f538b99e75cf152fa05a7e8007d8d"
-              ]
-            },
-            "usesPermission": [
-              {
-                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
-              },
-              {
-                "name": "android.permission.QUERY_ALL_PACKAGES"
-              },
-              {
-                "name": "android.permission.ACCESS_NETWORK_STATE"
-              },
-              {
-                "name": "android.permission.CHANGE_NETWORK_STATE"
-              },
-              {
-                "name": "android.permission.INTERNET"
-              },
-              {
-                "name": "android.permission.READ_EXTERNAL_STORAGE"
-              },
-              {
-                "name": "android.permission.CAMERA"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
-              },
-              {
-                "name": "android.permission.POST_NOTIFICATIONS"
-              },
-              {
-                "name": "android.permission.READ_MEDIA_IMAGES"
-              },
-              {
-                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
-              },
-              {
-                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
-              },
-              {
-                "name": "android.permission.QUICKBOOT_POWERON"
-              },
-              {
-                "name": "android.permission.WAKE_LOCK"
-              },
-              {
-                "name": "com.google.android.c2dm.permission.RECEIVE"
-              },
-              {
-                "name": "su.happ.proxyutility.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-              }
-            ]
-          },
-          "antiFeatures": {
-            "Tracking": {},
-            "UpstreamNonFree": {}
-          }
-        },
-        "64145fe09ac060ee4841cc4b6be54d1de497bf452f6de2d3409d60ed8c05ed4a": {
-          "added": 1765505199000,
-          "file": {
-            "name": "/happ_3.5.2.apk",
-            "sha256": "64145fe09ac060ee4841cc4b6be54d1de497bf452f6de2d3409d60ed8c05ed4a",
-            "size": 52783336
-          },
-          "manifest": {
-            "nativecode": [
-              "arm64-v8a",
-              "armeabi-v7a"
-            ],
-            "versionName": "3.5.2",
-            "versionCode": 1297,
-            "usesSdk": {
-              "minSdkVersion": 21,
-              "targetSdkVersion": 36
-            },
-            "signer": {
-              "sha256": [
-                "397e98abed03c5f263ffaf4e8a1043b2a59f538b99e75cf152fa05a7e8007d8d"
-              ]
-            },
-            "usesPermission": [
-              {
-                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
-              },
-              {
-                "name": "android.permission.QUERY_ALL_PACKAGES"
-              },
-              {
-                "name": "android.permission.ACCESS_NETWORK_STATE"
-              },
-              {
-                "name": "android.permission.CHANGE_NETWORK_STATE"
-              },
-              {
-                "name": "android.permission.INTERNET"
-              },
-              {
-                "name": "android.permission.READ_EXTERNAL_STORAGE"
-              },
-              {
-                "name": "android.permission.CAMERA"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
-              },
-              {
-                "name": "android.permission.POST_NOTIFICATIONS"
-              },
-              {
-                "name": "android.permission.READ_MEDIA_IMAGES"
-              },
-              {
-                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
-              },
-              {
-                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
-              },
-              {
-                "name": "android.permission.QUICKBOOT_POWERON"
-              },
-              {
-                "name": "android.permission.WAKE_LOCK"
-              },
-              {
-                "name": "com.google.android.c2dm.permission.RECEIVE"
-              },
-              {
-                "name": "su.happ.proxyutility.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-              }
-            ]
-          },
-          "antiFeatures": {
-            "Tracking": {},
-            "UpstreamNonFree": {}
-          }
-        },
-        "021479e6c65332245fbbd4994b4e5c7cdff73d6bcfbe082fd333680ce0eebb41": {
-          "added": 1765505197000,
-          "file": {
-            "name": "/happ_3.5.1.apk",
-            "sha256": "021479e6c65332245fbbd4994b4e5c7cdff73d6bcfbe082fd333680ce0eebb41",
-            "size": 52781096
-          },
-          "manifest": {
-            "nativecode": [
-              "arm64-v8a",
-              "armeabi-v7a"
-            ],
-            "versionName": "3.5.1",
-            "versionCode": 1293,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 36
