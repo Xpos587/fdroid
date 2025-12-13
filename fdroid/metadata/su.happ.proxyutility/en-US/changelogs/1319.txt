@@ -1,0 +1,7 @@
+* Added option to share full logs report with a development team
+* Fixed some cases of invalid install ID / provider ID updates
+* Http errors are moved to snackbars
+* Fixed some cases when updated subscription's details were not shown on refresh
+* Fixed some issues related to fronting
+* Minor fixes related to insecure connections
+* Minor logging improvements
