@@ -1,0 +1,4 @@
+* Improved detection and notification of modified device system time (must not be used for correct application behavior)
+* Xray core 25.12.8
+* Fixed subscription collapse mode
+* Improved dialogs UX/UI for TV
