@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1766282939000,
+    "timestamp": 1766369319000,
     "version": 20002,
     "name": "Xpos587 Apps Repository",
     "icon": "icon.png",
@@ -28,9 +28,9 @@
       "sourceCode": "https://github.com/pocketnetteam/pocketnet.gui",
       "summary": "Decentralized social network based on the blockchain",
       "webSite": "https://bastyon.com",
-      "added": 1766282835000,
+      "added": 1766369215000,
       "packageName": "pocketnet.app",
-      "lastUpdated": 1766282837000,
+      "lastUpdated": 1766369217000,
       "localized": {
         "en-US": {
           "whatsNew": "## What's Changed\n\n- change transactions api version (for offer meta data option) (#1572) (391f0cabd)\n- add barteron offer metadata (#1571) (47068c5d0)\n- Update roy.js (#1570) (a2a8f9ce6)\n- Update package.json (#1569) (2d1f54df3)\n- Update package.json (#1567) (449d9cc7d)\n- v (#1568) (2ae775bd8)\n- v (#1566) (b96105685)\n- feat: add review miniapp (#1565) (1460679a4)\n- feat: add review miniapp (#1564) (407866ab2)\n- v (#1563) (976e34485)\n- feat: add default all filters for miniapps (#1561) (d08e6a77"
@@ -55,9 +55,9 @@
       "sourceCode": "https://github.com/chen08209/FlClash",
       "summary": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open...",
       "webSite": "https://github.com/chen08209/FlClash",
-      "added": 1766282838000,
+      "added": 1766369218000,
       "packageName": "com.follow.clash",
-      "lastUpdated": 1766282840000,
+      "lastUpdated": 1766369220000,
       "localized": {
         "en-US": {
           "icon": "icon_lUz_WQbrZ0U_h6aCBjqnhLbOU_3zzj_BVc9KtuRpPAA=.png",
@@ -84,9 +84,9 @@
       "sourceCode": "https://github.com/Happ-proxy/happ-android",
       "summary": "A proxy management app powered by Xray core with support for multiple protocols.",
       "webSite": "https://www.happ.su/",
-      "added": 1766282842000,
+      "added": 1766369222000,
       "packageName": "su.happ.proxyutility",
-      "lastUpdated": 1766282849000,
+      "lastUpdated": 1766369230000,
       "localized": {
         "en-US": {
           "icon": "icon_bVkO3MQVFiyBXJKrKcYoD8lvKrn_tjcNvn102YKeXaQ=.png",
@@ -112,9 +112,9 @@
       "sourceCode": "https://github.com/obsidianmd/obsidian-releases",
       "summary": "Community plugins list, theme list, and releases of Obsidian.",
       "webSite": "https://obsidian.md",
-      "added": 1766282850000,
+      "added": 1766369231000,
       "packageName": "md.obsidian",
-      "lastUpdated": 1766282853000,
+      "lastUpdated": 1766369233000,
       "localized": {
         "en-US": {
           "icon": "icon_vxk9cuyU4RjMhCilVSUbiS_GUsyRhR26mhErBGYrZNI=.png",
@@ -136,9 +136,9 @@
       "name": "v2rayNG",
       "sourceCode": "https://github.com/2dust/v2rayNG",
       "summary": "A V2Ray client for Android, support Xray core and v2fly core",
-      "added": 1766282854000,
+      "added": 1766369234000,
       "packageName": "com.v2ray.ang",
-      "lastUpdated": 1766282858000,
+      "lastUpdated": 1766369239000,
       "localized": {
         "en-US": {
           "icon": "icon_dW_SaDQ-FnlJIqDSeSu5TzAlMeiUzvHY1mboTl017pk=.png",
@@ -150,7 +150,7 @@
   "packages": {
     "com.follow.clash": [
       {
-        "added": 1766282840000,
+        "added": 1766369220000,
         "apkName": "flclash_v0.8.91.apk",
         "hash": "94cfe73efd5938a0fce56d59a33b6e1442136b70c45edad8aa5776978ad297b3",
         "hashType": "sha256",
@@ -233,7 +233,7 @@
         "versionName": "0.8.91"
       },
       {
-        "added": 1766282839000,
+        "added": 1766369220000,
         "apkName": "flclash_v0.8.90.apk",
         "hash": "3f67a23066737e8425872e67cdae7f9992f88f7c55334681a0bbd82731010bf3",
         "hashType": "sha256",
@@ -316,7 +316,7 @@
         "versionName": "0.8.90"
       },
       {
-        "added": 1766282839000,
+        "added": 1766369219000,
         "apkName": "flclash_v0.8.89.apk",
         "hash": "13baa716b3066b3b433c9dda9a994f072cd3f37caad3ac81980d82a7fe402816",
         "hashType": "sha256",
@@ -399,7 +399,7 @@
         "versionName": "0.8.89"
       },
       {
-        "added": 1766282838000,
+        "added": 1766369219000,
         "apkName": "flclash_v0.8.88.apk",
         "hash": "7d9f904ab649f7ee5e740eafcfce5d0479f3e504ee4915acb4e6ed9857087796",
         "hashType": "sha256",
@@ -482,7 +482,7 @@
         "versionName": "0.8.88"
       },
       {
-        "added": 1766282838000,
+        "added": 1766369218000,
         "apkName": "flclash_v0.8.87.apk",
         "hash": "9086807e180d3baaadf378f4a22be64da95ef5c75bbaead6c428b51a3ee21d7a",
         "hashType": "sha256",
@@ -543,7 +543,7 @@
     ],
     "com.v2ray.ang": [
       {
-        "added": 1766282858000,
+        "added": 1766369239000,
         "apkName": "v2rayng_1.10.31.apk",
         "hash": "7b50911bbe2af5d29bda0e93cef92990a31c5822638d846a93f01b2a0bfe3b60",
         "hashType": "sha256",
@@ -614,7 +614,7 @@
         "versionName": "1.10.31"
       },
       {
-        "added": 1766282857000,
+        "added": 1766369238000,
         "apkName": "v2rayng_1.10.30.apk",
         "hash": "8309c315bcc9df9d0c4816156ad0af7513a0db29bd6af44e1cf5220357e9c238",
         "hashType": "sha256",
@@ -685,7 +685,7 @@
         "versionName": "1.10.30"
       },
       {
-        "added": 1766282856000,
+        "added": 1766369237000,
         "apkName": "v2rayng_1.10.29.apk",
         "hash": "319ee066e32cd0e6e6717f6961c9fc5029e82e47a441e0e8528a3796d521fa99",
         "hashType": "sha256",
@@ -756,7 +756,7 @@
         "versionName": "1.10.29"
       },
       {
-        "added": 1766282855000,
+        "added": 1766369236000,
         "apkName": "v2rayng_1.10.28.apk",
         "hash": "1ba2afc3ad99bd914364d0ad7fe0831d3d0507b83ade08027ce20ac76e70f58e",
         "hashType": "sha256",
@@ -827,7 +827,7 @@
         "versionName": "1.10.28"
       },
       {
-        "added": 1766282854000,
+        "added": 1766369234000,
         "apkName": "v2rayng_1.10.27.apk",
         "hash": "8b77253e5134930466b965023049c61b7422b6c6e9b2aee2c0690fad7196d547",
         "hashType": "sha256",
@@ -900,7 +900,7 @@
     ],
     "md.obsidian": [
       {
-        "added": 1766282851000,
+        "added": 1766369231000,
         "apkName": "obsidian_v1.10.6.apk",
         "hash": "2b8c81c862f6020bc9b8059f1082c60346b288d35fb16aadbb093ec79159936f",
         "hashType": "sha256",
@@ -954,7 +954,7 @@
         "versionName": "1.10.6"
       },
       {
-        "added": 1766282850000,
+        "added": 1766369231000,
         "apkName": "obsidian_v1.10.3.apk",
         "hash": "80694be9fda6258a5c66b4dfade529e91697813f2c771efeae94d3e3cbf8eed2",
         "hashType": "sha256",
@@ -1008,7 +1008,7 @@
         "versionName": "1.10.3"
       },
       {
-        "added": 1766282853000,
+        "added": 1766369233000,
         "apkName": "obsidian_v1.9.14.apk",
         "hash": "b6aad3d92cfc774308f5df6de8de25df3363999b31347d184af43fd60841657a",
         "hashType": "sha256",
@@ -1062,7 +1062,7 @@
         "versionName": "1.9.14"
       },
       {
-        "added": 1766282852000,
+        "added": 1766369233000,
         "apkName": "obsidian_v1.9.12.apk",
         "hash": "8afdaeaf7b6274138a7f343d34dc75bf461051c385a1088f289dbb99c076f610",
         "hashType": "sha256",
@@ -1116,7 +1116,7 @@
         "versionName": "1.9.12"
       },
       {
-        "added": 1766282851000,
+        "added": 1766369232000,
         "apkName": "obsidian_v1.9.10.apk",
         "hash": "0b6e5449bbb98bef64c2fdd6d7478600f37cdd39398a179003744619d9a3a8e7",
         "hashType": "sha256",
@@ -1172,7 +1172,7 @@
     ],
     "pocketnet.app": [
       {
-        "added": 1766282837000,
+        "added": 1766369217000,
         "apkName": "bastyon_v0.9.134.apk",
         "hash": "266c215001ad92c797ca85d3e8f142e92cb678c132e36dbb14ef135aed84e181",
         "hashType": "sha256",
@@ -1382,7 +1382,7 @@
         "versionName": "1.8.134"
       },
       {
-        "added": 1766282836000,
+        "added": 1766369217000,
         "apkName": "bastyon_v0.9.129.apk",
         "hash": "a87805b04253a49e64ac224993c6366ca6554c10435cdd02660ecbb683a86534",
         "hashType": "sha256",
@@ -1592,7 +1592,7 @@
         "versionName": "1.8.129"
       },
       {
-        "added": 1766282836000,
+        "added": 1766369216000,
         "apkName": "bastyon_v0.9.124.apk",
         "hash": "e1c4fc3aaf428666c98eb1cbaeb663a7f5e9d73fd26b68ad9b64eb08761ae29e",
         "hashType": "sha256",
@@ -1790,7 +1790,7 @@
         "versionName": "1.8.124"
       },
       {
-        "added": 1766282835000,
+        "added": 1766369216000,
         "apkName": "bastyon_v0.9.119.apk",
         "hash": "92a3c74b255d0cc18e534acf0351a307f795c4e36121bdeae200b5574a933029",
         "hashType": "sha256",
@@ -1988,7 +1988,7 @@
         "versionName": "1.8.119"
       },
       {
-        "added": 1766282835000,
+        "added": 1766369215000,
         "apkName": "bastyon_v0.9.116.apk",
         "hash": "b90223f63faa271d81f28009c2866506e3a3d1ee6f1ba30be1c4aae9bca334cb",
         "hashType": "sha256",
@@ -2188,7 +2188,7 @@
     ],
     "su.happ.proxyutility": [
       {
-        "added": 1766282849000,
+        "added": 1766369230000,
         "apkName": "happ_3.8.0.apk",
         "hash": "5d50ff008412f71630f8539db345a8f72b0105e721d77fb330196ddcca73483f",
         "hashType": "sha256",
@@ -2276,7 +2276,7 @@
         "versionName": "3.8.0"
       },
       {
-        "added": 1766282847000,
+        "added": 1766369228000,
         "apkName": "happ_3.7.1.apk",
         "hash": "3cc2d3d1635c2b9b1e90b72f68c672cdcb1c33b71bd10ab2fb42ac291445a28f",
         "hashType": "sha256",
@@ -2364,7 +2364,7 @@
         "versionName": "3.7.1"
       },
       {
-        "added": 1766282845000,
+        "added": 1766369226000,
         "apkName": "happ_3.7.0.apk",
         "hash": "54b7fe94531a09f0ca512566a75a4444ce0bdf62a13ae91ec2bb0f4074eee041",
         "hashType": "sha256",
@@ -2452,7 +2452,7 @@
         "versionName": "3.7.0"
       },
       {
-        "added": 1766282844000,
+        "added": 1766369224000,
         "apkName": "happ_3.6.2.apk",
         "hash": "162e44d7f336ed89c67b0b02349fb056a000087b61452f7dffd2211631da0b56",
         "hashType": "sha256",
@@ -2540,7 +2540,7 @@
         "versionName": "3.6.2"
       },
       {
-        "added": 1766282842000,
+        "added": 1766369222000,
         "apkName": "happ_3.6.1.apk",
         "hash": "9a468daadd4321e3043a7a1195798d128ccded8b217ff1139906ec2936676630",
         "hashType": "sha256",
