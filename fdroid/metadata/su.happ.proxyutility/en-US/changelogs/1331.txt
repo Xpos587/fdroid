@@ -1,0 +1,3 @@
+* Auto-start after application update
+* Multiple fixes related to application auto-start on boot
+* Minor UI fixes
