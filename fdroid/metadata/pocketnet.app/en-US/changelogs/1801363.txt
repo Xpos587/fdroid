@@ -1,0 +1,44 @@
+## What's Changed
+* fix: android fix()mb by @maxgithubprofile in https://github.com/pocketnetteam/pocketnet.gui/pull/1577
+* fix: dg electron builder by @maxgithubprofile in https://github.com/pocketnetteam/pocketnet.gui/pull/1578
+* fix: fill here the pr title by @maxgithubprofile in https://github.com/pocketnetteam/pocketnet.gui/pull/1579
+* fix: apps keyboard events by @Voyager-3rd in https://github.com/pocketnetteam/pocketnet.gui/pull/1575
+* fix: kb, sharing by @maxgithubprofile in https://github.com/pocketnetteam/pocketnet.gui/pull/1580
+* fix: edgetoedge by @maxgithubprofile in https://github.com/pocketnetteam/pocketnet.gui/pull/1582
+* patch: add lang urlpreview param by @Voyager-3rd in https://github.com/pocketnetteam/pocketnet.gui/pull/1581
+* patch: change transactions api version to 7 by @Voyager-3rd in https://github.com/pocketnetteam/pocketnet.gui/pull/1576
+* fix: app in wnd by @maxgithubprofile in https://github.com/pocketnetteam/pocketnet.gui/pull/1583
+* fix: improve ux miniapps by @DaniilKimlb in https://github.com/pocketnetteam/pocketnet.gui/pull/1584
+* patch: change barteron button by @Voyager-3rd in https://github.com/pocketnetteam/pocketnet.gui/pull/1585
+* fix: kb size by @maxgithubprofile in https://github.com/pocketnetteam/pocketnet.gui/pull/1586
+* fix: kb resize by @maxgithubprofile in https://github.com/pocketnetteam/pocketnet.gui/pull/1587
+* feat: improve ux for mini-app and add translate comment by @DaniilKimlb in https://github.com/pocketnetteam/pocketnet.gui/pull/1588
+* fix: layout by @maxgithubprofile in https://github.com/pocketnetteam/pocketnet.gui/pull/1589
+* feat: improve ux styles for mini-apps by @DaniilKimlb in https://github.com/pocketnetteam/pocketnet.gui/pull/1590
+* user joining bug fix  by @maxgithubprofile in https://github.com/pocketnetteam/pocketnet.gui/pull/1591
+
+**Full Changelog**: https://github.com/pocketnetteam/pocketnet.gui/compare/v0.9.134...v0.9.136
+
+## SHA256 checksums
+```
+f196dedcd0790e34875bf97b6be2d81593d42e4177520eb76fa35f08fa4cd4b6  Bastyon.apk
+add724a053916d136120f5ad0d54ab4e9f180251551d97e38b3fd1f92d80ffcc  Bastyon.AppImage
+9043d3ca432133d548e7d572d38227780b705f4efc1b5a3fc02b510063c4779c  BastyonGF.apk
+4fca18a422e1304b1ae00d94e632e3618edab07c15980382c4b630fac7e69364  BastyonSetup.deb
+a1ae3d9ec42f55d0d6b0b28cf2dcec3bfe4a8499e73ac40a91a96e9c0f8e1c1c  BastyonSetup.dmg
+01086760934951b3838a66b2e5d5b25326609011349052ce70882848f5b74abf  BastyonSetup.exe
+b267418f1e89fbd1e0c761f9f95301300b2d52ae28fed2b1bc3be3d8e3ec4dc0  BastyonSetup.rpm
+ad53a5758a29c4f28c1ec70728c6ef5fc050f0180b5e058a63675e87278d6101  BastyonSetup-win7.exe
+74c456deb1095f2173298fecf4e011e845df02b3268a21f4d7e6a05b560439e8  head.txt
+799e43850333e5682c5985b1e23c75c9d8817aafbd4b7de84964c5ee66df10c3  latest-linux.yml
+c4e1363b797c5079eb134366badcdf95b8edaffc1c733490d91445923929c837  latest-mac.yml
+0fb30024186bcc8d3448c10089c273452772998ff404d2ce3949e677225c8250  latest-win7.yml
+cc5f5013987e50e065f7a7f134b6b81b2ff716da1bcbda4b91a2ab14f16bf81f  latest.yml
+```
+
+## Attention!
+We distribute our software only through https://github.com/pocketnetteam
+Any other resources offering to download executables, "installers" or source code are not related to the Pocketnet Team community
+
+## Contacts
+support@pocketnet.app

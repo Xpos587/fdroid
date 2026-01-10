@@ -42,7 +42,7 @@ This repository hosts a [F-Droid](https://f-droid.org/) repo for curated Android
 <!-- This table is auto-generated. Do not edit -->
 | Icon | Name | Description | Version |
 | --- | --- | --- | --- |
-| <a href="https://github.com/pocketnetteam/pocketnet.gui"><img src="fdroid/repo/pocketnet.app/en-US/icon.png" alt="Bastyon icon" width="36px" height="36px"></a> | [**Bastyon**](https://github.com/pocketnetteam/pocketnet.gui) | Decentralized social network based on the blockchain | 1.8.134 (1801342) |
+| <a href="https://github.com/pocketnetteam/pocketnet.gui"><img src="fdroid/repo/pocketnet.app/en-US/icon.png" alt="Bastyon icon" width="36px" height="36px"></a> | [**Bastyon**](https://github.com/pocketnetteam/pocketnet.gui) | Decentralized social network based on the blockchain | 1.8.136 (1801363) |
 | <a href="https://github.com/chen08209/FlClash"><img src="fdroid/repo/com.follow.clash/en-US/icon.png" alt="FlClash icon" width="36px" height="36px"></a> | [**FlClash**](https://github.com/chen08209/FlClash) | A multi-platform proxy client based on ClashMeta,simple and easy to use, open... | 0.8.91 (2025124201) |
 | <a href="https://github.com/Happ-proxy/happ-android"><img src="fdroid/repo/su.happ.proxyutility/en-US/icon.png" alt="Happ icon" width="36px" height="36px"></a> | [**Happ**](https://github.com/Happ-proxy/happ-android) | A proxy management app powered by Xray core with support for multiple protocols. | 3.8.1 (1331) |
 | <a href="https://github.com/obsidianmd/obsidian-releases"><img src="fdroid/repo/md.obsidian/en-US/icon.png" alt="Obsidian icon" width="36px" height="36px"></a> | [**Obsidian**](https://github.com/obsidianmd/obsidian-releases) | Community plugins list, theme list, and releases of Obsidian. | 1.10.6 (256) |
