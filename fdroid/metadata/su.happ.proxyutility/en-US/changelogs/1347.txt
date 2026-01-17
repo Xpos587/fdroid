@@ -1,0 +1,15 @@
+* Fixed issues when on-open features were not launched (auto-connect, auto-ping, etc.)
+* Major refactoring related to application themes, styles and resources management (fixes issues with theme switching)
+* Per-app-proxy: include applications that do not directly require internet permission (e.g. gemini and system apps)
+* Multiple UI fixes and improvements for TV (snackers, dialogs, scroll effects, etc.)
+* Fixed issues related to infinite update dialog during server-list updates
+* Added bouncing animation for subscription-server list (during overscroll)
+* Fixed an issue when deeplink import resulted in duplicated subscriptions
+* Fixes related to system bars
+* New key-words support and other improvements for routing rules manual input
+* New meta-parameter related to subscription expansion
+* Fixed an issue with noises block visibility on manual server input screen
+* Added detailed messages for errors related to connection issues
+* Fixed an issue when snackbar touch zone was blocking settings and plus buttons on main screen
+* Major refactoring of routing profiles screen + added individual share button for routing profiles (swipe right)
+* Added more details to errors in snackbars related to permissions + go to settings button
