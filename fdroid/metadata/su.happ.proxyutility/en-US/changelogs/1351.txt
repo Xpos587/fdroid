@@ -1,0 +1,3 @@
+* Fixed subscription manual title input was not applied
+* Fixed subscription content blinking during ping
+* New expand-collapse subscription chevron animation
