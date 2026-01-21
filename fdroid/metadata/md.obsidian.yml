@@ -8,8 +8,8 @@ Builds:
 Categories:
     - Writing
     - Science & Education
-CurrentVersion: 1.11.4
-CurrentVersionCode: 277
+CurrentVersion: 1.11.5
+CurrentVersionCode: 279
 Description: |
     A powerful knowledge base on top of a local folder of plain text Markdown files
 
