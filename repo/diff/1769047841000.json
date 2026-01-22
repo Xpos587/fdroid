@@ -1,0 +1,21 @@
+{
+  "repo": {
+    "timestamp": 1769047927000
+  },
+  "packages": {
+    "com.v2ray.ang": {
+      "versions": {
+        "b0dc67b61bc6e6489e06ef720c3721faeb10f7166b1c0eec16b4be34a94d03ab": {
+          "releaseChannels": null
+        }
+      }
+    },
+    "su.happ.proxyutility": {
+      "versions": {
+        "4cdab0fde39cad77b0a56dede476a3d040b87add9c17735332e601f93cab8c6a": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}
