@@ -22,10 +22,10 @@
     "--delete-unknown"
   ],
   "disabled": [],
-  "endTimestamp": 1769653915962,
+  "endTimestamp": 1769742106804,
   "failedBuilds": {},
-  "jarsigner": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.17-10/x64/bin/jarsigner",
-  "keytool": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.17-10/x64/bin/keytool",
+  "jarsigner": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.18-8/x64/bin/jarsigner",
+  "keytool": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.18-8/x64/bin/keytool",
   "needsUpdate": [
     "be.mygod.shadowsocks.plugin.dnstt"
   ],
@@ -39,14 +39,14 @@
   ],
   "noUpdateCheck": [],
   "stages": {
-    "delete_disabled_builds": 1769653913225,
-    "index.make repo": 1769653913407,
-    "prepare_apps repo": 1769653913402,
-    "process_apks": 1769653913225,
-    "read_added_date_from_all_apks": 1769653913402,
-    "remove_apks": 1769653913402,
-    "scan_repo_files": 1769653913401
+    "delete_disabled_builds": 1769742103868,
+    "index.make repo": 1769742104050,
+    "prepare_apps repo": 1769742104045,
+    "process_apks": 1769742103869,
+    "read_added_date_from_all_apks": 1769742104044,
+    "remove_apks": 1769742104044,
+    "scan_repo_files": 1769742104044
   },
-  "startTimestamp": 1769653913000,
+  "startTimestamp": 1769742103000,
   "subcommand": "update"
 }
