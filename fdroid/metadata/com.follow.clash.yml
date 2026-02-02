@@ -8,8 +8,8 @@ Builds:
 Categories:
     - Internet
     - Security
-CurrentVersion: 0.8.91
-CurrentVersionCode: 2025124201
+CurrentVersion: 0.8.92
+CurrentVersionCode: 2026022201
 Description: |
     A multi-platform proxy client based on ClashMeta, simple and easy to use, open-source and ad-free
 
