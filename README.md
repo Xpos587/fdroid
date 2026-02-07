@@ -44,9 +44,9 @@ This repository hosts a [F-Droid](https://f-droid.org/) repo for curated Android
 | --- | --- | --- | --- |
 | <a href="https://github.com/pocketnetteam/pocketnet.gui"><img src="fdroid/repo/pocketnet.app/en-US/icon.png" alt="Bastyon icon" width="36px" height="36px"></a> | [**Bastyon**](https://github.com/pocketnetteam/pocketnet.gui) | Decentralized social network based on the blockchain | 1.8.136 (1801363) |
 | <a href="https://github.com/chen08209/FlClash"><img src="fdroid/repo/com.follow.clash/en-US/icon.png" alt="FlClash icon" width="36px" height="36px"></a> | [**FlClash**](https://github.com/chen08209/FlClash) | A multi-platform proxy client based on ClashMeta,simple and easy to use, open... | 0.8.92 (2026022201) |
-| <a href="https://github.com/Happ-proxy/happ-android"><img src="fdroid/repo/su.happ.proxyutility/en-US/icon.png" alt="Happ icon" width="36px" height="36px"></a> | [**Happ**](https://github.com/Happ-proxy/happ-android) | A proxy management app powered by Xray core with support for multiple protocols. | 3.9.2 (1365) |
+| <a href="https://github.com/Happ-proxy/happ-android"><img src="fdroid/repo/su.happ.proxyutility/en-US/icon.png" alt="Happ icon" width="36px" height="36px"></a> | [**Happ**](https://github.com/Happ-proxy/happ-android) | A proxy management app powered by Xray core with support for multiple protocols. | 3.10.0 (1383) |
 | <a href="https://github.com/obsidianmd/obsidian-releases"><img src="fdroid/repo/md.obsidian/en-US/icon.png" alt="Obsidian icon" width="36px" height="36px"></a> | [**Obsidian**](https://github.com/obsidianmd/obsidian-releases) | Community plugins list, theme list, and releases of Obsidian. | 1.11.7 (287) |
-| <a href="https://github.com/2dust/v2rayNG"><img src="fdroid/repo/com.v2ray.ang/en-US/icon.png" alt="v2rayNG icon" width="36px" height="36px"></a> | [**v2rayNG**](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, support Xray core and v2fly core | 2.0.7 (4000707) |
+| <a href="https://github.com/2dust/v2rayNG"><img src="fdroid/repo/com.v2ray.ang/en-US/icon.png" alt="v2rayNG icon" width="36px" height="36px"></a> | [**v2rayNG**](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, support Xray core and v2fly core | 2.0.8 (4000708) |
 <!-- end apps table -->
 
 ## How to use

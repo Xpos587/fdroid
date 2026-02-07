@@ -1,0 +1,8 @@
+* Multiple UI improvements and new animations
+* Fixed an issue when selected server was changed during subscriptions' imports and upates
+* Fixed an issue when ping-on-open was not invoked
+* Multiple fixes related to manual creation of wireguard servers
+* Improved warning about subscription expire deadline
+* Minor fixes for light/dark theme switches
+* Added warning dialog to prevent from accidental routing profile deletion
+* Major internal updates related to stability and performance
