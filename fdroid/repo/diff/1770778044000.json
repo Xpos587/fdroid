@@ -1,0 +1,14 @@
+{
+  "repo": {
+    "timestamp": 1770778131000
+  },
+  "packages": {
+    "pocketnet.app": {
+      "versions": {
+        "de87953f4c4c28b2867ac1c1488eb470a0f4d11f1e49942f80e561aa8d4ccf55": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}

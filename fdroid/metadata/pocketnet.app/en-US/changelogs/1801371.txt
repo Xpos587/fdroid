@@ -1,0 +1,41 @@
+## What's Changed
+* fix: app permission workaround by @Voyager-3rd in https://github.com/pocketnetteam/pocketnet.gui/pull/1592
+* fix: scroll, optimization by @maxgithubprofile in https://github.com/pocketnetteam/pocketnet.gui/pull/1595
+* feat: embed tor by @Gedsh in https://github.com/pocketnetteam/pocketnet.gui/pull/1593
+* fix: sign tor for macos by @Gedsh in https://github.com/pocketnetteam/pocketnet.gui/pull/1596
+* fix: sign by @maxgithubprofile in https://github.com/pocketnetteam/pocketnet.gui/pull/1599
+* fix: remove after sign by @maxgithubprofile in https://github.com/pocketnetteam/pocketnet.gui/pull/1600
+* fix: merging macos universal release by @Gedsh in https://github.com/pocketnetteam/pocketnet.gui/pull/1602
+* fix: remove unsupported electron-build option by @Gedsh in https://github.com/pocketnetteam/pocketnet.gui/pull/1603
+* fix: make universal binaries for macos by @Gedsh in https://github.com/pocketnetteam/pocketnet.gui/pull/1604
+* fix: copy tor after packaging on mac by @Gedsh in https://github.com/pocketnetteam/pocketnet.gui/pull/1605
+* fix: undefined project dir by @Gedsh in https://github.com/pocketnetteam/pocketnet.gui/pull/1606
+* fix: change libevent name for macos aarch64 by @Gedsh in https://github.com/pocketnetteam/pocketnet.gui/pull/1607
+* fix: copy tor depending on the processor on macos by @Gedsh in https://github.com/pocketnetteam/pocketnet.gui/pull/1608
+* fix: static libevent for macos by @Gedsh in https://github.com/pocketnetteam/pocketnet.gui/pull/1609
+* fix: revert tor by @maxgithubprofile in https://github.com/pocketnetteam/pocketnet.gui/pull/1601
+* feat: open bastyon profile by @Voyager-3rd in https://github.com/pocketnetteam/pocketnet.gui/pull/1610
+
+
+**Full Changelog**: https://github.com/pocketnetteam/pocketnet.gui/compare/v0.9.136...v0.9.137
+
+de87953f4c4c28b2867ac1c1488eb470a0f4d11f1e49942f80e561aa8d4ccf55 Bastyon.apk
+5cf40b8fcfa901ac913827d95f7adb2fa407738306c292315d5c12a55b88b83e Bastyon.AppImage
+04894c92343c232e35e8418787e6e4f2fc4f1eb666d09790b7b09cfd5919ed8c BastyonGF.apk
+4566c02245948f89ba405563c3254ac2eaee4464714553a2361614b7091e162d BastyonSetup-win7.exe
+71a14b498ccadbd7f47491f8974f28a03656de24965d1a216b6b73ce2438a73d BastyonSetup.deb
+f888fc3b36f6fb82c7265d3a1d48a46762239d95be20b6e780fa43d1caf7cf65 BastyonSetup.dmg
+ab1f2d94ef720664fdc3b19f6aa6e8d11588a02e677b0fe5bae265310d187bbc BastyonSetup.exe
+2b703f3d8058a61b6155d378ce35fc46abbb6e5d4c5c6b6c1a0a812783926045 BastyonSetup.rpm
+918dcbb0908ed36a0f0395482e22cbe21fae48eca8b4c9725b100170e9658826 latest-linux.yml
+fcbc7544fe2738b4c42499dd8f572b618d1d70ae0f91cf01219e996b04e842cb latest-win7.yml
+97cdd8230bf9f1bdda6ded3e083dba7995c26e295b4f1f333fd10a9cbdb9acd1 latest.yml
+
+   ```
+   ## Attention!
+    We distribute our software only through https://github.com/pocketnetteam
+    Any other resources offering to download executables, "installers" or source code are not related to the Pocketnet Team community
+
+    ## Contacts
+    support@pocketnet.app
+   ```
