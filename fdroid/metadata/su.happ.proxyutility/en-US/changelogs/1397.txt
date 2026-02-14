@@ -1,0 +1,8 @@
+* Xray 26.1.23
+* Histeria2 support
+* Multiple UI updates and improvements
+* Fixed minor issues related to subscription expire notification
+* Fixed an issue of subscription duplicating during import from a deeplink
+* Added an option to copy HWID on a short click
+* Added option to clear and copy log files
+* Improved bug report flow
