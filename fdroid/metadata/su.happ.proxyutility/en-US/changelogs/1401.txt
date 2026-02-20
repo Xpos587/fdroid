@@ -1,0 +1,5 @@
+* Improvements of hysteria protocol support and its general stability
+* Fixed an issue of an empty app list in per-app-proxy OFF mode
+* Minor improvements of wireguard servers manual input
+* Fixed multiple issues related to RTL support for Persian localization
+* Fixed an issue of snackbar overlapping with status bar
