@@ -1,0 +1,11 @@
+### 本次更新
+
+- 修复发现的问题 https://github.com/2dust/v2rayNG/discussions/5157
+* 跟进 xray 配置，  [xray-core  v26.2.6 ](https://github.com/XTLS/Xray-core/releases/tag/v26.2.6)；如果你不需要更新 core ，那么你可以先暂时不要升级此版本
+* 添加默认分组
+
+### 特别注意
+* xray core TLS 将移除了 allowInsecure 配置项，请使用 pinnedPeerCertSha256 代替，且支持分享，日志中会有明显提示
+ 
+### 2.0.0 版本详细更新内容
+https://github.com/2dust/v2rayNG/releases/tag/2.0.0
