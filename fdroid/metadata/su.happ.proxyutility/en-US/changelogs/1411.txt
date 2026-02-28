@@ -1,0 +1,8 @@
+* Feature: new warnings and error messages for during imports, url edits and logging
+* Feature: symbols to form QR code for sharing with TV are chosen more carefully
+* Feature: concurrent ping calls support
+* Feature: support of fallback url usage during errors
+* Fix: routing profile selection
+* Fix: socks server creation in manual input
+* Fix: minor UI issues with button states on TV and swipe buttons on server list
+* Fix: handled some cases of subscriptions' duplicating on import
