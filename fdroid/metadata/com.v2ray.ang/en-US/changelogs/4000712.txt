@@ -1,0 +1,10 @@
+### 本次更新
+
+- 修复发现的问题 https://github.com/2dust/v2rayNG/discussions/5157
+* 优化订阅更新后的提示信息
+
+### 特别注意
+* xray core TLS 将移除了 allowInsecure 配置项，请使用 pinnedPeerCertSha256 代替，且支持分享
+ 
+### 2.0.0 版本详细更新内容
+https://github.com/2dust/v2rayNG/releases/tag/2.0.0
