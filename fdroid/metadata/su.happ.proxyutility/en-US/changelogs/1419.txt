@@ -1,0 +1,4 @@
+* Update to Xray 26.02.06
+* Support for ech config list & ech force query in vless configurations
+* Fixed port parsing for hysteria configurations
+* Fixed issues related to fallback processing
