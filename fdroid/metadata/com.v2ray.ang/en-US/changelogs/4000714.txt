@@ -1,0 +1,9 @@
+### 本次更新
+
+* 修复发现的问题 https://github.com/2dust/v2rayNG/discussions/5157
+* 当路由规则中出现 geoip:cn 和 geoip:private 时，加载 geoip-only-cn-private.dat 以减少内存使用量。
+* 改进默认分组的保留逻辑，当有其他订阅分组时可以删除默认分组
+
+ 
+### 2.0.x 版本详细更新内容
+https://github.com/2dust/v2rayNG/releases/tag/2.0.13
