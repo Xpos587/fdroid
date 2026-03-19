@@ -1,0 +1,12 @@
+* Improved stability of subscriptions' features for unstable connection scenarios
+* Added an option to distinguish server groups based on network type
+* Added new subscription pin meta parameter
+* Added an option to irrevocably switch from mobile UI to TV UI by pressing QR-code button (required for consoles)
+* Added an option to hide/show system apps in per-app-proxy list
+* Multiple fixes related to routing profiles' management and overall routing stability
+* Fixed subscriptions' pinning
+* Fixed invalid highlighting of per-app-proxy selector
+* Fixed log type was not present during server's export
+* Minor internal improvements for fronting stability & logging
+* Minor fixes related to manual server input
+* Minor fixes of TV UI states and improvements of focus navigation on main screen
