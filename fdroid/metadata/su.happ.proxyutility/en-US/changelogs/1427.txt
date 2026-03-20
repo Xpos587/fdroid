@@ -1,0 +1,1 @@
+* fixed case when server that has both 'wifi' and 'mobile' in its name was skipped by the network type filtering
