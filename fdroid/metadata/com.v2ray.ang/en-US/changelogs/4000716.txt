@@ -1,0 +1,8 @@
+### 本次更新
+
+* 修复发现的问题 https://github.com/2dust/v2rayNG/discussions/5157
+* 搜索改成正则模式
+* https://github.com/XTLS/Xray-core/releases/tag/v26.3.23
+ 
+### 2.0.x 版本详细更新内容
+https://github.com/2dust/v2rayNG/releases/tag/2.0.13

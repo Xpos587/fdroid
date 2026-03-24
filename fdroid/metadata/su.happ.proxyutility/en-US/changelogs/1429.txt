@@ -1,0 +1,1 @@
+* fixed case when serves were skipped by the network type filtering
