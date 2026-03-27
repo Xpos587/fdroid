@@ -1,5 +1,5 @@
 {
-  "/etc/issue.net": "Ubuntu 24.04.3 LTS",
+  "/etc/issue.net": "Ubuntu 24.04.4 LTS",
   "antiFeatures": {
     "Tracking": {
       "apps": [
@@ -22,7 +22,7 @@
     "--delete-unknown"
   ],
   "disabled": [],
-  "endTimestamp": 1774493305247,
+  "endTimestamp": 1774579899383,
   "failedBuilds": {},
   "jarsigner": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.18-8/x64/bin/jarsigner",
   "keytool": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.18-8/x64/bin/keytool",
@@ -39,14 +39,14 @@
   ],
   "noUpdateCheck": [],
   "stages": {
-    "delete_disabled_builds": 1774493302300,
-    "index.make repo": 1774493302491,
-    "prepare_apps repo": 1774493302485,
-    "process_apks": 1774493302300,
-    "read_added_date_from_all_apks": 1774493302485,
-    "remove_apks": 1774493302485,
-    "scan_repo_files": 1774493302484
+    "delete_disabled_builds": 1774579896442,
+    "index.make repo": 1774579896629,
+    "prepare_apps repo": 1774579896624,
+    "process_apks": 1774579896443,
+    "read_added_date_from_all_apks": 1774579896623,
+    "remove_apks": 1774579896623,
+    "scan_repo_files": 1774579896623
   },
-  "startTimestamp": 1774493302000,
+  "startTimestamp": 1774579896000,
   "subcommand": "update"
 }
