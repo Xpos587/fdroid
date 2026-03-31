@@ -1,0 +1,9 @@
+* Improved handling and validation of new-domain parameter
+* Updated server description format
+* Support of stories clearance command
+* Added parameter to setup user-agent parameter
+* Improved flow of remote token sending registration
+* Added feature to use dns block from json server
+* Improved support for file logging for json servers
+* Fixed crash when tried to swipe subscription
+* Minor fixes related to manual server input
