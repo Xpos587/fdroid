@@ -1,0 +1,1 @@
+* Fixed case when DNS from json was applied even if it was not enabled
