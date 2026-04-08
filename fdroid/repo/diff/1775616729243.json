@@ -1,0 +1,14 @@
+{
+  "repo": {
+    "timestamp": 1775616820195
+  },
+  "packages": {
+    "su.happ.proxyutility": {
+      "versions": {
+        "5e950cf906d859faa90f8ed6d46635d3f7a26e1b74637492a25cc9062ccdfea3": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}
