@@ -1,0 +1,8 @@
+* New meta parameter to reset excluded routes
+* New meta parameters to update and invert per-app-proxy list
+* Added support for remote handling of subscription info updates
+* Improved DNS from json handling for IP addresses + added warnings in case of errors
+* Added handling of happ://crypt links in 'location' header during HTTP redirects (status code 300+)
+* Fixed cases when unsuccessfull background subscription updates caused servers to dissapear
+* Fixed cases when updated data for manual server updates was ignored
+* Minor UI fixes and improvements
