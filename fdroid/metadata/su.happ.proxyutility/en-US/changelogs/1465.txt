@@ -1,0 +1,6 @@
+* Improved support for huge json servers' configs
+* Fixed case when app theme & language change was causing app's close
+* Fixed touch & copy zones of input fields (applicable for inbound auth)
+* Fixed case when spinner with empty text was showing dropdown menu with zero size
+* Make dialog's title auto-scalable and single lined
+* Make messages icons (stories & notification permission) sizes consistent
